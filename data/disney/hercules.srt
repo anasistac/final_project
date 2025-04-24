@@ -1,0 +1,1277 @@
+{1}{1}23.976
+{446}{531}Long ago, in the far away land|of ancient Greece...
+{535}{600}there was a golden age|of powerful gods...
+{604}{668}and extraordinay heroes.
+{672}{743}And the greatest and strongest|of all these heroes...
+{747}{812}was the mighty Hercules.
+{816}{880}But what is the measure|of a true hero?
+{884}{934}Ah, that is what our stoy is...
+{938}{970}Will you listen to him?
+{974}{1043}He's makin' the story|sound like some Greek tragedy.
+{1047}{1081}Lighten up, dude.
+{1085}{1132}We'll take it from here, darling.
+{1136}{1180}You go, girl.
+{1216}{1265}We are the muses...
+{1269}{1355}goddesses of the arts|and proclaimers of heroes.
+{1359}{1399}Heroes like Hercules.
+{1403}{1448}Honey, you mean "Hunk-ules".
+{1452}{1505}Ooh, I'd like to make|some sweet music with him...
+{1509}{1573}Our story actually begins...
+{1577}{1626}long before Hercules...
+{1629}{1679}many eons ago.
+{1682}{1719}Ah
+{1723}{1792}Back when the world was new
+{1796}{1860}- Whoa!|- The planet Earth was down on its luck
+{1864}{2014}And everywhere gigantic brutes|called Titans ran amok
+{2018}{2086}It was a nasty place
+{2090}{2152}There was a mess|wherever you stepped
+{2156}{2267}Where chaos reigned and earthquakes|and volcanoes never slept
+{2271}{2306}Whoo! Say it, girlfriend!
+{2310}{2344}And then along came Zeus
+{2348}{2415}- He hurled his thunderbolt|- He zapped
+{2419}{2500}- Locked those suckers in a vault|- They're trapped
+{2504}{2593}And on his own|stopped chaos in its tracks
+{2597}{2632}And that's the gospel truth
+{2636}{2742}The guy was too "TypeA"|to just relax
+{2746}{2814}- And that's the world's first dish|- Yeah, baby.
+{2818}{2889}Zeus tamed the globe|while still in his youth
+{2893}{2957}Though, honey|it may seem impossible
+{2960}{3036}That's the gospel truth
+{3040}{3094}On Mount Olympus life was neat
+{3098}{3151}And smooth as sweet vermouth
+{3174}{3249}Although, honey|it may seem impossible
+{3253}{3405}That's the gospel truth
+{3409}{3500}- Ah, ah|- Ah
+{3503}{3600}- Ah, ah|- Oh, yeah, yeah
+{3603}{3697}- Ah, ah|- Hey, hey, hey
+{3701}{3797}- Ah, ah|- Hey, yeah
+{4350}{4399}Hercules!
+{4432}{4476}Behave yourself.
+{4533}{4613}Oh, look at this.
+{4617}{4652}Look how cute he is.
+{4771}{4835}Hah! Oh, he's strong...
+{4839}{4884}like his dad, hmm?
+{4888}{4932}Whoa! Excuse me!|Hot stuff coming through!
+{4936}{4986}Excuse me.|One side, Ares.
+{5008}{5074}Why, Hermes, they're lovely.
+{5078}{5132}Yeah, you know, I had Orpheus|do the arrangement.
+{5136}{5192}Isn't that too nutty?
+{5196}{5263}Fabulous party. You know, I haven't|seen this much love in a room...
+{5267}{5324}since Narcissus discovered himself.
+{5383}{5443}Dear, keep those|away from the baby.
+{5447}{5497}Oh, he won't hurt himself.
+{5501}{5558}Let the kid have a little fun.
+{5778}{5851}On behalf of my son,|I want to thank you all...
+{5855}{5924}for your wonderful gifts!
+{5928}{5967}What about our gift, dear?
+{5971}{6044}Well, let's see here.|We'll take... Hmm, yes.
+{6048}{6156}A little cirrus and, uh, hmm,|a touch of nimbostratus...
+{6160}{6242}and a dash of cumulus.
+{6335}{6413}His name is Pegasus...
+{6417}{6486}and he's all yours, son.
+{6773}{6808}Mind his head.
+{6812}{6855}He's so tiny.
+{6985}{7029}My boy.
+{7032}{7098}My little Hercules.
+{7127}{7160}How sentimental.
+{7196}{7250}You know, I haven't been|this choked up...
+{7254}{7320}since I got a hunk of moussaka|caught in my throat!
+{7324}{7379}Huh?
+{7382}{7427}So is this an audience|or a mosaic?
+{7431}{7487}Hey, how you doin'?|Lookin' good. Nice dress.
+{7491}{7551}So, Hades,|you finally made it.
+{7555}{7596}How are things|in the underworld?
+{7600}{7666}Well, they're just fine. You know,|a little dark, a little gloomy.
+{7669}{7722}And, as always,|hey, full of dead people.
+{7726}{7800}What are you gonna do? Ah!|There's the little sunspot.
+{7804}{7898}Little snootchie. And here is a sucker|for the little sucker.
+{7902}{7942}Eh? Here you go.|You just...
+{8006}{8043}Sheesh!
+{8047}{8098}Uh, powerful little tyke.
+{8102}{8183}Come on, Hades. Don't be such a stiff.|Join the celebration!
+{8187}{8244}Hey. Love to, babe...
+{8248}{8314}but unlike you gods|lounging about up here...
+{8318}{8374}I regrettably|have a full-time gig...
+{8378}{8461}that you, by the way,|so charitably bestowed on me, Zeus.
+{8465}{8544}So, can't.|Love to, but can't.
+{8548}{8636}You ought to slow down.|You'll work yourself to death.
+{8640}{8708}Hah! Work yourself to death!
+{8764}{8800}Oh, I kill myself!
+{8824}{8890}If only. If only.
+{8894}{8997}If there's one god you don't want|to get steamed up, it's Hades.
+{9001}{9062}'Cause he had an evil plan.
+{9066}{9173}He ran the underworld
+{9177}{9267}But thought the dead|were dull and uncouth
+{9271}{9350}He was as mean|as he was ruthless
+{9354}{9447}And that's the gospel truth
+{9451}{9562}He had a plan|to shake things up
+{9566}{9790}And that's the gospel truth
+{9930}{9969}Pain!
+{9973}{10043}Coming,|your most lugubriousness. Ow!
+{10124}{10210}- Panic!|- Oh, I'm sory. I can handle it!
+{10395}{10459}- Pain! Oh!|- And Panic!
+{10463}{10511}Reporting for duty!
+{10515}{10594}Fine, fine, fine. Just let me know|the instant the Fates arrive.
+{10598}{10639}Oh. They're here.
+{10643}{10723}What? The Fates are here,|and you didn't tell me?
+{10753}{10871}We are worms!|Worthless worms!
+{10875}{10959}Memo to me, memo to me:|maim you after my meeting.
+{11037}{11160}Darling, hold that mortal's|thread of life...
+{11164}{11220}good and tight.
+{11330}{11367}Incoming!
+{11584}{11640}Ladies.|I am so sorry that I'm...
+{11644}{11692}- Late!|- We knew you would be.
+{11696}{11746}We know eveything.
+{11750}{11800}- Past.|- Present.
+{11804}{11849}And future.
+{11853}{11922}Indoor plumbing.|It's gonna be big.
+{11926}{11986}Great, gr... Anyway, see, ladies, I|was at this party and I lost track of...
+{11990}{12081}- We know!|- Yeah. I know you know.
+{12085}{12157}So here's the deal. Zeus...
+{12161}{12254}Mr High and Mighty, Mr "Hey, You,|Get Off Of My Cloud",... now he has...
+{12258}{12334}- A bouncing baby brat.|- We know!
+{12338}{12403}I know you know!|I know. I got it.
+{12407}{12463}I got the concept.|So let me just ask:
+{12467}{12540}is this kid gonna mess up|my hostile takeover bid, or what?
+{12544}{12603}- What do you think?|- Oh, no you don't.
+{12607}{12686}We're not supposed|to reveal the future.
+{12709}{12751}Oh, wait. I'm sorry.|Time out. Can I...
+{12755}{12796}Can I ask you a question by the way?|Are you...
+{12800}{12855}Did you cut your hair or something?|You look fabulous.
+{12859}{12915}I mean, you look like a Fate|worse than death.
+{12962}{13005}Oh, gross!
+{13009}{13058}Yech! It's blinkin'!
+{13108}{13197}Ladies, please.|My fate...
+{13201}{13251}is in your lovely hands.
+{13255}{13319}- Oh.|- Oh, all right.
+{13387}{13494}In 18 years precisely...
+{13498}{13557}the planets will align...
+{13561}{13636}ever so nicely.
+{13639}{13666}Ay, verse. Oy.
+{13670}{13731}The time to act|will be at hand.
+{13735}{13836}Unleash the Titans,|your monstrous band.
+{13839}{13872}Mm-hmm. Good, good.
+{13876}{14002}Then the once-proud Zeus|will finally fall...
+{14006}{14077}and you, Hades...
+{14081}{14153}will rule all!
+{14157}{14218}Yes! Hades rules!
+{14222}{14322}- A word of caution to this tale.|- Excuse me?
+{14326}{14437}Should Hercules fight,|you will fail.
+{14553}{14605}What?
+{14609}{14674}Okay, fine, fine.|I'm cool. I'm fine.
+{14715}{14800}Pain? Panic?|Got a little riddle for ya.
+{14804}{14879}How do you kill a god?
+{14883}{14921}I do not know!
+{14925}{14964}You can't. They're immortal?
+{14968}{15008}Bingo! They're immortal!
+{15012}{15123}So, first you got to turn|the little sunspot...
+{15127}{15171}mortal.
+{15860}{15920}- Huh?|- Wha... What is it?
+{15924}{15967}The baby!
+{16101}{16198}Hercules! Oh!
+{16256}{16391}No!
+{16395}{16429}Now we did it!
+{16433}{16483}Zeus is gonna use us|for target practice!
+{16487}{16538}Just hang on to the kid, Panic!
+{16633}{16707}Hurry! Let's just kill the kid|and get it over with, okay?
+{16711}{16786}Here you go, kid.|A little Grecian formula.
+{16825}{16917}Look at that! He's changing.|Can we do it now?
+{16921}{16996}No, no, no. He has to drink|the whole potion.
+{17000}{17074}- Evey last drop!|- Who's there?
+{17209}{17262}Alcmene, over here.
+{17289}{17360}Oh, you poor thing.
+{17364}{17409}- Oh, don't cy.|- Is anybody there?
+{17413}{17466}- Now?|- Now.
+{17497}{17573}Oh. Well, he must|have been abandoned.
+{17577}{17637}Amphityon, for so many years...
+{17641}{17719}we've prayed to the gods|to bless us with a child.
+{17723}{17777}Perhaps they've answered|our prayers.
+{17781}{17817}Perhaps they have.
+{17821}{17866}"Hercules"?
+{18337}{18388}Help, help, help!
+{18392}{18446}Hades is gonna kill us|when he finds out what happened.
+{18450}{18512}You mean, if he finds out.
+{18516}{18573}Of course he's gonna f...
+{18577}{18646}If. If is good.
+{18672}{18784}It was tragic. Zeus led all the gods|on a frantic search.
+{18788}{18881}But by the time they found the baby,|it was too late.
+{18885}{18996}- Young Herc was mortal now|- Mmm
+{19000}{19085}But since he did not drink|the last drop
+{19089}{19163}He still retained|his godlike strength
+{19167}{19276}- So thank his lucky stars|- Tell it, girl.
+{19280}{19396}- But Zeus and Hera wept|- Ooh, ooh, ooh
+{19400}{19487}Because their son|could never come home
+{19491}{19553}They'd have to watch|their precious baby
+{19557}{19652}Grow up from a far
+{19656}{19774}Though Hades' horrid plan
+{19778}{19855}Was hatched before Herc|cut his first tooth
+{19859}{19959}- Ahh|- The boy grew stronger everyday
+{19963}{20062}And that's the gospel truth
+{20066}{20254}The gospel truth
+{20484}{20535}Hercules, slow down!
+{20627}{20679}Look out!
+{20683}{20723}Oops! S-S-sorry, guys!
+{20727}{20779}- Hey, watch where you're goin'!|- Sunday driver!
+{20887}{20927}Thanks, son.
+{20931}{21018}When old Penelope twisted her ankle|back there, I thought we were done for.
+{21022}{21099}- No problem, Pop.|- Uh, don't-don't-don't unload just yet.
+{21103}{21148}First, I have to finagle|with Phideas.
+{21152}{21184}Okay.
+{21213}{21261}Oops. sorry, Penelope.
+{21265}{21343}Now, Hercules, this time,|please just...
+{21347}{21398}I know, I know.
+{21402}{21459}Stay by the cart.
+{21463}{21507}That's my boy.
+{21607}{21643}Oh, my goodness. Whoa!
+{21647}{21687}Careful!
+{21715}{21772}- Why, thank you.|- No problem.
+{21776}{21855}Why, Hercules! I-I-It's you!
+{21859}{21946}- Let me, let me help you with that.|- No, no, no, no, no. I got it!
+{21950}{21997}I'm fine.|You just run along.
+{22001}{22041}- Are you sure?|- Oh, yes.
+{22045}{22090}Absolutely.
+{22180}{22235}Yo! Give it here!
+{22239}{22284}Hey, you need an extra guy?
+{22314}{22366}Uh, sorry, Herc.
+{22370}{22431}Uh, we already got five...
+{22435}{22477}and we want to keep it|an even number.
+{22481}{22537}- Hey, wait a second. Five isn't an ev...|- See ya, Herc.
+{22541}{22605}- What a geek!|- Destructo Boy.
+{22608}{22670}- Maybe we should call him "Jerkules".|- Yeah!
+{22835}{22872}Heads up!
+{22876}{22922}- I-I got it!|- No! Stop!
+{23001}{23074}Uh-oh. Oh, no.
+{23105}{23142}It's okay.
+{23311}{23358}Hey! Whoa!
+{23499}{23569}- Son!|- Hang on, Pop! Be right back!
+{23573}{23641}Oh, my! Oh, no! Don't!|Oh, no, no, no, no!
+{23645}{23704}No, no, no, no, no, no!
+{23836}{23876}Watch out!
+{24244}{24324}Nice catch, Jerkules.
+{24328}{24394}Son.
+{24398}{24517}This is the last straw,|Amphityon!
+{24521}{24557}That boy is a menace!
+{24561}{24630}He's too dangerous|to be around normal people!
+{24668}{24722}He didn't mean any harm.|He's just a kid.
+{24726}{24821}He-He just can't control|his strength.
+{24825}{24928}I'm warning you.|You keep that-that-that...
+{24932}{24970}freak away from here!
+{24974}{25027}Freak! Yeah, go away!
+{25348}{25449}Son, you shouldn't let those things|they said back there get to ya.
+{25453}{25515}But, Pop, they're right.|I-I am a freak.
+{25519}{25596}I-I try to fit in.|I really do.
+{25600}{25638}I just can't.
+{25672}{25754}Sometimes I feel like...
+{25758}{25823}like I really|don't belong here...
+{25827}{25942}like I'm supposed to be|someplace else.
+{25946}{25995}Hercules, son...
+{25999}{26043}I know it doesn't make any sense.
+{26304}{26369}I have often dreamed
+{26372}{26425}Of a far-offplace
+{26429}{26561}Where a great, warm welcome|will be waiting for me
+{26565}{26617}Where the crowds will cheer
+{26621}{26685}When they see my face
+{26688}{26822}And a voice keeps sayin'|this is where I'm meant to be
+{26849}{26913}I will find my way
+{26917}{26965}I can go the distance
+{26969}{27040}I'll be there someday
+{27044}{27098}If I can be strong
+{27102}{27160}I know every mile
+{27164}{27229}Will be worth my while
+{27261}{27424}I would go most anywhere|to feel like I
+{27427}{27527}Belong
+{27608}{27680}Hercules, there's something|your mother and I...
+{27684}{27773}have been meaning to, to tell ya.
+{27777}{27873}But if you found me,|then where did I come from?
+{27877}{27935}Why was I left here?
+{27939}{28048}This was around your neck|when we found you.
+{28104}{28150}It's the symbol of the gods.
+{28154}{28239}This is it! Don't you see?|Maybe they have the answers.
+{28243}{28294}I'll go to the temple of Zeus and...
+{28358}{28438}Ma, Pop...
+{28442}{28550}you're the greatest parents|anyone could have, but...
+{28554}{28598}I-I gotta know.
+{29046}{29111}I am on my way
+{29115}{29163}I can go the distance
+{29167}{29229}I don't care how far
+{29233}{29287}Somehow, I'll be strong
+{29291}{29345}I know every mile
+{29349}{29434}Will be worth my while
+{29438}{29508}I would go most anywhere
+{29512}{29652}To find where I belong
+{30111}{30160}Oh, mighty Zeus...
+{30164}{30265}please, hear me|and, and answer my prayer.
+{30269}{30343}I need to know:|Who am I?
+{30347}{30406}Wh-Where do I belong?
+{30552}{30597}Huh?
+{30724}{30831}My boy.|My little Hercules.
+{30900}{30953}Hey, hey, hey.|Hold on, kiddo!
+{30956}{31010}What's your hurry?|After all these years...
+{31014}{31097}is this the kind of hello|you give your father?
+{31100}{31139}F-F-Father?
+{31143}{31214}Didn't know you had|a famous father, did you?
+{31218}{31262}Surprise!
+{31290}{31338}Look how you've grown.
+{31342}{31406}Why, you've got your mother's|beautiful eyes...
+{31409}{31460}and my strong chin.
+{31464}{31532}- Hah!|- I-I don't understand.
+{31536}{31629}If you're my father,|that would make me a...
+{31633}{31666}A god.
+{31670}{31730}A god. A god!
+{31734}{31793}Hey, you wanted answers,|and by thunder...
+{31797}{31859}you're old enough now|to know the truth.
+{31863}{31949}But why did you leave me on Earth?|Didn't you want me?
+{31952}{32063}Of course we did. Your mother and I|loved you with all our hearts.
+{32067}{32152}But someone stole you from us|and turned you mortal...
+{32156}{32234}and only gods|can live on Mount Olympus.
+{32238}{32273}And you can't do a thing?
+{32277}{32324}I can't, Hercules,|but you can.
+{32327}{32400}R-Really? W-What?|I'll do anything.
+{32404}{32481}Hercules, if you can prove yourself|a true hero on Earth...
+{32485}{32532}your godhood|will be restored.
+{32536}{32604}A true hero. Great!
+{32608}{32690}Uh, exactly how do you become|a true hero?
+{32694}{32799}First, you must seek out Philoctetes,|the trainer of heroes.
+{32803}{32870}Seek out Philoctetes.|Right. I'll...
+{32874}{32924}- Whoa!|- Whoa! Hold your horses!
+{32928}{32972}Which reminds me.
+{33119}{33196}Ha-ha! You probably|don't remember Pegasus...
+{33200}{33262}but you two go way back, son.
+{33450}{33497}Oh, Pegasus!
+{33501}{33547}He's a magnificent horse...
+{33551}{33609}with the brain of a bird.
+{33672}{33742}I'll find Philoctetes,|become a true hero!
+{33746}{33776}That's the spirit!
+{33780}{33883}I won't let you down, Father!|Yee-hah!
+{33887}{33936}Good luck, son.
+{34006}{34063}I will beat the odds
+{34067}{34111}I can go the distance
+{34115}{34169}I will face the world
+{34173}{34220}Fearless, proud and strong
+{34224}{34278}I will please the gods
+{34282}{34326}I can go the distance
+{34330}{34389}Till I find my hero's welcome
+{34393}{34468}Right where I
+{34472}{34775}Belong
+{35313}{35352}Whoa!
+{35404}{35460}- You sure|this is the right place?
+{35730}{35774}- What's the matter, little guy?|You stuck?
+{35778}{35878}- Whoa! Hey, butt out, buddy!|- Ugh!
+{35882}{35942}Girls! Stop! Stop!|Come back! Come back, come back!
+{35946}{36017}Whoa, whoa! Oh, jeez!
+{36021}{36108}Wait! Whoa, whoa, whoa!|Oh, nymphs!
+{36112}{36176}- They can't keep their hands off me.|- Hey!
+{36277}{36326}What's the matter?|You never seen a satyr before?
+{36330}{36394}Uh, no.|Can you help us?
+{36397}{36510}We're looking for someone|called Philoctetes.
+{36514}{36558}- Call me Phil.|- Phil!
+{36562}{36618}- Ow!|- Boy, am I glad to meet you!
+{36622}{36697}I'm Hercules,|and this is Pegasus.
+{36740}{36804}Animals. Disgusting.
+{36807}{36884}I need your help.|I want to become a hero, a true hero.
+{36930}{36980}sorry, kid.|Can't help ya.
+{36984}{37025}- Wait.|- Whoo!
+{37029}{37075}Uh, sorry. Why not?
+{37079}{37162}Two words: I am retired.
+{37192}{37233}Look, I gotta do this.
+{37237}{37281}Haven't you ever had a dream...
+{37285}{37347}something you wanted so bad|you'd do anything?
+{37413}{37490}Kid, come inside.|I want to show you somethin'.
+{37694}{37765}Watch it! That was part|of the mast of the Argo.
+{37769}{37808}- The Argo?|- Yeah.
+{37812}{37896}Who do you think taught Jason|how to sail? Cleopatra?
+{37900}{37958}I trained|all those would-be heroes.
+{37962}{38076}Odysseus, Perseus, Theseus.|A lot of "yeuseus".
+{38080}{38140}And every single one|of those bums let me down...
+{38144}{38186}flatter than a discus.
+{38190}{38260}None of'em|could go the distance.
+{38264}{38331}And then there was Achilles.
+{38335}{38379}Now there was a guy|who had it all...
+{38383}{38427}the build, the foot speed.
+{38431}{38477}He could jab.|He could take a hit.
+{38481}{38538}He could keep on comin'.
+{38542}{38603}But that furshlugginer|heel of his!
+{38607}{38722}He barely gets nicked there once|and kaboom! He's history.
+{38776}{38815}Yeah, I had a dream once.
+{38819}{38900}I dreamed I was gonna train|the greatest hero there ever was.
+{38904}{39003}So great, the gods would hang|a picture of him in the stars...
+{39007}{39043}all across the sky...
+{39047}{39134}and people would say,|"That's Phil's boy".
+{39138}{39184}That's right.
+{39188}{39233}Eh, but dreams are for rookies.
+{39237}{39282}A guy can only take|so much disappointment.
+{39286}{39335}But I'm different|than those other guys, Phil.
+{39339}{39437}I can go the distance.|Come on. I'll show ya.
+{39441}{39488}Jeez. You don't give up, do ya?
+{39492}{39546}Watch this.
+{39628}{39674}Holy Hera.
+{39678}{39758}You know, maybe if I...|No! Snap out of it!
+{39762}{39811}I'm too old to get mixed up|in this stuff again.
+{39815}{39855}But if I don't become|a true hero...
+{39859}{39931}I'll never be able|to rejoin my father Zeus.
+{39935}{40007}Hold it.|Zeus is your father, right?
+{40011}{40055}Uh-huh.
+{40059}{40142}Zeus, the big guy.|He's your daddy.
+{40146}{40240}Mr. Lightning Bolts!|Read me a book, would ya, Da-Da?
+{40244}{40312}Zeus!|"Once upon a time..."
+{40316}{40378}- It's the truth!|- Please!
+{40440}{40491}So you wanna be a hero, kid
+{40495}{40566}Well, whoop-de-do
+{40570}{40618}I have been|around the block before
+{40622}{40677}With blockheads just like you
+{40681}{40734}Each and everyone|a disappointment
+{40738}{40821}Pain for which|there ain't no ointment
+{40825}{40908}So much for excuses|Though a kid of Zeus is
+{40912}{40991}Askin 'me to jump|into the fray
+{40995}{41060}My answer is two words
+{41135}{41167}Okay.
+{41171}{41203}You mean you'll do it?
+{41207}{41254}- You win.|- You won't be sorry, Phil.
+{41258}{41312}- Oh, gods.|- So when do we start? Can we start now?
+{41316}{41360}Oy, vay.
+{41388}{41456}I'd given up hope|that someone would come
+{41460}{41499}Along
+{41503}{41558}A fella who'd ring the bell|for once
+{41562}{41613}Not the gong
+{41617}{41671}The kind who wins trophies
+{41675}{41730}Won't settle for low fees
+{41734}{41776}At least semipro fees
+{41780}{41849}But, no|I get the greenhorn
+{41853}{41956}I've been out to pasture, pal|My ambition gone
+{41960}{42072}Content to spend lazy days|and to graze my lawn
+{42076}{42132}But you need an advisor
+{42136}{42190}A satyr, but wiser
+{42194}{42281}A good merchandiser|and... whoa
+{42285}{42376}There goes my ulcer|I'm down to one last hope, and I hope
+{42380}{42423}It's you
+{42427}{42538}Though, kid, you're not|exactly a dream come true
+{42542}{42593}It rained enough turkeys
+{42597}{42652}- Who nevercame through|- Whoa!
+{42656}{42718}You're my one last hope|so you'll have to do
+{42748}{42837}Rule number six:|when rescuing a damsel...
+{42841}{42888}always handle with care.
+{42934}{42978}No!
+{43010}{43076}Rule number 95, kid: concentrate!
+{43129}{43183}Rule number 96:
+{43187}{43236}aim!
+{43240}{43291}Demigods have faced the odds
+{43295}{43348}And ended up a mockey
+{43352}{43389}Don't believe the stories
+{43393}{43473}That you read|on all the crockey
+{43477}{43581}To be a true hero, kid|is a dyin' art
+{43585}{43646}Like paintin' a masterpiece
+{43650}{43697}It's a work of heart
+{43701}{43753}It takes more than sinew
+{43757}{43814}Comes down to what's in you
+{43818}{43905}You have to continue to grow
+{43909}{43958}Now that's more like it!
+{43962}{44020}I'm down to one lastshot
+{44024}{44112}And my last high note
+{44116}{44240}Before that blasted underworld|gets my goat
+{44244}{44286}My dreams are on you, kid
+{44290}{44340}Go make 'em come true
+{44344}{44386}Climb that uphill slope
+{44390}{44448}Keep pushin 'that envelope
+{44452}{44492}You're my one last hope
+{44496}{44574}And, kid, it's up to
+{44578}{44670}You
+{44674}{44711}Yeah!
+{44772}{44817}Did you see that?
+{44821}{44900}Next stop, Olympus.
+{44904}{44949}All right.|Just take it easy, champ.
+{44953}{45001}I am ready.|I want to get off this island.
+{45005}{45064}I want to see battles|and monsters.
+{45068}{45112}Rescue some damsels.
+{45116}{45166}You know, heroic stuff.
+{45170}{45249}- Well.|- Aw, come on, Phil!
+{45253}{45333}Well, okay, okay.|You want a road test? Saddle up, kid.
+{45337}{45420}- We're goin' to Thebes!|- Ya-hoo!
+{45424}{45486}- So what's in Thebes?|- A lot of problems.
+{45490}{45562}It's a big, tough town.|Good place to start buildin' a rep.
+{45626}{45663}Sounds like your basic DID...
+{45667}{45734}- Hyah!|- Damsel in distress!
+{45894}{45952}Not so fast, sweetheart.
+{45956}{46012}I swear, Nessus.|Put me down or I'll...
+{46016}{46105}Whoo!|I like 'em fiey!
+{46109}{46179}Now remember, kid.|First, analyse the situation.
+{46183}{46275}Don't just barrel in there|without thinking. Eh?
+{46304}{46342}He's losin' points for this!
+{46346}{46402}- You don't know what you're...|- Halt!
+{46465}{46530}Step aside, two legs.
+{46534}{46620}Pardon me, my good, uh, uh, sir.
+{46624}{46668}I'll have to ask you to release|that young...
+{46672}{46738}- Keep movin', junior.|- Lady.
+{46742}{46827}But you... Are-Aren't you|a damsel in distress?
+{46831}{46904}I'm a damsel.|I'm in distress.
+{46908}{46978}I can handle this.|Have a nice day.
+{46982}{47026}Uh...
+{47030}{47102}Ma'am, I'm afraid you may be too close|to the situation to realize...
+{47144}{47227}Ohhh! What are you doin'?|Get your sword!
+{47231}{47342}Sword. Right, right. Rule number 15:|a hero is only as good as his weapon!
+{47530}{47605}Whoa, whoa, whoa! Hold it! Hold on!|He's gotta do it on his own.
+{47609}{47681}Come on, kid!|Concentrate!
+{47685}{47722}Use your head!
+{47754}{47790}Oh.
+{47904}{47974}All right!|Not bad, kid!
+{47978}{48038}Not exactly what I had in mind,|but not bad.
+{48104}{48171}Oh, gee, miss.|I'm, I'm really sorry.
+{48175}{48226}- Oh.|- That was dumb.
+{48230}{48262}Yeah.
+{48290}{48324}Excuse me.
+{48458}{48533}Nice work! Excelente.
+{48537}{48586}Is Wonderboy here for real?
+{48590}{48684}What are you talkin' about?|Of course he's real. Whoa!
+{48712}{48822}And by the way, sweet cheeks.|I'm real too.
+{48826}{48862}Ugh!
+{48866}{48940}Yee-hah! Ya-hoo!
+{49088}{49131}Whoa!
+{49762}{49808}- How was that, Phil?|- Reign it in, rookie.
+{49812}{49880}You can get away with mistakes|like those in the minor decathlons...
+{49884}{49946}but this is the big leagues!
+{49950}{49991}At least I beat him, didn't I?
+{49995}{50078}Next time, don't let your guard down|because of a pair of big goo-goo eyes!
+{50082}{50146}D-oh! It's like I keep tellin' ya.
+{50149}{50216}You gotta stay focused,|and you...
+{50441}{50517}Are you, uh, all right,|Miss, uh...
+{50521}{50567}Megara.|My friends call me Meg.
+{50571}{50615}At least they would|if I had any friends.
+{50619}{50726}So did they give you a name|along with all those rippling pectorals?
+{50730}{50823}Uh, uh, uh, I'm, um, uh...
+{50827}{50885}- Uh, uh...|- Are you always this articulate?
+{50889}{50959}Hercules. My...|My name is Hercules.
+{50988}{51064}Herc... Huh.|I think I prefer Wonderboy.
+{51068}{51167}So, uh, uh... How-how-how'd you|get mixed up with the, uh...
+{51171}{51229}Pinhead with hooves?|Well, you know how men are.
+{51233}{51326}They think "No" means "Yes" and|"Get lost" means "Take me. I'm yours".
+{51387}{51468}Don't wory. Shorty here|can explain it to ya later.
+{51472}{51524}Well, thanks for everything, Herc.
+{51528}{51595}It's been a real slice.
+{51599}{51673}Wait! Um, can we give you a ride?
+{51751}{51837}Uh, I don't think your pinto|likes me very much.
+{51841}{51905}Pegasus? Oh, no.|Don't be silly.
+{51909}{51974}He'd be more than happy to... Ow!
+{52017}{52082}I'll be all right.|I'm a big tough girl.
+{52086}{52137}I tie my own sandals|and everything.
+{52192}{52226}Bye-bye, Wonderboy.
+{52255}{52314}Bye.
+{52318}{52393}She's somethin'.|Isn't she, Phil?
+{52397}{52462}Yeah, ye... Oh, yeah.|She's really somethin'.
+{52466}{52539}A real pain in the patella!|Earth to Herc!
+{52543}{52577}Come in, Herc!|Come in, Herc!
+{52580}{52642}We got a job to do, remember?
+{52646}{52687}Thebes is still waitin'.
+{52691}{52748}Yeah. Yeah. I know.
+{53023}{53066}Aw, how cute.
+{53070}{53136}A couple of rodents|lookin' for a theme park.
+{53140}{53181}Who you callin' a rodent, sister?
+{53184}{53255}- I'm a bunny!|- A-And I'm his gopher!
+{53259}{53305}Ta-dah!
+{53309}{53363}I thought I smelled a rat.
+{53367}{53437}- Meg.|- Speak of the devil.
+{53441}{53538}Meg, my little flower, my little bird,|my little nut. Meg.
+{53542}{53586}What exactly happened here?
+{53590}{53654}I thought you were gonna persuade|the river guardian to join my team...
+{53658}{53744}for the uprising, and here I am,|kind of river guardian-less.
+{53748}{53844}I gave it my best shot, but|he made me an offer I had to refuse.
+{53848}{53903}Fine. So instead of subtracting|two years from your sentence...
+{53907}{53954}hey, I'm gonna add two on, okay?
+{53958}{54008}- Give that your best shot.|- Look. It wasn't my fault.
+{54012}{54076}It was this wonderboy, Hercules.
+{54080}{54162}Hercules.|Why does that name ring a bell?
+{54166}{54234}I don't know.|Um, maybe we owe him money?
+{54238}{54347}- What was that name again?|- Hercules.
+{54351}{54396}He comes on with this big,|innocent farm boy routine...
+{54400}{54445}but I could see through that|in a Peloponnesian minute.
+{54449}{54542}Wait a minute. Wasn't Hercules the name|of that kid we were supposed to...
+{54546}{54625}Oh, my gods!|Run for it!
+{54629}{54709}So you took care of him, huh?
+{54713}{54759}Dead as a doornail.
+{54763}{54831}Weren't those your exact words?
+{54834}{54876}This might be|a different Hercules.
+{54880}{54968}Yeah! I mean, Hercules|is a very popular name nowadays!
+{54972}{55052}Remember, like, a few years ago,|every other boy was named Jason...
+{55055}{55092}and the girls|were all named Brittany?
+{55096}{55206}I'm about to rearrange|the cosmos...
+{55209}{55289}and the one schlemiel|who can louse it up...
+{55293}{55372}is waltzing around in the woods!
+{55478}{55519}Wait. Wait, big guy.
+{55523}{55591}- We can still cut in on his waltzing.|- That's right.
+{55595}{55660}And-And at least we made him mortal.|That's a good thing.
+{55663}{55696}Didn't we?
+{55700}{55778}Hmm. Fortunately|for the three of you...
+{55782}{55874}we still have time to correct|this rather egregious oversight.
+{55878}{55965}And this time, no foul-ups.
+{56033}{56097}Wow!
+{56101}{56185}- Is that all one town?|- One town, a million troubles.
+{56188}{56230}The one and only Thebes.
+{56234}{56288}The Big Olive itself.
+{56292}{56360}If you can make it there,|you can make it anywhere.
+{56538}{56608}Stick with me, kid.|The city is a dangerous place.
+{56651}{56741}- Look where you're goin', numbskull!|- Hey, I'm walkin' here!
+{56745}{56800}See what I mean?|I'm tellin' you. Wackos.
+{56804}{56883}Pita bread. Pita bread.|Get your pita bread here.
+{56887}{56952}- Hey, Mack.|- Whoa, whoa, whoa!
+{56955}{57002}You wanna buy a sundial?
+{57005}{57054}He's not interested, all right?|Come on, kid.
+{57058}{57133}The end is coming!|Can't you feel it?
+{57137}{57202}Yes, yes.|Thank you for the info. Yes.
+{57205}{57262}We'll ponder that for awhile.|Just stare at the sidewalk.
+{57266}{57298}Come on.|Don't make eye contact.
+{57301}{57385}People here are nuts. That's because|they live in a city of turmoil.
+{57388}{57456}Trust me, kid. You're gonna be|just what the doctor ordered.
+{57496}{57602}It was tragic!|We lost everything in the fire.
+{57605}{57706}everything|except old Snowball here.
+{57709}{57774}Now were the fires|before or after the earthquake?
+{57776}{57821}They were after the earthquake.|I remember.
+{57825}{57860}But before the flood.
+{57863}{57940}Don't even get me started|on the crime rate.
+{57944}{58032}Thebes has certainly|gone downhill in a hurry.
+{58036}{58075}Tell me about it.
+{58079}{58126}It seems like every time|I turn around...
+{58130}{58179}there's some new monster|wreakin' havoc and I...
+{58183}{58258}All we need now|is a plague of locusts.
+{58319}{58387}That's it!|I'm movin' to Sparta!
+{58391}{58449}Excuse me.
+{58453}{58493}It, uh...
+{58497}{58584}seems to me that|what you folks need is a hero.
+{58617}{58662}Yeah, and who are you?
+{58713}{58765}I'm Hercules, and, uh...
+{58769}{58823}I happen to be a hero.
+{58857}{58904}- Is that so?|- A hero!
+{58908}{58962}Have you ever saved|a town before?
+{58966}{59020}Uh, no. Uh, not exactly, but I...
+{59024}{59082}Have you ever reversed|a natural disaster?
+{59086}{59140}Well, uh, no.
+{59144}{59236}Oh, listen to thi... He's just another|chariot chaser. This we need.
+{59240}{59272}That's a laugh.
+{59276}{59334}- Don't you pea brains get it?|- Hmm?
+{59338}{59385}This kid is the genuine article.
+{59388}{59490}Hey, isn't that the goat-man|who trained Achilles?
+{59494}{59531}Watch it, pal.
+{59534}{59642}Yeah, you're right.|Hey, uh, nice job on those heels!
+{59646}{59706}Ya missed a spot!
+{59709}{59760}You... I got your heel|right here!
+{59763}{59817}I'll wipe that stupid grin|off your face! You...
+{59821}{59890}Hey, Phil! Phil! Phil!
+{59894}{59960}What are you, crazy? Sheesh.
+{59963}{60050}Young man, we need|a professional hero...
+{60054}{60112}not an amateur.
+{60132}{60181}Well, wait. Stop!
+{60301}{60352}How am I supposed|to prove myself a hero...
+{60355}{60396}if nobody|will give me a chance?
+{60400}{60432}You'll get your chance.
+{60436}{60527}You just need some kind|of catastrophe or disaster.
+{60530}{60617}Please. Help! Please!|There's been a terrible accident!
+{60621}{60677}- Meg?|- Speakin' of disasters.
+{60680}{60742}Wonderboy! Hercules!
+{60746}{60789}- Thank goodness.|- Wha-Wha-What's wrong?
+{60793}{60825}Oh! Outside of town.
+{60829}{60882}Two little boys.|Th-They were playing in the gorge.
+{60886}{60947}Th-There was this rock slide,|a terrible rock slide.
+{60951}{61016}- They're trapped!|- Kids? Trapped?
+{61020}{61057}Phil, this is great!
+{61061}{61105}You're really choked up|about this, aren't ya?
+{61109}{61160}- Come on!|- No, I... You don't under...
+{61163}{61238}I, I have this terrible fear|of heights!
+{61363}{61428}I'm right behind ya, kid! Whoo!
+{61430}{61496}I'm way behind ya, kid.
+{61500}{61534}I got a fur wedgie.
+{61700}{61742}- Are you okay?|- I'll be fine.
+{61746}{61796}Just get me down|before I ruin the upholstey.
+{61800}{61845}Help! I can't breathe!
+{61849}{61895}- Hurry!|- Get us out!
+{61899}{61957}We're suffocating!
+{61961}{62036}Somebody call IX-I-I!
+{62040}{62079}Easy, fellas.|You'll be all right.
+{62083}{62121}We can't last much longer!
+{62125}{62185}Get us out before we get crushed!
+{62644}{62692}- How you boys doin'?|- We're okay now.
+{62696}{62783}Jeepers, mister.|You're really strong.
+{62787}{62871}Well, just ty to be a little|more careful next time, okay, kids?
+{62875}{62944}We sure will.
+{63054}{63089}Stirring performance, boys.
+{63093}{63139}I was really moved.
+{63167}{63224}"Jeepers, mister"?
+{63228}{63303}I was going for innocence.
+{63307}{63401}And, hey, two thumbs way,|way up for our leading lady.
+{63405}{63454}What a dish.|What a doll.
+{63458}{63513}Get outta there, ya big lug,|while ya still can.
+{63530}{63580}Phil, I-I did great.
+{63584}{63628}They even applauded. Sort of.
+{63666}{63721}Huh! I hate|to burst your bubble, kid...
+{63725}{63770}but that ain't applause.
+{63932}{64016}Ph-Ph-Ph-Phil?|What do you call that thing?
+{64020}{64079}Two words:
+{64083}{64120}am-scray!
+{64193}{64278}Let's get ready to rumble!
+{64451}{64504}That's it. Dance around!|Dance around!
+{64508}{64588}Watch the teeth! Watch the teeth!|Keep going. Come on. Come on.
+{64592}{64662}Lead with your left.|Lead with your left. Your other left!
+{65298}{65351}Whoa!
+{65966}{66042}All right! All right!|You're bad! Okay!
+{66046}{66147}See, Phil?|That... That wasn't so hard.
+{66151}{66228}Kid, kid, kid.|How many horns do you see?
+{66232}{66280}- Six?|- Eh, close enough.
+{66284}{66329}Let's get you cleaned up.
+{66432}{66546}Guys, guys, relax.|It's only halftime.
+{66623}{66666}That doesn't sound good.
+{66854}{66890}Definitely not good!
+{67586}{67658}Will you forget|the head-slicing thing?
+{67842}{67910}Phil, I don't think we covered this one|in basic training!
+{68193}{68262}My favourite part of the game:
+{68330}{68370}sudden death.
+{68880}{68972}Oh. There goes another one.
+{68976}{69028}Just like Achilles.
+{69080}{69124}Game...
+{69128}{69215}set, match.
+{69288}{69338}Hmm?
+{69770}{69838}Phil, you gotta admit.
+{69842}{69896}That was pretty heroic.
+{69900}{70003}Ya did it, kid! Ya did it!|Ya won by a landslide!
+{70081}{70126}Hades mad.
+{70188}{70246}Well, what do you know?
+{70358}{70442}From that day forward,|our boy Hercules could do no wrong.
+{70446}{70531}He was so hot,|steam looked cool.
+{70535}{70611}Oh, yeah
+{70615}{70676}Bless my soul|Herc was on a roll
+{70680}{70749}Person of the week|in every Greek opinion poll
+{70753}{70817}- What a pro|- Herc could stop a show
+{70821}{70889}Point him at a monster|and you're talkin 'SRO
+{70893}{70957}- He was a no one|- A zero, zero
+{70961}{71031}- Now he's a honcho|- He's a hero
+{71035}{71099}Here was a kid|with his act down pat
+{71102}{71169}Zero to hero in no time flat
+{71173}{71237}- Zero to hero|-Just like that
+{71240}{71308}When he smiled|the girls went wild
+{71312}{71371}With oohs and aahs
+{71375}{71442}And they slapped his face|on every vase
+{71446}{71513}On every "vahse"
+{71517}{71578}From appearance fees|and royalties
+{71582}{71643}Our Herc had cash to burn
+{71647}{71712}Now nouveau riche and famous
+{71716}{71799}He could tell you|what's a Grecian urn
+{71803}{71868}Say amen|There he goes again
+{71872}{71936}- Sweet and undefeated|- And an awesome ten for ten
+{71939}{71998}Folks lined up|just to watch him flex
+{72002}{72079}And this perfect package|packed a pair of pretty pecs
+{72083}{72149}Hercie, he comes|He sees, he conquers
+{72153}{72219}Honey, the crowds|were goin 'bonkers
+{72223}{72281}- He showed the moxie brains and spunk|- Yeah
+{72285}{72358}- From zero to hero|- A major hunk
+{72362}{72419}- Zero to hero|- And who'd have thunk
+{72509}{72554}Who put the glad in gladiator
+{72558}{72596}Hercules
+{72600}{72657}Whose darin 'deeds|are great theatre
+{72661}{72696}Hercules
+{72700}{72744}- Isn't he bold|- No one braver
+{72748}{72797}- Is he sweet|- Our favourite flavour
+{72801}{72845}- Hercules|- My man.
+{72849}{72892}- Hercules|- Hercules
+{72896}{72942}- Hercules|- Ooh
+{72946}{73004}- Hercules|- Look at my Hercules
+{73008}{73083}- Hercules, Hercules|- Yeah, yeah, yeah
+{73087}{73140}Bless my soul|Herc was on a roll
+{73144}{73203}- Undefeated|- Riding high
+{73207}{73279}- And the nicest guy.|- Not conceited
+{73283}{73330}- He was a nothing|- A zero, zero
+{73334}{73377}- Now he's a honcho|- He's our hero
+{73381}{73452}He hit the heights|at breakneck speed
+{73456}{73509}From zero to hero
+{73513}{73557}Herc is a hero
+{73561}{73683}Now he's a hero
+{73687}{73735}Yes, indeed
+{73808}{73855}Pull!
+{73933}{73977}Nice shootin', Rex.
+{73981}{74054}I can't believe this guy.|I throw everything I've got at him...
+{74058}{74116}and it doesn't even...
+{74120}{74209}What are those?
+{74213}{74305}Um, I don't know.|I-I thought they looked kinda dashing.
+{74309}{74397}I've got 24 hours|to get rid of this bozo...
+{74401}{74530}or the entire scheme I've been setting|up for 18 years goes up in smoke...
+{74534}{74658}and you are wearing|his merchandise?
+{74844}{74900}Thirsty?
+{75137}{75235}Looks like your game's over. Wonderboy|is hitting every curve you throw at him.
+{75264}{75308}Oh, yeah.
+{75345}{75416}I wonder if maybe|I haven't been throwing...
+{75420}{75549}the right curves at him,|Meg, my sweet.
+{75553}{75597}Don't even go there.
+{75601}{75652}See, he's gotta have|a weakness...
+{75656}{75707}because everybody's|got a weakness.
+{75711}{75767}I mean, for what?|Pandora, it was the box thing.
+{75771}{75835}For the Trojans, hey.|They bet on the wrong horse, okay?
+{75838}{75902}We simply need|to find out Wonderboy's.
+{75906}{75958}I've done my part.|Get your little imps...
+{75962}{76005}They couldn't handle him|as a baby.
+{76009}{76073}I need somebody|who can handle him as a man.
+{76076}{76117}Hey, I've sworn off manhandling.
+{76121}{76173}Well, you know, that's good|because that's what got you...
+{76177}{76221}into this jam in the first place,|isn't it?
+{76225}{76305}You sold your soul to me|to save your boyfriend's life.
+{76309}{76368}And how does this creep thank you?
+{76372}{76446}By running off|with some babe.
+{76450}{76494}He hurt you real bad,|didn't he, Meg? Huh?
+{76498}{76547}Look, I learned my lesson, okay?
+{76551}{76606}Which is exactly why|I got a feelin'...
+{76610}{76656}you're gonna leap|at my new offer.
+{76660}{76731}You give me the key|to bringing down Wonder Breath...
+{76735}{76820}and I give you the thing|that you crave most...
+{76824}{76891}in the entire cosmos:
+{76895}{76967}your freedom.
+{77036}{77079}You should|have been there, Father.
+{77083}{77130}I mangled the Minotaur...
+{77134}{77198}grappled with the Gorgon.
+{77201}{77260}Just like Phil told me.|I analysed the situation...
+{77264}{77321}controlled my strength|and kicked.
+{77380}{77424}The crowds went wild!
+{77482}{77551}- Thank you. Thank you.|- Hah!
+{77555}{77649}You're doing great, son.|You're doing your old man proud.
+{77653}{77701}I'm glad to hear you|say that, Father.
+{77705}{77759}I've been waiting|for this day a long time.
+{77763}{77825}Hmm. What day is that, son?
+{77829}{77902}The day I rejoin the gods.
+{77906}{77988}You've done wonderfully.|You really have, my boy.
+{77992}{78036}You're just not there yet.
+{78040}{78130}You haven't proven yourself|a true hero.
+{78134}{78213}But, Father, I've beaten every|single monster I've come up against.
+{78217}{78294}I-I'm-I'm the most famous person|in all of Greece.
+{78298}{78389}I'm-I-I'm an action figure!
+{78393}{78457}I'm afraid being famous|isn't the same...
+{78460}{78540}as being a true hero.
+{78544}{78577}What more can I do?
+{78581}{78657}It's something you have|to discover for yourself.
+{78661}{78763}- But how can I...|- Look inside your heart.
+{78801}{78846}Father, wait!
+{79230}{79277}On your left|is Hercules' villa.
+{79281}{79335}Our next stop|is the Pecs and Flex Gift Shop...
+{79339}{79413}where you can pick up the great hero's|30-minute workout scroll...
+{79417}{79462}"Buns of Bronze".
+{79466}{79518}At 1:00, you got a meeting|with King Augeas.
+{79522}{79561}He's got a problem|with his stables.
+{79565}{79604}I'd advise you|not to wear your new sandals.
+{79608}{79663}- Phil.|- I told you, don't move!
+{79667}{79715}DGR, the Daughters|of the Greek Revolution.
+{79719}{79780}- At 3:00, you gotta get a girdle|from some Amazons.|- Phil.
+{79784}{79855}Phil, what's the point?
+{79905}{79937}That's it!
+{79941}{79986}Keep your toga on, pal.
+{80041}{80119}Yuck! What do you mean,|"What's the point?"
+{80123}{80158}You wanna go to Olympus,|don't ya?
+{80162}{80260}Yeah, but this stuff doesn't seem|to be getting me anywhere.
+{80264}{80328}You can't give up now.|I'm countin' on ya.
+{80332}{80378}I gave this everything I had.
+{80439}{80507}Listen to me, kid.|I seen 'em all.
+{80511}{80608}And I am tellin' you...|and this is the honest-to-Zeus truth...
+{80612}{80659}you got somethin'|I never seen before.
+{80663}{80707}- Really?|- I can feel it...
+{80711}{80771}right down in these stubby|bowlegs of mine.
+{80775}{80846}There is nothin'|you can't do, kid.
+{80889}{80937}- It's him!|- Hey, watch it!
+{80941}{80972}- Watch it! Watch...|- I touched his elbow!
+{80976}{81045}- Hey, girls!|- I got his sweatband!
+{81049}{81102}Phil, help!
+{81106}{81187}- Okay. Escape plan: beta.|- Gotcha.
+{81191}{81281}- Hey! Where is he?|- There he goes! On the veranda!
+{81285}{81330}Whoa!
+{81684}{81764}Let's see. What could be behind|curtain number one?
+{81768}{81806}Meg!
+{81810}{81874}It's all right.|The sea of raging hormones has ebbed.
+{81877}{81939}Gee, i-i-it's|great to see you.
+{81943}{81989}I-I-I missed you.
+{81993}{82051}So this is what heroes do|on their days off.
+{82055}{82105}Nah. I'm no hero.
+{82109}{82162}Sure ya are.|everybody in Greece...
+{82166}{82248}thinks you're the greatest thing|since they put the pocket in pita.
+{82252}{82329}I know, it's... it's crazy. You know, I|can't go anywhere without being mobbed.
+{82333}{82392}- I mean...|- You sound like you could use a break.
+{82396}{82511}Think your nanny goat would go berserk|if you played hookey this afternoon?
+{82515}{82592}Oh, gee, I-I don't know. Uh, Phil's got|the rest of the day pretty much booked.
+{82596}{82641}Ah, Phil, schmill.
+{82645}{82706}Just follow me out the window,|round the dumbbells.
+{82710}{82774}You lift up the back wall|and we're gone.
+{82904}{82954}Wow. What a day.
+{82958}{83004}First that restaurant by the bay.
+{83008}{83089}And then that, that play,|that, that, that Oedipus thing.
+{83093}{83151}Man! I thought I had problems.
+{83212}{83332}- Psst! Stop foolin' around.|- Yeah. Get the goods, sister.
+{83336}{83418}I didn't know that playing hookey|could be so much fun.
+{83422}{83484}Yeah, neither did I.
+{83488}{83566}- Thanks, Meg.|- Oh.
+{83570}{83620}Don't thank me just yet.
+{83624}{83682}- Oh!|- Oop. Careful.
+{83686}{83732}sorry. Weak ankles.
+{83736}{83836}Oh, yeah? Well, maybe you better|sit down for a while.
+{83840}{83936}So, uh, do you|have any problems...
+{83940}{83987}with things like this?
+{83991}{84061}- Uh...|- Weak ankles, I mean.
+{84065}{84132}Oh, uh, no, not really.
+{84136}{84227}No weaknesses whatsoever?
+{84231}{84297}- No trick knee?|- Uh...
+{84301}{84361}Ruptured disks?
+{84414}{84532}No. I'm, I'm, I'm afraid|I'm, uh, fit as a fiddle.
+{84536}{84633}- Wonderboy, you are perfect.|- Thanks.
+{84668}{84725}Whoops!
+{84760}{84809}It looks better that way.
+{84813}{84870}No, it really does.
+{85032}{85082}You know, when, when I was a kid...
+{85086}{85188}I, I would have given anything to be|exactly like everybody else.
+{85192}{85252}You wanted to be|petty and dishonest?
+{85256}{85345}- everybody's not like that.|- Yes, they are.
+{85349}{85427}- You're not like that.|- How do you know what I'm like?
+{85431}{85475}All I know is...
+{85479}{85600}you're the most amazing person with|weak ankles I've ever met.
+{85686}{85726}Oh!
+{85730}{85788}Meg, when I'm with you...
+{85792}{85896}I-I don't feel so alone.
+{85900}{85958}Sometimes it's better|to be alone.
+{85962}{86043}- What do you mean?|- Nobody can hurt you.
+{86134}{86255}Meg? I would never ever hurt you.
+{86259}{86321}And I don't wanna|hurt you, so...
+{86325}{86384}let's both do|ourselves a favour and...
+{86388}{86503}stop this before we...
+{86507}{86599}All right! Break it up!|Break it up! Party's over!
+{86603}{86668}- I've been lookin' all over this town!|- Calm down, mutton man.
+{86672}{86731}- It was all my fault.|- You're already on my list, sister!
+{86735}{86786}So don't make it worse!
+{86843}{86908}And as for you, ya bum,|you're gonna go to the stadium...
+{86912}{86964}and you're gonna be put through|the workout of your life!
+{86968}{87069}- Now get on the horse.|- Okay, okay.
+{87073}{87137}- I'm sorry.|- Ah, he'll get over it.
+{87274}{87344}Move! Move, move,|move, move, move! Move!
+{87483}{87542}Hey, watch it. Watch it.|Watch it.
+{87546}{87599}Keep your goo-goo eyes on the...
+{87652}{87754}That's it. Next time, I drive.
+{87924}{87997}Oh, what's the matter with me?
+{88001}{88088}You'd think a girl would learn.
+{88092}{88195}If there's a prize|for rotten judgment
+{88199}{88292}I guess I've already won that
+{88296}{88403}No man is worth the aggravation
+{88407}{88491}That's ancient history|Been there, done that
+{88495}{88585}Who do ya think you're kidding|He's the earth and heaven toya
+{88589}{88669}Try to keep it hidden|Honey, we can see right through ya
+{88673}{88724}- Oh, no|- Girl, you can't conceal it
+{88728}{88843}We know how you feel|and who you're thinkin' of
+{88847}{88979}Oh, no chance, no way|I won't say it, no, no
+{88983}{89068}You swoon, you sigh|Why deny it, uh-oh
+{89072}{89168}It's too cliche|I won't say I'm in love
+{89172}{89257}Shoo-doo, shoo-doo|Oo-oo-oo
+{89261}{89343}I thought my heart|had learned its lesson
+{89347}{89431}It feels so good|when you start out
+{89435}{89541}- Ah|- My head is screaming, get a grip, girl
+{89545}{89636}Unless you're dyin'|to cry your heart out, oh
+{89640}{89725}You keep on denyin ' who you are|and how you're feelin'
+{89729}{89825}Baby, we're not buyin'|Hon, we saw you hit the ceilin'
+{89829}{89912}Face it like a grown up|When you gonna own up that you
+{89916}{89985}- Got|- Got|- Got it bad
+{89989}{90117}Oh, no chance, no way|I won't say it, no, no
+{90120}{90212}- Give up, but give in|- Check the grin, you're in love
+{90216}{90303}This scene won't play|I won't say I'm in love
+{90307}{90397}You're doin 'flips, read our lips|You're in love
+{90401}{90445}- Shoo-doo, shoo-doo|- You're way off base
+{90449}{90492}- I won't say it|- She won't say love
+{90496}{90588}Get off my case|I won't say it
+{90592}{90720}Girl, don't be proud|It's okay, you're in love
+{90723}{90787}Oh
+{90791}{90866}At least out loud
+{90870}{90957}I won't say I'm in
+{90961}{91028}- Love|- Shoo-doo, shoo-doo, shoo-doo
+{91032}{91108}Shoo-doo|Sha-la-la-la-la-la-la
+{91112}{91164}Ha
+{91412}{91464}Hey, what's the buzz, huh, Meg?
+{91468}{91548}What is the weak link|in Wonderboy's chain?
+{91552}{91645}-Get yourself another girl. I'm through.|-I'm sorry. You mind runnin'|that by me again?
+{91649}{91713}I must have had a chunk of brimstone|wedged in my ear or something.
+{91717}{91817}Then read my lips! Forget it.
+{91821}{91928}Meg, Meg, Meg,|my sweet deluded little minion.
+{91932}{92043}Aren't we forgetting one teensy-weensy,|but ever so crucial little, tiny detail?
+{92047}{92091}I own you!
+{92095}{92208}- Oh, oh, I got another horn here.|- You work for me.
+{92212}{92269}That kid's gonna be|doin' laps for a month.
+{92273}{92345}If I say, "Sing",|you say, "Hey, name that tune".
+{92349}{92456}If I say, "l want Wonderboy's head|on a platter", you say...
+{92460}{92504}Medium or well done?
+{92508}{92615}Oh! I knew that dame was trouble.|This is gonna break the kid's heart.
+{92619}{92694}- I'll work on that.|- I'm sorry. You hear that sound?
+{92698}{92808}That's the sound of your freedom|fluttering out the window forever.
+{92812}{92904}I don't care.|I'm not gonna help you hurt him.
+{92908}{93004}I can't believe you're getting|so worked up about some guy.
+{93008}{93064}This one is different.|He's honest and, and he's sweet.
+{93068}{93112}- Please!|- He would never do anything to hurt me.
+{93116}{93230}- He's a guy.|- Besides, O Oneness, you can't beat him.
+{93234}{93339}He has no weaknesses.|He's gonna...
+{93343}{93427}I think he does, Meg.
+{93431}{93520}I truly think he does.
+{94060}{94170}- Hey, Phil, what happened to you?|- Kid, we gotta talk.
+{94174}{94244}Oh, Phil, I just had|the greatest day of my life.
+{94248}{94326}I, I, I can't stop thinkin'|about Meg.
+{94330}{94397}- She's somethin' else.|- Kid! I'm tryin' to talk to you!
+{94401}{94445}Will you come down here|and listen?
+{94449}{94560}Aw, how can I come down there|when I'm feelin' so up?
+{95167}{95196}Gotcha!
+{95200}{95260}Ah, very nice.|What I'm tryin' to say is...
+{95264}{95324}That if it wasn't foryou,|I never would have met her.
+{95328}{95382}Oh, I owe you big time,|little guy. I do.
+{95386}{95416}Will you just knock it off|for a couple of seconds?
+{95420}{95480}Rule number 38. Come on, Phil.|Keep them up there, huh?
+{95484}{95554}- Phil, I got two words for ya: duck!|- Listen to me. She's...
+{95558}{95595}- My dream come true?|- Not exactly.
+{95599}{95644}- More beautiful than Aphrodite?|- Aside from that!
+{95648}{95745}- The most wonderful...|- She's a... She's a fraud!
+{95749}{95808}She's been playin' ya for a sap!
+{95812}{95881}- Aw, come on. Stop kiddin' around.|- I'm not kiddin' around.
+{95885}{95929}- She...|- I know you're upset about today,|but that's no reason to...
+{95933}{95988}- Kid, you're missin' the point.|- The point is, I love her.
+{95992}{96031}- She don't love you.|- You're crazy.
+{96035}{96080}- She nothin' but a two-timin'...|- Stop it!
+{96084}{96139}- No-good, lyin', schemin'...|- Shut up!
+{96244}{96329}Phil. I... Oh, I'm, I'm sorry.
+{96333}{96423}Okay, okay, that's it.|You won't face the truth? Fine.
+{96427}{96485}Phil, wait. Where ya goin'?
+{96489}{96589}I'm hoppin' the first barge outta here.|I'm goin' home.
+{96593}{96644}Fine! G...
+{96648}{96719}Go! I don't... I don't need you.
+{96774}{96852}I thought you were gonna be|the all-time champ...
+{96856}{96935}not the all-time chump.
+{96980}{97048}Jeez Louise,|what got his goat, huh?
+{97119}{97165}Baboom. Name is Hades,|lord of the dead.
+{97169}{97216}- Hi. How ya doin'?|- Uh, not now, okay?
+{97220}{97284}Hey, hey. I only need a few seconds,|and I'm a fast talker, all right?
+{97288}{97352}See, I've got|this major deal in the works.|A real estate venture, if you will.
+{97356}{97404}And, Herc, you little devil you.|May I call you Herc?
+{97408}{97464}You seem to be constantly|getting in the way of it, huh?
+{97468}{97528}- You've got the wrong guy.|- Hear me out, ya little...
+{97532}{97579}Just hear me out, okay?
+{97583}{97648}So I would be eternally grateful|if you would just...
+{97652}{97708}take a day off from|this hero business of yours.
+{97712}{97758}Jeez, I mean, monsters,|natural disasters.
+{97762}{97804}- You wait a day, huh?|- You're out of your mind.
+{97808}{97918}Not so fast, because, ya see,|I do have a little leverage|you might wanna know about.
+{97952}{98044}- Meg!|- Don't listen, Herc...
+{98048}{98098}- Let her go!|- Here's the trade-off.
+{98102}{98169}You give up your strength|for about 24 hours, okay?
+{98173}{98224}Say, the next 24 hours.
+{98228}{98273}And Meg here is free as a bird|and safe from harm.
+{98277}{98328}We dance, we kiss, we schmooze,|we carry on, we go home happy.
+{98332}{98391}What do ya say? Come on.
+{98395}{98439}People are... are gonna|get hurt, aren't they?
+{98443}{98490}Nah! I mean, it's, you know,|it's a possibility.
+{98494}{98538}It happens 'cause, you know, it's war,|but what can I tell ya?
+{98542}{98587}Anyway, what do you|owe these people, huh?
+{98591}{98659}Isn't Meg...|you little smoochy face you...|Isn't she more important than they are?
+{98663}{98709}- Stop it!|- Isn't she?
+{98713}{98777}You've gotta swear|she'll be safe from any harm.
+{98780}{98826}Fine, okay.|I'll give you that one.
+{98830}{98880}Meg is safe, otherwise|you get your strength right back.
+{98884}{98933}Yadda, yadda. Fine print. Boilerplate.|Baboom. Okay? We're done.
+{98937}{98981}What do you say we shake on it?
+{98985}{99034}Hey, I really don't have,|like, time to bat this around.
+{99038}{99083}I'm kind of on a schedule here.|I got plans for August. Okay?
+{99087}{99157}I need an answer, like, now.|Going once, going twice...
+{99161}{99251}- All right!|- Yes! We're there! Bam!
+{99428}{99496}You may feel just a little queasy.|It's kind of natural.
+{99500}{99549}Maybe you should sit down!
+{99604}{99693}Now you know how it feels to be|just like everybody else.
+{99697}{99779}Isn't it just peachy?
+{99783}{99837}Oh! You'll love this.|One more thing.
+{99841}{99905}Meg, babe, a deal's a deal.
+{99908}{99984}You're off the hook.|And by the way, Herc,
+{99988}{100038}is she not, like,|a fabulous little actress?
+{100042}{100076}- Stop it.|- What do you mean?
+{100080}{100179}I mean your little chickie-poo here|was working for me all the time.
+{100183}{100272}- Duh.|- You're... You're lying!
+{100276}{100392}- Help!|- Jeepers, mister, you're really strong.
+{100396}{100491}- Couldn't have done it without you,|sugar, sweetheart, babe.|- No! It's... It's not like that.
+{100495}{100612}I didn't mean to...|I-I couldn't... I... I'm so sorry.
+{100616}{100710}Our hero's a zero!|Our hero's a zero!
+{100759}{100853}Well, gotta blaze. There's a whole|cosmos up there waiting for me...
+{100857}{100903}with, hey, my name on it.
+{100959}{101052}So much for the preliminaries,|and now on to the main event!
+{101364}{101445}Brothers! Titans!
+{101449}{101532}Look at you in your squalid prison!
+{101536}{101655}- Who put you down there?|- Zeus!
+{101659}{101717}And now that I set you free...
+{101721}{101804}what is the first thing|you are going to do?
+{101808}{101897}- Destroy him!|- Good answer.
+{101957}{102058}Crush Zeus!
+{102119}{102198}Freeze him!
+{102304}{102383}Melt Zeus!
+{102387}{102493}Blow him away!
+{102561}{102667}Zeus!
+{102671}{102711}- Uh, guys?|- Huh?
+{102715}{102781}Olympus would be that way.
+{102785}{102883}- Zeus!|- Freeze him!
+{102886}{102931}- Hold it, bright eye.|- Huh?
+{102935}{103009}I have a special job for you,|my optic friend.
+{103188}{103275}- Huh? Huh?|- Destroy Zeus!
+{103278}{103369}Oh, we're in trouble!|Oh, big trouble! I gotta...
+{103373}{103428}My lord and lady,|the Titans have escaped.
+{103432}{103477}And they're practically|at our gates!
+{103481}{103578}Sound the alarm!|Launch an immediate counterattack!
+{103582}{103644}- Go! Go!|- Gone, babe.
+{103705}{103757}Huh?
+{103872}{103995}- Charge!|- On to battle!
+{104249}{104306}Ya windbag!
+{104336}{104400}Boom, badda-boom!|Boom, boom!
+{104486}{104579}Hercules!
+{104583}{104661}Where are you?
+{104702}{104772}- What can we do?|- Where is Hercules?
+{104776}{104844}Yeah, Hercules will save us.
+{104848}{104928}Hercules!
+{104932}{105067}Come out! Face me!
+{105071}{105151}Oh, what are you doing?|Without your strength, you'll be killed.
+{105155}{105222}- Hercules!|- There are worse things.
+{105226}{105317}- Run!|- Wait! Stop!
+{105321}{105443}- Hey, look! It's Hercules.|- Thank the gods! We're saved!
+{105447}{105544}So, you mighty Hercules.
+{105709}{105762}- Oh!|- Oh!
+{105874}{105964}Easy, horsefeathers.|Whoa! Stop twitching!
+{105968}{106066}Listen.|Hercules is in trouble.
+{106069}{106140}We've gotta find Phil. He's the only one|who can talk some sense into him.
+{106268}{106321}Get back! Blast you!
+{106419}{106521}- Ooh! Chihuahua!|- Zeus!
+{106552}{106625}Come on! Hury up!|We're shovin' off here!
+{106628}{106720}Phil! Phil,|Hercules needs your help.
+{106724}{106780}What does he need me for|when he's got friends like you?
+{106784}{106897}- He won't listen to me.|- Good! He's finally learned somethin'.
+{106901}{107000}Look, I know what I did was wrong,|but this isn't about me. It's about him.
+{107003}{107084}If you don't help him now,|Phil, he'll die.
+{107088}{107139}I need more thunderbolts!
+{107143}{107248}Uh, Hephaestus has been captured,|my lord. everyone's been captured.
+{107252}{107339}I've been captured.|Hey, hey, watch the glasses.
+{107461}{107529}Zeusy, I'm home!
+{107533}{107624}Hades! You're behind this?
+{107627}{107706}You're correct, sir!
+{107777}{107832}Flea!
+{107932}{108003}- Hercules!|- Phil.
+{108007}{108084}Come on, kid. Come on. Fight back.|Come on. You can take this bum.
+{108088}{108205}- This guy's a pushover. Look at him.|- You were right all along, Phil.
+{108209}{108290}- Dreams are for rookies.|- No, no, no, no, no, kid.
+{108294}{108391}Givin' up is for rookies. I came back|'cause I'm not quittin' on ya.
+{108394}{108492}I'm willin' to go the distance.|How about you?
+{108552}{108622}Me bite off head!
+{108719}{108793}Whoa, baby!
+{109097}{109152}Hercules! Look out!
+{109156}{109228}Meg! No!
+{109435}{109499}What's happening?
+{109525}{109589}H-Hades' deal is broken.
+{109616}{109685}He promised I wouldn't get hurt.
+{109689}{109811}Meg, why... why... why did ya...|You didn't have to...
+{109815}{109916}Oh, people always|do crazy things...
+{109919}{109980}when they're in love.
+{109984}{110077}Oh, Meg. Meg, I... I...
+{110081}{110196}Are you always this articulate?
+{110248}{110376}You... You haven't got much time.|You can still stop Hades.
+{110378}{110455}I'll watch over her, kid.
+{110459}{110558}You're gonna be all right.|I promise.
+{110619}{110686}Let's go, Pegasus!
+{110731}{110787}Hup, two, three, four!|Come on, everybody!
+{110791}{110855}- I can't hear you!|- Oh, oh, that.
+{110859}{110959}I swear to you, Hades,|when I get out of th...
+{110963}{111024}I'm the one giving orders now,|bolt boy.
+{111027}{111093}And I think|I'm gonna like it here.
+{111097}{111195}Don't get too|comfortable, Hades!
+{111199}{111280}- Hercules!|- This ought to even the odds!
+{111352}{111443}- Yeah, Hercules! Thank you, man.|- Get them!
+{111519}{111569}Whoa! Hey!
+{111573}{111654}No! Get him! Not me! Him!
+{111709}{111822}Follow the fingers! Him!|The yutz with the horse!
+{111984}{112054}- Thank you, my boy.|- Nice horsey!
+{112058}{112173}My intentions were pure.|I really was attracted to you.
+{112219}{112345}- Throw!|- Ah! Now watch your old man work!
+{112349}{112393}Uh-oh!
+{112467}{112526}Guys, get your|titanic rears in gear...
+{112530}{112607}and kick some Olympian butt.
+{112611}{112677}Whoa! Is my hair out?
+{113308}{113412}Thanks a ton, Wonderboy. But at least|I've got one swell consolation prize...
+{113416}{113521}a friend of yours|who's dying to see me.
+{113525}{113552}Meg.
+{114280}{114317}Meg.
+{114471}{114530}Meg, no.
+{115002}{115051}Oh, I'm sorry, kid.
+{115116}{115172}There's some things|you just can't change.
+{115251}{115297}Yes, I can.
+{115388}{115452}We were so close!
+{115456}{115524}So close. We tripped|at the finish line. Why?
+{115527}{115632}Because our little nut, Meg,|has to go all noble.
+{115724}{115785}- Where's Meg?|- Oh. Look who's here.
+{115789}{115897}- Wonderboy, you are too much.|- Let her go.
+{115901}{115992}Get a grip. Come here. Come here.|Let me show you around.
+{116011}{116095}Hmph. Well, well.|It's a small underworld, after all, huh?
+{116125}{116215}- Meg!|- No, no, no. Mustn't touch.
+{116219}{116283}You see, Meg's running|with a new crowd these days...
+{116286}{116338}and not a very lively one at that.
+{116373}{116452}You like making deals.|Take me in Meg's place.
+{116456}{116584}Oh, hmph. The son of my hated rival|trapped forever in a river of death.
+{116588}{116644}- Going once!|- Hmm? Is there a downside to this?
+{116648}{116719}- Going twice!|- Okay, okay, okay, okay, okay!
+{116723}{116805}You get her out.|She goes; you stay.
+{116880}{116961}Oh, you know what slipped my mind?|You'll be dead before|you can get to her.
+{116965}{117038}That's not a problem, is it?
+{117635}{117687}Oh!
+{117691}{117743}What's the matter|with these scissors?
+{117747}{117806}The thread won't cut.
+{117992}{118052}This is...|This is impossible!
+{118056}{118124}You... You... You can't be alive.|You'd have to be a, a...
+{118127}{118192}A god?
+{118274}{118364}Hercules, stop!|Ya can't do this to me! Ya can't...
+{118368}{118444}Fine. Okay. Listen.|Okay, well, I deserved that.
+{118448}{118540}Herc, Herc, Herc? Can we talk?|Y-Your dad? He's a fun guy, right?
+{118544}{118594}So maybe you could|put in a word with him...
+{118598}{118648}and he'd kind of blow|this whole thing off, you know?
+{118652}{118726}Meg, Meg, talk to him.|You know, a little schmooze, uh...
+{118796}{118922}Get away from me! Don't touch me!|Get your slimy souls off me!
+{118926}{118983}He's not gonna be happy|when he gets outta there.
+{118986}{119060}- You mean, if he gets outta there.|- Taxi!
+{119064}{119108}- If? If is good.|- Taxi!
+{119111}{119199}I don't feel so good.|I-I feel a little...
+{119752}{119842}Wonderboy, what...|Why did you...
+{119876}{119997}People always do crazy things|when they're in love.
+{120192}{120246}Whoa! Hey, hey, hey, hey!
+{120532}{120592}Three cheers|for the mighty Hercules!
+{120596}{120666}Oh, yeah.|Flowers for everybody! Oh!
+{120935}{120984}Hercules!
+{120988}{121114}Hercules, we're so proud of you.
+{121118}{121178}Mother.
+{121206}{121281}Fine work, my boy!|You've done it!
+{121285}{121340}You're a true hero.
+{121344}{121441}You were willing to give your life|to rescue this young woman.
+{121444}{121535}For a true hero isn't measured|by the size of his strength...
+{121539}{121628}but by the strength|of his heart.
+{121632}{121747}Now, at last, my son...
+{121751}{121818}you can come home.
+{122134}{122241}Congratulations, Wonderboy.|You'll make one heck of a god.
+{122436}{122549}Father, this is the moment|I've always dreamed of...
+{122552}{122636}but...
+{122640}{122756}a life without Meg,|even an immortal life...
+{122760}{122828}would be empty.
+{122868}{122929}I...
+{122933}{122989}I wish to stay|on Earth with her.
+{122993}{123057}I finally know where I belong.
+{123388}{123429}Hit it, ladies.
+{123433}{123520}Oh, gonna shout it|from the mountaintops
+{123524}{123560}A staris born
+{123564}{123620}It's the time|for pullin 'out the stops
+{123624}{123660}A star is born
+{123664}{123757}- Honey, hit us with a hallelu|- That kid came shinin' through
+{123761}{123805}Girl, sing the song
+{123809}{123945}Come blow your horn|A star is born, a star is born
+{123949}{124051}- He's a hero who can please the crowd|- A star is born
+{124055}{124144}Come on, everybody, shout out loud|A star is born
+{124148}{124245}Just remember in the darkest hour|Within your heart's the power
+{124249}{124339}For makin 'you a hero too
+{124343}{124417}So don't lose hope|when you're for lorn
+{124421}{124477}- That's Phil's boy!|- Just keep your eyes
+{124481}{124556}- You just keep your eyes|- Upon the skies|- Upon the skies
+{124560}{124598}- every night, a star is|- every night
+{124602}{124648}- Right in sight, a star is|- Burning bright
+{124652}{124775}Burning bright|A star is born
+{133093}{133140}What do ya say?|It's happy ending time!
+{133144}{133211}everybody's got a little taste|of somethin' but me. I got nothin'.
+{133215}{133282}I-I'm here with nothin'.|Anybody listenin'?
+{133286}{133341}It's like I'm... What am I,|an echo or something?
+{133345}{133419}Hello? Hello?|Am I talking to, what?
+{133423}{133507}Hyperspace? Hello, it's me.|Nobody listens.
+
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>
