@@ -1,45 +1,55 @@
 import os
 import re
 
-def clean_srt_file(input_path, output_path):
-    with open(input_path, 'r', encoding='utf-8', errors='ignore') as f:
-        lines = f.readlines()
+def clean_srt_line(line):
+    # remove invisible characters
+    line = re.sub(r'[\u200b\uFEFF\u202a\u202c\u202d\u200e\u200f]', '', line).strip()
+    # remove dashes at beginning of sentence
+    line = re.sub(r'^\s*-+', '', line).strip()
+    # skip block numbers
+    if re.match(r'^\d+$', line):
+        return None
+    # skip timestamp lines
+    if re.match(r'\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}', line):
+        return None
+    # skip empty lines
+    if line == '':
+        return None
 
-    cleaned_lines = []
+    return line
 
-    for line in lines:
+# function to process all SRT files in a folder and save cleaned versions
+def clean_all_srt_files(input_dir, output_dir):
+    # create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
 
-        # remove invisible BOM or Unicode markers (1 in the beginning)
-        line = re.sub(r'[\u200b\uFEFF\u202a\u202c\u202d\u200e\u200f]', '', line)
+    # loop through all files of input directory
+    for file in os.listdir(input_dir):
+        if os.path.isfile(os.path.join(input_dir, file)):
+            # create input and output paths
+            input_path = os.path.join(input_dir, file)
+            base_name = os.path.splitext(file)[0]  # removes .srt if present
+            output_filename = base_name + '_cleaned.txt'
+            output_path = os.path.join(output_dir, output_filename)
 
-        line = line.strip()
+            # read all lines from subtitle file
+            with open(input_path, 'r', encoding='utf-8', errors='ignore') as f:
+                lines = f.readlines()
 
-        # skip block numbers
-        if re.match(r'^\d+$', line):
-            continue
+            cleaned_lines = []
 
-        # skip timestamps -> all the same format: (00:00:00,000 --> 00:00:00,000)
-        if re.match(r'\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}', line):
-            continue
+            # clean each line using cleaning function
+            for line in lines:
+                cleaned = clean_srt_line(line)
+                if cleaned:
+                    cleaned_lines.append(cleaned)
 
-        # remove dashes at beginning of sentence
-        line = re.sub(r'^\s*-+', '', line).strip()
+            # write cleaned lines to new file
+            with open(output_path, 'w', encoding='utf-8') as f:
+                for line in cleaned_lines:
+                    f.write(line + '\n')
+            
+            # will delete later
+            print(f"Cleaned: {file} → {output_filename}")
 
-
-        # skip empty lines
-        if line == '':
-            continue
-
-        cleaned_lines.append(line)
-
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-
-    with open(output_path, 'w', encoding='utf-8') as f:
-        for line in cleaned_lines:
-            f.write(line + '\n')
-
-# Example use:
-clean_srt_file(
-    input_path='data2/disney/Dumbo',
-    output_path='data_cleaned/disney/Dumbo_cleaned.txt'
-)
+clean_all_srt_files(input_dir='data2/disney', output_dir='data_cleaned/disney')
