@@ -4,14 +4,24 @@ import re
 def clean_srt_line(line):
     # remove invisible characters
     line = re.sub(r'[\u200b\uFEFF\u202a\u202c\u202d\u200e\u200f]', '', line).strip()
+
     # remove dashes at beginning of sentence
     line = re.sub(r'^\s*-+', '', line).strip()
+
+    # remove HTML tags like <i> and </i>
+    line = re.sub(r'</?i>', '', line)
+
+    # remove speaker names in all caps followed by a colon (example: "MIGUEL:")
+    line = re.sub(r'^[A-Z\s]+:', '', line).strip()
+
     # skip block numbers
     if re.match(r'^\d+$', line):
         return None
+    
     # skip timestamp lines
     if re.match(r'\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}', line):
         return None
+    
     # skip empty lines
     if line == '':
         return None
@@ -20,6 +30,7 @@ def clean_srt_line(line):
 
 # function to process all SRT files in a folder and save cleaned versions
 def clean_all_srt_files(input_dir, output_dir):
+    
     # create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
