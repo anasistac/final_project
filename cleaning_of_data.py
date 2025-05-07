@@ -11,8 +11,14 @@ def clean_srt_line(line):
     # remove HTML tags like <i> and </i>
     line = re.sub(r'</?i>', '', line)
 
-    # remove speaker names in all caps followed by a colon (example: "MIGUEL:") or descriptions (LAUGHING)
-    line = re.sub(r'^[A-Z\s]+', '', line).strip()
+    # remove content in brackes and parenthesis
+    line = re.sub(r'\[.*?\]|\(.*?\)', '', line)
+
+    # remove speaker names in all caps followed by a colon (example: "MIGUEL:")
+    line = re.sub(r'^[A-Z\s]+:', '', line).strip()
+
+    # remove ALL CAPS words (3 or more letters)
+    line = re.sub(r'\b[A-Z]{3,}\b', '', line).strip()
 
     # skip block numbers
     if re.match(r'^\d+$', line):
