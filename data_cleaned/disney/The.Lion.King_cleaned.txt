@@ -88,7 +88,7 @@ this shot of Rafiki coming up,
 it gives you the feeling of sunlight
 filtering through the characters.
 And it's all the great
-magical tricks
+CAPS magical tricks
 that you can do with special
 effects, animation and graphics.
 Or the clouds which are
@@ -148,7 +148,7 @@ of things people like to hear
 -but we don't remember them.
 Yeah.
 That's one of the great
-things about the  system,
+things about the CAP system,
 which is our fancy computerized
 animation production system,
 where you can put together
@@ -606,7 +606,7 @@ Yeah, Zazu and the
 rhino butt, a guaranteed laugh.
 The log in the river,
 actually they gave us a little template.
-worked out a little
+CGI worked out a little
 template for the log in the river,
 again to help us move the characters
 through a moving camera point of view.
@@ -733,7 +733,7 @@ Not a fun task, but, boy,
 it really made everybody
 become very three-dimensional.
 You can also see in
-terms of like what the  system does,
+terms of like what the CAP system does,
 when Zazu's bill goes
 from yellow to orange,
 there's a blend happening
@@ -1219,7 +1219,7 @@ the flying carpet in Aladdin,
 that kind of unique character
 situation that can only be handled
 with the help of a computer.
-Scott Johnston was our  supervisor,
+Scott Johnston was our CGI supervisor,
 and he wrangled this whole thing,
 and it really was a project that
 took the full three years of production
@@ -1228,7 +1228,7 @@ or seven minutes on the screen.
 What's really
 amazing is that all of those beasts
 are really based on a singular run cycle
-that was created by the  department.
+that was created by the CGI department.
 Then they added on
 different behaviors like bucks
 -and kicks, and different things.
@@ -1511,7 +1511,7 @@ needed to have that low point.
 It was also rubbing
 the audience's nose in the death.
 We showed the
-movie at the  in Burbank,
+movie at the AMC in Burbank,
 and it was a preview for
 Michael and Roy Disney.
 "Michael's big thing after
@@ -1998,7 +1998,7 @@ I love that little
 musical section of him sneaking up.
 Timon?
 Here's a little rack focus.
-Digitally, in the
+Digitally, in the CAP
 system, you're able to have
 a soft, diffused distant ground
 and a very sharp foreground,
@@ -2187,7 +2187,7 @@ Yeah, it's really great.
 Without having to have
 a big, action-adventure sequence,
 you can use the artistry
-of the  system,
+of the CAP system,
 the animators, the effects
 animators, the art directors,
 all come together to
@@ -2889,7 +2889,7 @@ so it gives you the feeling of
 just a random and organic pattern.
 The embers is a
 really cool computer trick
-where the  guys
+where the CGI guys
 create these little embers
 that actually turn in space
 and are very dimensional,
@@ -3141,7 +3141,7 @@ to sandwich all those
 hand-done elements together
 to create the final frames.
 And we also use computers
-in an area called ,
+in an area called CGI,
 or computer graphics imagery, to
 animate or create things on a screen
 that you couldn't possibly do by

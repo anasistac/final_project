@@ -432,7 +432,7 @@ Just had to invite him to stay,
 didn't we?
 Serve him tea, sit in the master's chair.
 Pet the pooch.
-I was trying to be hospitable.
+[L]I was trying to be hospitable.
 Hello?
 Is anyone here?
 Hello?
@@ -454,8 +454,8 @@ It's a girl!
 I know it's a girl.
 Don't you see? She's the one.
 The girl we have been waiting for.
--She has come to break the spell.
--Wait a minute. Wait a minute.
+[L]-She has come to break the spell.
+[L]-Wait a minute. Wait a minute.
 Papa?
 Papa?
 Hello? Is someone here?
@@ -502,8 +502,8 @@ Done.
 No, Belle, listen to me.
 I'm old. I've lived my life.
 Wait.
--Belle!
--Wait.
+[L]-Belle!
+[L]-Wait.
 No! Please spare my daughter. Please!
 She's no longer your concern.
 Take him to the village.
@@ -515,7 +515,7 @@ Since the girl is going to be with us
 for quite some time,
 I was thinking that you might want
 to offer her a more comfortable room.
-Then again, maybe not.
+[L]Then again, maybe not.
 You didn't even let me say goodbye.
 I'll never see him again.
 I didn't get to say goodbye.
@@ -523,8 +523,8 @@ I'll show you to your room.
 My room? But I thought...
 You wanna...
 You wanna stay in the tower?
--No.
--Then follow me.
+[L]-No.
+[L]-Then follow me.
 Say something to her.
 I hope you like it here.
 The castle is your home now,
@@ -547,8 +547,8 @@ Publicly humiliated.
 Why, it's more than I can bear.
 More beer?
 What for? Nothing helps.
--I'm disgraced.
--Who, you? Never.
+[L]-I'm disgraced.
+[L]-Who, you? Never.
 Gaston, you've got
 to pull yourself together.
 ♪ Gosh, it disturbs me
@@ -634,8 +634,8 @@ Hideously ugly.
 And sharp, cruel fangs?
 Yes, yes! Will you help me?
 All right, old man. We'll help you out.
-You will?
-Thank you, thank you, thank you.
+[L]You will?
+[L]Thank you, thank you, thank you.
 Crazy old Maurice.
 He's always good for a laugh.
 Crazy old Maurice?
@@ -667,7 +667,7 @@ Let's go!
 ♪ So, his marriage
 ♪ we soon will be celebrating
 ♪ My, what a guy
-♪ Gaston
+[L]♪ Gaston
 Will no one help me?
 Who is it?
 Mrs. Potts, dear.
@@ -754,7 +754,7 @@ Circumstances being what they are...
 She's not coming.
 What?
 Oh, dear. Your Grace! Your Eminence!
-Let's not be hasty!
+[L]Let's not be hasty!
 I thought I told you
 to come down to dinner!
 I'm not hungry.
@@ -841,7 +841,7 @@ Pish tosh. I'm not about
 to let the poor child go hungry.
 All right, fine. Glass of water,
 crust of bread and then...
-Cogsworth, I am surprised at you.
+[L]Cogsworth, I am surprised at you.
 She's not a prisoner. She's our guest.
 We must make her feel welcome here.
 Right this way, mademoiselle.
@@ -864,7 +864,7 @@ your dinner.
 ♪ Tie your napkin
 ♪ 'round your neck, chérie
 ♪ And we provide the rest
-♪ Soup du jour, hot hors d'oeuvres
+[L]♪ Soup du jour, hot hors d'oeuvres
 ♪ Why, we only live to serve
 ♪ Try the gray stuff, it's delicious
 ♪ Don't believe me?
@@ -995,7 +995,7 @@ Where was I?
 As you were!
 Now, then, if I may draw your attention
 to the flying buttresses above the...
-Mademoiselle?
+[L]Mademoiselle?
 What's up there?
 Where? There? Nothing.
 Absolutely nothing of interest at all
@@ -1132,8 +1132,8 @@ I didn't see anything.
 Come along, Chip.
 There's chores to be done
 in the kitchen.
-But what are they talking about?
-What's going on? Come on, Mom.
+[L]But what are they talking about?
+[L]What's going on? Come on, Mom.
 ♪ There's something sweet
 ♪ and almost kind
 ♪ But he was mean
@@ -1293,7 +1293,7 @@ Why, hello there, little fella.
 Didn't think I'd see you again.
 Belle, why'd you go away?
 Don't you like us anymore?
-Chip, of course I do. It's just that...
+[L]Chip, of course I do. It's just that...
 May I help you?
 I've come to collect your father.
 My father?
@@ -1342,7 +1342,7 @@ If I didn't know better,
 I'd think you had feelings
 for this monster.
 He's no monster, Gaston. You are!
-She's as crazy as the old man.
+[L]She's as crazy as the old man.
 The Beast will make off
 with your children.
 He'll come after them in the night.
@@ -1416,7 +1416,7 @@ Now, now. We'll think of something.
 ♪ Bring your guns, bring your knives
 ♪ Save your children and your wives
 ♪ We'll save our village and our lives
-♪ We'll kill the Beast
+[L]♪ We'll kill the Beast
 I knew it. I knew it was foolish
 to get our hopes up.
 Maybe it would have been better
@@ -1434,8 +1434,8 @@ Take whatever booty you can find.
 But remember, the Beast is mine!
 ♪ Hearts ablaze, banners high
 ♪ We go marching into battle
-♪ Unafraid, although the danger
-♪ just increased
+[L]♪ Unafraid, although the danger
+[L]♪ just increased
 ♪ Raise the flag, sing the song
 ♪ Here we come, we're 50 strong
 ♪ And 50 Frenchmen can't be wrong

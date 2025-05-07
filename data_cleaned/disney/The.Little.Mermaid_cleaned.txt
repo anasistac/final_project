@@ -109,7 +109,7 @@ you're in, you can accept it.
 Ron again.
 This first shot of King Triton's palace
 is a multi-plane shot.
-After  was developed,
+After CAPS was developed,
 a shot like this would be easy,
 but at the time, if you wanted
 to move in on something
@@ -2314,7 +2314,7 @@ is pretty amazing.
 I think it does give you latitude
 to work in all kinds of musical styles
 and just to dream.
-And this is one of early ,
+And this is one of early CGI,
 computer-animated steps,
 was still the infancy of computer
 animation, but we used it.
@@ -2670,11 +2670,11 @@ So, it helps that you have,
 nowadays, in terms of synching cues
 and all that you didn't quite have then.
 Well, it was a transitional time.
-It was getting into  stuff
+It was getting into MIDI stuff
 and all of that.
 Right, we were just getting into it.
 I was, I think, one of the first people
-to work exclusively in .
+to work exclusively in MIDI.
 And it was an amazing help,
 because in the beginning
 of doing the score,
@@ -2685,7 +2685,7 @@ and write the music.
 And then I said,
 "I want to see how it sounds."
 So then, I play it into my computer
-in  and play it back.
+in MIDI and play it back.
 And at some point in the way,
 I said,
 "Duh! Why don't I just write it
@@ -2785,7 +2785,7 @@ Snow White and Pinocchio
 and all those things,
 and this was a chance to do it.
 This particular shot right here
-is actually the first  shot,
+is actually the first CAPS shot,
 which is Computer Animated
 Production System.
 Yeah, rather than using cels
