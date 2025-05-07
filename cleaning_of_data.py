@@ -11,8 +11,8 @@ def clean_srt_line(line):
     # remove HTML tags like <i> and </i>
     line = re.sub(r'</?i>', '', line)
 
-    # remove speaker names in all caps followed by a colon (example: "MIGUEL:")
-    line = re.sub(r'^[A-Z\s]+:', '', line).strip()
+    # remove speaker names in all caps followed by a colon (example: "MIGUEL:") or descriptions (LAUGHING)
+    line = re.sub(r'^[A-Z\s]+', '', line).strip()
 
     # skip block numbers
     if re.match(r'^\d+$', line):
@@ -30,7 +30,7 @@ def clean_srt_line(line):
 
 # function to process all SRT files in a folder and save cleaned versions
 def clean_all_srt_files(input_dir, output_dir):
-    
+
     # create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
