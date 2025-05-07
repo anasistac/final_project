@@ -67,4 +67,4 @@ def clean_all_srt_files(input_dir, output_dir):
             # will delete later
             print(f"Cleaned: {file} → {output_filename}")
 
-clean_all_srt_files(input_dir='data2/disney', output_dir='data_cleaned/disney')
+clean_all_srt_files(input_dir='data2/ghibli', output_dir='data_cleaned/ghibli')
