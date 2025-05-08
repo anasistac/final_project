@@ -4,16 +4,15 @@ import string
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 
-# Download required NLTK data once
 nltk.download('stopwords')
 
-# === Preprocessing function ===
+# preprocessing function
 def preprocess_text(text):
-    tokenizer = RegexpTokenizer(r'\w+')  # regex-based tokenizer avoids punkt issues
+    tokenizer = RegexpTokenizer(r'\w+')  # avoid punkt issues when working in codespace in github
     tokens = tokenizer.tokenize(text)
     stop_words = set(stopwords.words('english'))
 
-    # Remove stopwords and lowercase
+    # remove stopwords and lowercase
     cleaned_tokens = [
         word.lower() for word in tokens
         if word.lower() not in stop_words
@@ -21,7 +20,7 @@ def preprocess_text(text):
 
     return cleaned_tokens
 
-# === Step 1: Process all cleaned subtitle files and save tokens ===
+# process all cleaned subtitle files in data_cleaned and save tokens
 def process_cleaned_folder(input_folder, output_folder):
     os.makedirs(output_folder, exist_ok=True)
 
@@ -29,22 +28,22 @@ def process_cleaned_folder(input_folder, output_folder):
         input_path = os.path.join(input_folder, file)
 
         if os.path.isfile(input_path) and file.endswith('.txt'):
-            # Read the cleaned subtitle
+            # read
             with open(input_path, 'r', encoding='utf-8') as f:
                 text = f.read()
 
-            # Preprocess
+            # preprocess
             tokens = preprocess_text(text)
 
-            # Save tokens
+            # save tokens
             base_name = os.path.splitext(file)[0]
             output_file = os.path.join(output_folder, base_name + '_tokens.txt')
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(' '.join(tokens))
 
-            print(f"✅ Tokenized: {file} → {base_name + '_tokens.txt'}")
+            print(f"Tokenized: {file} → {base_name + '_tokens.txt'}")
 
-# === Step 2: Combine all tokenized files into one master file ===
+# combine all tokenized files into one master file
 def combine_tokenized_files(input_folder, output_path):
     all_tokens = []
 
@@ -56,13 +55,13 @@ def combine_tokenized_files(input_folder, output_path):
                 tokens = f.read().split()
                 all_tokens.extend(tokens)
 
-    # Write combined tokens to one file
+    # write combined tokens to one file
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(' '.join(all_tokens))
 
-    print(f"✅ Combined {len(all_tokens)} tokens into: {output_path}")
+    print(f"Combined {len(all_tokens)} tokens into: {output_path}")
 
-# === Run both steps for Disney ===
-process_cleaned_folder('data_cleaned/disney', 'data_preprocessed/disney')
-combine_tokenized_files('data_preprocessed/disney', 'data_preprocessed/disney.txt')
+# run
+process_cleaned_folder('data_cleaned/ghibli', 'data_preprocessed/ghibli')
+combine_tokenized_files('data_preprocessed/ghibli', 'data_preprocessed/ghibli.txt')
