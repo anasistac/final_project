@@ -11,20 +11,13 @@ model.eval()
 
 labels = ['negative', 'neutral', 'positive']
 
-with open("data_in_sentences/disney/Beauty.and.the.Beast_cleaned_sentences.txt", "r", encoding="utf-8") as f:
+with open("data_in_sentences/disney/Castle.in.the.Sky_cleaned_sentences.txt", "r", encoding="utf-8") as f:
     lines = [line.strip() for line in f if line.strip()]
 
 results = []
 
 for line in tqdm(lines, desc="Classifying lines"):
-    encoded = tokenizer(
-    line,
-    return_tensors="pt",
-    padding="max_length",
-    truncation=True,
-    max_length=514
-)
-
+    encoded = tokenizer(line, truncation=True, max_length=514, return_tensors="pt")
     with torch.no_grad():
         output = model(**encoded)
         probs = F.softmax(output.logits, dim=1)
