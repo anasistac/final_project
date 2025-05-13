@@ -1,0 +1,43 @@
+import torch
+import torch.nn.functional as F
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import pandas as pd
+from tqdm import tqdm
+
+model_name = "cardiffnlp/twitter-roberta-base-sentiment"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+model.eval()
+
+labels = ['negative', 'neutral', 'positive']
+
+with open("data_in_sentences/disney/Beauty.and.the.Beast_cleaned_sentences.txt", "r", encoding="utf-8") as f:
+    lines = [line.strip() for line in f if line.strip()]
+
+results = []
+
+for line in tqdm(lines, desc="Classifying lines"):
+    encoded = tokenizer(
+    line,
+    return_tensors="pt",
+    padding="max_length",
+    truncation=True,
+    max_length=514
+)
+
+    with torch.no_grad():
+        output = model(**encoded)
+        probs = F.softmax(output.logits, dim=1)
+        pred = torch.argmax(probs, dim=1).item()
+        score = probs[0][pred].item()
+
+    results.append({
+    "text": line,
+    "sentiment": labels[pred],
+    "score": round(score, 4)
+    })
+
+
+df = pd.DataFrame(results)
+df.to_csv("subtitles_sentiment.csv", index=False)
+print(df.head())
