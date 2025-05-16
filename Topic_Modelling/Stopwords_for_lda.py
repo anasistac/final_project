@@ -1,52 +1,54 @@
 
 '''This file contains a list of stopwords for use in LDA topic modeling.'''
 
+# Custom movie words
+custom_movie_words = {"scene", "movie", "character", "gonna", "hopps"}
+
 # main characters from the disney movies 
-disney_main_characters = {
-    "aladdin": ["aladdin", "jasmine", "genie", "jafar", "abu", "iago", "sultan"],
-    "beauty_and_the_beast": ["belle", "beast", "gaston", "lumiere", "cogsworth", "mrs_potts", "chip", "lefou"],
-    "chicken_little": ["chicken_little", "abby_mallard", "runt", "fish", "buck_cluck"],
-    "frozen": ["elsa", "anna", "kristoff", "olaf", "sven", "hans", "duke"],
-    "dumbo": ["dumbo", "mrs_jumbo", "timothy", "ringmaster", "crows"],
-    "hercules": ["hercules", "megara", "phil", "hades", "zeus", "pain", "panic"],
-    "lilo_and_stitch": ["lilo", "stitch", "nani", "jumba", "pleakley", "cobra_bubbles", "david"],
-    "moana": ["moana", "maui", "gramma_tala", "hei_hei", "pua", "te_fiti", "tamatoa"],
-    "pinocchio": ["pinocchio", "geppetto", "jiminy_cricket", "blue_fairy", "honest_john", "stromboli"],
-    "ralph": ["ralph", "vanellope", "felix", "calhoun", "shank", "yesss", "knowsmore", "spamley"],
-    "pocahontas": ["pocahontas", "john_smith", "powhatan", "meeko", "flit", "grandmother_willow", "ratcliffe", "nakoma"],
-    "the_little_mermaid": ["ariel", "eric", "sebastian", "flounder", "scuttle", "triton", "ursula"],
-    "the_lion_king": ["simba", "mufasa", "nala", "scar", "timon", "pumbaa", "rafiki", "zazu"],
-    "toy_story": ["woody", "buzz", "jessie", "potato_head", "slinky", "rex", "hamm", "bo_peep", "andy"],
-    "wreck_it_ralph": ["ralph", "vanellope", "felix", "calhoun", "shank", "yesss", "knowsmore", "spamley"],
-    "zootopia": ["judy", "nick", "bogo", "bellwether", "clawhauser", "flash", "mr_big"],
-    "tangled": ["rapunzel", "flynn", "gothel", "pascal", "maximus"]
+disney_main_characters = {"aladdin", "jasmine", "genie", "jafar", "abu", "iago", "sultan",
+    "belle", "beast", "gaston", "lumiere", "cogsworth", "mrs_potts", "chip", "lefou",
+    "chicken_little", "abby_mallard", "runt", "fish", "buck_cluck",
+    "elsa", "anna", "kristoff", "olaf", "sven", "hans", "duke",
+    "dumbo", "mrs_jumbo", "timothy", "ringmaster", "crows",
+    "hercules", "megara", "phil", "hades", "zeus", "pain", "panic",
+    "lilo", "stitch", "nani", "jumba", "pleakley", "cobra_bubbles", "david",
+    "moana", "maui", "gramma_tala", "hei_hei", "pua", "te_fiti", "tamatoa",
+    "pinocchio", "geppetto", "jiminy_cricket", "blue_fairy", "honest_john", "stromboli",
+    "ralph", "vanellope", "felix", "calhoun", "shank", "yesss", "knowsmore", "spamley",
+    "pocahontas", "john_smith", "powhatan", "meeko", "flit", "grandmother_willow", "ratcliffe", "nakoma",
+    "ariel", "eric", "sebastian", "flounder", "scuttle", "triton", "ursula",
+    "simba", "mufasa", "nala", "scar", "timon", "pumbaa", "rafiki", "zazu",
+    "woody", "buzz", "jessie", "potato_head", "slinky", "rex", "hamm", "bo_peep", "andy",
+    "ralph", "vanellope", "felix", "calhoun", "shank", "yesss", "knowsmore", "spamley",
+    "judy", "nick", "bogo", "bellwether", "clawhauser", "flash", "mr_big",
+    "rapunzel", "flynn", "gothel", "pascal", "maximus", "toy"
 }
+
 
 # main characters from the ghibli movies
 ghibli_main_characters = {
-    'arrietty': ['arrietty', 'sho'],
-    'castle_in_the_sky': ['sheeta', 'pazu'],
-    'from_up_on_poppy_hill': ['umi', 'shun'],
-    'grave_of_the_fireflies': ['seita', 'setsuko'],
-    'kikis_delivery_service': ['kiki', 'jiji', 'tombo'],
-    'my_neighbor_totoro': ['satsuki', 'mei', 'totoro'],
-    'nausicaa': ['nausicaa', 'asbel'],
-    'only_yesterday': ['taeko'],
-    'ponyo': ['ponyo', 'sosuke'],
-    'porco_rosso': ['porco', 'fio'],
-    'princess_mononoke': ['ashitaka', 'san', 'eboshi'],
-    'spirited_away': ['chihiro', 'haku', 'yubaba', 'no_face'],
-    'tales_from_earthsea': ['arren', 'tenar', 'ged'],
-    'the_boy_and_the_heron': ['mahito', 'heron'],
-    'the_secret_world_of_arrietty': ['arrietty', 'sho'],
-    'the_wind_rises': ['jiro', 'naoko'],
-    'when_marnie_was_there': ['anna', 'marnie'],
-    'whisper_of_the_heart': ['shizuku', 'seiji']
+    'arrietty', 'sho',
+    'sheeta', 'pazu',
+    'umi', 'shun',
+    'seita', 'setsuko',
+    'kiki', 'jiji', 'tombo',
+    'satsuki', 'mei', 'totoro',
+    'nausicaa', 'asbel',
+    'taeko',
+    'ponyo', 'sosuke',
+    'porco', 'fio',
+    'ashitaka', 'san', 'eboshi',
+    'chihiro', 'haku', 'yubaba', 'no_face',
+    'arren', 'tenar', 'ged',
+    'mahito', 'heron',
+    'jiro', 'naoko',
+    'anna', 'marnie',
+    'shizuku', 'seiji'
 }
 
 
 # Stopwords from standard-mallet-en.txt
-stopwords = {
+stopwords_mallet = {
     "a", "able", "about", "above", "according", "accordingly", "across", "actually", "after", "afterwards",
     "again", "against", "all", "allow", "allows", "almost", "alone", "along", "already", "also", "although",
     "always", "am", "among", "amongst", "an", "and", "another", "any", "anybody", "anyhow", "anyone",
@@ -61,7 +63,7 @@ stopwords = {
     "edu", "eg", "eight", "either", "else", "elsewhere", "enough", "entirely", "especially", "et", "etc", "even",
     "ever", "every", "everybody", "everyone", "everything", "everywhere", "ex", "exactly", "example", "except",
     "f", "far", "few", "fifth", "first", "five", "followed", "following", "follows", "for", "former", "formerly",
-    "forth", "four", "from", "further", "furthermore", "g", "get", "gets", "getting", "given", "gives", "go",
+    "forth", "four", "from", "further", "furthermore", "g", "get", "gets", "getting", "given", "gives", "go", "gonna"
     "goes", "going", "gone", "got", "gotten", "greetings", "h", "had", "happens", "hardly", "has", "have",
     "having", "he", "hello", "help", "hence", "her", "here", "hereafter", "hereby", "herein", "hereupon",
     "hers", "herself", "hi", "him", "himself", "his", "hither", "hopefully", "how", "howbeit", "however", "i",
@@ -95,4 +97,5 @@ stopwords = {
     "willing", "wish", "with", "within", "without", "wonder", "would", "x", "y", "yes", "yet", "you", "your",
     "yours", "yourself", "yourselves", "z", "zero"
 }
+
 
