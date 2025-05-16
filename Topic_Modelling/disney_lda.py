@@ -39,6 +39,14 @@ un2wn_mapping = {"VERB": wn.VERB, "NOUN": wn.NOUN, "ADJ": wn.ADJ, "ADV": wn.ADV}
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
+# Custom stopwords
+custom_stopwords = {'okay'}
+
+# Filtering function
+def filter_token(token):
+    return (token not in stop_words and token not in custom_stopwords and len(token) >= 3 and
+            token.isalpha())
+
 
 # Read all files in the data folder
 raw_documents = []
@@ -65,7 +73,7 @@ for words in raw_documents:
         else:
             lemma = lemmatizer.lemmatize(word)
         lemma = lemma.lower()
-        if lemma not in stop_words: 
+        if filter_token(lemma):  
             lemmatized_doc.append(lemma)
     movie_docs.append(lemmatized_doc)
 
