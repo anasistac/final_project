@@ -33,7 +33,7 @@ And also, with any musical, and Howard would say this too, you have to establish
 If somebody is coming out and they're on a stage, and they're singing All That Jazz, you go, "Okay, I get what this is." If somebody comes out and they're animated, and they're doing a sea shanty about the fable of The Little Mermaid, you go, "Okay, I get..." So long as you get what world you're in, you can accept it.
 Ron again.
 This first shot of King Triton's palace is a multi-plane shot.
-After was developed, a shot like this would be easy, but at the time, if you wanted to move in on something and give some sense of dimension, you needed to use multi-plane.
+After CAPS was developed, a shot like this would be easy, but at the time, if you wanted to move in on something and give some sense of dimension, you needed to use multi-plane.
 I think this film was the first use of multi-plane since...
 I think there might be a shot in Jungle Book, which was kind of reused in The Rescuers, I think.
 Those trumpet fish were the first real explosion -of higher key colors.
@@ -784,7 +784,7 @@ There's Snow White and there's Sleeping Beauty and there's Cinderella, there's P
 It's a humbling experience, I'll tell you.
 But to try to do something that could actually be comfortable in that line of titles is pretty amazing.
 I think it does give you latitude to work in all kinds of musical styles and just to dream.
-And this is one of early , computer-animated steps, was still the infancy of computer animation, but we used it.
+And this is one of early CGI, computer-animated steps, was still the infancy of computer animation, but we used it.
 It generated a 2D drawing that then was painted, but the actual stairs were built in the computer and then painted by hand based on the drawings generated from that.
 Congratulations, my dear.
 Patty Disney, the wife of Roy Disney, I remember her talking after the preview.
@@ -896,11 +896,11 @@ And it's nonstop wall-to-wall action-adventure hits.
 And this was actually in slightly pre-computer days.
 So, it helps that you have, nowadays, in terms of synching cues and all that you didn't quite have then.
 Well, it was a transitional time.
-It was getting into stuff and all of that.
+It was getting into MIDI stuff and all of that.
 Right, we were just getting into it.
-I was, I think, one of the first people to work exclusively in .
+I was, I think, one of the first people to work exclusively in MIDI.
 And it was an amazing help, because in the beginning of doing the score, I would write the score with the click track, and set up my measures and write the music.
-And then I said, "I want to see how it sounds." So then, I play it into my computer in and play it back.
+And then I said, "I want to see how it sounds." So then, I play it into my computer in MIDI and play it back.
 And at some point in the way, I said, "Duh!
 Why don't I just write it right onto the computer" "and avoid this second step?" The mermaid on the rock was in the identical pose with the mermaid in Copenhagen.
 That was our homage to the iconic statue there in Copenhagen of Hans Christian Andersen's The Little Mermaid.
@@ -937,7 +937,7 @@ At first, Howard wasn't so sure about using a Disney chorus.
 And he was like, "Is that too old-fashioned?" But eventually, I think he thought, "No.
 That actually aligns the movie" "with these great Disney classics." We had to reflect back to the classic Disney score.
 Snow White and Pinocchio and all those things, and this was a chance to do it.
-This particular shot right here is actually the first shot, which is Computer Animated Production System.
+This particular shot right here is actually the first CAPS shot, which is Computer Animated Production System.
 Yeah, rather than using cels in that shot, all the characters were painted in the computer, and that ship was all composited in the computer.
 Then that process later went on to be used completely from The Rescuers Down Under to Beauty and the Beast, Aladdin, The Lion King.
 But that was its first test run.

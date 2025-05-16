@@ -1,4 +1,4 @@
-MY Dad, do you want some candy?
+MY NEIGHBOR TOTORO Dad, do you want some candy?
 Thanks.
 Aren't you tired?
 No.
@@ -363,7 +363,7 @@ And I'm hoping to see him myself soon, too.
 Kanta, hurry up!
 You'll be late!
 Coming...
-, , Well, well!
+WAIT, RIVER, PINE TREE Well, well!
 Mei?
 Excuse me!
 Yes, Satsuki?
@@ -429,9 +429,9 @@ Bye-bye.
 Who was that?
 I don't know.
 Just in time!
-, Getting on?
+DESTINATION MAEZAWA, INARIMAE STATION TOKYO ELECTRIC RAILWAY BUS Getting on?
 All right, drive on.
-Daddy wasn't on it.
+TOKYO BUS COMPANY Daddy wasn't on it.
 He'll be on the next one.
 Why don't you wait at Nanny's?
 Are you okay?
@@ -448,7 +448,7 @@ You can use this.
 Take it, Mei's slipping off.
 Hold it like this.
 Here's the bus!
-He took Daddy's umbrella.
+TSUKAMORI INARIMAE He took Daddy's umbrella.
 I'm sorry.
 Drive on.
 The train was late and I missed the bus.
@@ -470,7 +470,7 @@ When we opened it, it was full of magic nuts and seeds!
 "We decided to plant them in the garden to make a lovely forest." But they haven't sprouted yet.
 Mei sits there all day, waiting for them.
 She looks like a little crab.
-It's nearly summer vacation.
+CRAB MEI It's nearly summer vacation.
 Dearest, dear Mom, get well soon.
 Love, Satsuki.
 Come on.
@@ -665,9 +665,9 @@ Mei is lost and we can't find her!
 She must be scared, please help me find her.
 I don't know what to do.
 They can't see the bus.
-Mei!
+FOREST SWAMP CEMETERY SHRINE SANCTUARY LAKE MEI Mei!
 The trees are moving out of the way!
-Mei!
+MEI Mei!
 Satsuki!
 Satsuki!
 Mei!
@@ -676,7 +676,7 @@ Satsuki!
 You silly girl.
 I'm sorry.
 You wanted to take the corn to Mom?
-Will you take us there?
+SHICHIKOKUYAMA HOSPITAL Will you take us there?
 Thank you so much.
 I'm sorry.
 They didn't need to send a telegram just for a cold.
@@ -701,4 +701,4 @@ What?
 I could swear I just saw Satsuki and Mei laughing up in that tree.
 Maybe they were.
 Look.
-TO
+TO MOM THE END

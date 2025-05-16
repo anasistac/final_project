@@ -2105,8 +2105,8 @@ The rose she had offered was truly an enchanted rose, which would bloom until hi
 If he could learn to love another and earn her love in return by the time the last petal fell, then the spell would be broken.
 If not, he would be doomed to remain a beast for all time.
 As the years passed, he fell into despair and lost all hope, for who could ever learn to love a beast?
-Little town, it's a quiet village  Every day like the one before  Little town, full of little people  Waking up to say...
-There goes the baker  with his tray, like always  The same old bread and rolls to sell  Every morning just the same  Since the morning that we came  To this poor provincial town Good morning, Belle.
+Little town, it's a quiet village Every day like the one before Little town, full of little people Waking up to say...
+There goes the baker with his tray, like always The same old bread and rolls to sell Every morning just the same Since the morning that we came To this poor provincial town Good morning, Belle.
 Morning, monsieur.
 Where you off to?
 The bookshop.
@@ -2114,10 +2114,10 @@ I just finished the most wonderful story about a beanstalk and an ogre and...
 That's nice.
 Marie, the baguettes!
 Hurry up!
-Look, there she goes  The girl is strange, no question  Dazed and distracted, can't you tell?
-Never part of any crowd  'Cause her head's up on some cloud  No denying she's a funny girl  that Belle  -Bonjour  -Good day  How is your family?
--Bonjour  -Good day  How is your wife?
-I need six eggs  That's too expensive  There must be more  than this provincial life Belle.
+Look, there she goes The girl is strange, no question Dazed and distracted, can't you tell?
+Never part of any crowd 'Cause her head's up on some cloud No denying she's a funny girl that Belle -Bonjour -Good day How is your family?
+-Bonjour -Good day How is your wife?
+I need six eggs That's too expensive There must be more than this provincial life Belle.
 Good morning.
 I've come to return the book I borrowed.
 Finished already?
@@ -2135,10 +2135,10 @@ But, sir...
 I insist.
 Well, thank you.
 Thank you very much.
-Look, there she goes  That girl is so peculiar  I wonder if she's feeling well  With a dreamy, far-off look  And her nose stuck in a book  What a puzzle to the rest of us is Belle  Isn't this amazing?
-It's my favorite part  Because you'll see  Here's where she meets  Prince Charming  But she won't discover that it's him  Till chapter three Hey, hey!
+Look, there she goes That girl is so peculiar I wonder if she's feeling well With a dreamy, far-off look And her nose stuck in a book What a puzzle to the rest of us is Belle Isn't this amazing?
+It's my favorite part Because you'll see Here's where she meets Prince Charming But she won't discover that it's him Till chapter three Hey, hey!
 Hey, hey, hey!
-Now it's no wonder  that her name means beauty  Her looks have got no parallel  But behind that fair facade  I'm afraid she's rather odd  Very different from the rest of us  She's nothing like the rest of us  Yes, different from the rest of us  is Belle Wow!
+Now it's no wonder that her name means beauty Her looks have got no parallel But behind that fair facade I'm afraid she's rather odd Very different from the rest of us She's nothing like the rest of us Yes, different from the rest of us is Belle Wow!
 You didn't miss a shot, Gaston.
 You're the greatest hunter in the whole world!
 I know.
@@ -2156,9 +2156,9 @@ That makes her the best.
 And don't I deserve the best?
 Well, of course.
 I mean, you do.
-Right from the moment  when I met her, saw her  I said she's gorgeous, and I fell  Here in town there's only she  Who is beautiful as me  So I'm making plans  to woo and marry Belle  Look, there he goes  Isn't he dreamy?
-Monsieur Gaston  Oh, he's so cute  Be still, my heart  I'm hardly breathing  He's such a tall, dark, strong  and handsome brute  -Bonjour  -Good day  -You call this bacon?
--What lovely grapes  -Some cheese  -Ten yards  -Excuse me  -I'll get the knife  -Please let me through  -This bread, it's stale  -Those fish, they smell  -Madame's mistaken  There must be more  than this provincial life  Just watch, I'm going  to make Belle my wife  Look, there she goes  a girl who's strange but special  A most peculiar mademoiselle  It's a pity and a sin  She doesn't quite fit in  'Cause she really is a funny girl  A beauty but a funny girl  She really is a funny girl  That Belle Hello, Belle.
+Right from the moment when I met her, saw her I said she's gorgeous, and I fell Here in town there's only she Who is beautiful as me So I'm making plans to woo and marry Belle Look, there he goes Isn't he dreamy?
+Monsieur Gaston Oh, he's so cute Be still, my heart I'm hardly breathing He's such a tall, dark, strong and handsome brute -Bonjour -Good day -You call this bacon?
+-What lovely grapes -Some cheese -Ten yards -Excuse me -I'll get the knife -Please let me through -This bread, it's stale -Those fish, they smell -Madame's mistaken There must be more than this provincial life Just watch, I'm going to make Belle my wife Look, there she goes a girl who's strange but special A most peculiar mademoiselle It's a pity and a sin She doesn't quite fit in 'Cause she really is a funny girl A beauty but a funny girl She really is a funny girl That Belle Hello, Belle.
 Bonjour, Gaston.
 Gaston, may I have my book, please?
 How can you read this?
@@ -2386,8 +2386,8 @@ Is he gone?
 Can you imagine?
 He asked me to marry him.
 Me, the wife of that boorish, brainless...
-Madame Gaston  Can't you just see it?
-Madame Gaston  His little wife  No, sir, not me, I guarantee it  I want much more  than this provincial life  I want adventure  in the great wide somewhere  I want it more than I can tell  And for once it might be grand  To have someone understand  I want so much more  than they've got planned Philippe!
+Madame Gaston Can't you just see it?
+Madame Gaston His little wife No, sir, not me, I guarantee it I want much more than this provincial life I want adventure in the great wide somewhere I want it more than I can tell And for once it might be grand To have someone understand I want so much more than they've got planned Philippe!
 What are you doing here?
 Where's...
 Where's Papa?
@@ -2536,7 +2536,7 @@ Nothing helps.
 -Who, you?
 Never.
 Gaston, you've got to pull yourself together.
-Gosh, it disturbs me  to see you, Gaston  Looking so down in the dumps  Every guy here'd  love to be you, Gaston  Even when taking your lumps  There's no man in town  as admired as you  You're everyone's favorite guy  Everyone's awed  and inspired by you  And it's not very hard  To see why  No one's slick as Gaston  No one's quick as Gaston  No one's neck's  as incredibly thick as Gaston  For there's no man in town  half as manly  Perfect, a pure paragon  You can ask any  Tom, Dick or Stanley  And they'll tell you  whose team they prefer to be on  No one's been like Gaston  A kingpin like Gaston  No one's got a swell cleft  in his chin like Gaston  As a specimen, yes, I'm intimidating  My, what a guy, that Gaston  Give five hurrahs  Give 12 hip-hips  Gaston is the best  and the rest is all drips  No one fights like Gaston  Douses lights like Gaston  In a wrestling match  nobody bites like Gaston  For there's no one  as burly and brawny  As you see, I've got biceps to spare  -Not a bit of him scraggly or scrawny  -That's right  And every last inch of me's  covered with hair  -No one hits like Gaston  -Matches wits like Gaston  In a spitting match  nobody spits like Gaston  I'm especially good at expectorating  Ten points for Gaston  When I was a lad  I ate four dozen eggs  Every morning to help me get large  And now that I'm grown  I eat five dozen eggs  So I'm roughly the size of a barge  No one shoots like Gaston  Makes those beauts like Gaston  Then goes tromping around  wearing boots like Gaston  I use antlers in all of my decorating  My, what a guy  Gaston Help!
+Gosh, it disturbs me to see you, Gaston Looking so down in the dumps Every guy here'd love to be you, Gaston Even when taking your lumps There's no man in town as admired as you You're everyone's favorite guy Everyone's awed and inspired by you And it's not very hard To see why No one's slick as Gaston No one's quick as Gaston No one's neck's as incredibly thick as Gaston For there's no man in town half as manly Perfect, a pure paragon You can ask any Tom, Dick or Stanley And they'll tell you whose team they prefer to be on No one's been like Gaston A kingpin like Gaston No one's got a swell cleft in his chin like Gaston As a specimen, yes, I'm intimidating My, what a guy, that Gaston Give five hurrahs Give 12 hip-hips Gaston is the best and the rest is all drips No one fights like Gaston Douses lights like Gaston In a wrestling match nobody bites like Gaston For there's no one as burly and brawny As you see, I've got biceps to spare -Not a bit of him scraggly or scrawny -That's right And every last inch of me's covered with hair -No one hits like Gaston -Matches wits like Gaston In a spitting match nobody spits like Gaston I'm especially good at expectorating Ten points for Gaston When I was a lad I ate four dozen eggs Every morning to help me get large And now that I'm grown I eat five dozen eggs So I'm roughly the size of a barge No one shoots like Gaston Makes those beauts like Gaston Then goes tromping around wearing boots like Gaston I use antlers in all of my decorating My, what a guy Gaston Help!
 Someone help me!
 Maurice?
 Please!
@@ -2568,7 +2568,7 @@ Crazy old Maurice.
 He's always good for a laugh.
 Crazy old Maurice?
 Crazy old Maurice.
-LeFou, I'm afraid I've been thinking  A dangerous pastime  I know  But that wacky old coot  is Belle's father  And his sanity's only so-so  Now, the wheels in my head  have been turning  Since I looked at that loony old man  See, I promised myself  I'd be married to Belle  And right now, I'm evolving a plan If I...
+LeFou, I'm afraid I've been thinking A dangerous pastime I know But that wacky old coot is Belle's father And his sanity's only so-so Now, the wheels in my head have been turning Since I looked at that loony old man See, I promised myself I'd be married to Belle And right now, I'm evolving a plan If I...
 Yes?
 Then we...
 No, would she?
@@ -2576,7 +2576,7 @@ Guess.
 Now I get it!
 Let's go!
 Let's go!
-No one plots like Gaston  Takes cheap shots like Gaston  Plans to persecute harmless crackpots  like Gaston  So, his marriage  we soon will be celebrating  My, what a guy  Gaston Will no one help me?
+No one plots like Gaston Takes cheap shots like Gaston Plans to persecute harmless crackpots like Gaston So, his marriage we soon will be celebrating My, what a guy Gaston Will no one help me?
 Who is it?
 Mrs.
 Potts, dear.
@@ -2741,15 +2741,15 @@ Music?
 It is with deepest pride and greatest pleasure that we welcome you tonight.
 And now, we invite you to relax.
 Let us pull up a chair, as the dining room proudly presents your dinner.
-Be our guest, be our guest  Put our service to the test  Tie your napkin  'round your neck, chérie  And we provide the rest  Soup du jour, hot hors d'oeuvres  Why, we only live to serve  Try the gray stuff, it's delicious  Don't believe me?
-Ask the dishes  They can sing, they can dance  After all, miss, this is France  And a dinner here  is never second best  Go on, unfold your menu  Take a glance  and then you'll be our guest  Oui, our guest  Be our guest  Beef ragout, cheese soufflé  Pie and pudding, en flambé  We'll prepare and serve with flair  A culinary cabaret  You're alone and you're scared  But the banquet's all prepared  No one's gloomy or complaining  While the flatware's entertaining  We tell jokes, I do tricks  With my fellow candlesticks  Und it's all in perfect taste  That you can bet  Come on and lift your glass  You've won your own free pass  To be our guest  If you're stressed  it's fine dining we suggest  Be our guest, be our guest  Be our guest  Life is so unnerving  For a servant who's not serving  He's not whole  without a soul to wait upon Get off!
-Those good old days  When we were useful  Suddenly, those good old days  are gone  Ten years we've been rusting  Needing so much more than dusting  Needing exercise  A chance to use our skills  Most days  we just lay around the castle  Flabby, fat and lazy  You walked in and oops-a-daisy  It's a guest, it's a guest  Sakes alive, well, I'll be blessed  Wine's been poured  and thank the Lord  I've had the napkins freshly pressed  With dessert, she'll want tea  And, my dear, that's fine with me  While the cups do their soft-shoeing  I'll be bubbling, I'll be brewing  I'll get warm, piping hot  Heaven sakes, is that a spot?
-Clean it up  We want the company impressed  We've got a lot to do  Is it one lump or two?
-For you, our guest  -She's our guest  -She's our guest  Be our guest  Be our guest, be our guest  Our command is your request Let's go, people.
+Be our guest, be our guest Put our service to the test Tie your napkin 'round your neck, chérie And we provide the rest Soup du jour, hot hors d'oeuvres Why, we only live to serve Try the gray stuff, it's delicious Don't believe me?
+Ask the dishes They can sing, they can dance After all, miss, this is France And a dinner here is never second best Go on, unfold your menu Take a glance and then you'll be our guest Oui, our guest Be our guest Beef ragout, cheese soufflé Pie and pudding, en flambé We'll prepare and serve with flair A culinary cabaret You're alone and you're scared But the banquet's all prepared No one's gloomy or complaining While the flatware's entertaining We tell jokes, I do tricks With my fellow candlesticks Und it's all in perfect taste That you can bet Come on and lift your glass You've won your own free pass To be our guest If you're stressed it's fine dining we suggest Be our guest, be our guest Be our guest Life is so unnerving For a servant who's not serving He's not whole without a soul to wait upon Get off!
+Those good old days When we were useful Suddenly, those good old days are gone Ten years we've been rusting Needing so much more than dusting Needing exercise A chance to use our skills Most days we just lay around the castle Flabby, fat and lazy You walked in and oops-a-daisy It's a guest, it's a guest Sakes alive, well, I'll be blessed Wine's been poured and thank the Lord I've had the napkins freshly pressed With dessert, she'll want tea And, my dear, that's fine with me While the cups do their soft-shoeing I'll be bubbling, I'll be brewing I'll get warm, piping hot Heaven sakes, is that a spot?
+Clean it up We want the company impressed We've got a lot to do Is it one lump or two?
+For you, our guest -She's our guest -She's our guest Be our guest Be our guest, be our guest Our command is your request Let's go, people.
 Fun's over.
 Over here.
 Line up.
-It's 10 years  since we've had anybody here  And we're obsessed  With your meal, with your ease  Yes, indeed, we aim to please  While the candlelight's still glowing  Let us help you, we'll keep going  Course by course  One by one  Till you shout, "Enough, I'm done!"  Then we'll sing you off to sleep  as you digest  Tonight, you'll prop your feet up  But for now, let's eat up  Be our guest  Be our guest  Be our guest  Please be our  Guest Bravo!
+It's 10 years since we've had anybody here And we're obsessed With your meal, with your ease Yes, indeed, we aim to please While the candlelight's still glowing Let us help you, we'll keep going Course by course One by one Till you shout, "Enough, I'm done!" Then we'll sing you off to sleep as you digest Tonight, you'll prop your feet up But for now, let's eat up Be our guest Be our guest Be our guest Please be our Guest Bravo!
 That was wonderful.
 Thank you.
 Thank you, mademoiselle.
@@ -2909,9 +2909,9 @@ There's chores to be done in the kitchen.
 But what are they talking about?
 What's going on?
 Come on, Mom.
-There's something sweet  and almost kind  But he was mean  and he was coarse and unrefined  And now he's dear and so unsure  I wonder why  I didn't see it there before  She glanced this way  I thought I saw  And when we touched  she didn't shudder at my paw  No, it can't be  I'll just ignore  But then she's never looked at me  that way before  New and a bit alarming  Who'd have ever thought  That this could be  True  That he's no Prince Charming  But there's something in him  That I simply didn't see  -Well, who'd have thought  -Well, bless my soul  -Well, who'd have known  -Well, who, indeed  And who'd have guessed  they'd come together on their own  -It's so peculiar.
-Wait and see  -We'll wait and see  A few days more  There may be something there  that wasn't there before  You know, perhaps there is something  there that wasn't there before What?
-There may be something there  that wasn't there before What's there, Mama?
+There's something sweet and almost kind But he was mean and he was coarse and unrefined And now he's dear and so unsure I wonder why I didn't see it there before She glanced this way I thought I saw And when we touched she didn't shudder at my paw No, it can't be I'll just ignore But then she's never looked at me that way before New and a bit alarming Who'd have ever thought That this could be True That he's no Prince Charming But there's something in him That I simply didn't see -Well, who'd have thought -Well, bless my soul -Well, who'd have known -Well, who, indeed And who'd have guessed they'd come together on their own -It's so peculiar.
+Wait and see -We'll wait and see A few days more There may be something there that wasn't there before You know, perhaps there is something there that wasn't there before What?
+There may be something there that wasn't there before What's there, Mama?
 I'll tell you when you're older.
 Tonight is the night.
 I'm not sure I can do this.
@@ -2934,7 +2934,7 @@ Stupid.
 Not quite the word I was looking for.
 Perhaps a little more off the top.
 Your lady awaits.
-Tale as old as time  True as it can be  Barely even friends  Then somebody bends  Unexpectedly  Just a little change  Small to say the least  Both a little scared  Neither one prepared  Beauty and the Beast  Ever just the same  Ever a surprise  Ever as before  Ever just as sure  As the sun will rise  Tale as old as time  Tune as old as song  Bittersweet and strange  Finding you can change  Learning you were wrong  Certain as the sun  Rising in the east  Tale as old as time  Song as old as rhyme  Beauty and the Beast  Tale as old as time  Song as old as rhyme  Beauty and the Beast Off to the cupboard with you now, Chip.
+Tale as old as time True as it can be Barely even friends Then somebody bends Unexpectedly Just a little change Small to say the least Both a little scared Neither one prepared Beauty and the Beast Ever just the same Ever a surprise Ever as before Ever just as sure As the sun will rise Tale as old as time Tune as old as song Bittersweet and strange Finding you can change Learning you were wrong Certain as the sun Rising in the east Tale as old as time Song as old as rhyme Beauty and the Beast Tale as old as time Song as old as rhyme Beauty and the Beast Off to the cupboard with you now, Chip.
 It's past your bedtime.
 Good night, love.
 Belle?
@@ -3059,7 +3059,7 @@ He'll come after them in the night.
 No.
 We're not safe till his head is mounted on my wall!
 I say we kill the Beast!
-We're not safe until he's dead  He'll come stalking us at night  Set to sacrifice our children  To his monstrous appetite  He'll wreak havoc on our village  If we let him wander free  So, it's time to take some action, boys  It's time to follow me  Through the mist, through the woods  through the darkness and the shadows  It's a nightmare  but it's one exciting ride  Say a prayer, then we're there  at the drawbridge of a castle  And there's something  truly terrible inside  It's a beast  He's got fangs, razor-sharp ones  Massive paws, killer claws  for the feast  Hear him roar, see him foam  But we're not coming home  Till he's dead, good and dead  Kill the Beast!
+We're not safe until he's dead He'll come stalking us at night Set to sacrifice our children To his monstrous appetite He'll wreak havoc on our village If we let him wander free So, it's time to take some action, boys It's time to follow me Through the mist, through the woods through the darkness and the shadows It's a nightmare but it's one exciting ride Say a prayer, then we're there at the drawbridge of a castle And there's something truly terrible inside It's a beast He's got fangs, razor-sharp ones Massive paws, killer claws for the feast Hear him roar, see him foam But we're not coming home Till he's dead, good and dead Kill the Beast!
 No, I won't let you do this.
 If you're not with us, you're against us.
 Bring the old man!
@@ -3071,13 +3071,13 @@ Who's with me?
 I am!
 I am!
 I am!
-Light your torch, mount your horse  Screw your courage  to the sticking place  We're counting on Gaston  to lead the way  Through a mist, to a wood  where within a haunted castle  Something's lurking  that you don't see every day  It's a beast  One as tall as a mountain  We won't rest  till he's good and deceased  Sally forth, tally-ho  Grab your sword and your bow  Praise the Lord and here we go We'll lay siege to the castle and bring back his head!
+Light your torch, mount your horse Screw your courage to the sticking place We're counting on Gaston to lead the way Through a mist, to a wood where within a haunted castle Something's lurking that you don't see every day It's a beast One as tall as a mountain We won't rest till he's good and deceased Sally forth, tally-ho Grab your sword and your bow Praise the Lord and here we go We'll lay siege to the castle and bring back his head!
 I have to warn the Beast.
 This is all my fault.
 Papa, what are we going to do?
 Now, now.
 We'll think of something.
-We don't like  what we don't understand  In fact, it scares us  And this monster  is mysterious at least  Bring your guns, bring your knives  Save your children and your wives  We'll save our village and our lives  We'll kill the Beast I knew it.
+We don't like what we don't understand In fact, it scares us And this monster is mysterious at least Bring your guns, bring your knives Save your children and your wives We'll save our village and our lives We'll kill the Beast I knew it.
 I knew it was foolish to get our hopes up.
 Maybe it would have been better if she'd never come at all.
 Could it be...
@@ -3091,7 +3091,7 @@ If it's a fight they want, we'll be ready for them.
 Who's with me?
 Take whatever booty you can find.
 But remember, the Beast is mine!
-Hearts ablaze, banners high  We go marching into battle  Unafraid, although the danger  just increased  Raise the flag, sing the song  Here we come, we're 50 strong  And 50 Frenchmen can't be wrong  Let's kill the Beast Pardon me, Master.
+Hearts ablaze, banners high We go marching into battle Unafraid, although the danger just increased Raise the flag, sing the song Here we come, we're 50 strong And 50 Frenchmen can't be wrong Let's kill the Beast Pardon me, Master.
 Leave me in peace.
 But, sir, the castle is under attack.
 Kill the Beast!
@@ -3186,7 +3186,7 @@ Are they gonna live happily ever after, Mama?
 Of course, my dear.
 Of course.
 Do I still have to sleep in the cupboard?
-Certain as the sun  Rising in the east  Tale as old as time  Song as old as rhyme  Beauty and the Beast  Tale as old as time  Song as old as rhyme  Beauty and the Beast
+Certain as the sun Rising in the east Tale as old as time Song as old as rhyme Beauty and the Beast Tale as old as time Song as old as rhyme Beauty and the Beast
 Hi, this is Ron Clements, I'm the co-writer, co-director of Little Mermaid.
 Hi, I'm John Musker, I'm the other guy, the other co-director, co-writer of The Little Mermaid.
 Hi, I'm Alan Menken, the composer of Little Mermaid.
@@ -3222,7 +3222,7 @@ And also, with any musical, and Howard would say this too, you have to establish
 If somebody is coming out and they're on a stage, and they're singing All That Jazz, you go, "Okay, I get what this is." If somebody comes out and they're animated, and they're doing a sea shanty about the fable of The Little Mermaid, you go, "Okay, I get..." So long as you get what world you're in, you can accept it.
 Ron again.
 This first shot of King Triton's palace is a multi-plane shot.
-After was developed, a shot like this would be easy, but at the time, if you wanted to move in on something and give some sense of dimension, you needed to use multi-plane.
+After CAPS was developed, a shot like this would be easy, but at the time, if you wanted to move in on something and give some sense of dimension, you needed to use multi-plane.
 I think this film was the first use of multi-plane since...
 I think there might be a shot in Jungle Book, which was kind of reused in The Rescuers, I think.
 Those trumpet fish were the first real explosion -of higher key colors.
@@ -3973,7 +3973,7 @@ There's Snow White and there's Sleeping Beauty and there's Cinderella, there's P
 It's a humbling experience, I'll tell you.
 But to try to do something that could actually be comfortable in that line of titles is pretty amazing.
 I think it does give you latitude to work in all kinds of musical styles and just to dream.
-And this is one of early , computer-animated steps, was still the infancy of computer animation, but we used it.
+And this is one of early CGI, computer-animated steps, was still the infancy of computer animation, but we used it.
 It generated a 2D drawing that then was painted, but the actual stairs were built in the computer and then painted by hand based on the drawings generated from that.
 Congratulations, my dear.
 Patty Disney, the wife of Roy Disney, I remember her talking after the preview.
@@ -4085,11 +4085,11 @@ And it's nonstop wall-to-wall action-adventure hits.
 And this was actually in slightly pre-computer days.
 So, it helps that you have, nowadays, in terms of synching cues and all that you didn't quite have then.
 Well, it was a transitional time.
-It was getting into stuff and all of that.
+It was getting into MIDI stuff and all of that.
 Right, we were just getting into it.
-I was, I think, one of the first people to work exclusively in .
+I was, I think, one of the first people to work exclusively in MIDI.
 And it was an amazing help, because in the beginning of doing the score, I would write the score with the click track, and set up my measures and write the music.
-And then I said, "I want to see how it sounds." So then, I play it into my computer in and play it back.
+And then I said, "I want to see how it sounds." So then, I play it into my computer in MIDI and play it back.
 And at some point in the way, I said, "Duh!
 Why don't I just write it right onto the computer" "and avoid this second step?" The mermaid on the rock was in the identical pose with the mermaid in Copenhagen.
 That was our homage to the iconic statue there in Copenhagen of Hans Christian Andersen's The Little Mermaid.
@@ -4126,7 +4126,7 @@ At first, Howard wasn't so sure about using a Disney chorus.
 And he was like, "Is that too old-fashioned?" But eventually, I think he thought, "No.
 That actually aligns the movie" "with these great Disney classics." We had to reflect back to the classic Disney score.
 Snow White and Pinocchio and all those things, and this was a chance to do it.
-This particular shot right here is actually the first shot, which is Computer Animated Production System.
+This particular shot right here is actually the first CAPS shot, which is Computer Animated Production System.
 Yeah, rather than using cels in that shot, all the characters were painted in the computer, and that ship was all composited in the computer.
 Then that process later went on to be used completely from The Rescuers Down Under to Beauty and the Beast, Aladdin, The Lion King.
 But that was its first test run.
@@ -5108,7 +5108,7 @@ Got to find it before it lays its filthy eggs.
 It came this way, but the sugar particles in the atmosphere are jamming my sensor.
 Can't get a read on it.
 So what is it with this Wreck-It joker?
-Why did he go ?
+Why did he go AWOL?
 I wish I knew, ma'am.
 He was acting all squirrelly last night...
 Going on about cake and medals...
@@ -6027,7 +6027,7 @@ Just like I knew they would.
 Turns out I don't need a medal to tell me I'm a good guy.
 'Cause if that little kid likes me...
 How bad can I be?
-".
+FLYNN".
 This is the story of how I died.
 But don't worry, this is a fun story, and the truth is, it isn't even mine.
 This is the story of a girl named Rapunzel.
@@ -6055,7 +6055,7 @@ Creepy, right?
 We found it!
 The magic of the golden flower healed the queen.
 A healthy baby girl, a princess was born, with beautiful golden hair.
-".
+FLYNN".
 I'll give you a hint, that's Rapunzel.
 To celebrate her birth, the king and queen launched a flying lantern into the sky.
 And for that one moment, everything was perfect.
@@ -6289,7 +6289,7 @@ Okay.
 Huh.
 Huh?
 What...
-Is this hair?
+FLYNNI Is this hair?
 Struggling...
 Struggling is pointless.
 Huh?
@@ -6438,7 +6438,7 @@ On!
 Sorry.
 Guess I'm just a little bitjumpy.
 Probably be best if we avoid ruffians and thugs, though.
-( -) Yeah, that would probably be best.
+(CHUCKLES SELF-CONSCIOUSLY) Yeah, that would probably be best.
 Are you hungry?
 I know a great place for lunch.
 Where?
@@ -6573,7 +6573,7 @@ They don't like me either.
 Who's that?
 Let's assume that everyone in here doesn't like me.
 Here.
-{) 4GASPS) I waited a long time for this.
+{CHUCKUNG) 4GASPS) I waited a long time for this.
 Oh, mama!
 I have got to get me one of these!
 Ha!
@@ -6602,7 +6602,7 @@ Someone might as well know.
 I have magic hair that glows when I sing.
 What?
 I have magic hair that glows when I sing!
-Flower gleam and glow Let your power shine ( couemwe) We made it.
+Flower gleam and glow Let your power shine (BOTH couemwe) We made it.
 Her hair glows.
 We're alive.
 I'm alive!
@@ -6614,11 +6614,11 @@ Eugene!
 What?
 It doesn't just glow.
 Why is he smiling at me?
-( couemwe) (couemwe) I'll kill him.
+(MEN couemwe) (couemwe) I'll kill him.
 I'll kill that Rider!
 We'll cut him off at the kingdom and get back the crown.
 Come on!
-Or...
+GOTHELI Or...
 Perhaps you want to stop acting like wild dogs chasing their tails and think for a moment.
 Oh, please, there's no need for that.
 Well, if that's all you desire, then be on your way.
@@ -6681,7 +6681,7 @@ But thank you.
 Well, I thought he'd never leave.
 Mother?
 Hello, dear.
-( ) How did you find me?
+(RAPUNZEL STAMMERING NERVOUSLY) How did you find me?
 Oh, it was easy, really.
 I just listened for the sound of complete and utter betrayal and followed that.
 Mother...
@@ -6788,7 +6788,7 @@ I should have given it to you before, but I was just scared.
 And the thing is, I'm not scared anymore.
 You know what I mean?
 I'm starting to.
-".
+FLYNN".
 All those days chasing down a daydream All those years, living in a blur All that time, never truly seeing Things the way they were Now she's here, shining in the starlight Now she's here, suddenly I know If she's here, it's crystal clear I'm where I'm meant to go And at last I see the light And it's like the fog has lifted And at last I see the light And it's like the sky is new And it's warm and real and bright And the world has somehow shifted All at once, everything is different Now that I see you Now that I...
 see you ls everything okay?
 Huh?
@@ -7002,7 +7002,7 @@ Heal what has been hurt Change the Fates' design Save what has been lost Bring b
 Eugene?
 Did I ever tell you I've got a thing for brunettes?
 Eugene!
-".
+FLYNN".
 Well, you can imagine what happened next.
 The kingdom rejoiced, for their lost princess had returned.
 The party lasted an entire week, and honestly I don't remember most of it.
@@ -7024,14 +7024,14 @@ But I know what the big question is.
 Did Rapunzel and I ever get married?
 I'm pleased to tell you that after years and years of asking and asking and asking...
 I finally said yes.
-'.
+RAPUNZEL'.
 Eugene.
-".
+FLYNN".
 All right, I asked her.
-".
+RAPUNZEL".
 And we're living happily ever after.
 Yes, we are.
-English - US -
+English - US - SDH
 Read the charges.
 Dr.
 Jumba Jookiba, lead scientist of Galaxy Defense Industries, you stand before this council accused of illegal genetic experimentation.
@@ -8117,7 +8117,7 @@ I own him.
 If you take him, you're stealing.
 Aliens are all about rules.
 You look familiar.
-.
+CIA.
 Roswell.
 1973.
 Yes.
@@ -8130,7 +8130,7 @@ I was afraid you were going to say that.
 This won't be easy to explain back at headquarters.
 I know what you mean.
 Don't let those two get on my ship.
-?
+CIA?
 Former.
 Saved the planet once.
 Convinced an alien race that mosquitoes were an endangered species.
@@ -9071,7 +9071,7 @@ And for every moment after.
 No.
 No-no.
 It's fine.
-I'm not Princess.
+I'm not THAT Princess.
 I mean, if you'd hit my sister Elsa, that would be...
 'Cuz, you know...
 Hello.
@@ -9564,7 +9564,7 @@ I'm not buying it...Stop talking.
 No, no, no.
 I'd like to meet these...
 No, I mean it.
-.
+SHHH.
 Sven, go.
 Go!
 What are they?
@@ -9618,7 +9618,7 @@ Now come on.
 This way to the North Mountain?
 More like this way.
 I never knew winter could be so beautiful.
-...
+YEAH...
 It really is beautiful, isn't it?
 But it's so white.
 You know, how about a little color?
@@ -10516,7 +10516,7 @@ Here's what we're gonna do.
 Why don't I just go back to the day things took a turn for the worse?
 Run for your lives!
 Everyone run for cover!
-!
+SOS!
 Mayday!
 Mayday!
 Code red!
@@ -10644,8 +10644,8 @@ We don't make eye contact.
 Bye!
 That's it.
 Today is a new day.
-It was a recipe for disaster  A four-course meal of "No sirree"  It seemed that happily ever after I Was happy everyone was after me  It was a cup of good intentions  A tablespoon of one big mess  A dash of overreaction  And I assume you know the rest  One little slip  One little slip  It was a fusion of confusion  With a few confounding things  I guess I probably took the wrong direction  Well I admit I might've missed a sign or two  I took a right turn at confusion  A left when I should've gone straight on through  I ran ahead with my assumptions  And we all know what that can do  One little slip  One little slip  It was a fusion of confusion  And a few confounding things  I get the feeling in this town I'll never live 'til I live down  The one mistake that seems to follow me around  But they'll forget about the sky When they all realize  This guy's about to try to learn to fly  Or hit the ground How's it going?
-It was a cup of good intentions  A tablespoon of one big mess  A dash of overreaction  And I assume you know the rest  One little slip  One little slip  It was a humble little stumble  With a big ungraceful  One little slip  One little slip  It was a fusion of confusion with a few confounding things A“ Ahem.
+It was a recipe for disaster A four-course meal of "No sirree" It seemed that happily ever after I Was happy everyone was after me It was a cup of good intentions A tablespoon of one big mess A dash of overreaction And I assume you know the rest One little slip One little slip It was a fusion of confusion With a few confounding things I guess I probably took the wrong direction Well I admit I might've missed a sign or two I took a right turn at confusion A left when I should've gone straight on through I ran ahead with my assumptions And we all know what that can do One little slip One little slip It was a fusion of confusion And a few confounding things I get the feeling in this town I'll never live 'til I live down The one mistake that seems to follow me around But they'll forget about the sky When they all realize This guy's about to try to learn to fly Or hit the ground How's it going?
+It was a cup of good intentions A tablespoon of one big mess A dash of overreaction And I assume you know the rest One little slip One little slip It was a humble little stumble With a big ungraceful One little slip One little slip It was a fusion of confusion with a few confounding things A“ Ahem.
 Very well.
 Foxy Loxy.
 Present, pretty, punctual.
@@ -10889,14 +10889,14 @@ Yeah, but Dad, I mean, I...
 I mean, I think I can...
 I...
 OK, Dad.
-I bruise you  You bruise me  We both bruise so  Easily  Too easily  To let it show  I love you  And that's all I know Oh, Chloe.
+I bruise you You bruise me We both bruise so Easily Too easily To let it show I love you And that's all I know Oh, Chloe.
 If only you were here.
 You'd know what to do.
-And all my plans  Keep fallin' through  All my plans, they  Depend on you  Depend on you  To help them grow  I love you That's my boy!
+And all my plans Keep fallin' through All my plans, they Depend on you Depend on you To help them grow I love you That's my boy!
 Gee, thanks, Dad!
-And that's all  It's really a" I know  It's all I know Come on.
+And that's all It's really a" I know It's all I know Come on.
 All I need is a chance.
-It's a"  I know A“  Yeah  Ohh  I can't sit here while I go nowhere  Chase my dreams through the polluted air  I'm walking on a wire  Running out of time  There's no room in this ol' heart of mine  Hungry minds just stare you in the eyes  Spread it thick and lay the biggest lies  Words jump off the pages  Passion hits the street  Anger's cooking in the city heat  World's too crazy I can't take no more  I won't stay here locked behind the door  Got to stir it up  I got to break it up now  When I think about tomorrow  Ooh, I can't wait to  Stir it up Got to shake it up now I If I have to beg or borrow  I'm not gonna take it anymore  Oh-oh oh-ohh-oh oh-ohh-oh Come on  So much pressure to keep holding on  Whoa  Pack my clothes up baby  I'll be gone  Stir it up Got to break it up now  When I think about tomorrow  I can't wait to Stir it up  I got to shake it up now I If I have to beg or borrow  I'm not gonna take it no more 5' Lean to the left Lean to the right C'mon Acorns Fight, fight, fight!
+It's a" I know A“ Yeah Ohh I can't sit here while I go nowhere Chase my dreams through the polluted air I'm walking on a wire Running out of time There's no room in this ol' heart of mine Hungry minds just stare you in the eyes Spread it thick and lay the biggest lies Words jump off the pages Passion hits the street Anger's cooking in the city heat World's too crazy I can't take no more I won't stay here locked behind the door Got to stir it up I got to break it up now When I think about tomorrow Ooh, I can't wait to Stir it up Got to shake it up now I If I have to beg or borrow I'm not gonna take it anymore Oh-oh oh-ohh-oh oh-ohh-oh Come on So much pressure to keep holding on Whoa Pack my clothes up baby I'll be gone Stir it up Got to break it up now When I think about tomorrow I can't wait to Stir it up I got to shake it up now I If I have to beg or borrow I'm not gonna take it no more 5' Lean to the left Lean to the right C'mon Acorns Fight, fight, fight!
 Go, Acorns!
 There's excitement in the air, ladies and gentlemen.
 It's been two decades since Oakey Oaks has beaten rivals the Spud Valley Taters.
@@ -10918,7 +10918,7 @@ He's gonna lose the game for us!
 Wait!
 If he can get a walk and advance to first, that powerhouse Foxy Loxy can step up and save us all.
 She's had a terrific game so far.
-A shoo-in for the trophy.
+A shoo-in for the MVP trophy.
 OK, kid, listen up.
 You have an itty-bitty, teeny-tiny strike zone.
 There's no way he can throw you out!
@@ -11046,7 +11046,7 @@ We won!
 We won!
 That's my boy out there!
 That's my boy!
-I am the champion My friend  And I'll keep on fightin' till the end  I am the champion  I am the champion  But gone is the loser  'Cause I am the champion  Of the world A“ Yow!
+I am the champion My friend And I'll keep on fightin' till the end I am the champion I am the champion But gone is the loser 'Cause I am the champion Of the world A“ Yow!
 Here's the wind-up and the pitch!
 A knuckleball!
 He swings!
@@ -11135,7 +11135,7 @@ No.
 I gotta call Abby!
 Uh-huh.
 Uh-huh.
-Yo, I'll tell you what I want What I really really want  Tell me what you want What you really really want  I'll tell you what I want What I really really want  So tell me what you want What you really really want  I wanna, I wanna I wanna, I wanna  Really really really wanna zigazig ah  If you wanna be my lover You gotta get with my friends - A“ Gotta get with my friends 3' Make it last forever  Friendship never ends If you wanna be my lover I You have got to give 4“ Taking is too easy  But that's the way it is Hello!
+Yo, I'll tell you what I want What I really really want Tell me what you want What you really really want I'll tell you what I want What I really really want So tell me what you want What you really really want I wanna, I wanna I wanna, I wanna Really really really wanna zigazig ah If you wanna be my lover You gotta get with my friends - A“ Gotta get with my friends 3' Make it last forever Friendship never ends If you wanna be my lover I You have got to give 4“ Taking is too easy But that's the way it is Hello!
 Mallard residence.
 Tell you what I want Runt!
 Quiet!
@@ -11272,7 +11272,7 @@ Slowly.
 Slowly.
 OK.
 Now, just do the thing you do to relax.
-5' Well, you can tell by the way  I use my walk I'm a woman's man  No time to talk  Huh huh huh huh  Sta yin' alive Sta yin' alive 4“ Aaah!
+5' Well, you can tell by the way I use my walk I'm a woman's man No time to talk Huh huh huh huh Sta yin' alive Sta yin' alive 4“ Aaah!
 Fish!
 Fish!
 Are you OK?
@@ -11290,7 +11290,7 @@ We're running back to your house.
 Tell your dad!
 OK!
 You're right, you're right!
-Sta yin' alive Sta yin' alive  Sta yin' alive 4“ Oh, Runt!
+Sta yin' alive Sta yin' alive Sta yin' alive 4“ Oh, Runt!
 Push!
 Push!
 No!
@@ -11557,7 +11557,7 @@ Wait!
 He's telling the truth!
 He is!
 Given his track record, we understand why you don't believe him!
-It's The End Of The World As We Know if I  It's the end of the world as we know it  It's the end of the world as we know it  And I feel fine  It's the end of the world as we know it  It's the end of the world as we know it  It's the end of the world as we know it  And I feel fine 3' Watch out for the kid!
+It's The End Of The World As We Know if I It's the end of the world as we know it It's the end of the world as we know it And I feel fine It's the end of the world as we know it It's the end of the world as we know it It's the end of the world as we know it And I feel fine 3' Watch out for the kid!
 No!
 Don't!
 Don't hit him!
@@ -11698,7 +11698,7 @@ OK.
 Floor it!
 Boink.
 Deploy ladder, Fish!
-I'll survive  I will survive Hey, hey  Plan D.
+I'll survive I will survive Hey, hey Plan D.
 Plan D!
 Yeah!
 Yeah!
@@ -11799,7 +11799,7 @@ That caught our eyes.
 OK, everything's been put back to normal, except for this one, over here.
 Hi, y'all!
 Foxy?
-Lollipop, lollipop Oh, lolli lolli lolli  Lollipop...
+Lollipop, lollipop Oh, lolli lolli lolli Lollipop...
 She got her brainwaves scrambled during reconstitution.
 No worries!
 We can put her back the way she was.
@@ -11886,12 +11886,12 @@ Though at times it may feel like the sky is falling around you, never give up.
 For every day...
 is a new day!
 A new day!
-Ain't no mountain high enough  Ain't no valley low enough Oh, Ace!
-To keep me from you  Ain't no mountain high enough  Ain't no valley low enough  Ain't no river wild enough  To keep me from you  Ain't no mountain high enough  Nothing can keep me  Keep me from you  Ain't no mountain high enough  Nothing can keep me - Keep me from you {cheering  Ain't no mountain high enough  Ain't no valley low enough  Ain't no river wild enough  To keep me from you  Nothing in this world  Can keep me from you, babe  Just call my name 5'  Don't Go Breaking My Heart]  Don't go breaking my heart  I couldn't if I tried  Oh, honey, if I get restless  Baby, you're not that kind  Oooh  And nobody knows it -  When I was down  I was your clown  Oooh  And nobody knows it  Nobody knows  Right from the start  I gave you my heart  Ahhh  I gave you my heart  Don't go breaking my heart  I won't go breaking your heart Don't go breaking my Don't go breaking my  Don't go breaking my heart  Don't go breaking my Don't go breaking my  I won't go breaking your heart - Don't go breaking my Baa.
+Ain't no mountain high enough Ain't no valley low enough Oh, Ace!
+To keep me from you Ain't no mountain high enough Ain't no valley low enough Ain't no river wild enough To keep me from you Ain't no mountain high enough Nothing can keep me Keep me from you Ain't no mountain high enough Nothing can keep me - Keep me from you {cheering Ain't no mountain high enough Ain't no valley low enough Ain't no river wild enough To keep me from you Nothing in this world Can keep me from you, babe Just call my name 5' Don't Go Breaking My Heart] Don't go breaking my heart I couldn't if I tried Oh, honey, if I get restless Baby, you're not that kind Oooh And nobody knows it - When I was down I was your clown Oooh And nobody knows it Nobody knows Right from the start I gave you my heart Ahhh I gave you my heart Don't go breaking my heart I won't go breaking your heart Don't go breaking my Don't go breaking my Don't go breaking my heart Don't go breaking my Don't go breaking my I won't go breaking your heart - Don't go breaking my Baa.
 - Don't go breaking my Baa.
 Don't go breaking my heart Come on, Runt.
 You can do it.
-Don't go breaking my I won't go breaking your heart Don't go breaking my “naming  Don't go breaking my You got to act quickly, Dad.
+Don't go breaking my I won't go breaking your heart Don't go breaking my “naming Don't go breaking my You got to act quickly, Dad.
 Try this.
 - Don't go breaking my There you go'.!
 - Don't go breaking my There it is'.!
@@ -11983,7 +11983,7 @@ Kindly return my friend's tickets.
 Come and get them.
 But watch out, because I'm a fox, and like you said in your dumb little stage play...
 us predators used to eat prey.
-And that killer instinct is still in our "Dunnah." I'm pretty much sure it's pronounced "." Don't tell me what I know, Travis.
+And that killer instinct is still in our "Dunnah." I'm pretty much sure it's pronounced "DNA." Don't tell me what I know, Travis.
 You don't scare me, Gideon.
 You scared now?
 Look at her nose twitch!
@@ -12007,7 +12007,7 @@ Well, he was right about one thing.
 I don't know when to quit.
 Listen up, cadets.
 Zootopia has 12 unique ecosystems within its city limits.
-15 Tundratown...
+15 YEARS LATER Tundratown...
 Sahara Square...
 Rainforest District, to name a few.
 You're gonna have to master all of them before you hit the streets, or guess what?
@@ -12031,7 +12031,7 @@ Just a stupid, carrot-farming dumb bunny.
 As mayor of Zootopia, I am proud to announce...
 that my Mammal Inclusion Initiative has produced...
 its first police academy graduate.
-Valedictorian of her class, 's very first rabbit officer...
+Valedictorian of her class, ZPD's very first rabbit officer...
 Judy Hopps.
 Oh, gosh.
 Assistant Mayor Bellwether, her badge.
@@ -12669,7 +12669,7 @@ My name is...
 You know, I'm going to hit the pause button right there...
 because we're all good on Bunny Scout cookies.
 No.
-I'm Officer Hopps, .
+I'm Officer Hopps, ZPD.
 I'm looking for a missing mammal, Emmitt Otterton, right here...
 who may have frequented this establishment.
 Yeah, old Emmitt.
@@ -12743,7 +12743,7 @@ Not forever.
 Well, I only have 36 hours left to solve this case.
 So can you run the plate or not?
 Actually, I just remembered...
-I have a pal at the .
+I have a pal at the DMV.
 Flash is the fastest guy in there.
 If you need something done, he's on it.
 I hope so.
@@ -12760,7 +12760,7 @@ see you...
 too.
 Hey, Flash, I'd love you to meet my friend.
 Darling, I've forgotten your name.
-Officer Judy Hopps, , how are you?
+Officer Judy Hopps, ZPD, how are you?
 I am...
 doing...
 just...
@@ -13012,7 +13012,7 @@ lives in the Rainforest District.
 Only he can tell you more.
 Mr.
 Manchas?
-Judy Hopps, .
+Judy Hopps, ZPD.
 We just wanna know what happened to Emmitt Otterton.
 You...
 should be asking...
@@ -13088,7 +13088,7 @@ One, two...
 Carrots.
 You saved my life.
 Well.
-That's what we do at the .
+That's what we do at the ZPD.
 Well, this should be good.
 I thought this was just a missing mammal case...
 but it's way bigger.
@@ -13421,8 +13421,8 @@ We still don't know.
 It may have something to do with biology.
 What do you mean by that?
 A biological component.
-You know, something in their .
-In their ?
+You know, something in their DNA.
+In their DNA?
 Can you elaborate on that, please?
 Yes, what I mean is, thousands of years ago...
 predators survived through their aggressive...
@@ -13434,7 +13434,7 @@ Aw, is he gonna cry?
 Officer Hopps, could it happen again?
 It is possible.
 So we must be vigilant.
-And we at the are prepared and are here to protect you.
+And we at the ZPD are prepared and are here to protect you.
 Will more mammals go savage?
 What is being done to protect us?
 Have you considered a mandatory quarantine on predators?
@@ -13484,7 +13484,7 @@ More bad news in this city gripped by fear.
 A caribou is in critical condition, the victim of a mauling...
 by a savage polar bear.
 This, the 27th such attack, comes just one week...
-after Officer Judy Hopps connected the violence to traditionally predatory animals.
+after ZPD Officer Judy Hopps connected the violence to traditionally predatory animals.
 Meanwhile, a peace rally organized by pop star Gazelle...
 was marred by protest.
 Go back to the forest, predator!
@@ -13509,7 +13509,7 @@ Clawhauser?
 What are you doing?
 They thought it would be better...
 if a predator such as myself wasn't the first face that you see...
-when you walk into the .
+when you walk into the ZPD.
 What?
 They're gonna move me to records.
 It's downstairs.
@@ -13520,7 +13520,7 @@ Our city is 90% prey, Judy...
 and right now they're just really scared.
 You're a hero to them.
 They trust you.
-And so that's why Chief Bogo and I want you to be the public face of the .
+And so that's why Chief Bogo and I want you to be the public face of the ZPD.
 I'm not a hero.
 I came here to make the world a better place...
 but I think I broke it.
@@ -13726,7 +13726,7 @@ It better have the extra foam this time.
 Hey, open up!
 What are you doing?
 You just trapped us in here.
-We need to get this evidence to the !
+We need to get this evidence to the ZPD!
 Great!
 Here it is.
 Got it!
@@ -13775,7 +13775,7 @@ except for this.
 Nick!
 Yes!
 Come on!
-We gotta get to the .
+We gotta get to the ZPD.
 Cut through the Natural History Museum!
 There it is!
 Judy!
@@ -13790,7 +13790,7 @@ Thank you, ma'am.
 How did you know where to find us?
 I'll go ahead and I'll take that case now.
 You know what?
-I think Nick and I will just take this to the .
+I think Nick and I will just take this to the ZPD.
 Run.
 Get them.
 Carrots!
@@ -13915,7 +13915,7 @@ You should have your own line of inspirational greeting cards, sir.
 Shut your mouth, Wilde.
 Assignments.
 Officers Grizzoli, Fangmeyer, Delgato...
-Tundratown .
+Tundratown SWAT.
 Snarlov, Higgins, Wolfard...
 undercover.
 Hopps, Wilde.
@@ -14408,7 +14408,7 @@ So what's in Thebes?
 A lot of problems.
 It's a big, tough town.
 Good place to start buildin' a rep.
-Sounds like your basic , Damsel in Distress.
+Sounds like your basic DID, Damsel in Distress.
 Not so fast, sweetheart.
 I swear, Nessus.
 Put me down or I'll...
@@ -14739,7 +14739,7 @@ Hades mad.
 Well, what do ya know?
 From that day forward, our boy Hercules could do no wrong.
 He was so hot, steam looked cool.
-Oh, yeah Bless my soul Herc was on a roll Person of the week in every Greek opinion poll What a pro Herc could stop a show Point him at a monster and you're talkin' He was a no one A zero, zero Now he's a honcho He's a hero Here was a kid with his act down pat Zero to hero in no time flat Zero to hero Just like that When he smiled the girls went wild With oohs and aahs And they slapped his face on every vase On every "vahse" From appearance fees and royalties Our Herc had cash to burn Now nouveau riche and famous He could tell you what's a Grecian urn Say amen, there he goes again Sweet and undefeated And an awesome 10-for-10 Folks lined up just to watch him flex And this perfect package packed a pair of pretty pecs Hercie, he comes he sees, he conquers Honey, the crowds were goin' bonkers He showed the moxie brains and spunk Yeah From zero to hero A major hunk Zero to hero And who'd have thunk?
+Oh, yeah Bless my soul Herc was on a roll Person of the week in every Greek opinion poll What a pro Herc could stop a show Point him at a monster and you're talkin' SRO He was a no one A zero, zero Now he's a honcho He's a hero Here was a kid with his act down pat Zero to hero in no time flat Zero to hero Just like that When he smiled the girls went wild With oohs and aahs And they slapped his face on every vase On every "vahse" From appearance fees and royalties Our Herc had cash to burn Now nouveau riche and famous He could tell you what's a Grecian urn Say amen, there he goes again Sweet and undefeated And an awesome 10-for-10 Folks lined up just to watch him flex And this perfect package packed a pair of pretty pecs Hercie, he comes he sees, he conquers Honey, the crowds were goin' bonkers He showed the moxie brains and spunk Yeah From zero to hero A major hunk Zero to hero And who'd have thunk?
 Who put the glad in gladiator?
 Hercules Who's darin' deeds are great theater?
 Hercules Isn't he bold?
@@ -14812,7 +14812,7 @@ He's got a problem with his stables.
 I'd advise you not to wear your new sandals.
 Phil?
 I told you, don't move!
-, the Daughters of the Greek Revolution.
+DGR, the Daughters of the Greek Revolution.
 Phil.
 At 3:00, you gotta get a girdle from some Amazons.
 Phil, what's the point?
@@ -16626,7 +16626,7 @@ My, my!
 Solid gold too.
 I think it's swell!
 When your heart is in your dream No request Is too extreme When you wish Upon a star Your dreams Come true You'll find your dreams come true 00:00:0,500 --> 00:00:2,00 <font color="#ffff00" size=14>www.moviesubtitles.org</font>
-MY Dad, do you want some candy?
+MY NEIGHBOR TOTORO Dad, do you want some candy?
 Thanks.
 Aren't you tired?
 No.
@@ -16991,7 +16991,7 @@ And I'm hoping to see him myself soon, too.
 Kanta, hurry up!
 You'll be late!
 Coming...
-, , Well, well!
+WAIT, RIVER, PINE TREE Well, well!
 Mei?
 Excuse me!
 Yes, Satsuki?
@@ -17057,9 +17057,9 @@ Bye-bye.
 Who was that?
 I don't know.
 Just in time!
-, Getting on?
+DESTINATION MAEZAWA, INARIMAE STATION TOKYO ELECTRIC RAILWAY BUS Getting on?
 All right, drive on.
-Daddy wasn't on it.
+TOKYO BUS COMPANY Daddy wasn't on it.
 He'll be on the next one.
 Why don't you wait at Nanny's?
 Are you okay?
@@ -17076,7 +17076,7 @@ You can use this.
 Take it, Mei's slipping off.
 Hold it like this.
 Here's the bus!
-He took Daddy's umbrella.
+TSUKAMORI INARIMAE He took Daddy's umbrella.
 I'm sorry.
 Drive on.
 The train was late and I missed the bus.
@@ -17098,7 +17098,7 @@ When we opened it, it was full of magic nuts and seeds!
 "We decided to plant them in the garden to make a lovely forest." But they haven't sprouted yet.
 Mei sits there all day, waiting for them.
 She looks like a little crab.
-It's nearly summer vacation.
+CRAB MEI It's nearly summer vacation.
 Dearest, dear Mom, get well soon.
 Love, Satsuki.
 Come on.
@@ -17293,9 +17293,9 @@ Mei is lost and we can't find her!
 She must be scared, please help me find her.
 I don't know what to do.
 They can't see the bus.
-Mei!
+FOREST SWAMP CEMETERY SHRINE SANCTUARY LAKE MEI Mei!
 The trees are moving out of the way!
-Mei!
+MEI Mei!
 Satsuki!
 Satsuki!
 Mei!
@@ -17304,7 +17304,7 @@ Satsuki!
 You silly girl.
 I'm sorry.
 You wanted to take the corn to Mom?
-Will you take us there?
+SHICHIKOKUYAMA HOSPITAL Will you take us there?
 Thank you so much.
 I'm sorry.
 They didn't need to send a telegram just for a cold.
@@ -17329,7 +17329,7 @@ What?
 I could swear I just saw Satsuki and Mei laughing up in that tree.
 Maybe they were.
 Look.
-TO
+TO MOM THE END
 Oh, I come from a land From a faraway place Where the caravan camels roam Where it's flat and immense And the heat is intense It's barbaric but hey, it's home When the wind's from the east And the sun's from the west And the sand in the glass is right Come on down, stop on by Hop a carpet and fly To another Arabian night Arabian nights Like Arabian days More often than not Are hotter than hot In a lot of good ways Arabian nights 'Neath Arabian moons A fool off his guard Could fall and fall hard Out there on the dunes Ah, salaam, and good evening to you, worthy friend.
 Please, please, come closer.
 T oo close.
@@ -20546,7 +20546,7 @@ The whole fly-in scene where you reveal the African savanna and you see Pride Ro
 It's all done in one.
 You go from this vast overview of the savanna into a close-up of Mufasa without cutting.
 Now, the great thing with this shot of Rafiki coming up, it gives you the feeling of sunlight filtering through the characters.
-And it's all the great magical tricks that you can do with special effects, animation and graphics.
+And it's all the great CAPS magical tricks that you can do with special effects, animation and graphics.
 Or the clouds which are actually a flat two-dimensional painting which is skewed by the computer.
 "Skewing" means it kind of stretches it out.
 And always when we previewed the film, I remember going to the Pasadena theater for the first time where we previewed it, and little Simba turns around for the first time, -always was a surefire "aw." It's an "aw shucks" moment.
@@ -20565,7 +20565,7 @@ How many background levels?
 Too numerous to mention at this point.
 Those are the sort of things people like to hear -but we don't remember them.
 Yeah.
-That's one of the great things about the system, which is our fancy computerized animation production system, where you can put together seemingly endless levels of animation and backgrounds, and clouds and effects and things, and sandwich them together without being limited by reality because it's all done in a digital universe.
+That's one of the great things about the CAP system, which is our fancy computerized animation production system, where you can put together seemingly endless levels of animation and backgrounds, and clouds and effects and things, and sandwich them together without being limited by reality because it's all done in a digital universe.
 Right, it is the ultimate multi-plane camera.
 Yeah.
 We're rarely limited by reality.
@@ -20740,7 +20740,7 @@ And the idea was to try to make them strobe by and subconsciously do this little
 Like a zoetrope.
 Yeah, Zazu and the rhino butt, a guaranteed laugh.
 The log in the river, actually they gave us a little template.
-worked out a little template for the log in the river, again to help us move the characters through a moving camera point of view.
+CGI worked out a little template for the log in the river, again to help us move the characters through a moving camera point of view.
 I love that transition between the ripples in the water into zebra stripes, too, those kinds of things that you can do in a song and maybe not get by with at other places.
 One of the problems, too, is if we had taken the animals from The Circle of Life and started having them dance around on their hind feet… Singing and dancing.
 …it would look really terrible.
@@ -20784,7 +20784,7 @@ Yellow-gold-orange, yellow-yellow, yellow-brown, yellow-orange.
 Yeah.
 So our effects department pretty much drew shadows on all these characters throughout the whole movie.
 Not a fun task, but, boy, it really made everybody become very three-dimensional.
-You can also see in terms of like what the system does, when Zazu's bill goes from yellow to orange, there's a blend happening between those two colors which was something that we're able to do with a computer.
+You can also see in terms of like what the CAP system does, when Zazu's bill goes from yellow to orange, there's a blend happening between those two colors which was something that we're able to do with a computer.
 That you couldn't have done five years ago.
 If this were Fantasia back in the '40s, you would have airbrushed all that, and it would have crawled around and been very fragile.
 Now you can get a lovely blended look.
@@ -20980,8 +20980,8 @@ And this leads us into probably the centerpiece of the movie, certainly the turn
 Thom took probably a year and a half, almost his whole career on the movie, to do the stampede, and then we turned it over to the CG department, the computer graphics department, with their animators and technical directors, and they were the ones responsible for bringing the wildebeest stampede to life on the screen.
 In this movie, they did the wildebeests, they did the turning Pride Rock, and they also did the water from Can't Wait to Be King.
 It's the same kind of effects you would see in the ballroom of Beauty and the Beast or the flying carpet in Aladdin, that kind of unique character situation that can only be handled with the help of a computer.
-Scott Johnston was our supervisor, and he wrangled this whole thing, and it really was a project that took the full three years of production for what amounts to about six or seven minutes on the screen.
-What's really amazing is that all of those beasts are really based on a singular run cycle that was created by the department.
+Scott Johnston was our CGI supervisor, and he wrangled this whole thing, and it really was a project that took the full three years of production for what amounts to about six or seven minutes on the screen.
+What's really amazing is that all of those beasts are really based on a singular run cycle that was created by the CGI department.
 Then they added on different behaviors like bucks -and kicks, and different things.
 Head shakes.
 Changing leads.
@@ -21072,7 +21072,7 @@ There was once imagined a reprise of Scar's song Be Prepared here, as Scar usher
 It was too lively to the mood.
 You needed to come down from the death, from all that activity, you needed to have that low point.
 It was also rubbing the audience's nose in the death.
-We showed the movie at the in Burbank, and it was a preview for Michael and Roy Disney.
+We showed the movie at the AMC in Burbank, and it was a preview for Michael and Roy Disney.
 "Michael's big thing after seeing the movie is, "I love Rafiki, "he's a great character, and you get what he is in the movie," "but you just don't see him enough, you don't see his character" "threaded through the movie enough." So, a lot of moments, particularly this one where he's mourning over the loss of Simba, kind of come out of rebuilding from that preview.
 There used to be a sequence in here, if I could just ruminate, where Simba was lost and alone in the inhospitable waste.
 There was a little sequence where he was out on the sand dunes, and he was walking in the desert.
@@ -21269,7 +21269,7 @@ Hmm?
 A little… Oh, Carmen there, I think… I love that little musical section of him sneaking up.
 Timon?
 Here's a little rack focus.
-Digitally, in the system, you're able to have a soft, diffused distant ground and a very sharp foreground, and at one point in the scene you just change those perspectives, and the foreground goes soft, and the background goes crisp, and you get the feeling that you actually moved the camera lens into focus.
+Digitally, in the CAP system, you're able to have a soft, diffused distant ground and a very sharp foreground, and at one point in the scene you just change those perspectives, and the foreground goes soft, and the background goes crisp, and you get the feeling that you actually moved the camera lens into focus.
 I think it's interesting at this point also in just what kinds of techniques we're using.
 That we're trying not to be limited by the vocabulary of animation of what we've typically been able to do, but try to go beyond that to do things that maybe you've seen in live action, but have never seen done in animation.
 Don't worry, buddy.
@@ -21332,7 +21332,7 @@ This is one of my favorite scenes in the movie, I just love the way it looks.
 The reflections and everything.
 I'm so happy with that.
 Yeah, it's really great.
-Without having to have a big, action-adventure sequence, you can use the artistry of the system, the animators, the effects animators, the art directors, all come together to create a nice little moment.
+Without having to have a big, action-adventure sequence, you can use the artistry of the CAP system, the animators, the effects animators, the art directors, all come together to create a nice little moment.
 Now, a lot of this also came from Andy Gaskill's storyboarding, the whole ideas of pulling Nala in the water, all this sort of thing.
 Simba soaked to the skin.
 Coming up is perhaps the most steamy love scene -in any Disney film ever.
@@ -21554,7 +21554,7 @@ It was just absolutely weird, the colors were all blown out, but we all looked a
 So Randy researched where the problem came from, and we actually wound up using it for flame effects in the climax.
 Basically, they would design a block, a literal sort of marbled cake, if you will, that slices would be taken through and photographed, and as each slice was removed, you would see a differing image of that turbulence.
 So the shapes morph and modulate from one to the next, so it gives you the feeling of just a random and organic pattern.
-The embers is a really cool computer trick where the guys create these little embers that actually turn in space and are very dimensional, so on the big screen they look quite real and they glow hot.
+The embers is a really cool computer trick where the CGI guys create these little embers that actually turn in space and are very dimensional, so on the big screen they look quite real and they glow hot.
 And then you have levels of churning smoke behind, which is a combination of drawn artwork and turbulence and diffusion put over the top of it, to really create the inferno feeling down below.
 This was sort of an interesting experiment, trying to achieve that kind of slow motion effect that, again, you can do in live action.
 And we had to simulate that by literally dissolving from one frame to the next.
@@ -21639,7 +21639,7 @@ Well, it's interesting because a lot of people think our characters and a lot of
 Because it's artists who have always driven these movies and certainly who have made Lion King.
 So, in a way, animation's still created the old-fashioned way where somebody sits down at a drawing board with a pencil or a paint brush and draws or paints animation or a background by hand.
 We use computers then heavily in the post-production process to sandwich all those hand-done elements together to create the final frames.
-And we also use computers in an area called , or computer graphics imagery, to animate or create things on a screen that you couldn't possibly do by hand like the wildebeest stampede.
+And we also use computers in an area called CGI, or computer graphics imagery, to animate or create things on a screen that you couldn't possibly do by hand like the wildebeest stampede.
 And the other thing I find interesting, too, is, we were talking about how around the world these movies are put together, that you literally have lines that cut together or pieces of song that cut together, where one word was sung in New York, another was done in Los Angeles, the chorus was recorded in London, and the music was done in Santa Monica.
 You know, it's spread out all over the place, and somehow that all comes together into one piece.
 It's the magic of animation.
@@ -22524,7 +22524,7 @@ but imagine a game without challenges.
 The same predictable thing every single time...
 who wants that?
 Shank's right.
-I just saw a really insightful talk...
+I just saw a really insightful TED talk...
 and I can't really remember what the guy said.
 It was more about how he made me feel.
 But I think, ultimately, the point was...
@@ -22975,9 +22975,9 @@ I mean, no offense or anything.
 Well, time to get to work.
 And for your final question.
 "My friends would describe me as?" "Smart, funny, kind, or brave." Kind, I guess?
-Based on your answers, your princess is Snow White!
+Based on your answers, your princess BFF is Snow White!
 I do believe our friendship will be the fairest of them all!
-Hey, wanna meet my ?
+Hey, wanna meet my BFF?
 It's Wreck-It Ralph.
 Just click here to see his new video.
 Thank you.
@@ -23342,7 +23342,7 @@ So, is there a way to do something like that to Slaughter Race?
 There's ways.
 Follow me.
 I got mothers' maiden names...
-social security numbers, numbers...
+social security numbers, PIN numbers...
 Now, this area down here is what's called the Darknet.
 A lot of shady characters hang out down here...
 so try to keep a low profile.

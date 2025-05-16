@@ -24,7 +24,7 @@ The whole fly-in scene where you reveal the African savanna and you see Pride Ro
 It's all done in one.
 You go from this vast overview of the savanna into a close-up of Mufasa without cutting.
 Now, the great thing with this shot of Rafiki coming up, it gives you the feeling of sunlight filtering through the characters.
-And it's all the great magical tricks that you can do with special effects, animation and graphics.
+And it's all the great CAPS magical tricks that you can do with special effects, animation and graphics.
 Or the clouds which are actually a flat two-dimensional painting which is skewed by the computer.
 "Skewing" means it kind of stretches it out.
 And always when we previewed the film, I remember going to the Pasadena theater for the first time where we previewed it, and little Simba turns around for the first time, -always was a surefire "aw." It's an "aw shucks" moment.
@@ -43,7 +43,7 @@ How many background levels?
 Too numerous to mention at this point.
 Those are the sort of things people like to hear -but we don't remember them.
 Yeah.
-That's one of the great things about the system, which is our fancy computerized animation production system, where you can put together seemingly endless levels of animation and backgrounds, and clouds and effects and things, and sandwich them together without being limited by reality because it's all done in a digital universe.
+That's one of the great things about the CAP system, which is our fancy computerized animation production system, where you can put together seemingly endless levels of animation and backgrounds, and clouds and effects and things, and sandwich them together without being limited by reality because it's all done in a digital universe.
 Right, it is the ultimate multi-plane camera.
 Yeah.
 We're rarely limited by reality.
@@ -218,7 +218,7 @@ And the idea was to try to make them strobe by and subconsciously do this little
 Like a zoetrope.
 Yeah, Zazu and the rhino butt, a guaranteed laugh.
 The log in the river, actually they gave us a little template.
-worked out a little template for the log in the river, again to help us move the characters through a moving camera point of view.
+CGI worked out a little template for the log in the river, again to help us move the characters through a moving camera point of view.
 I love that transition between the ripples in the water into zebra stripes, too, those kinds of things that you can do in a song and maybe not get by with at other places.
 One of the problems, too, is if we had taken the animals from The Circle of Life and started having them dance around on their hind feet… Singing and dancing.
 …it would look really terrible.
@@ -262,7 +262,7 @@ Yellow-gold-orange, yellow-yellow, yellow-brown, yellow-orange.
 Yeah.
 So our effects department pretty much drew shadows on all these characters throughout the whole movie.
 Not a fun task, but, boy, it really made everybody become very three-dimensional.
-You can also see in terms of like what the system does, when Zazu's bill goes from yellow to orange, there's a blend happening between those two colors which was something that we're able to do with a computer.
+You can also see in terms of like what the CAP system does, when Zazu's bill goes from yellow to orange, there's a blend happening between those two colors which was something that we're able to do with a computer.
 That you couldn't have done five years ago.
 If this were Fantasia back in the '40s, you would have airbrushed all that, and it would have crawled around and been very fragile.
 Now you can get a lovely blended look.
@@ -458,8 +458,8 @@ And this leads us into probably the centerpiece of the movie, certainly the turn
 Thom took probably a year and a half, almost his whole career on the movie, to do the stampede, and then we turned it over to the CG department, the computer graphics department, with their animators and technical directors, and they were the ones responsible for bringing the wildebeest stampede to life on the screen.
 In this movie, they did the wildebeests, they did the turning Pride Rock, and they also did the water from Can't Wait to Be King.
 It's the same kind of effects you would see in the ballroom of Beauty and the Beast or the flying carpet in Aladdin, that kind of unique character situation that can only be handled with the help of a computer.
-Scott Johnston was our supervisor, and he wrangled this whole thing, and it really was a project that took the full three years of production for what amounts to about six or seven minutes on the screen.
-What's really amazing is that all of those beasts are really based on a singular run cycle that was created by the department.
+Scott Johnston was our CGI supervisor, and he wrangled this whole thing, and it really was a project that took the full three years of production for what amounts to about six or seven minutes on the screen.
+What's really amazing is that all of those beasts are really based on a singular run cycle that was created by the CGI department.
 Then they added on different behaviors like bucks -and kicks, and different things.
 Head shakes.
 Changing leads.
@@ -550,7 +550,7 @@ There was once imagined a reprise of Scar's song Be Prepared here, as Scar usher
 It was too lively to the mood.
 You needed to come down from the death, from all that activity, you needed to have that low point.
 It was also rubbing the audience's nose in the death.
-We showed the movie at the in Burbank, and it was a preview for Michael and Roy Disney.
+We showed the movie at the AMC in Burbank, and it was a preview for Michael and Roy Disney.
 "Michael's big thing after seeing the movie is, "I love Rafiki, "he's a great character, and you get what he is in the movie," "but you just don't see him enough, you don't see his character" "threaded through the movie enough." So, a lot of moments, particularly this one where he's mourning over the loss of Simba, kind of come out of rebuilding from that preview.
 There used to be a sequence in here, if I could just ruminate, where Simba was lost and alone in the inhospitable waste.
 There was a little sequence where he was out on the sand dunes, and he was walking in the desert.
@@ -747,7 +747,7 @@ Hmm?
 A little… Oh, Carmen there, I think… I love that little musical section of him sneaking up.
 Timon?
 Here's a little rack focus.
-Digitally, in the system, you're able to have a soft, diffused distant ground and a very sharp foreground, and at one point in the scene you just change those perspectives, and the foreground goes soft, and the background goes crisp, and you get the feeling that you actually moved the camera lens into focus.
+Digitally, in the CAP system, you're able to have a soft, diffused distant ground and a very sharp foreground, and at one point in the scene you just change those perspectives, and the foreground goes soft, and the background goes crisp, and you get the feeling that you actually moved the camera lens into focus.
 I think it's interesting at this point also in just what kinds of techniques we're using.
 That we're trying not to be limited by the vocabulary of animation of what we've typically been able to do, but try to go beyond that to do things that maybe you've seen in live action, but have never seen done in animation.
 Don't worry, buddy.
@@ -810,7 +810,7 @@ This is one of my favorite scenes in the movie, I just love the way it looks.
 The reflections and everything.
 I'm so happy with that.
 Yeah, it's really great.
-Without having to have a big, action-adventure sequence, you can use the artistry of the system, the animators, the effects animators, the art directors, all come together to create a nice little moment.
+Without having to have a big, action-adventure sequence, you can use the artistry of the CAP system, the animators, the effects animators, the art directors, all come together to create a nice little moment.
 Now, a lot of this also came from Andy Gaskill's storyboarding, the whole ideas of pulling Nala in the water, all this sort of thing.
 Simba soaked to the skin.
 Coming up is perhaps the most steamy love scene -in any Disney film ever.
@@ -1032,7 +1032,7 @@ It was just absolutely weird, the colors were all blown out, but we all looked a
 So Randy researched where the problem came from, and we actually wound up using it for flame effects in the climax.
 Basically, they would design a block, a literal sort of marbled cake, if you will, that slices would be taken through and photographed, and as each slice was removed, you would see a differing image of that turbulence.
 So the shapes morph and modulate from one to the next, so it gives you the feeling of just a random and organic pattern.
-The embers is a really cool computer trick where the guys create these little embers that actually turn in space and are very dimensional, so on the big screen they look quite real and they glow hot.
+The embers is a really cool computer trick where the CGI guys create these little embers that actually turn in space and are very dimensional, so on the big screen they look quite real and they glow hot.
 And then you have levels of churning smoke behind, which is a combination of drawn artwork and turbulence and diffusion put over the top of it, to really create the inferno feeling down below.
 This was sort of an interesting experiment, trying to achieve that kind of slow motion effect that, again, you can do in live action.
 And we had to simulate that by literally dissolving from one frame to the next.
@@ -1117,7 +1117,7 @@ Well, it's interesting because a lot of people think our characters and a lot of
 Because it's artists who have always driven these movies and certainly who have made Lion King.
 So, in a way, animation's still created the old-fashioned way where somebody sits down at a drawing board with a pencil or a paint brush and draws or paints animation or a background by hand.
 We use computers then heavily in the post-production process to sandwich all those hand-done elements together to create the final frames.
-And we also use computers in an area called , or computer graphics imagery, to animate or create things on a screen that you couldn't possibly do by hand like the wildebeest stampede.
+And we also use computers in an area called CGI, or computer graphics imagery, to animate or create things on a screen that you couldn't possibly do by hand like the wildebeest stampede.
 And the other thing I find interesting, too, is, we were talking about how around the world these movies are put together, that you literally have lines that cut together or pieces of song that cut together, where one word was sung in New York, another was done in Los Angeles, the chorus was recorded in London, and the music was done in Santa Monica.
 You know, it's spread out all over the place, and somehow that all comes together into one piece.
 It's the magic of animation.
