@@ -3,9 +3,21 @@ import nltk
 import re
 
 def simple_sentence_split(text):
-    # splits sentences on period, exclamation, or question mark followed by space and a capital letter
-    return re.split(r'(?<=[.!?])\s+(?=[A-Z])', text.strip())
+    # Remove sound/stage directions like [laughing], [music]
+    text = re.sub(r'\[.*?\]', '', text)
 
+    # Optional: Remove ALL-CAPS sound words if needed
+    text = re.sub(r'\b[A-Z]{3,}\b', '', text)
+
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
+
+    # Remove ♪
+    text = text.replace('♪', '')
+
+
+    # Split on sentence-ending punctuation
+    return re.split(r'(?<=[.!?])\s+', text)
 
 def split_subtitles_into_sentences(input_folder, output_folder, combined_output_file):
     os.makedirs(output_folder, exist_ok=True)

@@ -1,5 +1,5 @@
 In ancient times, the land lay covered in forests, where, from ages long past, dwelt the spirits of the gods.
-PRINCESS MONONOKE Yakul!
+Yakul!
 Ashitaka!
 The wise woman wants everybody back to the village at once.
 We just came from Ji-san.
@@ -55,7 +55,8 @@ Pass on in peace and bear us no hatred.
 Disgusting little creatures, soon all of you will feel my hate and suffer as I have suffered.
 I'm afraid this is very bad.
 The stones tell me the boar god came from far to the west.
-He had some kind of poison inside him, driving him mad, a poisonous hatred that consumed his heart and flesh... and turned him into a demon monster.
+He had some kind of poison inside him, driving him mad, a poisonous hatred that consumed his heart and flesh...
+and turned him into a demon monster.
 Prince Ashitaka?
 Yes?
 Show everyone your right arm.
@@ -78,7 +79,8 @@ You may find a way to lift the curse.
 You understand?
 Yes.
 We are the last of the Emishi.
-It's 500 years since the emperor destroyed our tribe... and drove the remnants of our people to the east.
+It's 500 years since the emperor destroyed our tribe...
+and drove the remnants of our people to the east.
 Some managed to survive here for all these years, but our tribe's blood has grown thinner and weaker with each generation.
 Now our last prince must cut his hair and leave us, never to return?
 Sometimes I think the gods are laughing at us.
@@ -92,7 +94,8 @@ I came to give you this so you won't forget your little sister.
 Your crystal dagger.
 Kaya, I can't take this.
 Please, keep it with you, brother, to protect you.
-Please, I want you to have it, so you won't... forget.
+Please, I want you to have it, so you won't...
+forget.
 Kaya, you know I could never forget you.
 A battle?
 Move in!
@@ -378,7 +381,8 @@ That's right.
 She's not even afraid of the gods, that woman.
 You should have seen the way she dealt with Nago.
 Am I right?
-Who's Nago? "Who's Nago?" The gigantic boar god.
+Who's Nago?
+"Who's Nago?" The gigantic boar god.
 He used to rule this whole forest.
 We couldn't even get near the mountains with him around.
 Nothing to do but sit around on our backsides for months.
@@ -410,7 +414,8 @@ I can't tell you more than that.
 Answer milady's question or I'll cut you in half!
 What do you plan to do?
 What exactly are you here for?
-To see with eyes unclouded by hate. "Eyes unclouded"?
+To see with eyes unclouded by hate.
+"Eyes unclouded"?
 That explains it.
 Come.
 I'll show you all my secrets.
@@ -449,7 +454,8 @@ It would have to kill all of us to be at peace.
 Milady, Osa has something to say.
 Forgive me, milady.
 You must not make light of the boy's strength.
-Young man, like you, I know what rage feels like... and grief and helplessness.
+Young man, like you, I know what rage feels like...
+and grief and helplessness.
 But you must not take your revenge on Lady Eboshi.
 She is the only one who saw us as human beings.
 We are lepers.
@@ -803,7 +809,8 @@ My Lord Okkoto, what I said about Nago's death was the truth.
 I believe you, and I thank you for it, young one.
 I am only grieved and ashamed that a demon has come from our tribe.
 O mighty Lord, is there a way to lift Nago's curse from me?
-Leave this forest... for the next time we meet I will have to kill you.
+Leave this forest...
+for the next time we meet I will have to kill you.
 You cannot win against the humans.
 Their guns will destroy you all.
 Look on my tribe, Moro.
@@ -894,7 +901,8 @@ Listen, you owe me and I've come to collect.
 When you needed riflemen, I sent them, and without them, you lose Irontown.
 I'm sorry.
 Did that sound like a threat?
-Don't tell me the emperor believes... that wives' tale about the Great Spirit's head granting immortality.
+Don't tell me the emperor believes...
+that wives' tale about the Great Spirit's head granting immortality.
 I'm sure I don't know what the emperor believes.
 I'm just a humble monk.
 I'm just trying to get by.
@@ -1130,7 +1138,8 @@ I'm not sure!
 Everything started happening so fast.
 It was like a nightmare.
 Jigo's troops put us in front as bait to lure the boars in.
-They didn't tell us about the land mines under our feet... or the grenades coming in on top of us.
+They didn't tell us about the land mines under our feet...
+or the grenades coming in on top of us.
 Where's San?
 Take it easy.
 I'm trying to get you out.
@@ -1455,7 +1464,8 @@ That's the way the world is.
 But I might actually get it.
 Don't force me to kill you.
 You make it sound so very easy.
-You really ought to... relax!
+You really ought to...
+relax!
 Get going!
 Ashitaka!
 I got it!
@@ -1495,7 +1505,8 @@ Ashitaka, you mean so much to me, but I can't forgive the humans for what they'v
 I understand.
 You'll live in the forest, and I'll go help them rebuild Irontown.
 I'll always be near.
-Yakul and I will come and visit you... whenever we can, all right?
+Yakul and I will come and visit you...
+whenever we can, all right?
 Amazing.
 The wolves and that crazy little Wolf Girl helped save us all.
 Ashitaka.
@@ -1505,4 +1516,3 @@ We're going to start all over again.
 This time we'll build a better town.
 Well, I give up!
 You can't win against fools!
-THE END

@@ -14,7 +14,7 @@ There's the stone.
 Quick, go next door!
 Get that crystal!
 There goes the crystal.
-CASTLE IN THE SKY Two meatballs, please.
+IN Two meatballs, please.
 Working late?
 We're finally busy again.
 Still working?
@@ -324,7 +324,8 @@ Dear, would you mind covering the stone?
 Its power overwhelms me.
 Yes.
 What's wrong?
-My grandfather told me... the rocks stir when Laputa floats overhead.
+My grandfather told me...
+the rocks stir when Laputa floats overhead.
 If you went up to the sky then, you'd find Laputa!
 Sheeta, my father was telling the truth!
 Young lady...
@@ -355,7 +356,8 @@ Here I come!
 I know I'm going to find Laputa!
 Pazu...
 I haven't told you everything.
-My family had a mysterious, ancient name... that came with this stone.
+My family had a mysterious, ancient name...
+that came with this stone.
 My name is Lucita, Lucita Toelle Ur....
 Laputa.
 Laputa?
@@ -400,7 +402,8 @@ What is it?
 A mechanical soldier with vast destructive power.
 Until he fell from the sky, no one believed Laputa was real.
 He's not of this earth.
-Our science can't even identify... what material he's made of.
+Our science can't even identify...
+what material he's made of.
 Look...
 Don't be afraid.
 He's long dead.
@@ -436,7 +439,8 @@ You?
 Did they do anything horrible?
 My dear Pazu, we misjudged you.
 Accept our apologies.
-We didn't know how gallantly... you protected her from the pirates.
+We didn't know how gallantly...
+you protected her from the pirates.
 Sheeta, what did you...
 Pazu, I beg you, forget about Laputa.
 What!
@@ -538,7 +542,8 @@ We depart at dawn, with the girl.
 Step on it, it's almost dawn!
 Sheeta!
 Whatever shall we do?
-Sheeta, listen, I'm going to teach you... a magic spell for trouble.
+Sheeta, listen, I'm going to teach you...
+a magic spell for trouble.
 A magic spell?
 Yes.
 These are old, old, old secret words.
@@ -666,7 +671,8 @@ Or potato peeling!
 Can you make pudding?
 Yes...
 I like mincemeat pie.
-I eat, uhm... anything!
+I eat, uhm...
+anything!
 Enough out of you!
 When will those boys ever grow up?
 Get off!
@@ -697,7 +703,8 @@ Pazu.
 The crystal pointed nearly due east...
 You sure about that?
 I could see the sunrise from the tower.
-It's the harvest season now... so the sun rises just south of due east.
+It's the harvest season now...
+so the sun rises just south of due east.
 The light pointed to the left of where the sun rose.
 Good answer.
 Any luck?
@@ -708,7 +715,8 @@ What do we do?
 We're upwind of them.
 If we get a lift on the trade winds...
 My abacus from the Far East.
-Windspeed is 10... and...
+Windspeed is 10...
+and...
 I think we can catch up.
 Okay, listen up!
 Goliath's on its way to Laputa.
@@ -752,7 +760,8 @@ They're too upright and honest to ever respect you.
 What's that!
 No, I mean...
 Check...
-Excellent... delicious...
+Excellent...
+delicious...
 Seconds anyone?
 Okay.
 More!
@@ -779,7 +788,8 @@ Pazu?
 What?
 I'm really scared.
 I really don't want to go to Laputa.
-I hope we never find Goliath. - You mean-- - No, the light pointed the right way.
+I hope we never find Goliath.
+- You mean-- - No, the light pointed the right way.
 But...
 You mean the robot?
 Poor thing.
@@ -801,7 +811,8 @@ We met thanks to the stone.
 Throwing it away won't make Laputa disappear.
 Airships are improving.
 Someone will find it.
-I don't know what to do, but if Laputa is so dangerous... it's not for the likes of Muska.
+I don't know what to do, but if Laputa is so dangerous...
+it's not for the likes of Muska.
 Besides...
 If we run now, they'll hunt us forever.
 But don't become a pirate for me.
@@ -831,13 +842,15 @@ Track them from the crow's nest.
 What do I do?
 That lookout post is a glider.
 See the crank?
-Yeah. - Turn it clockwise.
+Yeah.
+- Turn it clockwise.
 Once it's locked, the upper lever unfolds the wings.
 Use the wire to stabilize them.
 Figure out how to steer as you go!
 Sheeta, you there?
 Yes.
-Get back down here. - Why?
+Get back down here.
+- Why?
 Because you're a girl!
 But so are you!
 Besides, I'm a mountain girl with sharp eyes.
@@ -883,7 +896,8 @@ Bridge!
 What!
 We're heading north?
 The compass is pointing east.
-The shifting winds must have put us off course. - Look!
+The shifting winds must have put us off course.
+- Look!
 What is it?
 Goliath?
 It's a cloud.
@@ -1019,7 +1033,8 @@ But Muska will become king.
 He's got much worse in mind.
 But what do I do when I get the stone back...
 Wait, that spell!
-You mean... the destruction spell?
+You mean...
+the destruction spell?
 Down and around.
 I'll go first.
 Okay.
@@ -1089,7 +1104,8 @@ Found it!
 Behold the giant crystal!
 Source of Laputa's power.
 Fantastic.
-It has awaited the king's return for 700 years. 700 years?
+It has awaited the king's return for 700 years.
+700 years?
 Your family forgot even that?
 The black rock!
 As the epics described!
@@ -1227,7 +1243,8 @@ It's stopping!
 A crystal!
 A humongous one!
 It's rising.
-The tree... it's carrying it away.
+The tree...
+it's carrying it away.
 Chase it!
 You're heavy, get off.
 I can't!
