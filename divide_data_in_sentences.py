@@ -54,7 +54,7 @@ def split_subtitles_into_sentences(input_folder, output_folder, combined_output_
             f_combined.write(sentence.strip() + '\n')
 
 split_subtitles_into_sentences(
-    input_folder='data_cleaned/ghibli',
-    output_folder='data_in_sentences/ghibli',
-    combined_output_file='data_in_sentences/ghibli_sentences.txt'
+    input_folder='data_cleaned/disney',
+    output_folder='data_in_sentences/disney',
+    combined_output_file='data_in_sentences/disney_sentences.txt'
 )
