@@ -30,7 +30,7 @@ from sklearn.model_selection import train_test_split
 # pip nltk.download('stopwords')
 
 # Data 
-data_folder = 'data_preprocessed/disney'
+data_folder = 'data_split/disney'
 
 # Define POS tag mapping from Universal → WordNet
 un2wn_mapping = {"VERB": wn.VERB, "NOUN": wn.NOUN, "ADJ": wn.ADJ, "ADV": wn.ADV}
@@ -40,15 +40,15 @@ lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
 # Custom stopwords
-custom_stopwords = {'okay'}
+custom_words = {'okay', 'buzz', 'ralph', 'dumbo', 'lilo', 'simba', 'movie', 'scene', 'song', 
+                'pinocchio', 'toy', 'character'}
 
 # Filtering function
 def filter_token(token):
-    return (token not in stop_words and token not in custom_stopwords and len(token) >= 3 and
+    return (token not in stop_words and token not in custom_words and len(token) >= 3 and
             token.isalpha())
 
 
-# Read all files in the data folder
 raw_documents = []
 document_names = []
 
@@ -168,5 +168,5 @@ plt.colorbar()  # Shows topic strength color scale
 plt.title("Topic Distribution per Document (Heatmap)")
 plt.tight_layout()
 
-plt.savefig("topic_heatmap.png", dpi=300)
-print("Saved heatmap as 'topic_heatmap.png'")
+# plt.savefig("topic_heatmap.png", dpi=300)
+# print("Saved heatmap as 'topic_heatmap.png'")
