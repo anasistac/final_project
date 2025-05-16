@@ -2,7 +2,8 @@
 '''This file contains a list of stopwords for use in LDA topic modeling.'''
 
 # Custom movie words
-custom_movie_words = {"scene", "movie", "character", "gonna", "hopps"}
+custom_movie_words = {"animation", "scene", "movie", "character", "song", "gonna", "hopps", "lot", "sir", 
+                      "mei", "japanse", "japan", "guy", "boy", "girl", "hey", "αrren", "thing", "things"}
 
 # main characters from the disney movies 
 disney_main_characters = {"aladdin", "jasmine", "genie", "jafar", "abu", "iago", "sultan",

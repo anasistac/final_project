@@ -116,22 +116,22 @@ print(movie_ldamodel.show_topics(formatted=False, num_words=5))
 for doc_topics in movie_ldamodel.get_document_topics(train_bow_corpus):
     print(doc_topics)
 
-# ''' 5. Evaluation '''
-# # Imports
-# from gensim.models import CoherenceModel
+''' 5. Evaluation '''
+# Imports
+from gensim.models import CoherenceModel
 
-# # Compute perplexity (how well the model fits the data — lower is better)
-# print('\nPerplexity:', movie_ldamodel.log_perplexity(test_bow_corpus))
+# Compute perplexity (how well the model fits the data — lower is better)
+print('\nPerplexity:', movie_ldamodel.log_perplexity(test_bow_corpus))
 
-# # Compute coherence score (how interpretable the topics are — higher is better)
-# coherence_model_lda = CoherenceModel(
-#     model=movie_ldamodel,
-#     texts=train_docs,
-#     dictionary=train_movie_dictionary,
-#     coherence='c_v'  
-# )
+# Compute coherence score (how interpretable the topics are — higher is better)
+coherence_model_lda = CoherenceModel(
+    model=movie_ldamodel,
+    texts=train_docs,
+    dictionary=train_movie_dictionary,
+    coherence='c_v'  
+)
 
-# print('\nCoherence score:', coherence_model_lda.get_coherence())
+print('\nCoherence score:', coherence_model_lda.get_coherence())
 
 
 ''' 6. Visualize the topics '''
@@ -163,5 +163,5 @@ plt.colorbar()  # Shows topic strength color scale
 plt.title("Topic Distribution per Document (Heatmap)")
 plt.tight_layout()
 
-# plt.savefig("topic_heatmap.png", dpi=300)
-# print("Saved heatmap as 'topic_heatmap.png'")
+plt.savefig("topic_heatmap.png", dpi=300)
+print("Saved heatmap as 'disney_topic_heatmap.png'")

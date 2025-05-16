@@ -10,6 +10,7 @@ Steps:
 3. Apply the LDA model
 4. Examine the topics
 5. Evaluation
+6. Visualize the topics
 '''
 
 '''1. Preprocess the data'''
@@ -21,6 +22,7 @@ from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
+from Stopwords_for_lda import stopwords_mallet, ghibli_main_characters, custom_movie_words
 
 # Only run once!
 # nltk.download('wordnet') 
@@ -29,7 +31,7 @@ from sklearn.model_selection import train_test_split
 # pip nltk.download('stopwords')
 
 # Data 
-data_folder = 'data_preprocessed/ghibli'
+data_folder = 'data_split/ghibli'
 
 # Define POS tag mapping from Universal → WordNet
 un2wn_mapping = {"VERB": wn.VERB, "NOUN": wn.NOUN, "ADJ": wn.ADJ, "ADV": wn.ADV}
@@ -38,17 +40,20 @@ un2wn_mapping = {"VERB": wn.VERB, "NOUN": wn.NOUN, "ADJ": wn.ADJ, "ADV": wn.ADV}
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
+# Filtering function
+def filter_token(token):
+    return token not in stopwords_mallet and token not in ghibli_main_characters and token not in custom_movie_words
 
-# Read all files in the data folder
 raw_documents = []
+document_names = []
 
-for filename in os.listdir(data_folder):
+for filename in sorted(os.listdir(data_folder)):  
     file_path = os.path.join(data_folder, filename)
     if os.path.isfile(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             words = f.read().split()
             raw_documents.append(words)
-
+            document_names.append(filename)  # track file names for final visulaization
 
 
 # Lemmatize with POS awareness
@@ -63,12 +68,18 @@ for words in raw_documents:
         else:
             lemma = lemmatizer.lemmatize(word)
         lemma = lemma.lower()
-        if lemma not in stop_words: 
+        if filter_token(lemma) and tag in {"ADJ", "NOUN"} and len(lemma) > 2: 
             lemmatized_doc.append(lemma)
     movie_docs.append(lemmatized_doc)
 
 # Training and test sets (80/20)
-train_docs, test_docs = train_test_split(movie_docs, test_size=0.3, random_state=42)
+indices = list(range(len(movie_docs)))
+train_idx, test_idx = train_test_split(indices, test_size=0.3, random_state=42)
+
+train_docs = [movie_docs[i] for i in train_idx]
+test_docs = [movie_docs[i] for i in test_idx]
+
+train_doc_names = [document_names[i] for i in train_idx]
 
 print(f"Number of test documents: {len(test_docs)}")
 
@@ -94,7 +105,7 @@ test_bow_corpus = [train_movie_dictionary.doc2bow(d) for d in test_docs]
 
 
 ''' 3. Applying the LDA model'''
-movie_ldamodel = models.ldamodel.LdaModel(train_bow_corpus, num_topics=10, id2word = train_movie_dictionary, passes = 20)
+movie_ldamodel = models.ldamodel.LdaModel(train_bow_corpus, num_topics=5, id2word = train_movie_dictionary, passes = 20)
 
 ''' 4. Examining the topics'''#
 
@@ -123,3 +134,34 @@ coherence_model_lda = CoherenceModel(
 print('\nCoherence score:', coherence_model_lda.get_coherence())
 
 
+''' 6. Visualize the topics '''
+# Imports
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Create a document-topic matrix: rows = documents, columns = topics
+doc2topics = np.zeros((len(train_docs), movie_ldamodel.num_topics))
+
+# Fill in topic probabilities for each document
+for di, doc_topics in enumerate(movie_ldamodel.get_document_topics(train_bow_corpus, minimum_probability=0)):
+    for ti, v in doc_topics:
+        doc2topics[di, ti] = v
+
+for i, doc_name in enumerate(train_doc_names):
+    print(f"{doc_name}: {doc2topics[i]}")
+
+
+# Plot heatmap
+docs_id = train_doc_names  
+num_topics = movie_ldamodel.num_topics  
+
+fig = plt.figure(figsize=(16, 12))
+plt.pcolor(doc2topics, cmap='Blues')  
+plt.yticks(np.arange(doc2topics.shape[0]) + 0.5, docs_id, fontsize=10)
+plt.xticks(np.arange(num_topics) + 0.5, [f"Topic #{n}" for n in range(num_topics)], rotation=90)
+plt.colorbar()  # Shows topic strength color scale
+plt.title("Topic Distribution per Document (Heatmap)")
+plt.tight_layout()
+
+plt.savefig("topic_heatmap.png", dpi=300)
+print("Saved heatmap as 'ghibli_topic_heatmap.png'")
