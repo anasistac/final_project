@@ -28,7 +28,7 @@ label_map = {
 confidence_threshold = 0.45
 
 # Load subtitle lines
-with open("data_in_sentences/disney/Castle.in.the.Sky_cleaned_sentences.txt", "r", encoding="utf-8") as f:
+with open("data_in_sentences/ghibli/Castle.in.the.Sky_cleaned_sentences.txt", "r", encoding="utf-8") as f:
     lines = [line.strip() for line in f if line.strip()]
 
 # Process and classify
