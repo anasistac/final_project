@@ -1,3 +1,13 @@
+'''
+The script splits text files in the specified folders into smaller parts based on word count. 
+The purpose of this is to increase the number of documents for topic modeling, using LDA. 
+'''
+
+# Reference:
+# ChatGPT: https://chatgpt.com/share/6827523a-2430-800e-8cc3-6583e0d0cf5c
+
+
+# Imports
 import os
 from pathlib import Path
 from math import ceil
