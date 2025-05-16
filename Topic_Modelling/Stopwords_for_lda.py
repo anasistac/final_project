@@ -2,7 +2,7 @@
 '''This file contains a list of stopwords for use in LDA topic modeling.'''
 
 # main characters from the disney movies 
-main_characters = {
+disney_main_characters = {
     "aladdin": ["aladdin", "jasmine", "genie", "jafar", "abu", "iago", "sultan"],
     "beauty_and_the_beast": ["belle", "beast", "gaston", "lumiere", "cogsworth", "mrs_potts", "chip", "lefou"],
     "chicken_little": ["chicken_little", "abby_mallard", "runt", "fish", "buck_cluck"],
@@ -23,7 +23,7 @@ main_characters = {
 }
 
 # main characters from the ghibli movies
-main_characters = {
+ghibli_main_characters = {
     'arrietty': ['arrietty', 'sho'],
     'castle_in_the_sky': ['sheeta', 'pazu'],
     'from_up_on_poppy_hill': ['umi', 'shun'],
