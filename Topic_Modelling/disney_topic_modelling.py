@@ -62,60 +62,64 @@ for words in raw_documents:
         else:
             lemma = lemmatizer.lemmatize(word)
         lemma = lemma.lower()
-        if tag == "NOUN" and lemma not in stop_words: 
+        if lemma not in stop_words: 
             lemmatized_doc.append(lemma)
     movie_docs.append(lemmatized_doc)
 
 # Training and test sets (80/20)
 train_docs, test_docs = train_test_split(movie_docs, test_size=0.2, random_state=42)
 
+print(f"Number of test documents: {len(test_docs)}")
+print(f"Sample test doc: {test_docs[0] if test_docs else 'Empty!'}")
 
 ''' 2. Construct the document-term matrix '''
 
+# # # Imports
+# from gensim import corpora
+# import itertools
+# from collections import Counter
+# from gensim import models
+# from gensim.models.ldamodel import LdaModel
+
+# # Create dictionary representation of documents
+# train_movie_dictionary = corpora.Dictionary(train_docs)
+
+# # Filter out words that occur in less than 2 documents, or more than 80% of the documents.
+# train_movie_dictionary.filter_extremes(no_below=2, no_above=0.8)
+# print('Number of unique tokens:', len(train_movie_dictionary))
+
+# # Bag-of-words representation of the documents
+# train_bow_corpus = [train_movie_dictionary.doc2bow(d) for d in train_docs]
+# test_bow_corpus = [train_movie_dictionary.doc2bow(d) for d in test_docs]
+
+
+# ''' 3. Applying the LDA model'''
+# movie_ldamodel = models.ldamodel.LdaModel(train_bow_corpus, num_topics=5, id2word = train_movie_dictionary, passes = 20)
+
+# ''' 4. Examining the topics'''#
+
+# # Top words in each topic (words and weights)
+# print(movie_ldamodel.show_topics(formatted=False, num_words=5))
+
+# # Topic distribution for each document
+# for doc_topics in movie_ldamodel.get_document_topics(train_bow_corpus):
+#     print(doc_topics)
+
+# ''' 5. Evaluation '''
 # # Imports
-from gensim import corpora
-import itertools
-from collections import Counter
-from gensim import models
-from gensim.models.ldamodel import LdaModel
+# from gensim.models import CoherenceModel
 
-# Create dictionary representation of documents
-train_movie_dictionary = corpora.Dictionary(train_docs)
+# # Compute perplexity (how well the model fits the data — lower is better)
+# print('\nPerplexity:', movie_ldamodel.log_perplexity(test_bow_corpus))
 
-# Filter out words that occur in less than 2 documents, or more than 80% of the documents.
-train_movie_dictionary.filter_extremes(no_below=2, no_above=0.8)
-print('Number of unique tokens:', len(train_movie_dictionary))
+# # Compute coherence score (how interpretable the topics are — higher is better)
+# coherence_model_lda = CoherenceModel(
+#     model=movie_ldamodel,
+#     texts=test_docs,
+#     dictionary=train_movie_dictionary,
+#     coherence='c_v'  
+# )
 
-# Bag-of-words representation of the documents
-train_bow_corpus = [train_movie_dictionary.doc2bow(d) for d in train_docs]
-test_bow_corpus = [train_movie_dictionary.doc2bow(d) for d in test_docs]
+# print('\nCoherence score:', coherence_model_lda.get_coherence())
 
-''' 3. Applying the LDA model'''
-movie_ldamodel = models.ldamodel.LdaModel(train_bow_corpus, num_topics=5, id2word = train_movie_dictionary, passes = 20)
-
-''' 4. Examining the topics'''#
-
-# Top words in each topic (words and weights)
-print(movie_ldamodel.show_topics(formatted=False, num_words=5))
-
-# Topic distribution for each document
-for doc_topics in movie_ldamodel.get_document_topics(train_bow_corpus):
-    print(doc_topics)
-
-''' 5. Evaluation '''
-# Imports
-from gensim.models import CoherenceModel
-
-# Compute perplexity (how well the model fits the data — lower is better)
-print('\nPerplexity:', movie_ldamodel.log_perplexity(test_bow_corpus))
-
-# Compute coherence score (how interpretable the topics are — higher is better)
-coherence_model_lda = CoherenceModel(
-    model=movie_ldamodel,
-    texts=test_docs,
-    dictionary=train_movie_dictionary,
-    coherence='c_v'  
-)
-
-print('\nCoherence score:', coherence_model_lda.get_coherence())
-
+# #
