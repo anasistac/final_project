@@ -7,7 +7,7 @@ Day after tomorrow: fair.
 More news in just a minute.
 First, a word from today's sponsor-- Jiji, I've decided!
 Tonight's the night!
-, Mom!
+RING BELL FOR WITCH, KOKIRI Mom!
 Oh, hi, Miss Dora.
 It's gonna be clear tonight.
 I heard the weather forecast.
@@ -134,7 +134,7 @@ Which way are we headed?
 I think south, to the ocean.
 Climb up and turn on the radio.
 I don't think I can.
-'S Good evening!
+KIKI'S DELIVERY SERVICE Good evening!
 It was.
 Newcomer, I suppose.
 I must be.
@@ -554,7 +554,7 @@ But it was a wonderful adventure.
 And that painter who found the stuffed cat wants to do a drawing with me in it.
 Naked?
 Don't be silly!
-'S Boring.
+KIKI'S DELIVERY SERVICE Boring.
 Hey!
 Aren't you supposed to be minding the shop?
 I am, but nobody's coming in today.
@@ -1273,3 +1273,4 @@ We just got a letter from Kiki!
 Jiji and I are fine." Everything at work is falling into place.
 I'm gaining confidence.
 There are still times when I feel sad, but all in all, I sure love this town.
+THE END

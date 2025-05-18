@@ -1,7 +1,7 @@
 Another village destroyed.
 Let's go.
 Soon this will also be consumed in the Sea of Decay.
-1,000 OF , A , OF , AN , .
+1,000 YEARS AFTER THE COLLAPSE OF INDUSTRIAL CIVILIZATION, A FOREST EXUDING TOXIC VAPORS, CALLED THE SEA OF DECAY, COVERED AN EARTH STREWN WITH RUSTING RUINS, THREATENING HUMAN SURVIVAL.
 An Ohm's tracks.
 They're still fresh.
 An Ohm's shell.
@@ -1234,3 +1234,4 @@ Look!
 The glider.
 The wind!
 The wind has returned.
+THE END

@@ -1,4 +1,4 @@
-OF Hello.
+WHISPER OF THE HEART Hello.
 Hot, isn't it?
 I'm home.
 Thanks.
@@ -29,16 +29,16 @@ Did you leave out a line?
 You're right!
 Let me go first.
 I have to get this right or my professor will complain.
-- 5TH This guy...
+SEIJI AMASAWA - JULY 5TH This guy...
 You can read, but don't stay up too late.
 Good night.
 I thought I'd seen that name before...
 Here, too...
-- 27TH - 28TH - 5TH He's taken all these books out before me.
+LIBRARY WITHDRAWAL CARD SEIJI AMASAWA - JULY 27TH SEIJI AMASAWA - JULY 28TH SEIJI AMASAWA - JULY 5TH He's taken all these books out before me.
 Seiji Amasawa...
 What's he like?
 Wonder if he's nice.
-Shizuku!
+SEIJI AMASAWA Shizuku!
 Get up!
 I'm leaving!
 Did you sleep in your clothes?
@@ -84,7 +84,7 @@ Yes, ma'am.
 No one's ever borrowed this book!
 It's rare.
 They don't even have it at the public library.
-'S "Amasawa"...
+DONATED AMASAWA'S COLLECTION "Amasawa"...
 Miss!
 Do you know who this "Amasawa" is?
 Look what you made me do!
@@ -178,7 +178,7 @@ Jerk!
 Jerk!
 Jerk!
 "I'd forget about 'Concrete Road'..." Get lost!
-'S Did you see?
+DONATED AMASAWA'S COLLECTION Did you see?
 They were swimming like this!
 I'm home.
 Shiho?
@@ -231,7 +231,7 @@ You don't have to read them!
 Take the paper-clip off.
 Your boyfriend?
 Idiot!
-NO Will you be there?
+MUKAIHARA STATION NO BIKE PARKING Will you be there?
 Yeah.
 Next stop, Suginomiya.
 The exit will be on the left-hand side.
@@ -245,10 +245,10 @@ What about you?
 See you.
 Hey!
 A cat!
-The library's that way!
+KODAMA LINE SUGINOMIYA STATION The library's that way!
 And it felt just like the start of a story...
 There he is!
-NO What a hill!
+AUTHORIZED PERSONNEL ONLY NO ENTRY What a hill!
 How far up is he going?
 Kitty?
 Kitty?
@@ -257,10 +257,10 @@ Hey, kitty!
 Where are you going?
 Do you live around here?
 I never knew there was a place like this way up here...
-That's not nice!
+SUZUKI That's not nice!
 Going around teasing dogs!
 Maybe you're teasing me, too.
-, I never would've guessed there was a store like this one up here either...
+WORLD EMPORIUM SHIRO NISHI, PROP I never would've guessed there was a store like this one up here either...
 Cool!
 Are you that cat?
 Oh, hello...
@@ -309,7 +309,7 @@ Can I come back sometime?
 Sure...
 but go left to get to the library!
 I'm right above it!
-What a find!
+TENSHU HILL What a find!
 A place where stories start!
 Fantastic!
 Tsukishima!
@@ -344,7 +344,7 @@ Amasawa's read this one, too!
 What's he like?
 Concrete road No!
 He's not you!
-OF Shizuku!
+POE OF HAMBURG Shizuku!
 Hurry!
 I'm late!
 Pass my umbrella.
@@ -392,20 +392,20 @@ Stop trying to hook me up!
 Was it obvious?
 I never just guess!
 Sorry!
-'S Excuse me...
+TEACHER'S ROOM Excuse me...
 A library-book donor?
 Gee, I don't know...
 Sorry to bother you at lunch-time.
 There's this stamp in it.
 Oh...
-'S That's Dr.
+FAIRYTALE DONATED AMASAWA'S COLLECTION That's Dr.
 Amasawa.
 I've read it.
 It's a good book!
 Yes, very.
 What kind of person is he?
-He was chairman of the a few years ago.
-The ?
+He was chairman of the PTA a few years ago.
+The PTA?
 Would you know his given name?
 His given name?
 Mr.
@@ -489,7 +489,7 @@ It's closed.
 Have these flowers been watered?
 Baron's gone...
 Maybe someone bought him.
-, "Shiro Nishi"...
+WORLD EMPORIUM SHIRO NISHI, PROP "Shiro Nishi"...
 Maybe that jerk's name is "Nishi", too.
 Shizuku!
 Shizuku!
@@ -517,7 +517,7 @@ But I can't go to school tomorrow looking like this.
 And miss the test?
 Yeah.
 Oh.
-Idiot!
+DEVELOPMENT Idiot!
 What?
 It was easy.
 The library again, Shizuku?
@@ -778,7 +778,7 @@ Morning!
 Morning!
 Run faster!
 You go ahead!
-1: Great!
+HOUR 1: SPARE PERIOD Great!
 Shizuku!
 You look awful!
 You sure got better quickly!
@@ -948,7 +948,7 @@ Mom!
 Muta's gone again!
 Muta!
 "Muta"...
-" OF " TO OF TO 'S ...
+"WHISPER OF THE HEART" LISTEN TO THE VOICE OF THE WOODS LISTEN TO THE FOREST'S VOICE...
 Baron as the hero?
 Would you mind?
 I ask because Seiji says you treasure him...
@@ -1013,10 +1013,10 @@ It's so high!
 It's not so high once you're there!
 Go!
 When the air currents mingle in the afternoon, you can touch the stars!
-Huh?
-That's unusual!
+ARCHITECTURE MANUFACTURING Huh?
+NATURE FOLKLORE That's unusual!
 Shizuku looking at non-fiction.
-OF HE He's making a violin in his cell...
+PYRITE AGATE JADE LEAD CAT FOLKLORE HISTORY OF EASTERN EUROPE WHEN HE WAS IMPRISONED He's making a violin in his cell...
 Seiji!
 I thought you were gone!
 Grandpa said I might find you here.
@@ -1060,7 +1060,7 @@ Like just now...
 I was thinking.
 I've got to organize what I want to write.
 I'm not hungry.
-, 18TH Shizuku?
+TUESDAY, OCTOBER 18TH Shizuku?
 So you are home...
 Turn on the lights!
 At least you could bring in the laundry!
@@ -1134,7 +1134,7 @@ listen to this girl!
 Both of you come out here and tell me about it.
 Shizuku, change out of your uniform.
 Come on.
-- 3RD , 5, I see.
+MID-TERM TEST RESULTS 3RD YEAR, CLASS 5, SHIZUKU TSUKISHIMA I see.
 Is it true what Shiho says?
 I do care about my grades!
 You just said you weren't going to high school.
@@ -1206,7 +1206,7 @@ I've brought my story.
 It's finished?
 I promised you'd be the first to read it.
 It's a novel!
-" OF " Can you read it now?
+"WHISPER OF THE HEART" Can you read it now?
 I'll wait as long as it takes.
 But you've worked so hard on it...
 shouldn't I take my time?

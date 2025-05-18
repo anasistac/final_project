@@ -224,7 +224,7 @@ Is Mr.
 Horikoshi back from lunch?
 Jiro!
 Honjo, listen to this.
-The has a standard wing cross-section just like the curve of this fish bone.
+The NACA has a standard wing cross-section just like the curve of this fish bone.
 Maybe the Americans eat mackerel too.
 Jiro, you got a visitor.
 Yes?
@@ -1323,7 +1323,7 @@ I've some very excellent wine.
 A Tribute to Jiro Horikoshi and Tatsuo Hori Voices Hideaki Anno Miori Takimoto A white sloping path Runs up into the sky A gently swaying, misty haze Surrounding and holding Unnoticed by anyone, all alone Soaring upwards Not afraid of anything Dancing up Longing to be in the sky Speeding through the sky A whole life, a vapor trail Even before dying From that window, up high Watching the sky Now no one understands No one would understand All they could think was...
 "Too young" Yet...
 happy Longing to be in the sky Speeding through the sky A whole life, a vapor trail Longing to be in the sky Speeding through the sky A whole life, a vapor trail Theme Song Yumi Arai Music Joe Hisaishi Executive Producer Koji Hoshino Producer Toshio Suzuki A Studio Ghibli Film Original Story and Screenplay Written and Directed by Hayao Miyazaki The End
-, WE'LL Chihiro.
+GOOD LUCK, CHIHIRO WE'LL MEET AGAIN Chihiro.
 Chihiro!
 We're almost there.
 This really is the middle of nowhere.
@@ -1344,7 +1344,7 @@ You dropped your card.
 I'm opening the window.
 C'mon now, behave yourself.
 It's a big day for all of us.
-Hey...
+SPIRITED AWAY Hey...
 Did I take the wrong turn?
 I don't get it.
 That must be it, look.
@@ -1443,17 +1443,17 @@ Mustard.
 Thank you.
 Mommy!
 Daddy!
-Weird...
-There's a train.
+OIL OIL OIL Weird...
+OIL BATHHOUSE There's a train.
 You're not allowed here.
 Go back.
 Wha-- It's almost night!
 Leave before it gets dark.
-They're lighting the lamps.
+BATHHOUSE They're lighting the lamps.
 Go.
 I'll distract them.
 Get back across the river.
-What's his problem?
+OIL What's his problem?
 Daddy.
 Daddy, let's go home.
 Let's go, Daddy.
@@ -1499,7 +1499,7 @@ Take a deep breath.
 In the name of the wind and the water within thee...
 Unbind her.
 Get up.
-NO Hold your breath while we're on the bridge.
+NO ENTRY OIL Hold your breath while we're on the bridge.
 Even a tiny breath will break the spell and the attendants will see you.
 I'm scared.
 Be calm.
@@ -1644,7 +1644,7 @@ Wel...
 welcome.
 This elevator is not in service, sir.
 Please use another.
-He's following us...
+DOWN ONLY He's following us...
 Quit gawking.
 UP Here we are.
 Your room is on the right.
@@ -1666,7 +1666,7 @@ It's for the other girls.
 I'm begging you.
 I'll settle for a leg.
 Anyone going up, pull down on the lever.
-Not going to knock?
+SECOND SKY SKY OIL Not going to knock?
 What a pathetic little girl.
 Come closer...
 I said closer.
@@ -1732,7 +1732,7 @@ Yes.
 You're Chihiro, huh?
 Yes.
 What an extravagant name.
-From now on, you'll be Sen.
+CHIHIRO SEN From now on, you'll be Sen.
 You got that?
 You're Sen.
 Answer me, Sen.
@@ -1802,7 +1802,7 @@ Meet me at the bridge.
 I'll show you your mother and father.
 My shoes...
 Thank you.
-Follow me.
+BATHHOUSE BATHHOUSE Follow me.
 Daddy, Mommy, it's me.
 It's Sen.
 Mommy, Daddy.
@@ -1833,7 +1833,7 @@ I don't want to.
 I put a spell on it to give you back your strength, eat it.
 You've had a hard time.
 Eat some more.
-Can you find your way back?
+OIL Can you find your way back?
 Yes, Haku, thank you.
 I'll work very hard.
 Good.
@@ -2308,7 +2308,7 @@ Found it!
 Here it is, Sen.
 We're busy, gramps.
 You can use this.
-Train tickets.
+TRAIN TICKETS Train tickets.
 Where'd you get them?
 I've had them for 40 years.
 Now listen, it's the sixth stop, called Swamp Bottom.
@@ -2647,6 +2647,7 @@ I told you not to stop here.
 OK, all clear.
 We're off, Chihiro.
 Hurry up, Chihiro.
+THE END
 Yeah?
 -Porco Rosso!
 The Mamma Aiutos are on the move!
@@ -3257,7 +3258,7 @@ Very rude.
 This is a private garden.
 I just had to show this to you.
 From Hollywood?
-"In the matter of your starring in the script you have sent..." "Serious consideration" and "please reply ." I call it Flowers of the Adriatic.
+"In the matter of your starring in the script you have sent..." "Serious consideration" and "please reply ASAP." I call it Flowers of the Adriatic.
 Nice name.
 You like it?
 Then it's settled.
@@ -3830,7 +3831,7 @@ She used to be more expressive.
 But these days, I don't even know...
 Maybe it's because we're not related by blood.
 You may want to send her somewhere to get better.
-7:03 Say, Anna...
+7:03 DEPARTURE FOR KUSHIRO Say, Anna...
 Do you remember Uncle and Aunt Oiwa?
 The air is very clean where they live.
 It'll help your condition to spend some time there.
@@ -3883,7 +3884,7 @@ Make yourself at home.
 Thank you.
 Let's see, where do these go?
 Excuse me.
-You must think it's an odd house.
+MOM DAD You must think it's an odd house.
 No, it's a lovely home.
 No need for flattery.
 Your room's upstairs.
@@ -3908,7 +3909,7 @@ It's quite nice here.
 Mr.
 and Mrs.
 Oiwa are both very kind.
-TO These are delicious.
+TO YORIKO SASAKI These are delicious.
 Sorry, my hands are full.
 Um, I'm going to the post office.
 Sure, go ahead.
@@ -3917,8 +3918,8 @@ Later.
 Okay, I'll save it for dessert.
 By the way, there's a shortcut by the parking lot.
 Oh, thank you.
-This is the shortcut?
-Boys just drive me mad!
+SHORTCUT This is the shortcut?
+SHORTCUT SHORTCUT SHORTCUT KITAHARA GROCERIES Boys just drive me mad!
 It's tough being class president.
 Wait, I need to drop off a letter.
 Hey, who's that?
@@ -4048,7 +4049,7 @@ Nobuko!
 What is it?
 He's always making the same mistakes.
 I'll warn him next time.
-There it is.
+TANABATA FESTIVAL There it is.
 Will my wish come true?
 Can I have a candle?
 Here you go.
@@ -4342,10 +4343,10 @@ Promise.
 I know.
 Hey, wait...
 Is that-- It's the girl with the Oiwas.
-, ?
-IT 'RE IT...
-I TO .
-.
+DEAR ANNA, HOW ARE YOU?
+IT SEEMS LIKE YOU'RE ENJOYING IT...
+I HOPE TO HEAR FROM YOU SOON.
+YORIKO.
 I see.
 I hope you find the other shoe.
 It must be somewhere.
@@ -4743,9 +4744,9 @@ Sayaka's here for you.
 Thanks.
 You could see her in your room.
 No, it's nice outside.
-IS .
-I'D TO .
-Sayaka.
+THE VIEW HERE IS BEAUTIFUL.
+I'D LOVE TO SHOW YOU.
+ANNA Sayaka.
 Here, a get-well gift.
 Thanks.
 Also...
@@ -4879,7 +4880,7 @@ Do you remember?
 It's that mansion.
 When you first came to us, you wouldn't let it go.
 I was told at the orphanage it belonged to your grandmother.
-MY - Marnie!
+MY BELOVED HOME - MARNIE Marnie!
 So that's who she was.
 Anna.
 And so I was in the silo all night.
@@ -4919,7 +4920,8 @@ I promise I'll tell you.
 Toichi!
 Sayaka!
 Goodbye!
-With ten days off, I figured you'd go abroad.
+THE END
+ONLY YESTERDAY With ten days off, I figured you'd go abroad.
 But you're off to Yamagata, right?
 Yes.
 Broke up with your boyfriend?
@@ -5105,7 +5107,7 @@ I'll have one now.
 If you had to deceive me I wish that you had deceived me Until my death A red-ruby...
 The king of fruit is...
 the banana, after all.
-The year I fainted at the baths and had my first pineapple...
+BEST SELLING PRODUCT The year I fainted at the baths and had my first pineapple...
 the Beatles came to Japan, and started the rock 'n' roll band and electric guitar craze.
 My sister Nanako, a freshman in art school, was up on all the trends.
 Yeah, the Beatles' lyrics are great.
@@ -5218,7 +5220,7 @@ Come on!
 Told you.
 Where is it?
 Over there.
-It's true!
+SHUJI HIROTA AND TAEKO OKAJIMA It's true!
 What's he like?
 No idea.
 Me, neither.
@@ -5243,7 +5245,7 @@ We told him not to write things on walls.
 Tsuneko!
 Ah, no running.
 Aren't you glad?
-Wasn't it funny?
+ROOM FOUR Wasn't it funny?
 Over here.
 See?
 That's him.
@@ -5287,7 +5289,7 @@ What's up, Taeko?
 Between the cold and the excitement, I ran to the bathroom five times.
 Over here, over here!
 Saved!
-' Game!
+GIRLS' BATHROOM Game!
 Five to three.
 Room Four wins.
 Thank you for the game.
@@ -5358,7 +5360,7 @@ It's because...
 Umm...
 Why is the school selling underpants?
 Are they for swimming?
-' You told Nakayama?
+GIRLS' BATHROOM You told Nakayama?
 Why did you do that?
 You shouldn't tell boys.
 It's supposed to be our secret.
@@ -5405,7 +5407,7 @@ He promised not to tell the others.
 Now they'll think all girls who skip PE are on their periods!
 You think so?
 Of course!
-OF - I'm not missing PE.
+PLEASE EXCUSE TAEKO FROM GYM CLASS BECAUSE OF HER COLD PARENT-TEACHER CONTACT BOOK I'm not missing PE.
 Your cold will get worse.
 Then I'll stay home.
 No.
@@ -5454,7 +5456,7 @@ Over here, over here!
 What a silly thing to say.
 It's no laughing matter!
 Taeko?
-It's the period pair!
+SHOES CONTAINER It's the period pair!
 No, we're not!
 Stupid boys.
 You're so relaxed about it.
@@ -5470,8 +5472,8 @@ It was like we'd finally found our wings.
 But looking back now, maybe we were just flapping them pointlessly.
 Perhaps fifth-grade me was tagging along with a message for me to ponder and to rethink my life.
 Anyway, I decided to sleep the rest of the way.
-Ouch!
-Excuse me, has the Tokyo train left?
+ENTRANCE Ouch!
+EMERGENCY EXIT ENTRANCE Excuse me, has the Tokyo train left?
 Was that your train?
 No...
 Taeko Okajima, right?
@@ -5780,7 +5782,7 @@ not even good at math, always could do it perfect right away.
 She grew up really normal and now is married with two kids.
 I was no good at it.
 Not smart enough to know when to quit.
-, , 25 Before the test...
+ROOM FIVE, TAEKO OKAJIMA, 25 POINTS Before the test...
 we had art class.
 And...
 um...
@@ -6278,7 +6280,7 @@ You sat next to him, an easy target.
 He wanted you to think he was tough.
 No way he wanted to shake hands with everyone.
 He only acted tough around you.
-Don't be filthy!
+MARGARET Don't be filthy!
 I felt so guilty and so sorry for him that I began copying him.
 Too late though, huh?
 I couldn't take back the pain I caused him.
@@ -6318,7 +6320,7 @@ Next time I'll be fine, I'll leave the ten-year-old me at home.
 Wait for me!
 Take care, Naoko.
 Goodbye.
-The Beginning ON BY Producer Toshio Suzuki Animation Katsuya Kondo Backgrounds Noboru Yoshida Color design Michiyo Yasuda Imaging Atsushi Okui Music Joe Hisaishi Songs performed by & Nozomi Ohashi Masako Hayashi Voices Tomoko Yamaguchi Kazushige Nagashima Yuki Amami George Tokoro Yuria Nara Rumi Hiiragi Hiroki Doi Akiko Yano Kazuko Yoshiyuki Tomoko Naraoka Written and Directed by Hayao Miyazaki Sosuke, come right back!
+The Beginning PONYO ON THE CLIFF BY THE SEA Producer Toshio Suzuki Animation Katsuya Kondo Backgrounds Noboru Yoshida Color design Michiyo Yasuda Imaging Atsushi Okui Music Joe Hisaishi Songs performed by FUJIOKA FUJIMAKI & Nozomi Ohashi Masako Hayashi Voices Tomoko Yamaguchi Kazushige Nagashima Yuki Amami George Tokoro Yuria Nara Rumi Hiiragi Hiroki Doi Akiko Yano Kazuko Yoshiyuki Tomoko Naraoka Written and Directed by Hayao Miyazaki Sosuke, come right back!
 Okay.
 A goldfish...
 It's stuck.
@@ -6536,28 +6538,28 @@ Your wife must be upset.
 He says he's sorry.
 J...
 JE...
-...
-J...
+JER...
+JERK J...
 JE...
-...
-!
-!!
-!!!
-!!!!
-!!!!!
+JER...
+JERK JERK!
+JERK!!
+JERK!!!
+JERK!!!!
+JERK!!!!!
 He says he loves you!
 Lots and lots!
 J...
 JE...
-...
-Wow, that's cool!
+JER...
+JERK JERK JERK JERK Wow, that's cool!
 G...
 GO...
-...
-L...
-LU...
-...
-Don't cry, Lisa.
+GOO...
+GOOD GOOD L...
+GOOD LU...
+GOOD LUC...
+GOOD LUCK THANKS LOVE AND KISSES Don't cry, Lisa.
 I won't cry.
 I promised Ponyo I'd take care of her.
 I hope she isn't crying.
@@ -6596,7 +6598,7 @@ Hands and feet!
 No...don't tell me you tasted human blood!
 Wanna see Sosuke!
 No!
-His blood has deranged your !
+His blood has deranged your DNA!
 Revert.
 ..revert...
 Go back...go back!
@@ -6616,14 +6618,14 @@ Go away!
 My crab shields were weakening.
 I nearly upset Nature's balance.
 I must stay calm.
-When I think of meeting again...!
+When I think of meeting HER again...!
 This batch should be ready.
 No leaks down here.
 This door is loose.
 I'll fix it later.
 If even one creature got in here...!
 Superb!
-I feel the ocean's power in my very .
+I feel the ocean's power in my very DNA.
 When this well is full, the Era of the Ocean will begin.
 An explosion of life to match the Cambrian Era!
 This revolting era of Man will be over.
@@ -7145,7 +7147,7 @@ He's a strong little boy.
 Thanks, everyone.
 He'll need your support.
 Ponyo, it's a tunnel.
-“” I've been here before.
+“STOP” I've been here before.
 Ponyo?
 I don't like this place.
 Don't let go of my hand.
@@ -7245,7 +7247,7 @@ I'll never forget that summer.
 I spent a week in the old house where my mother grew up- Planning & Screenplay by Hayao Miyazaki Produced by Toshio Suzuki Based on "The Borrowers" by Mary Norton Music by Cécile Corbel Almost there.
 Feeling all right?
 Yes.
-Directed by Hiromasa Yonebayashi OF How many times I have told Haru, not to block the drive-way?
+Directed by Hiromasa Yonebayashi THE SECRET WORLD OF ARRIETTY How many times I have told Haru, not to block the drive-way?
 I'll be back in a sec.
 Okay.
 Haru!
@@ -7978,9 +7980,9 @@ I'm a teeny tiny girl, a little lady.
 I live under the kitchen floor.
 Right here, not so far from you Sometimes I feel happy, sometimes I feel blue In my dreams oh I wish I could Feel my hair blowing in the wind See the sky in the summer rain Pick a flower from the garden for you Beyond the lane there's another world Butterflies floating in the air Is there someone out there for me?
 And so life goes on day after day With knick-knacks on the floor, nooks and crannies I live in a tiny world, I live in a tiny world.
-But out there someone waits for me I wish I had someone to watch over me In my dreams oh I wish I could Feel my hair blowing in the wind See the sky in the summer rain Pick a flower from the garden for you Now I know there's another world Butterflies floating in the air There is someone out there for me Feel my hair blowing in the wind See the sky in the summer rain Pick a flower from the garden for you Now I know there's another world Butterflies floating in the air There is someone out there for me A Studio Ghibli Film
+But out there someone waits for me I wish I had someone to watch over me In my dreams oh I wish I could Feel my hair blowing in the wind See the sky in the summer rain Pick a flower from the garden for you Now I know there's another world Butterflies floating in the air There is someone out there for me Feel my hair blowing in the wind See the sky in the summer rain Pick a flower from the garden for you Now I know there's another world Butterflies floating in the air There is someone out there for me A Studio Ghibli Film THE END
 In ancient times, the land lay covered in forests, where, from ages long past, dwelt the spirits of the gods.
-Yakul!
+PRINCESS MONONOKE Yakul!
 Ashitaka!
 The wise woman wants everybody back to the village at once.
 We just came from Ji-san.
@@ -9497,6 +9499,7 @@ We're going to start all over again.
 This time we'll build a better town.
 Well, I give up!
 You can't win against fools!
+THE END
 I'll never forget that summer.
 I spent a week in the old house where my mother grew up.
 Almost there.
@@ -9671,7 +9674,7 @@ I wanted to hang everything while the sun's out.
 You know I love doing laundry.
 I'm going to nap for a bit.
 All right.
-You came back.
+YOU FORGOT SOMETHING You came back.
 Wait, don't go.
 Please leave us alone.
 I wanted to tell you that.
@@ -9723,7 +9726,7 @@ Yes.
 We'd better start looking.
 It's time.
 Pod...
-Afternoon!
+YOU FORGOT SOMETHING Afternoon!
 Package for you.
 Thanks again ma'am.
 It's pretty hot out there.
@@ -10042,7 +10045,7 @@ Another human being!
 It's all right, Mother.
 We'd like to take a look around first.
 Take your time.
-Now who can this be?
+SQUEAKY KLEAN SERVICE Now who can this be?
 Don't be too rough.
 Haru?
 Haru!
@@ -10151,7 +10154,7 @@ I hope you have the best life ever.
 Goodbye.
 Arrietty, you're a part of me now.
 I'll never forget you, ever.
-I'm fourteen years old, I'm pretty A light-hearted little lady For a long time, under the floor I've been living as a Borrower Sometimes I'm happy Sometimes I'm blue I'd love to meet somebody I want to feel the wind in my hair And to gaze at the sky I want to bring you a flower It's a different world out there Look, butterflies are dancing Waiting for me Yes, nothing ever changes In my little world It's not that I hate it But I want to know More and more about you My happiness and sadness always Get mixed up with each other I want to feel the wind in my hair And to gaze at the sky I want to bring you a flower It's a different world out there Look, butterflies are dancing Waiting for you Under the sun And surrounded by flowers I want to spend the days with you With these memories in my heart I'll live my own way In a new world
+I'm fourteen years old, I'm pretty A light-hearted little lady For a long time, under the floor I've been living as a Borrower Sometimes I'm happy Sometimes I'm blue I'd love to meet somebody I want to feel the wind in my hair And to gaze at the sky I want to bring you a flower It's a different world out there Look, butterflies are dancing Waiting for me Yes, nothing ever changes In my little world It's not that I hate it But I want to know More and more about you My happiness and sadness always Get mixed up with each other I want to feel the wind in my hair And to gaze at the sky I want to bring you a flower It's a different world out there Look, butterflies are dancing Waiting for you Under the sun And surrounded by flowers I want to spend the days with you With these memories in my heart I'll live my own way In a new world THE END
 September 21, 1945.
 That was the night I died.
 So disgusting!
@@ -10169,7 +10172,7 @@ Don't bother.
 Just toss it.
 This one is going too.
 Those blank eyes tell you it's over.
-“Sakuma's Drops” OF Production Designer & Executive Producer Ryoichi Sato Original Story by Akiyuki Nosaka Character Design - Yoshifumi Kondo Art Director - Nizo Yamamoto Music Michio Mamiya Layout - Yoshiyuki Momose Character Color Design - Michiyo Yasuda Director of Photography - Nobuo Koyama Sound Design - Yasuo Urakami Producer Toru Hara Written and Directed by Isao Takahata Everyone!
+“Sakuma's Drops” GRAVE OF THE FIREFLIES Production Designer & Executive Producer Ryoichi Sato Original Story by Akiyuki Nosaka Character Design - Yoshifumi Kondo Art Director - Nizo Yamamoto Music Michio Mamiya Layout - Yoshiyuki Momose Character Color Design - Michiyo Yasuda Director of Photography - Nobuo Koyama Sound Design - Yasuo Urakami Producer Toru Hara Written and Directed by Isao Takahata Everyone!
 To the shelters!
 Hear it's a large formation.
 The shelter behind the firehouse should be safe.
@@ -10867,8 +10870,8 @@ Seita!
 It's late.
 Go to sleep now.
 Okay.
-English translation by Rieko Izutsu-Vajirasarn Subtitles by A Studio Ghibli Production Written and Directed by Isao Takahata
-OF Hello.
+English translation by Rieko Izutsu-Vajirasarn Subtitles by AURA A Studio Ghibli Production Written and Directed by Isao Takahata
+WHISPER OF THE HEART Hello.
 Hot, isn't it?
 I'm home.
 Thanks.
@@ -10899,16 +10902,16 @@ Did you leave out a line?
 You're right!
 Let me go first.
 I have to get this right or my professor will complain.
-- 5TH This guy...
+SEIJI AMASAWA - JULY 5TH This guy...
 You can read, but don't stay up too late.
 Good night.
 I thought I'd seen that name before...
 Here, too...
-- 27TH - 28TH - 5TH He's taken all these books out before me.
+LIBRARY WITHDRAWAL CARD SEIJI AMASAWA - JULY 27TH SEIJI AMASAWA - JULY 28TH SEIJI AMASAWA - JULY 5TH He's taken all these books out before me.
 Seiji Amasawa...
 What's he like?
 Wonder if he's nice.
-Shizuku!
+SEIJI AMASAWA Shizuku!
 Get up!
 I'm leaving!
 Did you sleep in your clothes?
@@ -10954,7 +10957,7 @@ Yes, ma'am.
 No one's ever borrowed this book!
 It's rare.
 They don't even have it at the public library.
-'S "Amasawa"...
+DONATED AMASAWA'S COLLECTION "Amasawa"...
 Miss!
 Do you know who this "Amasawa" is?
 Look what you made me do!
@@ -11048,7 +11051,7 @@ Jerk!
 Jerk!
 Jerk!
 "I'd forget about 'Concrete Road'..." Get lost!
-'S Did you see?
+DONATED AMASAWA'S COLLECTION Did you see?
 They were swimming like this!
 I'm home.
 Shiho?
@@ -11101,7 +11104,7 @@ You don't have to read them!
 Take the paper-clip off.
 Your boyfriend?
 Idiot!
-NO Will you be there?
+MUKAIHARA STATION NO BIKE PARKING Will you be there?
 Yeah.
 Next stop, Suginomiya.
 The exit will be on the left-hand side.
@@ -11115,10 +11118,10 @@ What about you?
 See you.
 Hey!
 A cat!
-The library's that way!
+KODAMA LINE SUGINOMIYA STATION The library's that way!
 And it felt just like the start of a story...
 There he is!
-NO What a hill!
+AUTHORIZED PERSONNEL ONLY NO ENTRY What a hill!
 How far up is he going?
 Kitty?
 Kitty?
@@ -11127,10 +11130,10 @@ Hey, kitty!
 Where are you going?
 Do you live around here?
 I never knew there was a place like this way up here...
-That's not nice!
+SUZUKI That's not nice!
 Going around teasing dogs!
 Maybe you're teasing me, too.
-, I never would've guessed there was a store like this one up here either...
+WORLD EMPORIUM SHIRO NISHI, PROP I never would've guessed there was a store like this one up here either...
 Cool!
 Are you that cat?
 Oh, hello...
@@ -11179,7 +11182,7 @@ Can I come back sometime?
 Sure...
 but go left to get to the library!
 I'm right above it!
-What a find!
+TENSHU HILL What a find!
 A place where stories start!
 Fantastic!
 Tsukishima!
@@ -11214,7 +11217,7 @@ Amasawa's read this one, too!
 What's he like?
 Concrete road No!
 He's not you!
-OF Shizuku!
+POE OF HAMBURG Shizuku!
 Hurry!
 I'm late!
 Pass my umbrella.
@@ -11262,20 +11265,20 @@ Stop trying to hook me up!
 Was it obvious?
 I never just guess!
 Sorry!
-'S Excuse me...
+TEACHER'S ROOM Excuse me...
 A library-book donor?
 Gee, I don't know...
 Sorry to bother you at lunch-time.
 There's this stamp in it.
 Oh...
-'S That's Dr.
+FAIRYTALE DONATED AMASAWA'S COLLECTION That's Dr.
 Amasawa.
 I've read it.
 It's a good book!
 Yes, very.
 What kind of person is he?
-He was chairman of the a few years ago.
-The ?
+He was chairman of the PTA a few years ago.
+The PTA?
 Would you know his given name?
 His given name?
 Mr.
@@ -11359,7 +11362,7 @@ It's closed.
 Have these flowers been watered?
 Baron's gone...
 Maybe someone bought him.
-, "Shiro Nishi"...
+WORLD EMPORIUM SHIRO NISHI, PROP "Shiro Nishi"...
 Maybe that jerk's name is "Nishi", too.
 Shizuku!
 Shizuku!
@@ -11387,7 +11390,7 @@ But I can't go to school tomorrow looking like this.
 And miss the test?
 Yeah.
 Oh.
-Idiot!
+DEVELOPMENT Idiot!
 What?
 It was easy.
 The library again, Shizuku?
@@ -11648,7 +11651,7 @@ Morning!
 Morning!
 Run faster!
 You go ahead!
-1: Great!
+HOUR 1: SPARE PERIOD Great!
 Shizuku!
 You look awful!
 You sure got better quickly!
@@ -11818,7 +11821,7 @@ Mom!
 Muta's gone again!
 Muta!
 "Muta"...
-" OF " TO OF TO 'S ...
+"WHISPER OF THE HEART" LISTEN TO THE VOICE OF THE WOODS LISTEN TO THE FOREST'S VOICE...
 Baron as the hero?
 Would you mind?
 I ask because Seiji says you treasure him...
@@ -11883,10 +11886,10 @@ It's so high!
 It's not so high once you're there!
 Go!
 When the air currents mingle in the afternoon, you can touch the stars!
-Huh?
-That's unusual!
+ARCHITECTURE MANUFACTURING Huh?
+NATURE FOLKLORE That's unusual!
 Shizuku looking at non-fiction.
-OF HE He's making a violin in his cell...
+PYRITE AGATE JADE LEAD CAT FOLKLORE HISTORY OF EASTERN EUROPE WHEN HE WAS IMPRISONED He's making a violin in his cell...
 Seiji!
 I thought you were gone!
 Grandpa said I might find you here.
@@ -11930,7 +11933,7 @@ Like just now...
 I was thinking.
 I've got to organize what I want to write.
 I'm not hungry.
-, 18TH Shizuku?
+TUESDAY, OCTOBER 18TH Shizuku?
 So you are home...
 Turn on the lights!
 At least you could bring in the laundry!
@@ -12004,7 +12007,7 @@ listen to this girl!
 Both of you come out here and tell me about it.
 Shizuku, change out of your uniform.
 Come on.
-- 3RD , 5, I see.
+MID-TERM TEST RESULTS 3RD YEAR, CLASS 5, SHIZUKU TSUKISHIMA I see.
 Is it true what Shiho says?
 I do care about my grades!
 You just said you weren't going to high school.
@@ -12076,7 +12079,7 @@ I've brought my story.
 It's finished?
 I promised you'd be the first to read it.
 It's a novel!
-" OF " Can you read it now?
+"WHISPER OF THE HEART" Can you read it now?
 I'll wait as long as it takes.
 But you've worked so hard on it...
 shouldn't I take my time?
@@ -12242,7 +12245,7 @@ it's cold...
 Shizuku...
 I love you!
 Had a dream of living on my own With no fear of being all alone Pushed my sadness down inside of me And pretended I was strong as I could be Country road, this old road If you go right to the end Got a feeling it'll take me To that town, country road Tired of walking, I stop and stand Thinking back on my hometown But that road leading up the hill Is telling me to move on Country road, this old road If you go right to the end Got a feeling it'll take me To that town Country road It doesn't matter to me how sad I might be I'll never ever let a tear show in my eye If my feet are moving faster That's because I only want to push away memories Country road, this old road Could go right to my home town I won't go there, I can't go there Can't go down that country road Country road, when tomorrow comes I'll be like I always am Want to go back there, can't go back there Fare thee well Country road
-Studio Ghibli, Nippon Television Network, Dentsu, Hakuhodo , Walt Disney Japan, Mitsubishi and Toho present Planning & Screenplay by Hayao Miyazaki Produced by Toshio Suzuki Based on the Original Graphic Novel by Chizuru Takahashi & Tetsuro Sayama Screenplay by Keiko Niwa Music by Satoshi Takebe UP ON “Summer of Farewells” Performed by Aoi Teshima “Ue wo Muite Aruko” Performed by Kyu Sakamoto Character Design - Katsuya Kondo Imaging - Atsushi Okui Sound Design Koji Kasamatsu Masami Nagasawa Junichi Okada Keiko Takeshita Rumi Hiiragi Yuriko Ishida Jun Fubuki Takashi Naito Shunsuke Kazama Nao Omori Teruyuki Kagawa Directed by Goro Miyazaki The pot is bubbling The rice is steaming The cutting board is standing by The tofu is jiggly The eggs are slippery The natto is sticky as can be Drop the eggs in a frying pan Stir the miso in a pot Pile the rice in a server Everything is ready to go Time to wake up the house Get everyone to the table Now dig in, eat hearty It's another sunny day Another beautiful breakfast together And I made it all for you Hurry up, dig in now But be sure to taste every bite Another beautiful breakfast together And I made it all for you Hurry up, dig in now But be sure to taste every bite Morning!
+Studio Ghibli, Nippon Television Network, Dentsu, Hakuhodo DYMP, Walt Disney Japan, Mitsubishi and Toho present Planning & Screenplay by Hayao Miyazaki Produced by Toshio Suzuki Based on the Original Graphic Novel by Chizuru Takahashi & Tetsuro Sayama Screenplay by Keiko Niwa Music by Satoshi Takebe FROM UP ON POPPY HILL “Summer of Farewells” Performed by Aoi Teshima “Ue wo Muite Aruko” Performed by Kyu Sakamoto Character Design - Katsuya Kondo Imaging - Atsushi Okui Sound Design Koji Kasamatsu Masami Nagasawa Junichi Okada Keiko Takeshita Rumi Hiiragi Yuriko Ishida Jun Fubuki Takashi Naito Shunsuke Kazama Nao Omori Teruyuki Kagawa Directed by Goro Miyazaki The pot is bubbling The rice is steaming The cutting board is standing by The tofu is jiggly The eggs are slippery The natto is sticky as can be Drop the eggs in a frying pan Stir the miso in a pot Pile the rice in a server Everything is ready to go Time to wake up the house Get everyone to the table Now dig in, eat hearty It's another sunny day Another beautiful breakfast together And I made it all for you Hurry up, dig in now But be sure to taste every bite Another beautiful breakfast together And I made it all for you Hurry up, dig in now But be sure to taste every bite Morning!
 Good morning.
 Is Sora up yet?
 Still in front of the mirror.
@@ -12301,13 +12304,13 @@ Of course.
 See you this afternoon.
 Bye, then.
 Wait up.
-There she is.
+KONAN ACADEMY There she is.
 Morning.
 Look what's in the school paper.
 There's a poem about you.
 Who else raises flags every morning?
-, DO TO ?
-TO See?
+FAIR GIRL, WHY DO YOU SEND YOUR THOUGHTS TO THE SKY?
+THE WIND CARRIES THEM ALOFT TO MINGLE WITH THE CROWS TRIMMED WITH BLUE YOUR FLAGS FLY AGAIN TODAY See?
 It must be about you.
 I guess.
 So it's about you.
@@ -12336,7 +12339,7 @@ One, two.
 One, two.
 One, two...
 All right, drop the banners.
-- It ripped!
+LATIN QUARTER ANTI-DEMOLITION LEAGUE It ripped!
 Go.
 Go for it!
 Look this way, you guys.
@@ -12385,7 +12388,7 @@ The electrician's son?
 Hiro, you're so dense.
 ‘Fair girl, why do you send Your thoughts to the sky?’ Thus the Principality of Wallachia was hemmed in...
 by the Ottoman Turks and Russia, and its territory was coveted by both.
-Umi!
+SAVE OUR CLUBHOUSE FROM DEMOLITION Umi!
 Sora?
 What's going on?
 I bought this for 30 yen.
@@ -12418,12 +12421,12 @@ They proclaim all sorts of policies, but if you take a better look at them, you 
 Don't they ever clean this place?
 They have neither the sincerity nor the passion to implement any of them!
 If you disagree with my observations, it doesn't matter who you are...
-Hey.
+SENIOR MATH CLUB Hey.
 Hi, we're looking for the Archaeology Club.
 Upstairs.
 Look for the Lit Club sign.
 Thanks.
-I , I AM At last, inquiring minds!
+I THINK, THEREFORE I AM At last, inquiring minds!
 The Philosophy Club wants you.
 New members!
 How long has it been?
@@ -12443,7 +12446,7 @@ Your ideas can't even be proved.
 Draw energy from clouds, light, storms...’ ‘Show us the direction humanity should take...’ ‘A Copernicus for a new age, to set us free...’ CQ!
 CQ!
 This is a high school student from Japan.
-This is it.
+LITERATURE CLUB LATIN QUARTER WEEKLY This is it.
 Matsuzaki.
 Yamazaki...
 Hey, Shun!
@@ -12471,7 +12474,7 @@ You help them, Umi.
 My handwriting is terrible.
 You're joking.
 Why should I...
-!
+PHYSICS MIDTERM FORECAST!
 You're a junior.
 Got Suzuki for physics?
 Suzuki?
@@ -12487,10 +12490,10 @@ Miss Matsuzaki, I'd better see you out.
 Our resident philosopher might ambush you.
 Oh, thank you!
 From here to the end.
-- We've got to do something.
+NEW DICTIONARY FRENCH - JAPANESE We've got to do something.
 Yes, for the honor of those who went before us!
-TO !
-Meeting, Shun.
+THE KONAN NEWSPAPER LATIN QUARTER FREEDOM TO GROW OUT OUR HAIR!
+THE KONAN NEWSPAPER WHAT THE NEW GENERATION SHOULD LOOK LIKE Meeting, Shun.
 Care to join us, Matsuzaki?
 It's the anti-demolition meeting.
 Is it that late?
@@ -12589,7 +12592,7 @@ Sorry, Tomoko's off today.
 I have to be back early.
 Come on everybody, the debate's starting.
 Come on everybody...
-BE !
+THE LATIN QUARTER SHOULD BE PRESERVED!
 Good, hold it right there.
 This'll get rough.
 Afternoon.
@@ -12746,7 +12749,7 @@ My dad's right there.
 Isn't he handsome?
 That's when they got married.
 This is the picture I really like.
-, , Yuichiro Sawamura...?
+SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO Yuichiro Sawamura...?
 That's my dad.
 Matsuzaki is my mom's name.
 Come on, it's speech time.
@@ -12757,7 +12760,7 @@ You'll worry your mother.
 Shun, what about dinner?
 I already ate.
 He swings...Nagashima strikes out!
-, , Yuichiro Sawamura...
+SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO Yuichiro Sawamura...
 Thanks for coming.
 What's going on?
 Welcome, volunteers.
@@ -12794,7 +12797,7 @@ Please do.
 Sora, I'm going now.
 Okay.
 I'll be home by dinner.
-Did something happen?
+ONE STEP FORWARD Did something happen?
 Not a thing.
 See you tomorrow.
 Dad, can I ask you something?
@@ -12802,7 +12805,7 @@ I'm working.
 Make it short.
 Yuichiro Sawamura.
 He's my real father, right?
-, , We've been over that.
+SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO We've been over that.
 You're my son.
 It was blowing hard the night Sawamura brought you.
 He had his Family Register with him.
@@ -12818,7 +12821,7 @@ Thanks, Dad.
 Is it out there?
 Not yet.
 Guess it's not coming by today.
-!
+THE LATIN QUARTER REBORN!
 May I...?
 Come in, Umi.
 You're really leaving.
@@ -12850,11 +12853,11 @@ Extra!
 Extra!
 Next label, please.
 Okay.
-NI-2 He's so brave.
+NI-2 KOKUBUNJI RUINS He's so brave.
 This is great.
 Let's go look.
-If you don't like me, just say so.
-, , Yuichiro Sawamura.
+KONAN ACADEMY If you don't like me, just say so.
+SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO Yuichiro Sawamura.
 He's my real father.
 It's like some cheap melodrama.
 I don't understand.
@@ -12926,10 +12929,10 @@ Can I have two days?
 That'll really help, thanks.
 See you.
 So long.
-!
-OF !
-!
-OF !
+LATIN QUARTER VISIT THE NEW LATIN QUARTER!
+MAJORITY OF GIRLS OPPOSE DEMOLITION!
+MIDTERM RESULTS ANNOUNCED TEST FORECAST VINDICATED!
+MAJORITY OF ALL STUDENTS OPPOSE DEMOLITION!
 Ready, everybody?
 Umi, don't go.
 Shun, it's bad news.
@@ -12958,7 +12961,7 @@ Good morning.
 Did you skip class?
 No, I told them yesterday I'd be absent.
 Then we'd better get going.
-A Let's give it our best shot.
+FOR A SUCCESSFUL OLYMPICS MAKE TOKYO BEAUTIFUL Let's give it our best shot.
 Yes, that's what they say.
 No appointment?
 We're appealing directly to Mr.
@@ -12986,7 +12989,7 @@ I can't believe you'd say that.
 You don't know your pastries.
 Thank you.
 It's as plain as the nose on your face.
-Come on in, kids.
+ACCOUNTING DEPARTMENT Come on in, kids.
 Thank you.
 Excuse us.
 Yeah?
@@ -13025,7 +13028,7 @@ It must've been hard for your mother, raising you alone.
 She did a fine job.
 Thank you.
 All right, I'll go.
-, Thank you!
+TRUTH, GOODNESS AND BEAUTY Thank you!
 It's me.
 What's on tomorrow?
 Let's see, that's in the evening.
@@ -13086,7 +13089,7 @@ I showed him Dad's picture.
 He had the same photo.
 He says his real father is Yuichiro Sawamura.
 This one?
-, , I'm afraid this is all a little bit complicated.
+SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO I'm afraid this is all a little bit complicated.
 I told you about how your father and I eloped.
 You remember, don't you?
 Our first place was that second-floor apartment.
@@ -13121,7 +13124,7 @@ Umi...
 See you tonight.
 Have a nice day.
 Welcome to the Latin Quarter.
-I never realized this building was so impressive.
+LATIN QUARTER WELCOMES CHAIRMAN TOKUMARU I never realized this building was so impressive.
 Thank you, sir.
 What are you studying?
 Sir!
@@ -13131,7 +13134,7 @@ And what did you discover?
 The sun is very old, and our lifespan is short.
 No discoveries so far!
 Excellent answer.
-I , I AM The Philosophy Club?
+I THINK, THEREFORE I AM The Philosophy Club?
 Wouldn't you like a brand new clubhouse?
 What about your junior members?
 Sir, we philosophers can be content with just a barrel.
@@ -13154,7 +13157,7 @@ Umi, you did it.
 We all did it.
 Awesome!
 Magnificent!
-On to the next experiment.
+SENIOR MATH CLUB On to the next experiment.
 Umi, we owe this to you.
 But I didn't do anything special.
 Fixing things up was your idea.
@@ -13170,7 +13173,7 @@ Something very important is happening to both of them.
 They have to hurry.
 Escape...
 It's great to be young.
-Shun!
+KONAN ACADEMY Shun!
 Give us a ride.
 Umi?
 Don't worry Umi, I'll get you there in time.
@@ -13208,7 +13211,7 @@ Across the shining sea, A ship disappears in the sunlight Its horn trails a note
 My love is a melody I sing it high and low My love is a seagull That soars and swoops If I call out to you at twilight Will I see you there my sweet?
 Swaying branches along the path Leave farewell shadows on the ground Leave farewell shadows on the ground A weather vane rooster, an old chapel Will I see a city Steeped in summer hues?
 Yesterday's love is my tears They dry and vanish with time Tomorrow's love is a refrain Words without end If we meet at twilight Will you hold me in your arms?
-Translation by Jim Hubbert and Rieko Izutsu-Vajirasarn Subtitles by Aura A Studio Ghibli Film Events and characters depicted in this film are fictional.
+Translation by Jim Hubbert and Rieko Izutsu-Vajirasarn Subtitles by Aura A Studio Ghibli Film THE END Events and characters depicted in this film are fictional.
 Pirates!
 We're under attack!
 Hold them off!
@@ -13225,7 +13228,7 @@ There's the stone.
 Quick, go next door!
 Get that crystal!
 There goes the crystal.
-IN Two meatballs, please.
+CASTLE IN THE SKY Two meatballs, please.
 Working late?
 We're finally busy again.
 Still working?
@@ -14918,7 +14921,7 @@ Godspeed, soldier.
 I don't want to go!
 You're making a mistake!
 You don't need me!
-"All of those who seek my knowledge shall die."   Let's go.
+"All of those who seek my knowledge shall die." Let's go.
 Let's go.
 Let's go eat.
 Let's go.
@@ -16790,7 +16793,8 @@ I'm going back to pay for my crime.
 Can I come to see you again someday?
 Come on.
 We haνe to thank Sparrowhawk and Τenar.
-MY Dad, do you want some candy?
+THE END
+MY NEIGHBOR TOTORO Dad, do you want some candy?
 Thanks.
 Aren't you tired?
 No.
@@ -17155,7 +17159,7 @@ And I'm hoping to see him myself soon, too.
 Kanta, hurry up!
 You'll be late!
 Coming...
-, , Well, well!
+WAIT, RIVER, PINE TREE Well, well!
 Mei?
 Excuse me!
 Yes, Satsuki?
@@ -17221,9 +17225,9 @@ Bye-bye.
 Who was that?
 I don't know.
 Just in time!
-, Getting on?
+DESTINATION MAEZAWA, INARIMAE STATION TOKYO ELECTRIC RAILWAY BUS Getting on?
 All right, drive on.
-Daddy wasn't on it.
+TOKYO BUS COMPANY Daddy wasn't on it.
 He'll be on the next one.
 Why don't you wait at Nanny's?
 Are you okay?
@@ -17240,7 +17244,7 @@ You can use this.
 Take it, Mei's slipping off.
 Hold it like this.
 Here's the bus!
-He took Daddy's umbrella.
+TSUKAMORI INARIMAE He took Daddy's umbrella.
 I'm sorry.
 Drive on.
 The train was late and I missed the bus.
@@ -17262,7 +17266,7 @@ When we opened it, it was full of magic nuts and seeds!
 "We decided to plant them in the garden to make a lovely forest." But they haven't sprouted yet.
 Mei sits there all day, waiting for them.
 She looks like a little crab.
-It's nearly summer vacation.
+CRAB MEI It's nearly summer vacation.
 Dearest, dear Mom, get well soon.
 Love, Satsuki.
 Come on.
@@ -17457,9 +17461,9 @@ Mei is lost and we can't find her!
 She must be scared, please help me find her.
 I don't know what to do.
 They can't see the bus.
-Mei!
+FOREST SWAMP CEMETERY SHRINE SANCTUARY LAKE MEI Mei!
 The trees are moving out of the way!
-Mei!
+MEI Mei!
 Satsuki!
 Satsuki!
 Mei!
@@ -17468,7 +17472,7 @@ Satsuki!
 You silly girl.
 I'm sorry.
 You wanted to take the corn to Mom?
-Will you take us there?
+SHICHIKOKUYAMA HOSPITAL Will you take us there?
 Thank you so much.
 I'm sorry.
 They didn't need to send a telegram just for a cold.
@@ -17493,11 +17497,11 @@ What?
 I could swear I just saw Satsuki and Mei laughing up in that tree.
 Maybe they were.
 Look.
-TO
+TO MOM THE END
 Another village destroyed.
 Let's go.
 Soon this will also be consumed in the Sea of Decay.
-1,000 OF , A , OF , AN , .
+1,000 YEARS AFTER THE COLLAPSE OF INDUSTRIAL CIVILIZATION, A FOREST EXUDING TOXIC VAPORS, CALLED THE SEA OF DECAY, COVERED AN EARTH STREWN WITH RUSTING RUINS, THREATENING HUMAN SURVIVAL.
 An Ohm's tracks.
 They're still fresh.
 An Ohm's shell.
@@ -18730,6 +18734,7 @@ Look!
 The glider.
 The wind!
 The wind has returned.
+THE END
 Now the latest weather forecast for northwest Koriko.
 Skies are clearing up, thanks to a high-pressure front moving in from the continent.
 Mild winds will be blowing in from the northwest clearing out the clouds by this evening.
@@ -18739,7 +18744,7 @@ Day after tomorrow: fair.
 More news in just a minute.
 First, a word from today's sponsor-- Jiji, I've decided!
 Tonight's the night!
-, Mom!
+RING BELL FOR WITCH, KOKIRI Mom!
 Oh, hi, Miss Dora.
 It's gonna be clear tonight.
 I heard the weather forecast.
@@ -18866,7 +18871,7 @@ Which way are we headed?
 I think south, to the ocean.
 Climb up and turn on the radio.
 I don't think I can.
-'S Good evening!
+KIKI'S DELIVERY SERVICE Good evening!
 It was.
 Newcomer, I suppose.
 I must be.
@@ -19286,7 +19291,7 @@ But it was a wonderful adventure.
 And that painter who found the stuffed cat wants to do a drawing with me in it.
 Naked?
 Don't be silly!
-'S Boring.
+KIKI'S DELIVERY SERVICE Boring.
 Hey!
 Aren't you supposed to be minding the shop?
 I am, but nobody's coming in today.
@@ -20005,3 +20010,4 @@ We just got a letter from Kiki!
 Jiji and I are fine." Everything at work is falling into place.
 I'm gaining confidence.
 There are still times when I feel sad, but all in all, I sure love this town.
+THE END

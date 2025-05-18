@@ -67,7 +67,7 @@ She used to be more expressive.
 But these days, I don't even know...
 Maybe it's because we're not related by blood.
 You may want to send her somewhere to get better.
-7:03 Say, Anna...
+7:03 DEPARTURE FOR KUSHIRO Say, Anna...
 Do you remember Uncle and Aunt Oiwa?
 The air is very clean where they live.
 It'll help your condition to spend some time there.
@@ -120,7 +120,7 @@ Make yourself at home.
 Thank you.
 Let's see, where do these go?
 Excuse me.
-You must think it's an odd house.
+MOM DAD You must think it's an odd house.
 No, it's a lovely home.
 No need for flattery.
 Your room's upstairs.
@@ -145,7 +145,7 @@ It's quite nice here.
 Mr.
 and Mrs.
 Oiwa are both very kind.
-TO These are delicious.
+TO YORIKO SASAKI These are delicious.
 Sorry, my hands are full.
 Um, I'm going to the post office.
 Sure, go ahead.
@@ -154,8 +154,8 @@ Later.
 Okay, I'll save it for dessert.
 By the way, there's a shortcut by the parking lot.
 Oh, thank you.
-This is the shortcut?
-Boys just drive me mad!
+SHORTCUT This is the shortcut?
+SHORTCUT SHORTCUT SHORTCUT KITAHARA GROCERIES Boys just drive me mad!
 It's tough being class president.
 Wait, I need to drop off a letter.
 Hey, who's that?
@@ -285,7 +285,7 @@ Nobuko!
 What is it?
 He's always making the same mistakes.
 I'll warn him next time.
-There it is.
+TANABATA FESTIVAL There it is.
 Will my wish come true?
 Can I have a candle?
 Here you go.
@@ -579,10 +579,10 @@ Promise.
 I know.
 Hey, wait...
 Is that-- It's the girl with the Oiwas.
-, ?
-IT 'RE IT...
-I TO .
-.
+DEAR ANNA, HOW ARE YOU?
+IT SEEMS LIKE YOU'RE ENJOYING IT...
+I HOPE TO HEAR FROM YOU SOON.
+YORIKO.
 I see.
 I hope you find the other shoe.
 It must be somewhere.
@@ -980,9 +980,9 @@ Sayaka's here for you.
 Thanks.
 You could see her in your room.
 No, it's nice outside.
-IS .
-I'D TO .
-Sayaka.
+THE VIEW HERE IS BEAUTIFUL.
+I'D LOVE TO SHOW YOU.
+ANNA Sayaka.
 Here, a get-well gift.
 Thanks.
 Also...
@@ -1116,7 +1116,7 @@ Do you remember?
 It's that mansion.
 When you first came to us, you wouldn't let it go.
 I was told at the orphanage it belonged to your grandmother.
-MY - Marnie!
+MY BELOVED HOME - MARNIE Marnie!
 So that's who she was.
 Anna.
 And so I was in the silo all night.
@@ -1156,3 +1156,4 @@ I promise I'll tell you.
 Toichi!
 Sayaka!
 Goodbye!
+THE END

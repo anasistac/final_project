@@ -1,5 +1,5 @@
 In ancient times, the land lay covered in forests, where, from ages long past, dwelt the spirits of the gods.
-Yakul!
+PRINCESS MONONOKE Yakul!
 Ashitaka!
 The wise woman wants everybody back to the village at once.
 We just came from Ji-san.
@@ -1516,3 +1516,4 @@ We're going to start all over again.
 This time we'll build a better town.
 Well, I give up!
 You can't win against fools!
+THE END

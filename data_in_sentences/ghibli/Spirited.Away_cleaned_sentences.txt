@@ -1,4 +1,4 @@
-, WE'LL Chihiro.
+GOOD LUCK, CHIHIRO WE'LL MEET AGAIN Chihiro.
 Chihiro!
 We're almost there.
 This really is the middle of nowhere.
@@ -19,7 +19,7 @@ You dropped your card.
 I'm opening the window.
 C'mon now, behave yourself.
 It's a big day for all of us.
-Hey...
+SPIRITED AWAY Hey...
 Did I take the wrong turn?
 I don't get it.
 That must be it, look.
@@ -118,17 +118,17 @@ Mustard.
 Thank you.
 Mommy!
 Daddy!
-Weird...
-There's a train.
+OIL OIL OIL Weird...
+OIL BATHHOUSE There's a train.
 You're not allowed here.
 Go back.
 Wha-- It's almost night!
 Leave before it gets dark.
-They're lighting the lamps.
+BATHHOUSE They're lighting the lamps.
 Go.
 I'll distract them.
 Get back across the river.
-What's his problem?
+OIL What's his problem?
 Daddy.
 Daddy, let's go home.
 Let's go, Daddy.
@@ -174,7 +174,7 @@ Take a deep breath.
 In the name of the wind and the water within thee...
 Unbind her.
 Get up.
-NO Hold your breath while we're on the bridge.
+NO ENTRY OIL Hold your breath while we're on the bridge.
 Even a tiny breath will break the spell and the attendants will see you.
 I'm scared.
 Be calm.
@@ -319,7 +319,7 @@ Wel...
 welcome.
 This elevator is not in service, sir.
 Please use another.
-He's following us...
+DOWN ONLY He's following us...
 Quit gawking.
 UP Here we are.
 Your room is on the right.
@@ -341,7 +341,7 @@ It's for the other girls.
 I'm begging you.
 I'll settle for a leg.
 Anyone going up, pull down on the lever.
-Not going to knock?
+SECOND SKY SKY OIL Not going to knock?
 What a pathetic little girl.
 Come closer...
 I said closer.
@@ -407,7 +407,7 @@ Yes.
 You're Chihiro, huh?
 Yes.
 What an extravagant name.
-From now on, you'll be Sen.
+CHIHIRO SEN From now on, you'll be Sen.
 You got that?
 You're Sen.
 Answer me, Sen.
@@ -477,7 +477,7 @@ Meet me at the bridge.
 I'll show you your mother and father.
 My shoes...
 Thank you.
-Follow me.
+BATHHOUSE BATHHOUSE Follow me.
 Daddy, Mommy, it's me.
 It's Sen.
 Mommy, Daddy.
@@ -508,7 +508,7 @@ I don't want to.
 I put a spell on it to give you back your strength, eat it.
 You've had a hard time.
 Eat some more.
-Can you find your way back?
+OIL Can you find your way back?
 Yes, Haku, thank you.
 I'll work very hard.
 Good.
@@ -983,7 +983,7 @@ Found it!
 Here it is, Sen.
 We're busy, gramps.
 You can use this.
-Train tickets.
+TRAIN TICKETS Train tickets.
 Where'd you get them?
 I've had them for 40 years.
 Now listen, it's the sixth stop, called Swamp Bottom.
@@ -1322,3 +1322,4 @@ I told you not to stop here.
 OK, all clear.
 We're off, Chihiro.
 Hurry up, Chihiro.
+THE END
