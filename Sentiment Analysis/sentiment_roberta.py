@@ -11,7 +11,7 @@ model.eval()
 
 labels = ['negative', 'neutral', 'positive']
 
-with open("data_in_sentences/disney/Castle.in.the.Sky_cleaned_sentences.txt", "r", encoding="utf-8") as f:
+with open("data_in_sentences/ghibli_sentences.txt", "r", encoding="utf-8") as f:
     lines = [line.strip() for line in f if line.strip()]
 
 results = []
@@ -32,5 +32,5 @@ for line in tqdm(lines, desc="Classifying lines"):
 
 
 df = pd.DataFrame(results)
-df.to_csv("subtitles_sentiment_roberta.csv", index=False)
+df.to_csv("subtitles_sentiment_roberta_ghibli.csv", index=False)
 print(df.head())
