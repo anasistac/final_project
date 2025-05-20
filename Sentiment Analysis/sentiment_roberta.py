@@ -32,10 +32,6 @@ for line in tqdm(lines, desc="Classifying lines"):
 
 
 df = pd.DataFrame(results)
-<<<<<<< HEAD
+
 df.to_csv("subtitles_sentiment_roberta_ghibli.csv", index=False)
 print(df.head())
-=======
-df.to_csv("subtitles_sentiment_roberta.csv", index=False)
-print(df.head())
->>>>>>> ddbe02f43c03a1d2d7584ec6c6889d17433a0b7d
