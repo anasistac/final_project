@@ -11,11 +11,7 @@ model.eval()
 
 labels = ['negative', 'neutral', 'positive']
 
-<<<<<<< HEAD
 with open("data_in_sentences/ghibli_sentences.txt", "r", encoding="utf-8") as f:
-=======
-with open("data_in_sentences/disney.txt", "r", encoding="utf-8") as f:
->>>>>>> ddbe02f43c03a1d2d7584ec6c6889d17433a0b7d
     lines = [line.strip() for line in f if line.strip()]
 
 results = []
