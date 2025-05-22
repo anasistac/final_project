@@ -2,9 +2,23 @@ import os
 import nltk
 import re
 
+import re
+
 def simple_sentence_split(text):
-    # splits sentences on period, exclamation, or question mark followed by space and a capital letter
-    return re.split(r'(?<=[.!?])\s+(?=[A-Z])', text.strip())
+    # Remove <i> and </i> tags (common in subtitles for narration/lyrics)
+    text = re.sub(r'</?i>', '', text)
+
+    # Remove sound/stage directions like [laughing], [music]
+    text = re.sub(r'\[.*?\]', '', text)
+
+    # Remove ♪ music markers
+    text = text.replace('♪', '')
+
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
+
+    # Split on sentence-ending punctuation followed by a space
+    return re.split(r'(?<=[.!?])\s+', text)
 
 
 def split_subtitles_into_sentences(input_folder, output_folder, combined_output_file):
@@ -42,7 +56,7 @@ def split_subtitles_into_sentences(input_folder, output_folder, combined_output_
             f_combined.write(sentence.strip() + '\n')
 
 split_subtitles_into_sentences(
-    input_folder='data_cleaned/disney',
-    output_folder='data_in_sentences/disney',
-    combined_output_file='data_in_sentences/disney_sentences.txt'
+    input_folder='data_cleaned/ghibli',
+    output_folder='data_in_sentences/ghibli',
+    combined_output_file='data_in_sentences/ghibli_sentences.txt'
 )

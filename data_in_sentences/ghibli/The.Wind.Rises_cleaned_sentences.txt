@@ -17,7 +17,8 @@ Ah...you look quite the hero.
 No, I just slipped and fell.
 Fighting is never justified.
 Yes, mother.
-Alright. now you can go have your snack.
+Alright.
+now you can go have your snack.
 Thanks.
 Jiro, you're home!
 Welcome home.
@@ -106,11 +107,13 @@ Jiro, you were talking in your sleep.
 You were smiling.
 You must be having the most wonderful dream, Jiro.
 Mother, I'm going to be an aeronautical engineer.
-Oh, that does sound like a good dream. (sigh) He told me that airplanes are beautiful dreams.
+Oh, that does sound like a good dream.
+(sigh) He told me that airplanes are beautiful dreams.
 So I'm going to make beautiful airplanes.
 Excuse me Miss, please, take my seat.
 Pardon me, sir.
-I insist. (French) The wind feels wonderful.
+I insist.
+(French) The wind feels wonderful.
 Miss, you'll lose your hat.
 I got it.
 Miss!
@@ -119,7 +122,9 @@ Hold on!
 Are you all right?
 Safe!
 Nice catch.
-You speak French? "Le vent se lève." It's a French poem. "Il faut tenter de vivre." "Le vent se lève.
+You speak French?
+"Le vent se lève." It's a French poem.
+"Il faut tenter de vivre." "Le vent se lève.
 Il faut tenter de vivre." "The wind is rising.
 We must try to live." Earthquake.
 Get away!
@@ -152,7 +157,8 @@ Better hurry.
 Here, my mother made me this shirt.
 You must be thirsty.
 Don't worry, it's clean.
-The well's almost dry... and for you?
+The well's almost dry...
+and for you?
 Please.
 The fire hasn't reached Ueno and I'm heading for the university.
 So, I can take you there.
@@ -191,7 +197,8 @@ We need to hurry.
 What do you think, Japanese boy?
 Is the wind still rising?
 Yes, it's a gale.
-Well then, you must live. "Le vent se lève." "II faut tenter de vivre." Jiro, let's eat.
+Well then, you must live.
+"Le vent se lève." "II faut tenter de vivre." Jiro, let's eat.
 Look, even the new buildings are old-fashioned.
 If the streets are a little wider.
 So?
@@ -307,7 +314,8 @@ I need the plan in the shop as soon as possible.
 Do what you have to do.
 Yes, sir.
 Here.
-Let's get you ? specification.
+Let's get you ?
+specification.
 Follow me.
 This will be your desk.
 It's imported, nobody likes it.
@@ -321,8 +329,10 @@ It's that genius we've been hearing all about.
 Name?
 Genius.
 Jiro Horikoshi.
-I'm very happy to be here. 234.1 Get to work.
-Yes, sir. 234.1 And the rest of you, get back to work!
+I'm very happy to be here.
+234.1 Get to work.
+Yes, sir.
+234.1 And the rest of you, get back to work!
 Jiro, Jiro.
 Let's eat.
 Let's go see the assembly floor.
@@ -392,7 +402,9 @@ Here she comes.
 Almost here!
 Almost here!
 Damn it!
-Tell me you got it? 13.3 seconds. 146 knots.
+Tell me you got it?
+13.3 seconds.
+146 knots.
 Blast.
 She needs more horse power.
 She deserves better.
@@ -503,7 +515,8 @@ You Japanese copy everything.
 All these technology belong to Germany.
 Oh, I get it.
 So you're afraid we'll actually improve it!
-Honjo, let me talk to them. (German) We have a license to your technology.
+Honjo, let me talk to them.
+(German) We have a license to your technology.
 Therefore we officiallly have a right to be in this hangar examining these airplanes.
 I understand you're just doing your job, but please understand I'm just doing mine.
 When I saw Dr.Junkers' single-engine plane, I had to get a closer look.
@@ -549,7 +562,8 @@ Okay, I get it.
 German's technology is so superior that they can put wings on anything and fly it, including their damn radiators.
 Jiro, just give it a rest, please.
 We can't learn anything from these government specs.
-They're nothing but a bunch of pretty numbers. "This technology belongs to Germany." Honjô, maybe we don't need their technology after all.
+They're nothing but a bunch of pretty numbers.
+"This technology belongs to Germany." Honjô, maybe we don't need their technology after all.
 Wood and canvas could be just as good as metal.
 Jiro, we cannot be stuck in the past forever.
 We're already 20 years behind!
@@ -573,7 +587,8 @@ We saw them in the hangar.
 Jiro?
 Jiro, I'm done.
 The bath is yours.
-Dead to the world... because he thinks he's shouldering the future of Japanese aviation.
+Dead to the world...
+because he thinks he's shouldering the future of Japanese aviation.
 There's a telegram from headquarters.
 Come in.
 No need.
@@ -670,7 +685,8 @@ These are clean uniforms.
 Yes, we are ready.
 Man overboard!
 Stop!
-Whoa! (cheering on) Father!
+Whoa!
+(cheering on) Father!
 Bravo!
 That was a nice catch.
 It nearly took you away.
@@ -768,7 +784,8 @@ Isn't that right?
 Cigarette?
 I'm afraid they're Japanese.
 Thank you.
-It is a nice night. "Hier ist der Zauberberg." "The Magic Mountain" by Thomas Mann?
+It is a nice night.
+"Hier ist der Zauberberg." "The Magic Mountain" by Thomas Mann?
 Yes, a good place for forgetting.
 Make a war in China.
 Forget it.
@@ -789,7 +806,8 @@ We'll have to cancel our dinner plans.
 Oh, I'm sorry to hear that.
 I hope that she feels better soon.
 The doctor will be here soon.
-I must go. "Who has seen the wind?" "Neither I nor you." "But when the leaves hang trembling, the wind is passing through." Let the wind carry these wings, carry these wings to you.
+I must go.
+"Who has seen the wind?" "Neither I nor you." "But when the leaves hang trembling, the wind is passing through." Let the wind carry these wings, carry these wings to you.
 Jiro?
 Naoko!
 Be careful!
@@ -943,7 +961,8 @@ Your landlord received it two days ago.
 We just brought it in here now.
 Would you please read it to me?
 Now?
-Yes "Nahoko...has had a lung...heh, heh... hemorrhage.
+Yes "Nahoko...has had a lung...heh, heh...
+hemorrhage.
 Satomi." Jiro?
 Are you still there?
 Thank you.
@@ -957,7 +976,8 @@ Today?
 Yes, it's an emergency.
 I have to be there as soon as possible.
 Alright.
-If you take the noon bus, then you'll just be able to catch the express. 716.1 I'll send someone to hold the bus for you.
+If you take the noon bus, then you'll just be able to catch the express.
+716.1 I'll send someone to hold the bus for you.
 Go get your things.
 Thank you.
 Jiya!
@@ -1006,9 +1026,11 @@ Jiro's in the middle of a review with the design team.
 I wanted this design to use the latest aeronautical advances.
 Take a look.
 Retractable undercarriage!
-It's built to reach 270 knots. 270 knots?
+It's built to reach 270 knots.
+270 knots?
 That's 500 kilometers per hour!
-But the Navy only asked for 220 knots. 220 will be obselete by next week.
+But the Navy only asked for 220 knots.
+220 will be obselete by next week.
 The wing load is 120 kilos per square meter.
 Minimal drag will be the key.
 I pushed the design to the limit of technology, with split flaps and slats on the leading edges.
@@ -1096,7 +1118,8 @@ I bring to you a lovely maiden who has come from the mountain to be with her bel
 She has given up everything for him.
 What say you?
 Hear me!
-The man I present is an insensitive charcoal head without even a home to call his own. but if that's what she wants, she can come in.
+The man I present is an insensitive charcoal head without even a home to call his own.
+but if that's what she wants, she can come in.
 And then, they shall exchange the sacred vows.
 You're beautiful.
 Mr.
@@ -1121,7 +1144,8 @@ Yes, I completely forgot you were coming.
 You're so insensitive.
 Congratulations on finishing medical school.
 Congratulations on your marriage to Naoko.
-I've come to thank Mr. and  Mrs.
+I've come to thank Mr.
+and Mrs.
 Kurokawa on behalf of the entire family.
 Are they still up?
 They've gone to bed.
@@ -1246,7 +1270,8 @@ All right but remember, Kayo's coming soon to be here for her brother's celebrat
 Yes.
 I'll be back soon.
 Please come inside.
-Oh, no. she left us letters!
+Oh, no.
+she left us letters!
 This letter is for me.
 Says she's going back to the sanatorium!
 I'll find her.
@@ -1259,7 +1284,8 @@ What about speed?
 How she do?
 The numbers, they're off the charts.
 We're checking them again.
-How fast is she? 240.
+How fast is she?
+240.
 Two forty?
 Fantastic!
 What a fighter.
@@ -1294,4 +1320,6 @@ Thank you.
 You must live.
 But now, shall we drop by my house?
 I've some very excellent wine.
-A Tribute to Jiro Horikoshi and Tatsuo Hori Voices Hideaki Anno Miori Takimoto A white sloping path Runs up into the sky A gently swaying, misty haze Surrounding and holding Unnoticed by anyone, all alone Soaring upwards Not afraid of anything Dancing up Longing to be in the sky Speeding through the sky A whole life, a vapor trail Even before dying From that window, up high Watching the sky Now no one understands No one would understand All they could think was... "Too young" Yet... happy Longing to be in the sky Speeding through the sky A whole life, a vapor trail Longing to be in the sky Speeding through the sky A whole life, a vapor trail Theme Song Yumi Arai Music Joe Hisaishi Executive Producer Koji Hoshino Producer Toshio Suzuki A Studio Ghibli Film Original Story and Screenplay Written and Directed by Hayao Miyazaki The End
+A Tribute to Jiro Horikoshi and Tatsuo Hori Voices Hideaki Anno Miori Takimoto A white sloping path Runs up into the sky A gently swaying, misty haze Surrounding and holding Unnoticed by anyone, all alone Soaring upwards Not afraid of anything Dancing up Longing to be in the sky Speeding through the sky A whole life, a vapor trail Even before dying From that window, up high Watching the sky Now no one understands No one would understand All they could think was...
+"Too young" Yet...
+happy Longing to be in the sky Speeding through the sky A whole life, a vapor trail Longing to be in the sky Speeding through the sky A whole life, a vapor trail Theme Song Yumi Arai Music Joe Hisaishi Executive Producer Koji Hoshino Producer Toshio Suzuki A Studio Ghibli Film Original Story and Screenplay Written and Directed by Hayao Miyazaki The End

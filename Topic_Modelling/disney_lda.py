@@ -22,6 +22,7 @@ from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
+from Stopwords_for_lda import stopwords_mallet, disney_main_characters, custom_movie_words
 
 # Only run once!
 # nltk.download('wordnet') 
@@ -30,7 +31,7 @@ from sklearn.model_selection import train_test_split
 # pip nltk.download('stopwords')
 
 # Data 
-data_folder = 'data_preprocessed/disney'
+data_folder = 'data_split/disney'
 
 # Define POS tag mapping from Universal → WordNet
 un2wn_mapping = {"VERB": wn.VERB, "NOUN": wn.NOUN, "ADJ": wn.ADJ, "ADV": wn.ADV}
@@ -39,16 +40,10 @@ un2wn_mapping = {"VERB": wn.VERB, "NOUN": wn.NOUN, "ADJ": wn.ADJ, "ADV": wn.ADV}
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
-# Custom stopwords
-custom_stopwords = {'okay'}
-
 # Filtering function
 def filter_token(token):
-    return (token not in stop_words and token not in custom_stopwords and len(token) >= 3 and
-            token.isalpha())
+    return token not in stopwords_mallet and token not in disney_main_characters and token not in custom_movie_words
 
-
-# Read all files in the data folder
 raw_documents = []
 document_names = []
 
@@ -73,7 +68,7 @@ for words in raw_documents:
         else:
             lemma = lemmatizer.lemmatize(word)
         lemma = lemma.lower()
-        if filter_token(lemma):  
+        if filter_token(lemma) and tag in {"ADJ", "NOUN"} and len(lemma) > 2: 
             lemmatized_doc.append(lemma)
     movie_docs.append(lemmatized_doc)
 
@@ -169,4 +164,4 @@ plt.title("Topic Distribution per Document (Heatmap)")
 plt.tight_layout()
 
 plt.savefig("topic_heatmap.png", dpi=300)
-print("Saved heatmap as 'topic_heatmap.png'")
+print("Saved heatmap as 'disney_topic_heatmap.png'")
