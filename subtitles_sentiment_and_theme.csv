@@ -1,0 +1,713 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+"September 21, 1945.",very negative,0.4782,Family,0.9031,3
+That was the night I died.,very negative,0.585,Trauma,0.8638,6
+So disgusting!,very negative,0.6946,Family,0.4618,2
+Watch it!,very positive,0.6039,Family,0.79,2
+He's filthy.,very negative,0.6085,Family,0.5701,2
+Is he dead?,very negative,0.7372,Family,0.2402,3
+Such a disgraceful sight.,very negative,0.6478,Trauma,0.5948,4
+Don't want Americans to see this!,very negative,0.5461,Trauma,0.3524,6
+Mama!,very positive,0.552,Family,0.9956,1
+What day is it today?,neutral,0.5757,Personal Growth,0.0807,5
+Setsuko...,uncertain,0.352,Family,0.9428,1
+Another one...,neutral,0.5269,Personal Growth,0.3469,2
+What's this?,uncertain,0.3125,Personal Growth,0.1427,2
+Don't bother.,very negative,0.5454,Family,0.576,2
+Just toss it.,uncertain,0.4376,Family,0.6071,3
+This one is going too.,uncertain,0.4418,Family,0.7115,5
+Those blank eyes tell you it's over. “Sakuma's Drops” GRAVE OF THE FIREFLIES Production Designer & Executive Producer Ryoichi Sato Original Story by Akiyuki Nosaka Character Design - Yoshifumi Kondo Art Director - Nizo Yamamoto Music Michio Mamiya Layout - Yoshiyuki Momose Character Color Design - Michiyo Yasuda Director of Photography - Nobuo Koyama Sound Design - Yasuo Urakami Producer Toru Hara Written and Directed by Isao Takahata Everyone!,very positive,0.5647,Identity,0.0292,69
+To the shelters!,very positive,0.4886,Resilience,0.8196,3
+Hear it's a large formation.,uncertain,0.4161,Family,0.5384,5
+The shelter behind the firehouse should be safe.,uncertain,0.4228,Resilience,0.9391,8
+Maybe they'll bomb elsewhere this time?,uncertain,0.3375,Trauma,0.1062,6
+Makes me hot.,uncertain,0.4048,Family,0.6046,3
+Now be a good girl and put this on.,very positive,0.4603,Family,0.8778,9
+I'll have a head start now.,uncertain,0.3499,Personal Growth,0.8229,6
+"You two, be sure to hurry along.",uncertain,0.4292,Family,0.9113,7
+"Setsuko, listen to your big brother.",uncertain,0.3858,Family,0.9814,6
+"Mama, you should hurry and go!",very positive,0.5676,Family,0.9919,6
+"Yes, dear.",very negative,0.6276,Family,0.9637,2
+"Mama, you got your medicine?",uncertain,0.3081,Family,0.9954,5
+"Yes, I got it.",uncertain,0.3887,Family,0.8197,4
+I don't like shelters.,negative,0.4539,Resilience,0.0517,4
+You want to get blown to bits?,uncertain,0.2571,Family,0.2804,7
+Climb on!,very positive,0.4524,Personal Growth,0.9334,2
+My doll!,very positive,0.5874,Personal Growth,0.6469,2
+To the shelters!,very positive,0.4886,Resilience,0.8196,3
+Seita.,uncertain,0.2757,Family,0.7582,1
+Heads down!,uncertain,0.2278,Family,0.8345,2
+No!,very negative,0.5534,Family,0.9037,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Did you get everything?,uncertain,0.2654,Family,0.6942,4
+Don't forget that!,very negative,0.5192,Family,0.8049,3
+Quick!,positive,0.5572,Family,0.7543,1
+Don't forget that!,very negative,0.5192,Family,0.8049,3
+Quick!,positive,0.5572,Family,0.7543,1
+Long live the Emperor!,very positive,0.6636,Resilience,0.0233,4
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+We're safe here.,uncertain,0.3697,Family,0.9348,3
+Where did Mama go?,uncertain,0.4388,Family,0.8286,4
+She's in the shelter.,uncertain,0.3752,Resilience,0.8942,4
+It could stand even a 250-kg bomb.,uncertain,0.3107,Resilience,0.9726,7
+She'll be fine.,neutral,0.6888,Resilience,0.9567,3
+Mama will come to the twin pines.,uncertain,0.3624,Family,0.9777,7
+We agreed to meet there.,neutral,0.4817,Family,0.7242,5
+Let's rest a little.,uncertain,0.4115,Family,0.9071,4
+"Everything all right, Setsuko?",uncertain,0.3283,Family,0.8046,4
+I lost a clog.,uncertain,0.4418,Trauma,0.1958,4
+I'll buy you a much better one.,uncertain,0.3864,Family,0.7191,7
+I have money too.,uncertain,0.3751,Personal Growth,0.424,4
+Open this.,uncertain,0.3757,Family,0.834,2
+You're rich!,uncertain,0.4251,Personal Growth,0.5618,2
+So this is black rain.,very negative,0.6175,Trauma,0.0038,5
+It's all gone...,very negative,0.5155,Grief,0.9014,3
+"Look, that's the public hall.",uncertain,0.4137,Resilience,0.2044,5
+Remember we had porridge there?,uncertain,0.3874,Resilience,0.0172,5
+Did our house burn down?,very negative,0.5353,Trauma,0.4955,5
+Seems like it.,uncertain,0.3405,Family,0.8771,3
+What are we going to do?,neutral,0.5513,Family,0.59,6
+Dad will make them pay.,uncertain,0.4066,Family,0.4261,5
+Mama!,very positive,0.552,Family,0.9956,1
+Mama!,very positive,0.552,Family,0.9956,1
+I'd feel guilty if only our house was left.,uncertain,0.4239,Trauma,0.6303,9
+Glad it's all gone.,uncertain,0.3549,Family,0.7636,4
+Mr.,uncertain,0.3299,Family,0.6627,1
+Miura got a direct hit.,uncertain,0.3967,Trauma,0.929,5
+I feel so sorry for him.,very negative,0.5626,Empathy,0.9693,6
+I'm glad you were safe.,positive,0.4545,Empathy,0.9125,5
+We got two direct hits.,uncertain,0.4422,Family,0.7997,5
+The oil would spill if we tried to move them.,uncertain,0.3641,Family,0.6414,10
+"No, it's not her!",negative,0.4619,Identity,0.7999,4
+"Seita, I have to pee.",uncertain,0.3333,Personal Growth,0.494,5
+Okay.,neutral,0.7094,Family,0.8657,1
+"Attention, residents of Kaminaka, Kaminishi, and Ichirizuka!",uncertain,0.4383,Family,0.7204,7
+Please go to the elementary school!,very positive,0.4815,Resilience,0.6012,6
+We've set up a first aid station!,very positive,0.4784,Family,0.4961,7
+What's wrong?,uncertain,0.3969,Family,0.3095,2
+My eyes hurt.,very negative,0.4979,Trauma,0.6654,3
+Don't rub them.,very negative,0.4772,Family,0.9154,3
+Let's go get them washed.,uncertain,0.3771,Family,0.9038,5
+Where's Mama?,uncertain,0.4017,Family,0.9748,2
+She'll be at school.,uncertain,0.4176,Resilience,0.6847,4
+School?,uncertain,0.3468,Resilience,0.006,1
+"Yes, let's hurry.",neutral,0.4962,Family,0.901,3
+Okay.,neutral,0.7094,Family,0.8657,1
+Don't cry.,uncertain,0.3868,Family,0.9195,2
+Be good now.,uncertain,0.3757,Family,0.8786,3
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Have you seen your mother?,uncertain,0.321,Family,0.977,5
+She's injured.,uncertain,0.4293,Trauma,0.9851,2
+You must go at once.,very positive,0.4682,Family,0.6136,5
+I'll stay with her.,uncertain,0.443,Family,0.9934,4
+That was scary.,uncertain,0.4025,Trauma,0.8925,3
+You didn't cry?,uncertain,0.2436,Family,0.7271,3
+Let's wait for your brother here.,uncertain,0.364,Family,0.9944,6
+"Seita, I've been looking for you.",uncertain,0.2973,Personal Growth,0.6746,6
+How are you?,uncertain,0.4147,Personal Growth,0.5731,3
+Where's Mama?,uncertain,0.4017,Family,0.9748,2
+Come with me.,very positive,0.4873,Personal Growth,0.8729,3
+This is your Mama's.,very positive,0.5207,Family,0.9979,4
+In here.,uncertain,0.3694,Family,0.8414,2
+She's finally asleep now.,uncertain,0.4448,Family,0.8716,4
+She should be moved to a hospital.,uncertain,0.4289,Trauma,0.8106,7
+We're asking about it.,uncertain,0.446,Family,0.8451,4
+I hear Kaisei Hospital wasn't hit.,uncertain,0.4167,Resilience,0.9521,6
+Sir.,very positive,0.4849,Resilience,0.7463,1
+Mama has a bad heart.,very negative,0.5696,Family,0.9828,5
+Can she get medicine for that?,uncertain,0.3756,Family,0.6397,6
+"Okay, we'll ask.",neutral,0.6521,Family,0.8347,3
+I'll come again.,very positive,0.5219,Resilience,0.9513,3
+Mama?,uncertain,0.3659,Family,0.9853,1
+You saw her?,uncertain,0.4265,Family,0.7694,3
+Yes...,uncertain,0.3973,Family,0.9147,1
+I'm so sorry.,uncertain,0.4301,Grief,0.867,3
+I'm thirsty.,very negative,0.4877,Personal Growth,0.437,2
+Is there anything I can do?,neutral,0.5437,Family,0.6583,6
+I know.,neutral,0.5486,Family,0.7759,2
+Did you get biscuits?,uncertain,0.3129,Family,0.0417,4
+I'll get you some.,neutral,0.4736,Family,0.7739,4
+Keep this ring in your purse.,very positive,0.5485,Resilience,0.5733,6
+"Don't lose it, okay?",uncertain,0.3686,Family,0.8064,4
+"Mama's a little sick, but she'll be better soon.",uncertain,0.3349,Family,0.9863,9
+Where is she?,uncertain,0.388,Family,0.5828,3
+In a hospital in Nishinomiya.,uncertain,0.28,Resilience,0.6074,5
+"So tonight, we'll stay at school.",very positive,0.5778,Resilience,0.7843,6
+Then tomorrow...,uncertain,0.397,Family,0.7376,2
+Remember our aunt in Nishinomiya?,uncertain,0.2712,Family,0.989,5
+Then tomorrow...,uncertain,0.397,Family,0.7376,2
+Remember our aunt in Nishinomiya?,uncertain,0.2712,Family,0.989,5
+We're going there.,neutral,0.5418,Family,0.8631,3
+Okay?,neutral,0.5602,Family,0.7651,1
+We're staying upstairs.,uncertain,0.3852,Family,0.9287,3
+Won't you join us?,uncertain,0.349,Family,0.9171,4
+"Thank you, we'll go later.",positive,0.5149,Family,0.7785,5
+See you later then.,neutral,0.4968,Family,0.8457,4
+Want to eat?,uncertain,0.3206,Family,0.5645,3
+I want to go see Mama.,uncertain,0.3165,Family,0.9408,6
+Maybe tomorrow.,uncertain,0.4009,Family,0.8252,2
+It's late now.,uncertain,0.4047,Family,0.8342,3
+"Hey, look at this!",uncertain,0.3236,Family,0.6698,4
+Can't unwrap her.,uncertain,0.4387,Family,0.8939,3
+Better not look.,uncertain,0.4407,Family,0.9065,3
+Especially in this heat...,uncertain,0.334,Resilience,0.4626,4
+Got to get rid of this today.,negative,0.4871,Family,0.5704,7
+Where's your little sister?,uncertain,0.3739,Family,0.9841,4
+I took her to Nishinomiya this morning.,uncertain,0.2634,Personal Growth,0.6904,7
+Distant relatives are taking us in.,neutral,0.5224,Family,0.9907,6
+Glad to hear that.,uncertain,0.4392,Family,0.8738,4
+"Well, I must get back to my duties.",uncertain,0.3458,Family,0.5379,8
+You take care.,uncertain,0.3993,Family,0.8436,3
+Mama!,very positive,0.552,Family,0.9956,1
+Where's Mama?,uncertain,0.4017,Family,0.9748,2
+Is Mama still not feeling good?,very negative,0.4619,Family,0.9782,6
+That's right.,neutral,0.5056,Family,0.8355,2
+She got hurt in the air raid.,negative,0.4615,Trauma,0.9801,7
+You're back.,uncertain,0.3661,Resilience,0.8949,2
+How was it?,uncertain,0.4191,Family,0.6169,3
+Was she in Kaisei Hospital?,uncertain,0.3051,Trauma,0.2573,5
+"Err, yes...",uncertain,0.4459,Family,0.8051,2
+Navy folks are so privileged.,uncertain,0.359,Resilience,0.3152,5
+Using a truck even to evacuate!,very negative,0.6226,Resilience,0.8061,6
+Mosquito net and beddings are in your room.,uncertain,0.398,Family,0.5448,8
+Thank you.,positive,0.5047,Family,0.8872,2
+Doesn't Mama need this ring anymore?,uncertain,0.3528,Family,0.9758,6
+Do I get to keep it?,uncertain,0.3402,Family,0.7853,6
+You should put that away.,uncertain,0.4298,Family,0.7519,5
+About Mama...,neutral,0.4584,Family,0.9661,2
+We'll visit Mama when she's better.,uncertain,0.347,Family,0.9556,6
+Okay.,neutral,0.7094,Family,0.8657,1
+Go to bed now.,uncertain,0.3224,Family,0.8736,4
+Okay.,neutral,0.7094,Family,0.8657,1
+"Herrings, dried bonito, dried potatoes, and eggs.",neutral,0.478,Resilience,0.3671,7
+There're pickled plums.,uncertain,0.3819,Resilience,0.0993,3
+"Why, this is butter!",uncertain,0.2995,Personal Growth,0.0011,4
+You'd never know things are scarce in wartime.,uncertain,0.438,Resilience,0.2411,8
+You military folks are spoiled.,uncertain,0.3754,Resilience,0.3867,5
+"So, did you stop by the hospital?",uncertain,0.4069,Trauma,0.2963,7
+Your mother and I must talk about the future.,uncertain,0.4279,Family,0.9464,9
+I could take Setsuko along and visit her.,uncertain,0.4349,Family,0.8771,8
+She didn't make it?!,very negative,0.4766,Grief,0.8195,4
+Mama died at school two days ago.,very negative,0.4521,Family,0.9872,7
+What?!,uncertain,0.3292,Family,0.6258,1
+Your Mama died...!,very negative,0.6129,Family,0.9981,3
+Why didn't you tell me right away?,uncertain,0.3509,Trauma,0.6722,7
+You should know better.,uncertain,0.355,Family,0.5951,4
+Didn't want Setsuko to know.,uncertain,0.3902,Family,0.8802,5
+Your Mama's dead...,very negative,0.6879,Family,0.997,3
+This is bad.,very negative,0.5369,Trauma,0.753,3
+Must inform your father at once!,uncertain,0.4175,Family,0.9968,6
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+She bought me new clogs.,positive,0.506,Family,0.9272,5
+Good for you.,positive,0.4758,Personal Growth,0.9674,3
+Welcome home.,uncertain,0.3565,Family,0.9707,2
+Tough times for you kids.,uncertain,0.3677,Trauma,0.7876,5
+Thank you for the bath.,positive,0.5056,Family,0.6912,5
+What's that sound?,uncertain,0.4287,Personal Growth,0.4156,3
+Don't be scared.,uncertain,0.3703,Resilience,0.881,3
+They're bullfrogs.,uncertain,0.3397,Resilience,0.4773,2
+A firefly!,very positive,0.6481,Personal Growth,0.3569,2
+"Here, catch.",neutral,0.4708,Personal Growth,0.6037,2
+Oh no!,very negative,0.5067,Family,0.8912,2
+You squished it!,very negative,0.4875,Trauma,0.8098,3
+It smells.,very negative,0.4759,Family,0.486,2
+You squeezed too tight.,negative,0.465,Family,0.7352,4
+Look at all those fireflies!,very positive,0.6232,Personal Growth,0.1539,5
+"Setsuko, close your eyes and say “aah.” What for?",uncertain,0.4344,Family,0.8005,9
+Just say “aah.” Fruit drops!,uncertain,0.2407,Personal Growth,0.4328,5
+"Fruit drops, fruit drops!",uncertain,0.2655,Personal Growth,0.0264,4
+I almost swallowed it.,very positive,0.6057,Family,0.8272,4
+We're back.,uncertain,0.303,Resilience,0.9054,2
+What took you so long?,uncertain,0.2984,Family,0.6294,5
+Did you thank the lady?,uncertain,0.3957,Personal Growth,0.7027,5
+"Yes, Ma'am.",uncertain,0.4334,Family,0.8557,2
+That looked good.,uncertain,0.4123,Family,0.8555,3
+"Seita, don't you have to go to school?",uncertain,0.2611,Personal Growth,0.4864,8
+Kobe Steel where I was mobilized was destroyed.,very negative,0.6285,Trauma,0.8599,8
+"And my school burned, so there is no place left to go.",very negative,0.7607,Loneliness,0.8184,12
+And did you send your father a letter?,uncertain,0.3145,Family,0.9671,8
+"Yes, in care of Kure Naval Base.",uncertain,0.4462,Resilience,0.6333,7
+When?,uncertain,0.3846,Family,0.4274,1
+"Over ten days ago, after we came here.",uncertain,0.315,Family,0.8707,8
+That's strange.,neutral,0.5388,Trauma,0.4527,2
+He hasn't replied to me either.,uncertain,0.3705,Loneliness,0.9247,6
+"Setsuko, be sure to return those.",neutral,0.4627,Family,0.9346,6
+How is the war situation?,uncertain,0.4313,Resilience,0.0064,5
+"Getting worse, I'm afraid.",uncertain,0.3826,Family,0.7903,4
+Factories must step up for those that burned.,uncertain,0.3336,Trauma,0.7017,8
+All we hear is “Gear up for final battle.” Food rations keep getting worse too.,uncertain,0.3093,Family,0.6087,15
+We're all suffering in this war.,very negative,0.7739,Empathy,0.7073,6
+My girl is also working for our country.,positive,0.513,Resilience,0.5275,8
+You must eat and put on strength.,uncertain,0.4053,Personal Growth,0.9172,7
+Not again.,uncertain,0.4335,Family,0.8373,2
+Taking in two more must be tough.,uncertain,0.4038,Family,0.684,7
+But poor things.,uncertain,0.4307,Family,0.5899,3
+They're still so young.,uncertain,0.3911,Family,0.7834,4
+Is your heat rash itchy?,uncertain,0.3792,Empathy,0.2335,5
+It's hot in here.,uncertain,0.3913,Family,0.6175,4
+I hate shelters.,uncertain,0.414,Trauma,0.0699,3
+Hang in there.,uncertain,0.2986,Resilience,0.9339,3
+I'm here for you.,uncertain,0.3549,Empathy,0.9486,4
+Want to go to the beach?,uncertain,0.3191,Family,0.1721,6
+Yes!,uncertain,0.4402,Family,0.8961,1
+"Yes, let's go!",uncertain,0.3213,Family,0.8842,3
+It's all vegetable fields now!,very positive,0.5196,Resilience,0.0049,5
+What are they doing?,neutral,0.5016,Family,0.4226,4
+Getting salt water.,uncertain,0.357,Trauma,0.4388,3
+Not enough salt or soy sauce at home.,negative,0.4881,Family,0.8747,8
+I see.,neutral,0.4752,Family,0.8388,2
+Now take off your clothes!,uncertain,0.275,Personal Growth,0.8639,5
+Might be a bit cold.,negative,0.5849,Family,0.5435,5
+It's cold!,very negative,0.5109,Family,0.2951,2
+Isn't this soothing on your rash?,uncertain,0.2918,Empathy,0.467,6
+Uh-huh.,uncertain,0.4459,Family,0.853,1
+It's a huge bathtub!,uncertain,0.4436,Resilience,0.1257,4
+Hey you!,uncertain,0.4155,Friendship,0.8831,2
+Wait!,uncertain,0.368,Family,0.5416,1
+I'm a bear!,uncertain,0.3588,Identity,0.819,3
+I'm going to eat you!,uncertain,0.3568,Trauma,0.3321,5
+"Snip, snip, snip.",neutral,0.6801,Family,0.7158,3
+Look.,uncertain,0.3684,Family,0.8535,1
+Somebody is sleeping.,uncertain,0.4015,Resilience,0.1181,3
+Don't look at that.,uncertain,0.4378,Family,0.396,4
+"Summertime, I'll teach you how to swim.",neutral,0.4578,Personal Growth,0.4839,7
+But I'll get hungry if I swim.,uncertain,0.3534,Personal Growth,0.5846,7
+But I'll get hungry if I swim.,uncertain,0.3534,Personal Growth,0.5846,7
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Setsuko!,very positive,0.574,Romantic Love,0.8008,1
+Come indoors!,very positive,0.5314,Family,0.8857,2
+You must be hungry!,very positive,0.484,Family,0.7787,4
+There are ice-cold drinks too!,uncertain,0.4143,Family,0.637,5
+Mama!,very positive,0.552,Family,0.9956,1
+Did you wait long?,uncertain,0.3782,Family,0.627,4
+I'm so glad you came.,very positive,0.5955,Family,0.9287,5
+How are you doing?,neutral,0.4645,Personal Growth,0.8101,4
+I'm doing fine.,neutral,0.6704,Resilience,0.8255,3
+Everyone is nice here.,uncertain,0.3414,Family,0.9541,4
+I'm hungry.,uncertain,0.3321,Family,0.5025,2
+Get up.,uncertain,0.3873,Personal Growth,0.9835,2
+There's an air raid coming.,uncertain,0.3325,Resilience,0.1069,5
+I'm tired.,uncertain,0.3736,Family,0.4879,2
+I want a piggyback ride.,uncertain,0.3383,Personal Growth,0.458,5
+To the shelters!,very positive,0.4886,Resilience,0.8196,3
+Your mother won't need her kimono anymore.,very negative,0.5463,Family,0.9506,7
+Why not exchange it for rice?,very negative,0.5572,Personal Growth,0.6163,6
+I've been slowly trading my things for more food too.,uncertain,0.3016,Personal Growth,0.839,10
+This should get about 15-kg. 15-kg...?!,uncertain,0.2574,Family,0.7833,6
+You must also eat to build a strong body and go to war.,positive,0.4569,Resilience,0.5533,13
+This is worth 15-kg?,uncertain,0.3308,Personal Growth,0.459,4
+I'm sure your mother will be happier this way.,uncertain,0.303,Family,0.9671,9
+I'll take these now.,uncertain,0.3911,Family,0.8181,4
+No!,very negative,0.5534,Family,0.9037,1
+"Setsuko, you're awake.",very positive,0.4852,Personal Growth,0.6957,3
+They're Mama's!,very positive,0.631,Family,0.9967,2
+They're Mama's!,very positive,0.631,Family,0.9967,2
+No!,very negative,0.5534,Family,0.9037,1
+You can't take them!,uncertain,0.4412,Family,0.8243,4
+"Setsuko, let go.",uncertain,0.4285,Family,0.9005,3
+"No, no, no!",very negative,0.5215,Family,0.9186,3
+Setsuko!,very positive,0.574,Romantic Love,0.8008,1
+Setsuko!,very positive,0.574,Romantic Love,0.8008,1
+Isn't this fine rice?,uncertain,0.413,Resilience,0.0446,4
+"Setsuko, we'll have steamed rice tonight.",uncertain,0.2889,Family,0.9486,6
+These are for you two to keep.,uncertain,0.3365,Family,0.9402,7
+Look!,uncertain,0.4131,Family,0.7393,1
+"It's rice, Setsuko.",uncertain,0.402,Resilience,0.0052,3
+Here you go.,uncertain,0.3234,Family,0.771,3
+The two are working late.,negative,0.4844,Resilience,0.585,5
+Too bad they can't eat while it's hot.,uncertain,0.3121,Family,0.9098,8
+"Setsuko, isn't this rice yummy?",uncertain,0.343,Empathy,0.0848,5
+I want more!,very positive,0.493,Personal Growth,0.9566,3
+"Yes, dear.",very negative,0.6276,Family,0.9637,2
+Setsuko eats a lot when it's rice.,negative,0.4545,Family,0.486,7
+It tastes so good!,very positive,0.6318,Family,0.7301,4
+What's the matter?,uncertain,0.4424,Trauma,0.3179,3
+I don't want porridge.,uncertain,0.4324,Family,0.2677,4
+Aren't there any pickled plums?,uncertain,0.3275,Family,0.0757,5
+You know they're long gone.,uncertain,0.3786,Grief,0.4485,5
+Here's your lunch.,uncertain,0.3941,Resilience,0.0886,3
+Thank you.,positive,0.5047,Family,0.8872,2
+Have a nice day.,positive,0.5588,Family,0.8795,4
+I'll be off.,uncertain,0.3863,Personal Growth,0.6818,3
+You take care.,uncertain,0.3993,Family,0.8436,3
+"We'll have rice balls for lunch, so eat.",uncertain,0.2634,Family,0.937,8
+Enough!,uncertain,0.3123,Family,0.6826,1
+Our lunch will be porridge!,very positive,0.5564,Family,0.8093,5
+You loafers expect to eat the same as those working for our country?!,uncertain,0.3034,Trauma,0.4626,13
+"Seita, you're old enough to understand about helping out.",uncertain,0.3536,Family,0.8817,9
+"You don't share your rice, but now you want more of ours.",uncertain,0.383,Family,0.8989,12
+That's unacceptable!,uncertain,0.4071,Trauma,0.6887,2
+"Give you a little bit of rice, and already you're spoiled!",positive,0.4675,Family,0.7723,11
+But that's our rice.,uncertain,0.3603,Resilience,0.1343,4
+Are you saying your aunt isn't fair?,uncertain,0.3595,Family,0.9888,7
+You sure talk big.,uncertain,0.3391,Personal Growth,0.6496,4
+This is what I get for taking in two orphans?,uncertain,0.346,Trauma,0.919,10
+Well then.,neutral,0.5715,Family,0.8214,2
+"From now on, we'll eat separately.",neutral,0.6325,Personal Growth,0.6829,6
+That should be fair.,neutral,0.5002,Family,0.7662,4
+"Seita, you have relatives in Tokyo, don't you?",very positive,0.5169,Family,0.9783,8
+One's on your mother's side?,uncertain,0.43,Family,0.9878,5
+Why don't you write to them?,uncertain,0.4385,Family,0.7963,6
+Nishinomiya could be firebombed anytime.,negative,0.47,Trauma,0.2937,5
+But I don't have their address.,uncertain,0.4196,Resilience,0.4898,6
+Let's hurry home.,uncertain,0.2759,Family,0.9155,3
+"Yes, Daddy is waiting for us.",uncertain,0.3871,Family,0.994,6
+Frogs are singing.,uncertain,0.4002,Resilience,0.4159,3
+Let's go home.,uncertain,0.3433,Family,0.85,3
+Sorry for the long wait!,uncertain,0.3337,Family,0.848,5
+What is it?,neutral,0.4969,Personal Growth,0.1153,3
+I'm hungry.,uncertain,0.3321,Family,0.5025,2
+I'm thirsty too.,uncertain,0.3682,Empathy,0.8819,3
+Alrighty.,neutral,0.5449,Family,0.8022,1
+"Here, have a fruit drop.",uncertain,0.3586,Personal Growth,0.2694,5
+"Mama had 7,000 yen saved in the bank. 7,000!",very positive,0.5482,Family,0.983,9
+That's plenty to live on.,uncertain,0.3669,Resilience,0.7002,5
+We're going to be all right.,neutral,0.4711,Family,0.9529,6
+"I'm telling Dad to write back soon, because Setsuko is waiting.",uncertain,0.4153,Family,0.9921,11
+You two are in luck.,uncertain,0.3664,Family,0.7979,5
+You can't find such a good stove nowadays at any price.,very negative,0.4856,Resilience,0.2281,11
+"Items are scarce, especially hardware.",negative,0.572,Resilience,0.2508,5
+Can't get those anywhere!,uncertain,0.3744,Family,0.6015,4
+"I'll take that comb, and do you have an umbrella?",uncertain,0.4197,Personal Growth,0.8004,10
+I'm afraid not.,uncertain,0.4016,Family,0.8495,3
+"Oh, but wait.",neutral,0.4776,Family,0.3842,3
+"Rain, rain, fall, fall.",neutral,0.5108,Family,0.2465,4
+So happy my big brother came With an umbrella to take me home.,very positive,0.5377,Family,0.9951,13
+"Splish-splish, splash-splash, la-la-la!",uncertain,0.448,Family,0.8764,3
+"Good fire, huh?",very positive,0.4925,Personal Growth,0.2378,3
+Just be careful with that.,uncertain,0.3127,Family,0.7154,5
+We will!,very positive,0.6079,Family,0.8763,2
+What's up with those two?,uncertain,0.3545,Family,0.4822,5
+They're cooking on their own now.,uncertain,0.2882,Personal Growth,0.9504,6
+That's very noble of them.,uncertain,0.4268,Family,0.8789,5
+"More, please.",uncertain,0.3818,Personal Growth,0.8059,2
+"Mama, were you harsh on them again?",uncertain,0.4274,Family,0.975,7
+"So I was, but they won't apologize.",uncertain,0.38,Family,0.8432,7
+"Then they bought cooking equipment, just to spite me!",uncertain,0.2809,Trauma,0.4134,9
+I'm done!,uncertain,0.4072,Family,0.4632,2
+"That's bad manners, Seita.",very negative,0.5304,Family,0.0399,4
+You can relax too.,uncertain,0.3005,Family,0.8233,4
+That's for two.,neutral,0.4562,Family,0.884,3
+That's it?!,uncertain,0.3254,Family,0.6616,2
+The next ration should be in July.,uncertain,0.349,Family,0.4499,7
+Let me do it.,uncertain,0.3786,Family,0.8117,4
+Is it sweet?,neutral,0.4523,Family,0.7967,3
+I can taste so many flavors!,very positive,0.6569,Family,0.3446,6
+"Grape, strawberry, melon, mint...",neutral,0.5518,Personal Growth,0.2952,4
+"Setsuko, you can have it all.",very positive,0.4557,Personal Growth,0.7963,6
+It's all gone!,very negative,0.493,Grief,0.863,3
+Gone to bed without washing their dishes!,very negative,0.5785,Family,0.7355,7
+Doing as they please.,uncertain,0.4467,Family,0.5947,4
+Those brats are so annoying!,uncertain,0.3823,Grief,0.6289,5
+Not again!,uncertain,0.4227,Trauma,0.7759,2
+Mama!,very positive,0.552,Family,0.9956,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Others here are working for our country.,uncertain,0.4044,Resilience,0.3285,7
+At least stop that girl's crying!,uncertain,0.2966,Trauma,0.9027,6
+"With the nightly raids and crying, how can we sleep?!",uncertain,0.4275,Trauma,0.9332,10
+Chubu military area information.,uncertain,0.3139,Resilience,0.0559,4
+Enemy bombers are flying north along the Kii Channel.,uncertain,0.2524,Resilience,0.195,9
+Are you going to the cave again?,uncertain,0.336,Trauma,0.1241,7
+You're old enough to help fire fighting duties!,uncertain,0.3722,Resilience,0.1428,8
+All clear!,very positive,0.4932,Family,0.8558,2
+I want to go home.,uncertain,0.294,Family,0.6301,5
+I hate living with our aunt.,negative,0.4983,Family,0.9857,6
+We don't have a home.,very negative,0.5386,Loneliness,0.7319,5
+It was burned.,very negative,0.7258,Trauma,0.8038,3
+E-D-C-D-E-A-G E-E-E-D-C-D Let's sing!,very positive,0.5356,Family,0.887,4
+Carp streamers Up higher than the roof.,uncertain,0.2803,Family,0.4814,7
+The big black carp is the Dad.,uncertain,0.2866,Family,0.9866,7
+Stop it!,uncertain,0.357,Family,0.6417,2
+Are you crazy?,uncertain,0.3126,Family,0.5796,3
+We're at war!,very positive,0.5743,Identity,0.0062,3
+I'll get yelled for that!,very positive,0.4533,Family,0.464,5
+You pests bring us nothing but trouble!,very positive,0.6086,Trauma,0.6251,7
+You're useless in raids.,very negative,0.4658,Trauma,0.0593,4
+"If you're so scared, then go live in that cave!",uncertain,0.3375,Trauma,0.7842,10
+You know what?,neutral,0.4551,Family,0.6533,3
+This can be our home.,very positive,0.5721,Resilience,0.3694,5
+Nobody comes here.,very negative,0.5031,Loneliness,0.9263,3
+It's sturdy.,uncertain,0.407,Resilience,0.9728,2
+We can do whatever we want.,uncertain,0.359,Personal Growth,0.5631,6
+It's all right to do that?,uncertain,0.3549,Family,0.6238,6
+Thank you for everything.,uncertain,0.4268,Family,0.8412,4
+We're going.,neutral,0.5044,Family,0.8033,2
+Going...?,uncertain,0.4151,Personal Growth,0.7518,1
+Where to?,uncertain,0.3426,Personal Growth,0.2823,2
+We're not sure yet.,neutral,0.4984,Family,0.7412,4
+"Well, take care then.",neutral,0.5053,Family,0.7865,4
+"Goodbye, Setsuko!",very positive,0.671,Grief,0.8851,2
+This will be the kitchen.,uncertain,0.3495,Resilience,0.1202,5
+This is the front door.,uncertain,0.4377,Resilience,0.3782,5
+Where's the bathroom going to be?,uncertain,0.3316,Personal Growth,0.1257,6
+That can be anywhere.,neutral,0.6037,Resilience,0.4986,4
+I'll go with you.,uncertain,0.369,Friendship,0.9649,4
+Thank you for the cart!,positive,0.5259,Resilience,0.4476,5
+Just leave it there.,uncertain,0.3456,Family,0.7494,4
+Could you sell us more straw and some food?,uncertain,0.4013,Resilience,0.4256,9
+"There isn't much to sell, but sure.",neutral,0.4982,Family,0.5157,7
+There you go!,uncertain,0.436,Family,0.7219,3
+My mouth is watering.,uncertain,0.3296,Family,0.9011,4
+I'm hungry!,uncertain,0.3236,Family,0.4105,2
+Heard you could eat those too.,uncertain,0.3185,Family,0.5255,6
+Frogs?,uncertain,0.2975,Resilience,0.0551,1
+They say they're good.,uncertain,0.4091,Family,0.7853,4
+I'll do the rest.,neutral,0.4802,Family,0.7923,4
+You go wait in the net.,uncertain,0.3754,Resilience,0.4647,6
+What is it?,neutral,0.4969,Personal Growth,0.1153,3
+I left my toothbrush.,very negative,0.628,Personal Growth,0.5606,4
+Then don't brush tonight.,uncertain,0.3297,Family,0.8846,4
+You'll get bug bites.,uncertain,0.3335,Family,0.1895,4
+Stay inside the net.,uncertain,0.3254,Family,0.8026,4
+It's dark and I'm scared.,uncertain,0.4207,Trauma,0.746,5
+I'll go for a pee.,uncertain,0.3486,Personal Growth,0.8541,5
+Want to go too?,uncertain,0.2843,Personal Growth,0.729,4
+It's a kamikaze plane.,very negative,0.4872,Trauma,0.0054,4
+Looks like a firefly.,very positive,0.5643,Personal Growth,0.3014,4
+It does.,neutral,0.6977,Resilience,0.8583,2
+"Hey, let's catch fireflies.",uncertain,0.3446,Friendship,0.5696,4
+Get in.,uncertain,0.3538,Personal Growth,0.851,2
+I can see your face!,very positive,0.5721,Family,0.6484,5
+I can see you too.,uncertain,0.3479,Empathy,0.9542,5
+"Look, it's a hairpin.",uncertain,0.376,Personal Growth,0.0165,4
+"Now, let's see a firefly light show!",uncertain,0.4323,Family,0.1984,7
+"Before you were born, I went to a naval review.",uncertain,0.3625,Resilience,0.2144,10
+A naval review?,uncertain,0.4108,Resilience,0.0158,3
+Dad was on the cruiser Maya.,uncertain,0.2888,Family,0.9803,6
+The entire combined fleet was there!,uncertain,0.3348,Resilience,0.5778,6
+Iron castle afloat on the sea.,very positive,0.4564,Resilience,0.9588,6
+"For offense and defense, we trust in thee.",uncertain,0.3463,Resilience,0.3414,8
+Enemy attack!,uncertain,0.4092,Resilience,0.0293,2
+I wonder where Dad is fighting now.,uncertain,0.306,Family,0.9878,7
+"No, let go!",uncertain,0.4194,Family,0.8034,3
+What's that?,uncertain,0.3998,Family,0.166,2
+It's a grave.,very negative,0.595,Trauma,0.8977,3
+"Mama's also in a grave, right?",uncertain,0.3439,Family,0.9854,6
+Auntie told me.,uncertain,0.2643,Family,0.9879,3
+Mama is already dead and in a grave.,very negative,0.6006,Family,0.985,8
+We'll go to her grave one day.,uncertain,0.2854,Family,0.8022,7
+"Setsuko, do you remember the cemetery near Nunobiki?",uncertain,0.3788,Empathy,0.0903,8
+That's where Mama is.,uncertain,0.3519,Family,0.9916,4
+Under a big camphor tree...,uncertain,0.3294,Resilience,0.6439,5
+Why do fireflies have to die so soon?,uncertain,0.3509,Grief,0.6787,8
+"Hey, somebody is living here.",uncertain,0.3945,Resilience,0.6638,5
+"Homeless, maybe?",uncertain,0.3698,Empathy,0.0544,2
+What if he's here?,uncertain,0.4438,Family,0.5648,4
+There's even a swing.,uncertain,0.3022,Personal Growth,0.456,4
+A kid lives here.,uncertain,0.3332,Family,0.7454,4
+What's this?,uncertain,0.3125,Personal Growth,0.1427,2
+May you rest in peace!,very positive,0.652,Trauma,0.4983,5
+Wish this were real.,uncertain,0.3208,Family,0.631,4
+Hey!,uncertain,0.3457,Family,0.7355,1
+It says “Setsuko”.,uncertain,0.3392,Romantic Love,0.6061,3
+Look!,uncertain,0.4131,Family,0.7393,1
+Dried frogs!,very negative,0.644,Trauma,0.0399,2
+They eat those?!,very negative,0.4671,Family,0.6412,3
+Wonder if the evacuated boys also eat stuff like this?,uncertain,0.3751,Family,0.3807,10
+Yuck!,uncertain,0.4183,Trauma,0.5558,1
+Ground soybeans!,very negative,0.6689,Resilience,0.6978,2
+Worse than what we eat!,very negative,0.6453,Family,0.2574,5
+It's a ghost!,very negative,0.6955,Trauma,0.0077,3
+Wait!,uncertain,0.368,Family,0.5416,1
+Wait for me!,very positive,0.4627,Personal Growth,0.8405,3
+And we've already traded all of our mother's kimono for rice.,uncertain,0.2308,Family,0.9494,11
+You used to take money...,uncertain,0.3347,Trauma,0.0198,5
+This isn't about kimono or money.,neutral,0.6045,Family,0.5858,6
+"I'm a farmer, but even I don't have extra food to share.",uncertain,0.3942,Resilience,0.2905,12
+Any other relatives?,uncertain,0.3951,Family,0.8865,3
+We can't contact them.,very negative,0.6624,Family,0.9168,4
+Then be wise.,uncertain,0.4056,Family,0.7161,3
+Go back to your aunt's.,uncertain,0.359,Family,0.9971,5
+Everything is rationed nowadays.,neutral,0.5337,Family,0.5549,4
+We must rely on neighborhood groups.,neutral,0.4732,Resilience,0.501,6
+Tell her you're sorry and want to stay.,uncertain,0.361,Family,0.9379,8
+"Thank you, but we'll try elsewhere.",neutral,0.477,Personal Growth,0.5724,6
+You're a navy man's son!,very positive,0.621,Family,0.9948,5
+Be strong!,uncertain,0.4345,Resilience,0.9505,2
+It's okay?,neutral,0.4946,Family,0.7951,2
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+You must eat your beans and millet.,uncertain,0.372,Family,0.8055,7
+You got to eat to grow big!,very positive,0.4858,Personal Growth,0.6621,7
+Seita?,uncertain,0.3842,Family,0.4067,1
+Something is wrong with my tummy.,uncertain,0.4164,Trauma,0.4811,6
+Are you cold?,very negative,0.4917,Empathy,0.4164,3
+The diarrhea doesn't go away.,uncertain,0.435,Family,0.1973,5
+You bastard!,uncertain,0.3368,Trauma,0.7571,2
+Forgive me!,very positive,0.646,Grief,0.7596,2
+I'm sorry!,uncertain,0.2565,Grief,0.889,2
+Please let me go!,uncertain,0.4449,Personal Growth,0.7054,4
+Wanted some sugar for my sick sister!,uncertain,0.4188,Family,0.9779,7
+Shut up!,uncertain,0.3624,Family,0.7267,2
+Stealing crops is a serious crime in wartime!,very negative,0.6888,Trauma,0.0059,8
+You're not going to get away with this!,uncertain,0.3203,Family,0.6807,8
+What?,uncertain,0.396,Family,0.3908,1
+Even dug up these small ones?,uncertain,0.2933,Family,0.6289,6
+So you're the crop thief!,very positive,0.6594,Grief,0.5519,5
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Please forgive me.,very negative,0.5446,Trauma,0.649,3
+I won't do it again!,very negative,0.5876,Family,0.7204,5
+"No, we're going to the police!",uncertain,0.3359,Trauma,0.3992,6
+I'm sending you off to jail!,very negative,0.6109,Trauma,0.1809,6
+My sister is really sick!,uncertain,0.3548,Family,0.9955,5
+She has no one but me!,uncertain,0.331,Identity,0.878,6
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Seita.,uncertain,0.2757,Family,0.7582,1
+Seita...,uncertain,0.2985,Family,0.8021,1
+Understood.,uncertain,0.4391,Family,0.8634,1
+I'll talk to him and file a report.,neutral,0.6024,Family,0.6386,8
+That will be enough.,neutral,0.5903,Family,0.7784,4
+You can go now.,very positive,0.5146,Personal Growth,0.7347,4
+But...,uncertain,0.3872,Family,0.8111,1
+You've beaten him enough.,neutral,0.4861,Family,0.6204,4
+It's an injurious assault... ...to a minor!,very negative,0.534,Trauma,0.8964,7
+I will be going then...!,uncertain,0.4196,Personal Growth,0.7139,5
+Tonight's air raid was in Fukui.,neutral,0.5232,Trauma,0.3756,6
+Why not come in for a drink of water?,very negative,0.5468,Family,0.775,9
+Setsuko.,uncertain,0.3351,Family,0.7311,1
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+Seita.,uncertain,0.2757,Family,0.7582,1
+Where does it hurt?,uncertain,0.3422,Family,0.2829,4
+You must see a doctor and get a shot.,uncertain,0.3711,Trauma,0.298,9
+Setsuko!,very positive,0.574,Romantic Love,0.8008,1
+"Seita, I want to go to the toilet.",uncertain,0.2667,Personal Growth,0.6059,8
+Can you hold it?,uncertain,0.401,Family,0.7439,4
+Uh-huh.,uncertain,0.4459,Family,0.853,1
+Get on my back.,uncertain,0.2876,Personal Growth,0.6549,4
+The brother went to the mountain to cut firewood.,positive,0.4829,Family,0.9728,9
+The grandmother...,uncertain,0.2617,Family,0.9952,2
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Hurry!,uncertain,0.4101,Family,0.7446,1
+"Setsuko, let's eat.",uncertain,0.399,Family,0.9514,3
+Today's pumpkin is good!,positive,0.5494,Personal Growth,0.0728,4
+It tastes like real bean jelly.,uncertain,0.2832,Family,0.7196,6
+I hate bean jelly.,uncertain,0.3064,Personal Growth,0.1008,4
+"Come on, Dad'll get mad at me if you don't eat.",uncertain,0.3255,Family,0.993,11
+"I'll help you, so cheer up and eat!",very positive,0.5071,Empathy,0.8801,8
+"When you get well, we'll go to the beach again.",uncertain,0.3733,Family,0.916,10
+"Go, go!",very positive,0.5279,Personal Growth,0.9008,2
+Yay!,very positive,0.5397,Personal Growth,0.8664,1
+Bang!,uncertain,0.4044,Family,0.8064,1
+"This will bring us food, Setsuko!",very positive,0.6111,Resilience,0.0098,6
+Seita...?,uncertain,0.3417,Personal Growth,0.5252,1
+Seita?,uncertain,0.3842,Family,0.4067,1
+You say this was your Mama's?,very negative,0.5422,Family,0.9962,6
+How can this cheap flimsy thing be a keepsake?!,very positive,0.5521,Trauma,0.3349,9
+Setsuko?,uncertain,0.3935,Romantic Love,0.3657,1
+Setsuko?,uncertain,0.3935,Romantic Love,0.3657,1
+Setsuko!,very positive,0.574,Romantic Love,0.8008,1
+Seita...,uncertain,0.2985,Family,0.8021,1
+Water...,uncertain,0.4315,Resilience,0.2749,1
+Breathe in.,very positive,0.4856,Family,0.7956,2
+Breathe out.,uncertain,0.2296,Personal Growth,0.7696,2
+And she's had diarrhea for many days now.,uncertain,0.4408,Family,0.885,8
+The rash isn't from the heat.,uncertain,0.4454,Family,0.3976,6
+Seawater just hurts her skin.,uncertain,0.4474,Trauma,0.7657,5
+She's weak from malnutrition.,negative,0.5076,Family,0.8726,4
+"Thus, the diarrhea.",very negative,0.4901,Trauma,0.0349,3
+"Okay, next!",likely_emotive,0.5333,Family,0.4818,2
+Can you give her medicine or a shot?,neutral,0.5069,Family,0.8247,8
+I hate shots!,negative,0.4625,Personal Growth,0.1169,3
+Please give her some medical treatment.,uncertain,0.4282,Family,0.781,6
+Medicine won't help.,uncertain,0.4065,Trauma,0.3677,3
+All she needs is nutrition.,uncertain,0.3043,Personal Growth,0.0289,5
+Nutrition...?,uncertain,0.432,Family,0.0026,1
+What's wrong?,uncertain,0.3969,Family,0.3095,2
+But where can I get that'?!,uncertain,0.2732,Personal Growth,0.6216,6
+Am I hungry.,very negative,0.5245,Family,0.6786,3
+What do you want to eat?,uncertain,0.4432,Family,0.093,6
+"Tempura, sashimi, tokoroten noodles...",neutral,0.6295,Family,0.1494,4
+Anything else?,uncertain,0.4495,Personal Growth,0.178,2
+Ice cream.,uncertain,0.3762,Family,0.0151,2
+And...,neutral,0.509,Family,0.7945,1
+I want fruit drops again.,uncertain,0.2996,Personal Growth,0.1494,5
+Fruit drops?,uncertain,0.3196,Personal Growth,0.0079,2
+Alrighty.,neutral,0.5449,Family,0.8022,1
+I'll go withdraw all our savings.,very negative,0.4834,Family,0.6623,6
+I don't need anything.,uncertain,0.3241,Family,0.6058,4
+Please stay home with me.,uncertain,0.2258,Family,0.9839,5
+Don't go!,very negative,0.6272,Family,0.8158,2
+Don't go!,very negative,0.6272,Family,0.8158,2
+Don't go!,very negative,0.6272,Family,0.8158,2
+"Don't worry, Setsuko.",very negative,0.477,Family,0.8907,3
+I'll go buy rice and nutritious food for you...,uncertain,0.4144,Family,0.8908,9
+"Then, I'll never ever leave.",uncertain,0.3238,Personal Growth,0.7639,5
+I'll always be with you.,very positive,0.4538,Friendship,0.982,5
+I promise.,neutral,0.4671,Family,0.8114,2
+"Here's 3,000 yen.",uncertain,0.4362,Personal Growth,0.6595,3
+A typhoon is coming?,uncertain,0.3136,Resilience,0.4717,4
+What a joke!,very negative,0.67,Family,0.5422,3
+Our “divine wind” comes after we've surrendered.,very positive,0.5635,Family,0.5946,7
+Surrendered...?,uncertain,0.3597,Family,0.5264,1
+We lost the war?!,very negative,0.5016,Trauma,0.1397,4
+You didn't know?,uncertain,0.3664,Family,0.788,3
+Is it true?,uncertain,0.3868,Family,0.6807,3
+The Great Empire of Japan lost?,uncertain,0.425,Grief,0.8161,6
+"Yes, it was unconditional surrender.",uncertain,0.4088,Family,0.8478,5
+Where's our fleet?,neutral,0.4809,Resilience,0.0637,3
+They're long gone.,uncertain,0.4088,Grief,0.4241,3
+All sunk!,very positive,0.4787,Trauma,0.752,2
+Not even a ship left.,very negative,0.4835,Loneliness,0.5594,5
+What?!,uncertain,0.3292,Family,0.6258,1
+Dad's cruiser too?!,uncertain,0.2953,Family,0.9916,3
+Is that why we got no reply?!,uncertain,0.4472,Trauma,0.5042,7
+How should I know?,uncertain,0.4367,Family,0.2871,4
+Strange boy.,uncertain,0.3291,Personal Growth,0.749,2
+"Dad, I hate you!",uncertain,0.4147,Family,0.9939,4
+I'm so hungry.,very negative,0.554,Family,0.6545,3
+Dad.,uncertain,0.3552,Family,0.9941,1
+Now even Dad's dead.,very negative,0.665,Family,0.9933,4
+Now even Dad's dead.,very negative,0.665,Family,0.9933,4
+Now even Dad's...,uncertain,0.2739,Family,0.9941,3
+"Setsuko, sorry I'm so late.",uncertain,0.2769,Family,0.8255,5
+I'll make you rice gruel.,uncertain,0.3499,Family,0.4357,5
+It went up.,uncertain,0.418,Personal Growth,0.9347,3
+It went down.,uncertain,0.4121,Family,0.84,3
+"Oh, it stopped.",uncertain,0.4423,Family,0.8166,3
+Even got chicken and eggs!,very positive,0.6045,Family,0.7995,5
+And there's also...,neutral,0.6333,Family,0.5205,3
+What's that in your mouth?!,uncertain,0.2604,Trauma,0.1592,5
+This is a marble.,very negative,0.5194,Resilience,0.0714,4
+It's not a fruit drop!,negative,0.564,Family,0.2942,5
+You're getting something better today.,uncertain,0.3667,Personal Growth,0.7232,5
+Your favorite.,uncertain,0.4381,Family,0.898,2
+"Seita, this is for you.",very positive,0.5898,Personal Growth,0.8125,5
+"What is it, Setsuko?",neutral,0.495,Family,0.2823,4
+It's steamed rice.,uncertain,0.3029,Resilience,0.0146,3
+Here's some cooked soy pulp.,neutral,0.4609,Resilience,0.0885,5
+Please eat.,uncertain,0.4209,Family,0.9255,2
+You're not having any?,very negative,0.4671,Personal Growth,0.7053,4
+Setsuko...!,very positive,0.4956,Family,0.8821,1
+See?,uncertain,0.3472,Family,0.7879,1
+It's watermelon.,very positive,0.4758,Personal Growth,0.0039,2
+I didn't steal this either.,negative,0.4752,Family,0.7478,5
+"Here, have some.",neutral,0.5556,Family,0.6708,3
+It's yummy...,uncertain,0.3383,Family,0.7484,2
+Hold on.,uncertain,0.3399,Resilience,0.8601,2
+I'll make you rice gruel with eggs.,uncertain,0.3411,Family,0.5954,7
+I'll leave these here for you.,uncertain,0.36,Family,0.6434,6
+Okay?,neutral,0.5602,Family,0.7651,1
+Seita...,uncertain,0.2985,Family,0.8021,1
+Thank you.,positive,0.5047,Family,0.8872,2
+Setsuko never woke up.,very negative,0.551,Trauma,0.851,4
+Here's a special ration of charcoal.,neutral,0.6061,Resilience,0.2194,6
+You can cremate the child on temple grounds.,uncertain,0.352,Trauma,0.7169,8
+"Undress the body, and use dry husks to start a good fire.",very negative,0.5174,Family,0.4571,12
+The weather is so fine today!,uncertain,0.4446,Resilience,0.3269,6
+Nothing has changed!,very negative,0.6501,Family,0.8488,3
+It's great to be back home!,very positive,0.4506,Family,0.9622,6
+We can finally listen to the gramophone!,very positive,0.5513,Family,0.5013,7
+I missed this lovely view!,negative,0.4948,Romantic Love,0.1666,5
+Come home soon!,very positive,0.6564,Family,0.9653,3
+Next morning...,uncertain,0.3833,Family,0.801,2
+I put Setsuko's ashes into the drops tin and left.,uncertain,0.2594,Family,0.8725,10
+I never went to the cave again.,very negative,0.7181,Trauma,0.8554,7
+Seita!,very positive,0.719,Personal Growth,0.6783,1
+It's late.,negative,0.5197,Family,0.7886,2
+Go to sleep now.,uncertain,0.2895,Family,0.8382,4
+Okay.,neutral,0.7094,Family,0.8657,1
+English translation by Rieko Izutsu-Vajirasarn Subtitles by AURA A Studio Ghibli Production Written and Directed by Isao Takahata,very positive,0.5645,Resilience,0.5463,18

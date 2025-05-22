@@ -1,0 +1,85 @@
+import torch
+import torch.nn.functional as F
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
+import pandas as pd
+from tqdm import tqdm
+import re
+
+# -------------------------------------------
+# Configuración de modelos
+# -------------------------------------------
+# Sentiment model
+sentiment_model_name = "tabularisai/multilingual-sentiment-analysis"
+sentiment_tokenizer = AutoTokenizer.from_pretrained(sentiment_model_name)
+sentiment_model = AutoModelForSequenceClassification.from_pretrained(sentiment_model_name)
+sentiment_model.eval()
+
+# Zero-shot theme classifier
+classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+
+# Temas a clasificar
+themes = [
+    "Resilience", "Grief", "Trauma", "Personal Growth", "Empathy",
+    "Romantic Love", "Friendship", "Family", "Loneliness", "Identity"
+]
+
+# Sentiment label mapping
+label_map = {
+    "LABEL_0": "very negative",
+    "LABEL_1": "negative",
+    "LABEL_2": "neutral",
+    "LABEL_3": "positive",
+    "LABEL_4": "very positive"
+}
+
+# Heurística para comandos o frases emocionales cortas
+def is_command_or_alert(text):
+    return bool(re.match(r"^[A-Z][a-z]*\!$", text.strip())) or text.strip().endswith("!")
+
+# -------------------------------------------
+# Cargar frases del guión
+# -------------------------------------------
+with open("data_in_sentences/ghibli/Grave.of.the.Fireflies_cleaned_sentences.txt", "r", encoding="utf-8") as f:
+    lines = [line.strip() for line in f if line.strip()]
+
+results = []
+
+# -------------------------------------------
+# Clasificación línea por línea
+# -------------------------------------------
+for line in tqdm(lines, desc="Classifying sentiment and themes"):
+    # Sentiment analysis
+    encoded = sentiment_tokenizer(line, truncation=True, max_length=514, return_tensors="pt")
+    with torch.no_grad():
+        output = sentiment_model(**encoded)
+        probs = F.softmax(output.logits, dim=1)
+        pred_id = torch.argmax(probs, dim=1).item()
+        score = probs[0][pred_id].item()
+        label_key = f"LABEL_{pred_id}"
+        sentiment = label_map[label_key]
+        
+        if score < 0.45:
+            sentiment = "uncertain"
+        elif sentiment == "neutral" and is_command_or_alert(line):
+            sentiment = "likely_emotive"
+
+    # Theme classification
+    theme_pred = classifier(line, themes, multi_label=True)
+    top_theme = theme_pred["labels"][0]
+    theme_score = theme_pred["scores"][0]
+
+    results.append({
+        "text": line,
+        "sentiment": sentiment,
+        "sentiment_score": round(score, 4),
+        "theme": top_theme,
+        "theme_score": round(theme_score, 4),
+        "length": len(line.split())
+    })
+
+# -------------------------------------------
+# Exportar CSV
+# -------------------------------------------
+df = pd.DataFrame(results)
+df.to_csv("subtitles_sentiment_and_theme.csv", index=False)
+print(df.head())
