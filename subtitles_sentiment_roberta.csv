@@ -1,1257 +1,1531 @@
 text,sentiment,score
-Pirates!,neutral,0.5722
-We're under attack!,negative,0.9179
-Hold them off!,negative,0.4826
-Get down on the floor.,neutral,0.622
-Tear gas!,neutral,0.6113
-What are you waiting for?,neutral,0.7799
-Break it down!,neutral,0.6262
-Where'd she go?,neutral,0.7928
-There she is!,positive,0.6634
-She's getting away!,neutral,0.5446
-"Well, get her!",neutral,0.574
-"Mama, don't drop me!",neutral,0.5886
-There's the stone.,neutral,0.7134
-"Quick, go next door!",neutral,0.6053
-Get that crystal!,neutral,0.556
-There goes the crystal.,neutral,0.7104
-"CASTLE IN THE SKY Two meatballs, please.",neutral,0.7962
-Working late?,neutral,0.5843
-We're finally busy again.,positive,0.5861
-Still working?,neutral,0.8526
-Yeah.,neutral,0.5491
-What's that?,neutral,0.7331
-A person!,neutral,0.5505
-Pazu!,neutral,0.5595
-What are you up to?,neutral,0.8261
-Where's my dinner?,neutral,0.5478
-Boss!,neutral,0.475
-A girl fell from the sky.,neutral,0.7333
-"Boss, she fell from the sky.",neutral,0.5458
-Darn old clunker.,negative,0.8473
-Boss!,neutral,0.475
-A girl...,neutral,0.8325
-Close valve number two!,neutral,0.6288
-"Pazu, toss me a wrench.",neutral,0.5498
-Sure.,neutral,0.4753
-I'm busy here.,neutral,0.5896
-You take it.,neutral,0.6586
-Don't make them wait.,neutral,0.5544
-Yes!,positive,0.8097
-Keep a steady hand.,neutral,0.5676
-Yes!,positive,0.8097
-Brake!,neutral,0.6348
-Any luck?,neutral,0.7826
-"No silver, no tin even.",neutral,0.613
-All that wasted work.,negative,0.7983
-Should we try the east vein?,neutral,0.9207
-That's riddled with old holes.,negative,0.6931
-We'll have to start over.,neutral,0.6611
-That's enough for today.,neutral,0.5388
-Push!,positive,0.6018
-Shut down the boiler.,negative,0.5086
-Call it a day.,neutral,0.6711
-I'll go under at this rate.,negative,0.7241
-"Oil the clunker, Pazu.",neutral,0.6883
-Yes!,positive,0.8097
-"Mama, we couldn't find her.",negative,0.6429
-It's too dark.,negative,0.794
-I hope you really looked!,positive,0.7935
-All right.,neutral,0.4897
-We'll wait for daylight.,neutral,0.8039
-Hi.,neutral,0.5326
-How are you feeling?,neutral,0.8447
-"Hey, come on guys...",neutral,0.677
-I'm Pazu.,neutral,0.7615
-I live here by myself.,neutral,0.6983
-They eat after I play.,neutral,0.7482
-So you are human after all.,neutral,0.5997
-I was afraid you were an angel.,neutral,0.6003
-Thanks for helping me.,positive,0.9437
-I'm Sheeta.,neutral,0.7444
-"Sheeta, nice name.",positive,0.8848
-You fell from the sky.,neutral,0.6389
-A bit scary.,negative,0.5966
-That's right.,neutral,0.569
-Why am I still alive?,negative,0.5406
-I fell from the airship...,negative,0.6134
-Have you forgotten?,neutral,0.7484
-Yes.,positive,0.461
-"Say, can I see that?",neutral,0.8151
-This?,neutral,0.6969
-Yes.,positive,0.461
-It's been in my family forever.,neutral,0.7279
-It's beautiful.,positive,0.9599
-Wait...,neutral,0.6459
-Watch this!,neutral,0.5667
-Pazu!,neutral,0.5595
-So it wasn't the stone after all.,neutral,0.8057
-Pazu!,neutral,0.5595
-"Oh, no!",negative,0.6841
-Pazu!,neutral,0.5595
-Are you okay?,neutral,0.7918
-Yeah.,neutral,0.5491
-Are you?,neutral,0.7077
-I'm fine.,positive,0.8
-"Sorry, did it hurt?",negative,0.594
-"No, my head's harder than my boss's fists.",negative,0.6782
-The pot's still boiling.,neutral,0.6809
-Hungry?,neutral,0.6857
-Let's eat.,neutral,0.6905
-Wash up over there.,neutral,0.7003
-There's a towel.,neutral,0.7233
-Thank you.,positive,0.853
-Laputa...,neutral,0.6749
-Sheeta!,neutral,0.5406
-Where are you?,neutral,0.7606
-My father took that picture.,neutral,0.7565
-"That's Laputa, an island in the sky.",neutral,0.8258
-An island in the sky?,neutral,0.8475
-They say it's only a myth.,neutral,0.6541
-But my father saw it.,neutral,0.705
-He took it from an airship.,neutral,0.8549
-"There's a Laputa in Gulliver's Travels, but Swift made it up.",neutral,0.7677
-Dad drew this.,neutral,0.8243
-He said the abandoned palace was full of treasure.,neutral,0.6977
-But nobody believed him.,negative,0.6558
-"Until he died, they called him a liar.",negative,0.9099
-But my father never lied.,neutral,0.6991
-I'm building a real plane.,neutral,0.5331
-I'm going to find Laputa!,positive,0.5472
-A real automobile...,neutral,0.7005
-They're pirates!,negative,0.7741
-They attacked the airship.,negative,0.6875
-Are they after you?,neutral,0.8136
-Yes.,positive,0.461
-Quick!,neutral,0.5481
-Morning!,positive,0.7043
-"Hey, wait!",neutral,0.6528
-We're in a rush.,neutral,0.5245
-Have you seen a girl?,neutral,0.8366
-"Sure, yesterday...",neutral,0.6852
-"The boss's kid, Madge...",neutral,0.8606
-Off you go!,neutral,0.5552
-They're looking for you.,neutral,0.7446
-"Louis, a girl's dress!",neutral,0.6359
-What!,neutral,0.4804
-She was disguised!,neutral,0.532
-Tell Mama!,neutral,0.759
-All right!,positive,0.7464
-Haven't seen her.,neutral,0.6113
-A cute little girl.,positive,0.9563
-"Brown hair, braids...",neutral,0.8701
-Boss!,neutral,0.475
-Boss!,neutral,0.475
-About that age.,neutral,0.6914
-Hey!,neutral,0.5279
-That's her!,positive,0.5813
-Pirates!,neutral,0.5722
-They're chasing her.,neutral,0.6397
-Pirates!,neutral,0.5722
-Lemme see!,neutral,0.7055
-Not one step closer.,neutral,0.6182
-Hand her over.,neutral,0.6458
-"Pirates, eh?",neutral,0.7727
-Dola's clan.,neutral,0.7346
-Go home.,neutral,0.5913
-Just poor folk here.,negative,0.8765
-Ma'am?,neutral,0.744
-Scoot out the back.,neutral,0.7146
-I want to fight.,negative,0.75
-They've got weapons!,neutral,0.5581
-But...,neutral,0.7123
-What a pretty girl.,positive,0.9756
-Better protect her.,neutral,0.73
-You refuse to step aside?,neutral,0.5944
-Use your fists.,neutral,0.5729
-Could be interesting.,positive,0.8399
-"Get him, brother.",neutral,0.6142
-Show your stuff.,neutral,0.7232
-Wow.,positive,0.7094
-Who's going to mend that shirt?,neutral,0.7555
-You can beat him!,neutral,0.4636
-"That's it, hit him!",neutral,0.6001
-Off you go!,neutral,0.5552
-Think you can fool me?,negative,0.5948
-After them!,neutral,0.6455
-Climb on!,positive,0.5808
-There you go.,neutral,0.5283
-Playing hooky for a date?,neutral,0.9115
-Bad guys are after us.,negative,0.6777
-The Dola clan.,neutral,0.8607
-Pirates?,neutral,0.8211
-Take us to the next town.,neutral,0.741
-To the police!,neutral,0.5577
-You're on.,neutral,0.6278
-Stoke the fire.,neutral,0.6368
-Okay.,neutral,0.5844
-Mama!,neutral,0.6046
-You idiots!,negative,0.942
-Hurry up and get on!,neutral,0.5117
-What?,neutral,0.5653
-But the girl's...,neutral,0.7559
-She slipped out the back door.,neutral,0.8371
-Get moving!,positive,0.5479
-Brother!,neutral,0.6276
-Wait!,neutral,0.6225
-"They're catching up, more steam!",positive,0.6217
-Can't you go any faster?,neutral,0.4888
-She's an old-timer.,neutral,0.5984
-Move over!,neutral,0.5414
-Whoa!,neutral,0.4812
-"Mama, I can't hang on!",negative,0.6501
-"More steam, they're gaining on us!",positive,0.7436
-Here we go!,positive,0.6007
-"Sheeta, over here.",neutral,0.7843
-Stoke the fire.,neutral,0.6368
-Okay!,positive,0.6122
-Don't give up!,positive,0.5281
-Push!,positive,0.6018
-"Push, I tell you!",neutral,0.5021
-Not so fast!,neutral,0.5582
-Don't let them escape!,neutral,0.5653
-Dump this over the side!,negative,0.5911
-That'll teach them!,neutral,0.5234
-I'll do it.,positive,0.596
-"No, let me.",neutral,0.5926
-Up we go!,positive,0.7349
-Up we go!,positive,0.7349
-Wait!,neutral,0.6225
-It's them.,neutral,0.6276
-What'll we do?,neutral,0.8509
-I refuse to give up.,neutral,0.4856
-Move!,neutral,0.5512
-This is a surprise.,positive,0.8606
-If it isn't the army!,neutral,0.4882
-These kids need help!,negative,0.5146
-They've got pirates after them.,neutral,0.5197
-Sheeta?,neutral,0.6818
-Goodbye.,neutral,0.5621
-Wait!,neutral,0.6225
-Sheeta!,neutral,0.5406
-Halt or I'll shoot.,negative,0.5432
-An armored train.,neutral,0.7871
-Who cares!,negative,0.5586
-Ram it!,positive,0.5231
-"What is it, Sheeta!",neutral,0.7345
-Stay away!,neutral,0.5098
-They're gonna fall!,negative,0.5528
-Quiet.,neutral,0.656
-Watch closely.,neutral,0.8016
-We're floating!,positive,0.7243
-Look!,positive,0.5707
-It's that crystal!,positive,0.5716
-It was the stone after all!,neutral,0.7055
-Amazing!,positive,0.9069
-We'll float all the way down.,neutral,0.6722
-Amazing!,positive,0.9069
-I want it!,positive,0.9059
-Fire!,neutral,0.4833
-I have to get that amazing stone!,positive,0.9457
-It's fading...,neutral,0.558
-"Hey, wait!",neutral,0.6528
-It's just like when you landed.,neutral,0.7197
-The opening looks so tiny.,negative,0.579
-I hope the boss and the engineer aren't in any trouble.,neutral,0.6894
-"Aw, don't worry.",neutral,0.6743
-Miners aren't exactly wimps.,neutral,0.7292
-"Come on, let's find the way out.",neutral,0.706
-These mines are ancient.,neutral,0.5366
-Tunnels everywhere.,neutral,0.7367
+"Oh, I come from a land From a faraway place Where the caravan camels roam Where it's flat and immense And the heat is intense It's barbaric but hey, it's home When the wind's from the east And the sun's from the west And the sand in the glass is right Come on down, stop on by Hop a carpet and fly To another Arabian night Arabian nights Like Arabian days More often than not Are hotter than hot In a lot of good ways Arabian nights 'Neath Arabian moons A fool off his guard Could fall and fall hard Out there on the dunes Ah, salaam, and good evening to you, worthy friend.",neutral,0.5044
+"Please, please, come closer.",positive,0.543
+T oo close.,neutral,0.7661
+A little too close.,neutral,0.6037
 There.,neutral,0.551
-I'm so happy.,positive,0.9883
-I was starving.,negative,0.683
-I've still got an apple and some candy.,positive,0.6276
-It's like you have a magical bag that holds everything.,positive,0.7026
-Gondoa?,neutral,0.7573
-That's so far north.,neutral,0.5881
+"Welcome to Agrabah, city of mystery, of enchantment, and the finest merchandise this side of the river Jordan, on sale today.",positive,0.9222
+Look at this.,neutral,0.7571
 Yes.,positive,0.461
-"Both my parents died, but they left me the house and the fields, so I was getting by on my own.",negative,0.7573
-Those guys with dark glasses kidnapped you?,neutral,0.651
-Yes.,positive,0.461
-That guy was one of them?,neutral,0.7264
-"Who can they be, calling in the army?",neutral,0.5866
-"Dola and the other guys, they all want the stone.",neutral,0.7858
-But I had no idea it had mysterious powers.,neutral,0.6415
-It was always in our family.,neutral,0.7241
-Mother left it to me when she died.,neutral,0.5251
-She warned me never to show it or give it to anyone.,neutral,0.5345
-"We're both orphans, aren't we?",negative,0.4984
-I'm sorry I dragged you into all of this.,negative,0.8438
-When you fell from the sky my heart was racing.,neutral,0.5125
-I knew something wonderful had begun.,positive,0.9521
-Little demons...,neutral,0.5046
-Little demons.,negative,0.6635
-Uncle Pom!,neutral,0.677
-He's really great.,positive,0.9747
-Uncle Pom.,neutral,0.7383
-We've lost our way.,negative,0.9057
-Now that little demon sure looks like Pazu...,neutral,0.5594
-With a little girl demon beside him.,neutral,0.7257
-Pirates are after us.,negative,0.4868
-And the army.,neutral,0.625
-How very extraordinary.,positive,0.9206
-Drink up.,neutral,0.6543
-Thank you.,positive,0.853
-Have you always lived underground?,neutral,0.7966
-"Why, no, no.",negative,0.6289
-The rocks have been stirring...,neutral,0.7909
-That's when I like to be down here.,positive,0.5414
-The rocks were stirring?,neutral,0.8397
-Rocks speak very softly.,neutral,0.8137
-Wonderful...,positive,0.8652
-"Pazu, look at that!",neutral,0.534
-They were ordinary rocks until...,neutral,0.8191
-How pretty...,positive,0.9455
-"Here, let me show you.",neutral,0.6501
-It's gone.,neutral,0.6048
-These rocks contain volucite.,neutral,0.8766
-Volucite?,neutral,0.7536
-"As soon as it's exposed to the air, it becomes ordinary stone.",neutral,0.7931
-It's glowing...,positive,0.8741
-"Oh, my gracious!",positive,0.6223
-"That's a volucite crystal, my dear.",neutral,0.7033
-I've never seen one before.,neutral,0.5918
-That's why the rocks were stirring.,neutral,0.7511
-This stone has mysterious powers.,neutral,0.8131
-I thought only Laputans knew how to make volucite crystals.,neutral,0.6585
-Laputans?,neutral,0.7365
-They used Volucite to send a magnificent island aloft...,positive,0.6963
-"Laputa did exist, Sheeta!",neutral,0.6617
-It really did!,positive,0.6796
-Does the island still exist?,neutral,0.8271
-Uncle Pom?,neutral,0.8225
-"Dear, would you mind covering the stone?",neutral,0.8887
-Its power overwhelms me.,positive,0.6654
-Yes.,positive,0.461
-What's wrong?,negative,0.7724
-My grandfather told me... the rocks stir when Laputa floats overhead.,neutral,0.884
-"If you went up to the sky then, you'd find Laputa!",positive,0.4954
-"Sheeta, my father was telling the truth!",neutral,0.7438
-Young lady...,neutral,0.7913
-You see...,neutral,0.7391
-Yes?,neutral,0.7116
-Your stone is most powerful...,positive,0.8803
-I know that.,neutral,0.5676
-I've been speaking to rocks all my life.,neutral,0.7726
-"A stone so powerful brings happiness, but it also often brings misery.",neutral,0.4539
-I see.,neutral,0.5826
-"What's more, your stone is the work of men.",negative,0.4904
-How on earth did you...,negative,0.7994
-The stone's not dangerous!,neutral,0.574
-It already saved Sheeta twice!,positive,0.8382
-Amazing!,positive,0.9069
-Laputa really does exist!,positive,0.6999
-It's gone.,neutral,0.6048
-Let's go back to the ship.,neutral,0.7693
-"When it's this quiet, it's best to stay put.",neutral,0.7139
-I'm hungry...,neutral,0.5394
-It's all clear.,neutral,0.5988
-Let's go.,positive,0.5876
-"Thank you, Uncle.",positive,0.8829
-Look after yourselves.,neutral,0.6141
-Look at those clouds!,neutral,0.5318
-Beyond those clouds is an island we've only dreamed of.,neutral,0.6156
-Here I come!,positive,0.6548
-I know I'm going to find Laputa!,positive,0.8094
-Pazu...,neutral,0.6679
-I haven't told you everything.,neutral,0.7175
-"My family had a mysterious, ancient name... that came with this stone.",neutral,0.8766
-"My name is Lucita, Lucita Toelle Ur....",neutral,0.8836
-Laputa.,neutral,0.6016
-Laputa?,neutral,0.6903
-So you mean...,neutral,0.7313
-It's the army!,neutral,0.5039
-Run!,neutral,0.5537
-Underground!,neutral,0.6971
-Don't move!,neutral,0.6098
-How dare you!,negative,0.9082
-Pazu!,neutral,0.5595
-Let me go!,positive,0.6992
-Pazu!,neutral,0.5595
-Pazu!,neutral,0.5595
-We've apprehended them.,neutral,0.6818
-Good work.,positive,0.8614
-"Open up, open up!",positive,0.6555
-Sheeta...,neutral,0.6968
-"Company, march!",neutral,0.5047
-Use force!,neutral,0.6018
-"Squeeze the brat, she'll talk.",neutral,0.6705
-Spoken like a man in uniform.,neutral,0.7049
-"In your haste, you risk everything.",negative,0.7663
-"If we'd mobilized sooner, we'd have bagged Dola too.",neutral,0.7724
-She managed to decipher your third-rate code.,neutral,0.728
-What!,neutral,0.4804
-My organization will handle this.,neutral,0.6361
-Concentrate on mobilizing the troops when the time is ripe.,neutral,0.8248
-Muska!,neutral,0.5877
-"Remember, I command the search for Laputa!",neutral,0.8036
-Of course.,neutral,0.5552
-But I have my orders from the government.,neutral,0.6073
-That pencil-pushing upstart!,neutral,0.6344
-Have a nice rest?,positive,0.801
-Where's Pazu?,neutral,0.7887
-Let me see him!,positive,0.6051
-No interest in pretty clothes?,negative,0.5694
-Don't fret about Pazu.,neutral,0.7929
-His stubborn head is harder than mine.,negative,0.6186
-"Come, I have something to show you.",neutral,0.6289
-Enter.,neutral,0.6615
-What is it?,neutral,0.75
-A mechanical soldier with vast destructive power.,negative,0.73
-"Until he fell from the sky, no one believed Laputa was real.",neutral,0.548
-He's not of this earth.,negative,0.9032
-Our science can't even identify... what material he's made of.,negative,0.774
-Look...,neutral,0.7272
-Don't be afraid.,neutral,0.7112
-He's long dead.,negative,0.6966
-Look at that.,neutral,0.6637
-This insignia was carved on your fireplace.,neutral,0.8466
-"It's on this stone, too.",neutral,0.8395
-The stone works only in your hands.,neutral,0.8194
-It protects its owner and will guide her back to Laputa.,neutral,0.6642
-I know nothing of this!,negative,0.5945
-Take it if you like.,neutral,0.6651
-Just leave us alone...,negative,0.4886
-Perhaps you imagine that Laputa is some kind of treasure island.,neutral,0.8556
-Fearsome scientific power thrust Laputa into orbit.,neutral,0.8068
-Their dreaded empire once ruled the earth!,negative,0.6805
-"Even you can appreciate that when such an entity roams the skies, it threatens peace.",negative,0.6387
-I need your cooperation.,neutral,0.7596
-You must know how to make the stone guide us to Laputa.,neutral,0.9044
-I really don't know!,negative,0.5308
-Please let me see Pazu!,positive,0.683
-"I intend no harm, but his fate rests with you.",neutral,0.7316
-What?,neutral,0.5653
-"The boy goes free if you assist us, Lucita...",positive,0.6185
-Toelle Ur Laputa.,neutral,0.746
-But how...,neutral,0.7153
-Ur means ruler.,neutral,0.7516
-Toelle means True.,neutral,0.6588
-"You are Princess Lucita, rightful heir to the Laputan throne.",neutral,0.6306
-Out!,neutral,0.505
-Sheeta!,neutral,0.5406
-"Pazu, are you hurt?",neutral,0.5419
-I'm fine.,positive,0.8
-You?,neutral,0.6413
-Did they do anything horrible?,negative,0.8686
-"My dear Pazu, we misjudged you.",negative,0.801
-Accept our apologies.,neutral,0.7124
-We didn't know how gallantly... you protected her from the pirates.,neutral,0.6136
-"Sheeta, what did you...",neutral,0.8155
-"Pazu, I beg you, forget about Laputa.",neutral,0.5121
-What!,neutral,0.4804
-Sheeta will aid us in our search for Laputa.,neutral,0.672
-"I understand how you feel, but forget about her.",neutral,0.5504
-"Is this true, Sheeta?",neutral,0.8686
-But we...,neutral,0.7726
-Thank you for everything.,positive,0.9703
-"I'll never forget you, Pazu.",positive,0.6786
-I don't believe it...,negative,0.7703
-"Sheeta, we promised!",neutral,0.5107
-Farewell!,positive,0.742
-Sheeta!,neutral,0.5406
-"Wait, Sheeta!",neutral,0.7395
-Be reasonable.,neutral,0.6526
-Act like a man.,neutral,0.7279
-Sheeta!,neutral,0.5406
-Here's a token of our gratitude.,positive,0.8187
-It's yours.,neutral,0.6371
-Only you can recall the words that will waken this stone.,neutral,0.8557
-"If you keep your promise, you too shall be free.",positive,0.6362
-Pazu...,neutral,0.6679
-"Mama, it's Pazu!",neutral,0.731
-He's back!,positive,0.8942
-Pazu.,neutral,0.6045
-We were so worried.,negative,0.6225
-You just disappeared.,negative,0.6997
-And the girl?,neutral,0.8042
-Forget it.,negative,0.5068
-Pazu!,neutral,0.5595
-Let me go!,positive,0.6992
-What are you doing?,neutral,0.8242
-Put a lid on it!,neutral,0.601
-"Nice place you got, kid.",positive,0.8635
-Get out!,neutral,0.5983
-This is my house!,positive,0.5677
-"Oh, come off it.",neutral,0.584
-Can't even protect a little girl...,negative,0.8161
-What do you say?,neutral,0.7648
-He's got gold!,positive,0.8441
-"Sold her for money, huh?",negative,0.5136
-No!,neutral,0.4416
-I wouldn't do that!,negative,0.6578
-You let them pay you off?,neutral,0.7329
-Sheeta told me to do it.,neutral,0.8047
-So...,neutral,0.7269
-So you gave in and crawled home.,neutral,0.7427
-You call yourself a man?,neutral,0.5893
-"You talk big, but you're after Sheeta too.",neutral,0.738
-"But of course, we're pirates.",neutral,0.5098
-Pirates hunt for treasure.,neutral,0.7505
-Those guys are strange ones.,negative,0.6956
-What's the girl to them?,neutral,0.8368
-You think she'll get out alive?,neutral,0.8482
-"So, Sheeta told you to leave?",neutral,0.6966
-"They threatened her, so she tried to save you.",negative,0.6064
-"How do you know, Mama?",neutral,0.7859
-I've been a woman for 50 years.,neutral,0.7977
-She steels her heart to save her man.,neutral,0.7581
-How touching.,positive,0.4511
-Reminds me of my youth.,neutral,0.5778
-"If you boys want to get married, look for one like her.",neutral,0.8523
-So that girl will grow up...,neutral,0.7582
-To be like Mama?,neutral,0.8531
-What a waste.,negative,0.9211
-I've got all your codes.,neutral,0.719
-Calling the battle cruiser?,neutral,0.852
-They'll pack her up and take off?,neutral,0.7631
-We better hurry!,neutral,0.5513
-Dinner's over.,neutral,0.6224
-Move out.,neutral,0.5726
-"Yes, Mama.",neutral,0.6022
-Going after Sheeta?,neutral,0.9012
-"We want the crystal, not the girl.",neutral,0.742
-The stone's no good without her.,negative,0.6317
-Can't I go with you?,neutral,0.5722
-I have to help Sheeta!,positive,0.5457
-"Do it on your own, like a man.",neutral,0.7684
-"You're right, if I was clever and strong, I could've defended her.",neutral,0.5785
-"Please, I don't care about treasure.",negative,0.8547
-Listen to him...,neutral,0.8447
-Shut up!,negative,0.787
-Yes!,positive,0.8097
-He could probably help us with her...,neutral,0.6023
-You'll be an outcast forever.,negative,0.8826
-I know.,neutral,0.5132
-You sure?,neutral,0.8183
-Yup!,positive,0.5159
-Be ready in 40 seconds.,neutral,0.7542
-"Take care, you guys.",positive,0.5363
-Tie this to your belt.,neutral,0.7394
-You boys wait on the ship.,neutral,0.7307
-A magnificent vessel.,positive,0.8957
-Has the girl talked?,neutral,0.8315
-I need a little more time.,neutral,0.6873
-Forget it!,negative,0.4277
-We'll squeeze it out of her up there.,neutral,0.8024
-"We depart at dawn, with the girl.",neutral,0.8728
-"Step on it, it's almost dawn!",positive,0.6807
-Sheeta!,neutral,0.5406
-Whatever shall we do?,neutral,0.8823
-"Sheeta, listen, I'm going to teach you... a magic spell for trouble.",neutral,0.7522
-A magic spell?,neutral,0.882
-Yes.,positive,0.461
-"These are old, old, old secret words.",negative,0.5312
-"They mean ""help me rekindle the light."" Perfect.",positive,0.8501
-Just as the ancient books described.,neutral,0.8003
-This is the sacred light.,positive,0.702
-Sacred light?,neutral,0.8703
-What are the magic words?,neutral,0.8853
-Tell me.,neutral,0.7081
-Let's go.,positive,0.5876
-Yeah.,neutral,0.5491
-It's moving!,positive,0.5711
-"The robot, it's alive!",positive,0.6781
-Hello!,positive,0.5738
-Help!,neutral,0.6156
-It's alive!,positive,0.802
-It's the robot!,neutral,0.5757
-The robot?,neutral,0.7542
-It's coming this way.,neutral,0.8121
-Run!,neutral,0.5537
-Retreat!,neutral,0.7262
-Retreat!,neutral,0.7262
-Incredible!,positive,0.8879
-I see!,positive,0.4877
-It's the light!,positive,0.7055
-The sacred light broke his seal!,neutral,0.6013
-The way to Laputa is open!,positive,0.5339
-Come!,positive,0.5515
-No!,neutral,0.4416
-It can fly!,positive,0.7071
-It's pointing to the sky...,neutral,0.7917
-It's showing the way to Laputa.,neutral,0.8425
-Hurry!,neutral,0.5702
-Explosives?,neutral,0.7315
-Idiot!,negative,0.9241
-You'll blow up the fortress!,neutral,0.4027
-"Hello, hello!",positive,0.8091
-What is this!,neutral,0.4584
-Good.,positive,0.7732
-We're connected.,positive,0.6382
-This is Colonel Muska.,neutral,0.8432
-The robot cut communication with the ship.,neutral,0.5684
-I've assumed emergency command.,neutral,0.8043
-It's after the girl on the tower.,neutral,0.8731
-Take it down on sight.,neutral,0.793
-Prepare to fire.,neutral,0.6385
-Hurry!,neutral,0.5702
-Hurry up!,positive,0.5325
-Fire!,neutral,0.4833
-Hurry!,neutral,0.5702
-We did it.,positive,0.7634
-Amazing!,positive,0.9069
-Get the girl.,neutral,0.583
-Is she dead?,neutral,0.6124
-Get up!,positive,0.6083
-She just fainted.,negative,0.6725
-Stand!,neutral,0.5255
-It moved...,neutral,0.7943
-What's that?,neutral,0.7331
-Looks like a war.,negative,0.7013
-"Let's go, Dola!",positive,0.8073
-"That's Captain, to you!",neutral,0.5317
-"Lower, Charles.",neutral,0.7576
-Stop!,negative,0.5341
-Stop it!,negative,0.5914
-Please!,neutral,0.5394
-"Mama, Goliath's pushing off!",neutral,0.7244
-We're going directly into the crossfire.,negative,0.6663
-Regroup!,neutral,0.6188
-"Look, there's Sheeta!",positive,0.6695
-Where?,neutral,0.7096
-Where?,neutral,0.7096
-Straight ahead.,neutral,0.5281
-She's on top of that tower!,positive,0.6687
-This is a job for a woman!,neutral,0.5934
-Cover me.,neutral,0.7284
-Sheeta!,neutral,0.5406
-"I'm coming, Sheeta!",positive,0.5138
-Pazu!,neutral,0.5595
-Fly closer!,positive,0.6175
-Pazu!,neutral,0.5595
-Let me go!,positive,0.6992
-Sheeta!,neutral,0.5406
-Dola!,neutral,0.5051
-Pazu!,neutral,0.5595
-Pazu!,neutral,0.5595
-Pull up!,neutral,0.616
-Last chance!,neutral,0.5082
-Grab her on the fly!,neutral,0.6872
-Pazu!,neutral,0.5595
-Here goes!,positive,0.5047
-All right!,positive,0.7464
-Move aside!,neutral,0.6212
-Damn!,negative,0.6868
-Sheeta!,neutral,0.5406
-What's Goliath doing?,neutral,0.8564
-A smoke screen?,neutral,0.7937
-Where's the robot?,neutral,0.7294
-Destroyed.,negative,0.6806
-The girl went that way.,neutral,0.8029
-What!,neutral,0.4804
-Put out the fire!,neutral,0.5353
-Organize a search party!,neutral,0.7551
-We haven't lost the sacred stone.,neutral,0.7394
-Its light points to Laputa...,neutral,0.9078
-"Inform the general, we'll depart for Laputa as planned.",neutral,0.9357
-Lucky guy...,positive,0.7285
-I can't believe she'll grow up to be just like Mama...,neutral,0.4231
-There's your valley...,neutral,0.775
-Right back where we started.,neutral,0.7429
-"Dola, please take us aboard.",neutral,0.6882
-Call me Captain!,neutral,0.6131
-What use are you without the crystal?,neutral,0.8445
-We'll work.,neutral,0.5483
-I want to see Laputa for myself.,positive,0.7648
-Don't want any treasure?,negative,0.5292
-You just want to see Laputa?,neutral,0.7636
-Suspect motives for boarding a pirate ship.,neutral,0.5931
-"Are they coming with us, Mama?",neutral,0.9208
-One false move and you're shark bait!,negative,0.7902
-Excellent!,positive,0.8538
-No more laundry or cleaning duty!,neutral,0.4817
-Or dish washing!,neutral,0.7287
-Or potato peeling!,neutral,0.7358
-Can you make pudding?,neutral,0.8819
-Yes...,neutral,0.5735
-I like mincemeat pie.,positive,0.936
-"I eat, uhm... anything!",neutral,0.6956
-Enough out of you!,negative,0.7637
-When will those boys ever grow up?,negative,0.9252
-Get off!,negative,0.5135
-Canvas.,neutral,0.6613
-It's made of cloth.,neutral,0.711
-And don't tear it.,neutral,0.6614
-"Hurry up, it's crowded in here!",neutral,0.4829
-"Hurry, this way!",neutral,0.5339
-I hate dawdlers.,negative,0.9686
-You're with me!,positive,0.6845
-Pazu!,neutral,0.5595
-I don't bite.,neutral,0.7126
-Come.,neutral,0.5622
-You're not here for fun.,negative,0.5976
-What an engine.,positive,0.4356
-Now where'd he go?,neutral,0.7048
-Pops!,positive,0.6086
-Pops!,positive,0.6086
-"Look, we got you an assistant.",neutral,0.7229
-Don't holler.,neutral,0.6355
-I hear you.,neutral,0.6757
-He's tougher than Mama.,neutral,0.6537
-Be careful.,neutral,0.7332
-My hand doesn't fit.,negative,0.8277
-This gasket?,neutral,0.6899
-Name?,neutral,0.7102
-Pazu.,neutral,0.6045
-The crystal pointed nearly due east...,neutral,0.8999
-You sure about that?,neutral,0.8232
-I could see the sunrise from the tower.,positive,0.5802
-It's the harvest season now... so the sun rises just south of due east.,neutral,0.6616
-The light pointed to the left of where the sun rose.,neutral,0.8018
-Good answer.,positive,0.5905
-Any luck?,neutral,0.7826
-Not a peep.,negative,0.5933
-"They're maintaining radio silence, aren't they?",neutral,0.6263
-"Mama, Goliath's faster.",neutral,0.7579
-What do we do?,neutral,0.7883
-We're upwind of them.,neutral,0.783
-If we get a lift on the trade winds...,neutral,0.7112
-My abacus from the Far East.,neutral,0.8727
-Windspeed is 10... and...,neutral,0.8547
-I think we can catch up.,positive,0.6383
-"Okay, listen up!",neutral,0.6288
-Goliath's on its way to Laputa.,neutral,0.8758
-We're on their tail.,neutral,0.69
-"With these winds, I expect contact tomorrow.",neutral,0.7536
-Ten gold pieces to whoever spots her first!,neutral,0.7394
-Ten!,positive,0.4773
-"Whatever we find, I'm sure Laputa has riches enough for any pirate gang!",neutral,0.6398
-"Earn your keep, boys!",positive,0.7616
-Now!,neutral,0.512
-"Course 98, speed 40.",neutral,0.8278
-That getup of yours won't work.,negative,0.8438
-Wear these.,neutral,0.7839
-Your station.,neutral,0.6358
-Beautiful...,positive,0.892
-You serve five meals a day.,neutral,0.8526
-Go easy on the water.,neutral,0.7204
-"Get to work, you idiots!",negative,0.9056
-Yes?,neutral,0.7116
-"I'm sorry, dinner isn't ready yet.",negative,0.7927
-I've never cooked on an airship...,negative,0.5744
-Do you need something?,neutral,0.8117
-Beautiful...,positive,0.892
-What?,neutral,0.5653
-I thought I'd give you a hand in my spare time.,neutral,0.5532
-Why thank you.,positive,0.7191
-Can you put those dishes away?,neutral,0.5683
-Happy to obli...,positive,0.8563
-You said your stomach hurt...,negative,0.6497
-I've got some free time.,positive,0.5409
-Can I...,neutral,0.8114
-You're in the way.,neutral,0.5307
-"Some stomachache, jerk!",negative,0.9165
-"Hey, can I help...",neutral,0.7175
-"You've changed, chasing the likes of Goliath...",neutral,0.6094
-But it's pointless.,negative,0.7542
-It's Laputan treasure I'm after.,neutral,0.7552
-They're certainly nice kids...,positive,0.9463
-"Get to the point, you old goat.",negative,0.694
-They're too upright and honest to ever respect you.,negative,0.5359
-What's that!,neutral,0.6874
-"No, I mean...",neutral,0.687
-Check...,neutral,0.7117
-Excellent... delicious...,positive,0.928
-Seconds anyone?,neutral,0.7838
-Okay.,neutral,0.5844
-More!,positive,0.687
-More!,positive,0.687
-More!,positive,0.687
-"Hey, shake a leg.",neutral,0.7638
-It's your watch.,neutral,0.7457
-"Take it, it's cold.",neutral,0.6643
-Watch?,neutral,0.7743
-Yeah.,neutral,0.5491
-Darn cold!,negative,0.8259
-Go on up.,neutral,0.4851
-My turn.,neutral,0.6692
-Great.,positive,0.7671
-Sheeta!,neutral,0.5406
-That was scary!,negative,0.7892
-The sky is beautiful.,positive,0.979
-Sheeta.,neutral,0.6014
-Get in.,neutral,0.6416
-Can't you sleep?,negative,0.5774
-Nice and warm...,positive,0.8868
-Look aft.,neutral,0.7714
-Pazu?,neutral,0.6946
-What?,neutral,0.5653
-I'm really scared.,negative,0.8505
-I really don't want to go to Laputa.,negative,0.9466
-"I hope we never find Goliath. - You mean-- - No, the light pointed the right way.",neutral,0.5133
-But...,neutral,0.7123
-You mean the robot?,neutral,0.673
-Poor thing.,negative,0.8812
-I never dreamed that little spell would work.,negative,0.6716
-I learned lots of other spells.,neutral,0.585
-"To help find things, cure the sick.",neutral,0.6086
-"And one I must never, ever use.",negative,0.8675
-"Never, ever use?",negative,0.4905
-A spell of destruction.,negative,0.8058
-I had to learn bad ones so the good spells had power.,neutral,0.6748
-"I was so scared, I couldn't sleep.",negative,0.884
-That stone should be locked away.,negative,0.7656
-They hid it in the fireplace.,neutral,0.7021
-It was only worn for weddings.,neutral,0.8534
-My mother's and grandmother's and great-grandmother's.,neutral,0.8195
-I should have thrown it away.,negative,0.855
-You're wrong.,negative,0.8008
-We met thanks to the stone.,neutral,0.5699
-Throwing it away won't make Laputa disappear.,neutral,0.6511
-Airships are improving.,positive,0.8098
-Someone will find it.,neutral,0.7519
-"I don't know what to do, but if Laputa is so dangerous... it's not for the likes of Muska.",negative,0.9006
-Besides...,neutral,0.7089
-"If we run now, they'll hunt us forever.",negative,0.7129
-But don't become a pirate for me.,neutral,0.643
-I won't become a pirate.,neutral,0.6851
-Dola understands.,neutral,0.6671
-She's nicer than she looks.,positive,0.8887
-"Once things are settled, I'll take you to Gondoa.",neutral,0.7145
-"I want to see where you were born, the valley, the yaks...",neutral,0.781
-Pazu...,neutral,0.6679
-What's that!,neutral,0.6874
-"Below us, look!",neutral,0.6477
-"Goliath, right below us!",neutral,0.645
-Come about!,neutral,0.5925
-Full rudder!,neutral,0.7271
-We should go after them.,neutral,0.6212
-They'll be trouble if we don't!,negative,0.5197
-We can't catch them in these clouds.,neutral,0.4936
-We'll get them.,neutral,0.6161
-They won't go far.,negative,0.5709
-Steady as she goes.,neutral,0.8269
-We're farther north than I thought.,neutral,0.7443
-"Pazu, listen up!",neutral,0.6834
-Time's running out.,negative,0.5709
-"If we lose Goliath, it's all over.",negative,0.7107
-Your eyes are sharp.,neutral,0.507
-Track them from the crow's nest.,neutral,0.6539
-What do I do?,neutral,0.7336
-That lookout post is a glider.,neutral,0.7641
-See the crank?,neutral,0.8019
-Yeah. - Turn it clockwise.,neutral,0.8624
-"Once it's locked, the upper lever unfolds the wings.",neutral,0.8655
-Use the wire to stabilize them.,neutral,0.88
-Figure out how to steer as you go!,neutral,0.7807
-"Sheeta, you there?",neutral,0.8058
-Yes.,positive,0.461
-Get back down here. - Why?,neutral,0.7433
-Because you're a girl!,neutral,0.5186
-But so are you!,neutral,0.4992
-"Besides, I'm a mountain girl with sharp eyes.",positive,0.5179
-Sheeta!,neutral,0.5406
-Please.,neutral,0.6087
-Pazu agrees.,neutral,0.726
-"Once you're aloft, the voice tube won't work.",negative,0.6453
-See the head set?,neutral,0.797
-"You mean this, right?",neutral,0.7492
-Wow...,positive,0.6449
-Okay.,neutral,0.5844
-I'll give it a try.,neutral,0.6064
-Release us.,neutral,0.6668
-Here goes.,neutral,0.5682
-They're gone.,neutral,0.5538
-Slipped into the clouds.,neutral,0.6257
-Look sharp!,positive,0.8574
-They could be anywhere.,neutral,0.7533
-Aye!,positive,0.5024
-Hold on tight.,neutral,0.6261
-What's wrong!,negative,0.9119
-We're fine.,positive,0.6902
-Just ran into a gust of wind.,neutral,0.742
-We're keeping watch.,neutral,0.7565
-Scared?,neutral,0.6622
-No.,neutral,0.4936
-I'm getting the hang of it.,neutral,0.5192
-Rough skies ahead.,neutral,0.7886
-"Sheeta, get the rope from my bag.",neutral,0.6526
-Okay.,neutral,0.5844
-Tie yourself to me.,neutral,0.7224
-Okay.,neutral,0.5844
-"The mercury's dropping, Mama...",neutral,0.6086
-Lousy luck.,negative,0.9032
-Storm coming up...,neutral,0.8671
-How long 'til dawn?,neutral,0.879
-One more hour.,neutral,0.6726
-It's dawn.,neutral,0.5754
-Strange that the sun's rising on that side...,neutral,0.5895
-I know!,neutral,0.4773
-We're supposed to be heading east.,neutral,0.8888
-Bridge!,positive,0.5287
-What!,neutral,0.4804
-We're heading north?,neutral,0.918
-The compass is pointing east.,neutral,0.8201
-The shifting winds must have put us off course. - Look!,neutral,0.5977
-What is it?,neutral,0.75
-Goliath?,neutral,0.7846
-It's a cloud.,neutral,0.7313
-A huge one...,neutral,0.5181
-A cloud?,neutral,0.7887
-It's headed for us!,positive,0.5369
-A castle in the sky...,neutral,0.5613
-We're headed into a low pressure system.,neutral,0.8351
-"Turn her away, full speed!",neutral,0.6053
-It's sucking us in.,negative,0.8555
-"Hold tight, we can't help!",neutral,0.5493
-The helm won't move!,neutral,0.5844
-Where's your brute strength?,neutral,0.523
-Engine's burning up!,neutral,0.4539
-Stop whining and figure something out!,negative,0.5498
-We're clearing the clouds!,positive,0.8078
-"Sheeta, the ocean!",neutral,0.6126
-The Dragon's Lair!,neutral,0.634
-So this is the Dragon's Lair...,neutral,0.8764
-Just as Dad said.,neutral,0.7467
-The wind's blowing the other way.,neutral,0.759
-"Look out, a wall of wind!",neutral,0.6733
-Mama!,neutral,0.6046
-It's sucking us in!,negative,0.8591
-Don't give up!,positive,0.5281
-Be a man!,neutral,0.5085
-Bridge!,positive,0.5287
-It's Laputa!,neutral,0.6389
-What was that?,neutral,0.7857
-Dad saw Laputa inside the Dragon's Lair.,neutral,0.9084
-Don't be ridiculous!,negative,0.4331
-It'll tear you to pieces!,negative,0.7381
-Pazu!,neutral,0.5595
-Look.,neutral,0.6185
-Just what we need.,positive,0.588
-Let's go for it!,positive,0.8697
-Dad did it.,neutral,0.703
-He made it back.,positive,0.6354
-"All right, into the Dragon's Lair!",positive,0.5743
-Got 'em!,positive,0.6035
-Our ship's in danger.,negative,0.8027
-We must withdraw.,neutral,0.6631
-Stay on course.,neutral,0.7328
-What?,neutral,0.5653
-The light's pointing right into the cloud.,neutral,0.7358
-Laputa's in there.,neutral,0.7176
-Stay on course.,neutral,0.7328
-We'll find a way in.,positive,0.5073
-"Here we go, Sheeta!",positive,0.5768
-Okay.,neutral,0.5844
-"Sheeta, Sheeta!",neutral,0.5123
-Are you all right?,neutral,0.8301
-Look...,neutral,0.7272
-Laputa...,neutral,0.6749
-I'm sorry.,negative,0.6455
-Wait...,neutral,0.6459
-I tied it really tight.,neutral,0.7319
-My hands are shaking...,negative,0.5799
-We did it!,positive,0.8999
-Birds...,neutral,0.7744
-Where is everyone?,neutral,0.6054
-Coming to greet you?,neutral,0.7816
-But I don't have the stone.,neutral,0.5475
-I'll cut the rope.,neutral,0.5963
-What are you doing!,neutral,0.7724
+Combination hookah and coffeemaker.,neutral,0.7933
+Also makes julienne fries.,neutral,0.8593
+Will not break.,neutral,0.6425
+Will not...,neutral,0.7265
+It broke.,negative,0.7346
+Ohh!,neutral,0.5576
+Look at this.,neutral,0.7571
+I have never seen one of these intact before.,neutral,0.479
+This is the famous Dead Sea Tupperware.,neutral,0.8213
+Listen.,neutral,0.6733
+"Ah, still good.",positive,0.8895
 Wait.,neutral,0.5851
-Please don't break that.,negative,0.5584
-We need it to get home.,neutral,0.7194
-A flycatcher's nest!,neutral,0.6789
-That's why he's here?,neutral,0.7845
-See?,neutral,0.6904
-All your eggs are fine.,positive,0.6251
-The birds aren't afraid.,neutral,0.5578
-It says to follow.,neutral,0.7761
-You understand it?,neutral,0.7413
-Just intuition.,neutral,0.7671
-It's a city...,neutral,0.7388
-What an amazing place...,positive,0.9753
-You can see the sky!,positive,0.7686
-"If their science was so advanced, what happened?",neutral,0.5849
-It's a grave.,negative,0.5792
-I wish I could read the writing.,neutral,0.5814
-Someone left flowers.,neutral,0.7412
-Do you leave the flowers?,neutral,0.8448
-Pazu!,neutral,0.5595
-It's a different robot!,neutral,0.5951
-It must've broken down long ago...,neutral,0.4979
-Probably a gardener robot.,neutral,0.7594
-It protected this place even after the people went away.,neutral,0.6425
-You picked flowers for the grave.,neutral,0.7068
-Thank you.,positive,0.853
-Are you all alone?,neutral,0.7047
-Are there any other robots here?,neutral,0.8776
-He doesn't seem to be lonely.,neutral,0.5541
-He's got friends and birds' nests to look after...,neutral,0.6994
-This way!,positive,0.5996
-This section's been destroyed.,negative,0.9035
-They got the Tiger Moth.,neutral,0.7701
-I hope the pirates are okay.,positive,0.7278
-"Sheeta, look there!",neutral,0.604
-They're prisoners!,negative,0.7264
-They hang pirates.,neutral,0.5177
-We must help them.,neutral,0.5054
-Let's go!,positive,0.8384
-We found a way in.,positive,0.768
-"Look at this, mountains of treasure.",positive,0.6709
-W...,neutral,0.6938
-What?,neutral,0.5653
-Wow...,positive,0.6449
-Want some?,neutral,0.7778
-I'll give you plenty of rope.,neutral,0.697
-Have you reported that we found Laputa?,neutral,0.9093
-Just about to.,neutral,0.7243
-Make the code good and complicated.,neutral,0.4995
-Hey!,neutral,0.5279
-No looting!,neutral,0.5468
-The perfect distraction for those idiots.,negative,0.8827
-What amazing roots.,positive,0.9103
-"You can climb trees, can't you?",neutral,0.6516
-I see a way.,neutral,0.5448
-No better than thieves.,negative,0.8943
-If they reach the garden...!,neutral,0.7822
-"Sheeta, let's find the stone!",neutral,0.6951
-It's the only way to stop them.,neutral,0.6636
-I was wondering why the clouds parted.,neutral,0.8139
-It was so they could land.,neutral,0.8009
-Was it my spell?,neutral,0.8529
-Muska was right.,neutral,0.5748
-The seal's broken.,negative,0.5678
-The kingdom's waking up.,neutral,0.5199
-It's welcomed the visitor with the stone.,positive,0.7237
-But Muska will become king.,neutral,0.8315
-He's got much worse in mind.,negative,0.8448
-But what do I do when I get the stone back...,neutral,0.788
-"Wait, that spell!",neutral,0.6429
-You mean... the destruction spell?,neutral,0.5866
-Down and around.,neutral,0.6768
-I'll go first.,neutral,0.7569
-Okay.,neutral,0.5844
-It's here somewhere.,neutral,0.7618
-"Please, God...",neutral,0.6168
-This is it!,positive,0.7213
-It's that kid.,neutral,0.6747
+Don't go.,negative,0.5596
+I can see that you're only interested in the exceptionally rare.,neutral,0.5365
+"I think, then, you would be most rewarded to consider this.",positive,0.7786
+Do not be fooled by its commonplace appearance.,neutral,0.5616
+"Like so many things, it is not what is outside, but what is inside that counts.",neutral,0.7984
+This is no ordinary lamp.,neutral,0.5607
+It once changed the course of a young man's life.,neutral,0.744
+"A young man who, like this lamp, was more than what he seemed.",neutral,0.498
+The diamond in the rough.,neutral,0.7984
+Perhaps you would like to hear the tale?,neutral,0.8891
+It begins on a dark night...,neutral,0.7003
+where a dark man waits with a dark purpose.,neutral,0.8068
+You are late.,negative,0.6158
+"A thousand apologies, O Patient One.",neutral,0.6946
+You have it then?,neutral,0.7178
+"I had to slit a few throats, but I got it.",neutral,0.4962
+Ah-ah-ahhh.,neutral,0.5844
+The treasure.,neutral,0.6425
+Ow!,neutral,0.5515
+"Trust me, my pungent friend.",positive,0.6278
+You'll get what's coming to you.,neutral,0.7393
+What's coming to you.,neutral,0.7576
+Awk!,neutral,0.5187
+Quickly!,neutral,0.5611
+Follow the trail.,neutral,0.6598
+Faster.,neutral,0.6099
+"At last, after all my years of searching...",neutral,0.4941
+the Cave of Wonders.,neutral,0.6934
+Awk.,neutral,0.5249
+Cave of Wonders.,neutral,0.6721
+By Allah.,neutral,0.71
+"Now, remember.",neutral,0.7411
+Bring me the lamp.,neutral,0.7772
+"The rest of the treasure is yours, but the lamp is mine.",neutral,0.732
+"Awk, the lamp.",neutral,0.6237
+"Awk, the lamp.",neutral,0.6237
+"Jeez, where'd ya dig this bozo up?",negative,0.7078
+Shh.,negative,0.4913
+Who disturbs my slumber?,negative,0.6119
+"It is l, Gazeem, a humble thief.",neutral,0.6653
+Know this.,neutral,0.6575
+"Only one may enter here, one whose worth lies far within.",neutral,0.6371
+A diamond in the rough.,neutral,0.7555
+What are you waiting for#Go on.,neutral,0.8152
 No!,neutral,0.4416
-Don't shoot!,neutral,0.5787
-Capture her.,negative,0.5679
-"Well, if it isn't the little princess.",neutral,0.6845
-Sheeta!,neutral,0.5406
-Damn!,negative,0.6868
-"What is it, Colonel?",neutral,0.7852
-The last of the pirates.,neutral,0.71
-There's one right under you.,neutral,0.805
-Yes sir!,positive,0.7731
-"Sheeta, wait for me!",neutral,0.5934
-Pazu!,neutral,0.5595
-Grenades!,neutral,0.5142
-Is that Pazu?,neutral,0.8525
-What was that?,neutral,0.7857
-"No, it wasn't.",neutral,0.6269
-What's wrong?,negative,0.7724
-Over here!,neutral,0.5148
-The general is over there.,neutral,0.7731
-"Militia, fall in on the double.",neutral,0.8143
-Dola!,neutral,0.5051
-They've got Sheeta.,neutral,0.7794
-I'm going after her.,neutral,0.7278
-I'll cut your ropes.,neutral,0.5568
-Get out of here.,negative,0.7729
-"Hey, wait!",neutral,0.6528
-Take this.,neutral,0.7371
-Thanks.,positive,0.6284
-The boy has become a man.,neutral,0.6735
-What!,neutral,0.4804
-Muska destroyed all the radio equipment?,negative,0.77
-"Yes, while the ship was lightly guarded.",neutral,0.8534
-Several guards are badly wounded.,negative,0.7541
-The colonel entered the inner palace with the girl.,neutral,0.9039
-The soldiers saw him.,neutral,0.6799
-That upstart's finally showing his colors.,neutral,0.7565
-Hunt him down and arrest him!,negative,0.8098
-All units!,neutral,0.5534
+Seek thee out the diamond in the rough.,neutral,0.892
+I can't believe it.,negative,0.6368
+I just don't believe it.,negative,0.8867
+We're never gonna get a hold of that stupid lamp.,negative,0.9442
+Just forget it.,neutral,0.6158
+Look at this.,neutral,0.7571
+I'm so ticked off that I'm molting.,negative,0.9746
+"Patience, lago.",neutral,0.6606
+Patience.,neutral,0.6306
+Gazeem was obviously less than worthy.,negative,0.9231
+"Oh, there's a big surprise.",positive,0.873
+I think I'm gonna have a heart attack and die from that surprise.,negative,0.9056
+What are we gonna do?,neutral,0.8532
+"We got a big problem here, a big...",negative,0.8281
+Yes.,positive,0.461
+Only one may enter.,neutral,0.8177
+"I must find this one, this...",neutral,0.6534
+diamond in the rough.,neutral,0.7656
+Stop!,negative,0.5341
+Thief!,neutral,0.4733
+Stop!,negative,0.5341
+Thief!,neutral,0.4733
+"I'll have your hands for a trophy, street rat.",neutral,0.5389
+All this for a loaf of bread?,neutral,0.6043
+Whoa!,neutral,0.4812
+There he is!,positive,0.6753
+You won't get away so easy!,negative,0.4523
+You think that was easy?,neutral,0.6353
+"You two, over that way, and you, follow me.",neutral,0.8145
+We'll find him.,neutral,0.6332
+"Morning, ladies.",positive,0.6282
+"Getting into trouble a little early today, aren't we, Aladdin?",negative,0.5476
+Trouble.,neutral,0.5227
+No way.,negative,0.6397
+You're only in trouble if you get caught.,negative,0.8458
+Gotcha.,neutral,0.4895
+I'm in trouble.,negative,0.8266
+And this time...,neutral,0.821
+"Perfect timing, Abu, as usual.",positive,0.8381
+Abu.,neutral,0.5772
+Come on.,neutral,0.5758
+Let's get outta here.,negative,0.6026
+Gotta keep one jump Ahead of the bread line One swing ahead of the sword I steal only what I can't afford That's everything.,neutral,0.5966
+One jump ahead of the lawmen That's all and that's no joke These guys don't appreciate I'm broke Riffraff.,negative,0.8213
+Street rat.,negative,0.5571
+Scoundrel.,negative,0.9127
+Take that.,neutral,0.6566
+"Just a little snack, guys Rip him open Take it back, guys I can take a hint Gotta face the facts You're my only friend, Abu Who?",neutral,0.5843
+"Oh, it's sad Aladdin's hit the bottom He's become a one-man rise in crime I'd blame parents Except he hasn't got 'em Gotta eat to live Gotta steal to eat Tell you all about it When I got the time One jump ahead of the slowpokes One skip ahead of my doom Next time gonna use a nom de plume There he is.",negative,0.6104
+"One jump ahead of the hit men One hit ahead of the flock I think I'll take a stroll Around the block Stop, thief.",neutral,0.6842
+Vandal.,neutral,0.5893
+Abu!,neutral,0.5929
+Scandal.,negative,0.6736
+Let's not be too hasty Still I think he's rather tasty Gotta eat to live Gotta steal to eat Otherwise we'd get along Wrong.,neutral,0.4922
+Get him!,neutral,0.5274
+He's got a sword!,neutral,0.6663
+You idiots.,negative,0.9445
+We've all got swords.,neutral,0.7709
+One jump ahead of the hoofbeats Vandal!,neutral,0.5596
+One hop ahead of the hump Street rat!,neutral,0.6268
+One trick ahead of disaster Scoundrel!,negative,0.6368
+"They're quick, but I'm much faster Here goes, better throw my hand in Wish me happy landin' All I gotta do is jump Yuck!",positive,0.462
+Oy!,neutral,0.4978
+"And now, esteemed effendi, we feast.",neutral,0.6659
+All right.,neutral,0.4897
+"Yum, yum!",positive,0.9055
+Uh-oh.,negative,0.5243
+Here.,neutral,0.5711
+Go on.,neutral,0.6503
+Take it.,neutral,0.6769
+"Ah, don't.",neutral,0.5801
+Huh?,neutral,0.6584
+"On his way to the palace, I suppose.",neutral,0.8763
+Another suitor for the princess.,neutral,0.6961
+"Out of my way, you filthy brats.",negative,0.9428
 Hey!,neutral,0.5279
-Hurry!,neutral,0.5702
-Shoot if he resists!,neutral,0.5842
-Find the entrance.,neutral,0.6892
-"Where are we, Colonel?",neutral,0.8251
-Laputa's core.,neutral,0.7435
-The castle above is just a trifle.,neutral,0.6613
-All of Laputa's knowledge is crystallized here.,neutral,0.8208
-You two wait here.,neutral,0.7662
-Colonel!,neutral,0.6724
-Only royalty may enter the sacred area.,neutral,0.8872
-What is this!,neutral,0.4584
-The roots have invaded...,neutral,0.5825
-"Eventually, we'll burn them all.",negative,0.7807
-"Come, this way.",neutral,0.7397
-Darn it...,negative,0.7802
-Yes...,neutral,0.5735
-This is it!,positive,0.7213
-"Here, too!",positive,0.5288
-Screw it...,negative,0.8984
-Found it!,positive,0.8774
-Behold the giant crystal!,positive,0.6493
-Source of Laputa's power.,neutral,0.8682
-Fantastic.,positive,0.7759
-It has awaited the king's return for 700 years. 700 years?,neutral,0.8005
-Your family forgot even that?,negative,0.67
-The black rock!,neutral,0.6753
-As the epics described!,neutral,0.7075
-I can read it.,neutral,0.5999
-I know what it says!,neutral,0.5584
-Just who are you?,neutral,0.7808
-"I too have an ancient, secret name, Lucita.",neutral,0.8944
-My name is Romuska Palo Ur Laputa.,neutral,0.8812
-We are descended from the same royal family.,neutral,0.8416
-Later it split into two branches.,neutral,0.766
-Not even a crack.,neutral,0.6284
-It's indestructible.,neutral,0.572
-Deploy all our explosives.,neutral,0.5478
-"Force won't be necessary, Your Excellency.",neutral,0.6693
-"Muska, where are you!",neutral,0.7179
-"What are you waiting for, General?",neutral,0.8258
-"All right, after me!",positive,0.5928
-Forward!,positive,0.7317
-What is this!,neutral,0.4584
-"Muska, where are you?",neutral,0.7851
-Silence!,neutral,0.6404
-What on earth!,negative,0.8883
-Watch your tongue.,neutral,0.5624
-You're in the presence of Laputa's king.,neutral,0.8538
-Are you insane?,negative,0.8096
-Let's celebrate Laputa's return with a demonstration of its power.,positive,0.9185
-Sheeta!,neutral,0.5406
-Behold Laputa's thunder!,neutral,0.6582
-Sheeta.,neutral,0.6014
-It's the heavenly fire that destroyed Sodom and Gomorrah.,negative,0.5843
-It's the Ramayana's Arrow of Indra.,neutral,0.893
-The world shall bow down before Laputa once more!,neutral,0.5863
-"Wonderful, Muska.",positive,0.9337
-You're a hero.,positive,0.8519
-A monumental achievement.,positive,0.9246
+"If I were as rich as you, I could afford some manners.",neutral,0.6143
+Oh.,neutral,0.5443
+I'll teach you some manners.,neutral,0.7368
+"Look at that, Abu.",neutral,0.6438
+It's not every day you see a horse with two rear ends.,neutral,0.7376
+Ooh!,neutral,0.554
+You are a worthless street rat.,negative,0.9723
+"You were born a street rat, you'll die a street rat, and only your fleas will mourn you.",negative,0.9246
+I'm not worthless.,neutral,0.5938
+And I don't have fleas.,neutral,0.6262
+"Come on, Abu.",neutral,0.7118
+Let's go home.,neutral,0.674
+"Riffraff, street rat I don't buy that If only they'd look closer Would they see a poor boy No, siree They'd find out There's so much more To me Some day, Abu, things are gonna change.",neutral,0.4955
+"We'll be rich, live in a palace, and never have any problems at all.",positive,0.7728
+I've never been so insulted.,negative,0.8251
+"Oh, Prince Achmed.",neutral,0.7795
+"You're not leaving so soon, are you?",neutral,0.6513
+Good luck marrying her off.,neutral,0.4919
+Oh!,neutral,0.5628
+Jasmine.,neutral,0.8176
+Jasmine!,neutral,0.6309
+Jasmine!,neutral,0.6309
+Jasmine!,neutral,0.6309
+"Confound it, Rajah.",neutral,0.787
+"So, this is why Prince Achmed stormed out.",neutral,0.5496
+"Oh, Father.",neutral,0.6961
+Rajah was just playing with him.,neutral,0.7449
+"Weren't you, Rajah?",neutral,0.8626
+"You were just playing with that overdressed, self-absorbed Prince Achmed, weren't you?",negative,0.5619
+"Dearest, you've got to stop rejecting every suitor who comes to call.",negative,0.7399
+The law says you must be married to a prince...,neutral,0.8447
+by your next birthday.,neutral,0.7956
+The law is wrong.,negative,0.9448
+You've only got three more days.,positive,0.6262
+"Father, I hate being forced into this.",negative,0.9738
+"If I do marry, I want it to be for love.",positive,0.6444
+Jasmine...,neutral,0.8414
+it's not only this law.,neutral,0.7451
+"I'm not going to be around forever, and, well, l...",negative,0.7283
+I just want to make sure you're taken care of.,positive,0.5093
+Provided for.,neutral,0.7136
+Please try to understand.,neutral,0.7703
+I've never done a thing on my own.,neutral,0.5171
+I've never had any real friends.,negative,0.8059
+"Except you, Rajah.",neutral,0.6809
+I've never even been outside the palace walls.,neutral,0.548
+"But, Jasmine, you're a princess.",neutral,0.6706
+Then maybe I don't want to be a princess anymore.,negative,0.7388
+Oooh!,positive,0.5253
+I...,neutral,0.7305
+I...,neutral,0.7305
+Allah forbid you should have any daughters.,negative,0.6841
+Hmm?,neutral,0.702
+I don't know where she gets it from.,negative,0.5787
+Her mother wasn't nearly so picky.,neutral,0.6078
+Oh!,neutral,0.5628
+"Ah, Jafar.",neutral,0.7374
+My most trusted advisor.,positive,0.8718
+I am in desperate need of your wisdom.,neutral,0.6618
+"My life is but to serve you, my lord.",positive,0.647
+It's this suitor business.,negative,0.5608
+Jasmine refuses to choose a husband.,negative,0.5321
+I'm at my wit's end.,negative,0.8922
+Awk!,neutral,0.5187
+Wit's end!,neutral,0.524
+Oh!,neutral,0.5628
+"Have a cracker, pretty Polly.",positive,0.7476
+Your Majesty certainly has a way with dumb animals.,negative,0.7628
+"Now, then, perhaps I can divine a solution to this thorny problem.",neutral,0.7679
+"If anyone can help, it's you.",positive,0.62
+But it would require the use of the mystic blue diamond.,neutral,0.8978
+Oh.,neutral,0.5443
+"Uh, my ring?",neutral,0.7459
+But it's been in the family for years.,neutral,0.6862
+It is necessary to find the princess a suitor.,neutral,0.8838
+Don't worry.,positive,0.5337
+Everything will be fine.,positive,0.7276
+Everything will be...,neutral,0.6402
+fine.,neutral,0.5084
+The diamond.,neutral,0.7214
+"Here, Jafar.",neutral,0.8009
+Whatever you need will be fine.,positive,0.5262
+"You are most gracious, my liege.",positive,0.9623
+"Now, run along and play with your little toys, hmm?",neutral,0.7114
+Yes.,positive,0.461
+That will be pretty good.,positive,0.9713
+I can't take it anymore!,negative,0.9122
+"If I gotta choke down on one more of those moldy, disgusting crackers...",negative,0.9775
+Bam!,neutral,0.5064
+Whack!,negative,0.8245
+"Calm yourself, lago.",neutral,0.7901
+Then I'd grab him around the head.,neutral,0.6753
+Whack!,negative,0.8245
+"Soon I will be sultan, not that addle-pated twit.",neutral,0.5081
+And then I stuff the crackers down his throat.,negative,0.5557
+"Ha, ha!",positive,0.478
+"Oh, I'm sorry, Rajah.",negative,0.6455
+But I can't stay here and have my life lived for me.,negative,0.5663
+I'll miss you.,neutral,0.4938
+Goodbye.,neutral,0.5621
+"Okay, Abu.",neutral,0.7437
+Go.,neutral,0.5352
+Try this.,neutral,0.755
+Your taste buds will dance and sing.,positive,0.5626
+Get your paws off that.,negative,0.6029
+"Why, you...",neutral,0.6577
+"Get away from here, you cursed, filthy ape!",negative,0.9621
+Goodbye.,neutral,0.5621
+"Nice going, Abu.",positive,0.9002
+Breakfast is served.,neutral,0.5801
+"Pretty lady, buy a pot.",neutral,0.5553
+No finer pot in brass or silver.,neutral,0.7245
+Sugar dates.,neutral,0.861
+Sugar dates and figs.,neutral,0.867
+Sugar dates and pistachios.,neutral,0.8439
+Would the lady like a necklace?,neutral,0.9215
+A pretty necklace for a pretty lady.,positive,0.9232
+Fresh fish!,positive,0.6435
+"We catch 'em, you buy 'em!",neutral,0.593
+"Oh, no.",negative,0.6307
+I don't think so.,neutral,0.5158
+Oh!,neutral,0.5628
+Excuse me.,neutral,0.4804
+I'm really very sorry.,negative,0.7933
+Wow.,positive,0.7094
+Uh-oh.,negative,0.5243
+Hello.,neutral,0.5209
+Hello?,neutral,0.643
+"Oh, you must be hungry.",negative,0.5692
+Here you go.,neutral,0.581
+You'd better be able to pay for that.,neutral,0.5441
+Pay?,neutral,0.7433
+No one steals from my cart.,neutral,0.6633
+"Oh, I'm sorry, sir.",negative,0.6893
+I don't have any money.,negative,0.8285
+Thief!,neutral,0.4733
+Please...,neutral,0.7261
+"If you let me go to the palace, I can get some from the Sultan.",neutral,0.9012
+Do you know what the penalty is for stealing?,neutral,0.5282
+No!,neutral,0.4416
+"No, please!",negative,0.4679
+"Thank you, kind sir.",positive,0.9309
+I'm so glad you found her.,positive,0.9846
+I've been looking all over for you.,neutral,0.7206
+What are you doing?,neutral,0.8242
+Just play along.,neutral,0.6443
+"You, uh, know this girl?",neutral,0.8916
+"Sadly, yes.",negative,0.7621
+She is my sister.,neutral,0.6589
+She's a little crazy.,negative,0.7835
+She said she knew the Sultan.,neutral,0.7427
+She thinks the monkey is the Sultan.,neutral,0.5855
+"O wise Sultan, how may I serve you?",neutral,0.8507
+"Tragic, isn't it?",negative,0.7298
+But no harm done.,neutral,0.7562
+"Now, come along, sis.",neutral,0.7953
+Time to go see the doctor.,neutral,0.6898
+"Oh, hello, Doctor.",neutral,0.6808
+How are you?,neutral,0.7345
+"No, no, no.",negative,0.6471
+Not that one.,neutral,0.5163
+"Come on, Sultan.",neutral,0.6653
+Huh.,neutral,0.5985
 What?,neutral,0.5653
-I grow tired of your stupid face.,negative,0.9791
-"Run, everyone!",positive,0.5779
-Die!,negative,0.6213
-It's those monsters!,negative,0.7162
-Look at them...,neutral,0.6635
+"Come back here, you little thieves!",negative,0.7695
+"With all due respect, Your Rottenness, couldn't we just wait for a real storm?",neutral,0.668
+"Save your breath, lago.",neutral,0.6707
+Faster.,neutral,0.6099
+"Yes, O mighty Evil One.",neutral,0.5182
+"Part, sands of time.",neutral,0.7695
+Reveal to me the one who can enter the cave.,neutral,0.8762
+Yes!,positive,0.8097
+Yes!,positive,0.8097
+There he is.,neutral,0.6553
+My diamond in the rough.,neutral,0.7062
+That's him.,neutral,0.676
+That's the clown we've been waitin' for?,neutral,0.474
+"Let's have the guards extend him an invitation to the palace, shall we?",neutral,0.8851
+Swell.,negative,0.5156
+Almost there.,neutral,0.5601
+I want to thank you for stopping that man.,positive,0.4891
+"Uh, forget it.",neutral,0.5054
+"So, this is your first time in the marketplace, huh?",neutral,0.8062
+Is it that obvious?,neutral,0.7079
+"Well, you do kind of stand out.",positive,0.6032
+"I mean, uh, you don't seem to know how dangerous Agrabah can be.",negative,0.8862
+Hmm.,neutral,0.6435
+I'm a fast learner.,positive,0.7543
+Wow.,positive,0.7094
+Hey.,neutral,0.5456
+Come on.,neutral,0.5758
+This way.,neutral,0.6722
+Whoa.,neutral,0.6108
+Watch your head there.,neutral,0.6519
+Be careful.,neutral,0.7332
+Is this where you live?,neutral,0.8544
+Yep.,neutral,0.5607
+Just me and Abu.,neutral,0.8105
+Come and go as we please.,neutral,0.7191
+That sounds fabulous.,positive,0.9714
+"Well, it's not much, but it's got a great view.",positive,0.9012
+Wow.,positive,0.7094
+"The palace looks pretty amazing, huh?",positive,0.9855
+"Oh, it's wonderful.",positive,0.9757
+"I wonder what it would be like to live there, and have servants and valets.",neutral,0.8175
+"Oh, sure.",positive,0.4803
+People who tell you where to go and how to dress.,neutral,0.6449
+It's better than here.,positive,0.494
+You're always scraping for food and ducking the guards.,negative,0.8969
+You're not free to make your own choices.,neutral,0.5494
+Sometimes you feel so...,neutral,0.7108
+You're just...,neutral,0.4717
+...trapped.,neutral,0.6017
+"So, where are you from?",neutral,0.8049
+What does it matter?,neutral,0.7156
+I ran away and I am not going back.,negative,0.5917
+Really.,neutral,0.6346
+How come?,neutral,0.6759
+"Why, you...",neutral,0.6577
+My father's forcing me to get married.,negative,0.5991
+That's...,neutral,0.7171
+that's awful.,negative,0.9337
+Abu!,neutral,0.5929
+What?,neutral,0.5653
+"Abu says, uh...",neutral,0.8364
+that's not fair.,negative,0.9379
+What?,neutral,0.5653
+"Oh, did he?",neutral,0.7625
+"Yeah, of course.",neutral,0.5766
+And does Abu have anything else to say?,neutral,0.7945
+"Well, uh, he wishes there was something he could do to help.",neutral,0.7225
+"Oh, boy.",neutral,0.5503
+Hmm.,neutral,0.6435
+Tell him that's very sweet.,positive,0.941
+Here you are.,neutral,0.6151
+They're after me!,neutral,0.616
+You?,neutral,0.6413
+My father must have sent them...,neutral,0.7796
+Do you trust me?,neutral,0.8416
+What?,neutral,0.5653
+Do you trust me?,neutral,0.8416
+Yes...,neutral,0.5735
+Then jump!,neutral,0.6002
+"We just keep running into each other, don't we, street rat?",neutral,0.5878
 Run!,neutral,0.5537
-Are the Flaptors okay?,neutral,0.8644
-Ready to fly!,positive,0.6746
-Let's hurry!,positive,0.558
-Quiet.,neutral,0.656
-Keep your voice down.,neutral,0.7172
-What are those two doing?,neutral,0.8645
-I'll have to leave them behind.,neutral,0.5854
-I advise you not to anger me.,neutral,0.6489
-We'll be alone here for a long time.,negative,0.6699
-They should've escaped.,neutral,0.6128
-You think you can fight me?,negative,0.5942
-Robots!,negative,0.4711
-Sheeta!,neutral,0.5406
-Fantastic!,positive,0.9316
-"A marvelous display, no?",positive,0.8028
-"Die, you insects!",negative,0.9206
-How dare you!,negative,0.9082
-Damn.,negative,0.8027
-"Be a good girl, give it back.",positive,0.7869
-"Please, open!",positive,0.5116
-Just where will you go?,neutral,0.8548
-Open!,positive,0.544
-Sheeta!,neutral,0.5406
-Sheeta!,neutral,0.5406
-Pazu!,neutral,0.5595
-Sheeta!,neutral,0.5406
-Pazu!,neutral,0.5595
-Sheeta!,neutral,0.5406
-Sheeta!,neutral,0.5406
-Pazu!,neutral,0.5595
-Sheeta!,neutral,0.5406
-I'm coming.,neutral,0.6873
-Damn.,negative,0.8027
-Get back!,positive,0.6513
-"Take this, hurry!",neutral,0.5502
-"Muska's coming, quick!",neutral,0.6268
-Throw it into the sea.,negative,0.752
-Sheeta!,neutral,0.5406
-Hold onto that stone.,neutral,0.7207
-I'll trade her life for it.,neutral,0.6682
-Get up!,positive,0.6083
-No more hide and seek.,neutral,0.6247
-How delightful that it should end in the throne room.,positive,0.7932
-Come here!,positive,0.5968
-The throne room?,neutral,0.8523
-This will be our grave.,negative,0.8964
-What is a king when his country lies ruined?,negative,0.8703
-I won't give you the stone.,neutral,0.6384
-"You'll die, trapped here with me.",negative,0.692
-There's no escape.,neutral,0.6184
-This is why Laputa died out.,negative,0.8049
-There's a song in my valley...,neutral,0.7733
-Put down your roots in the soil Live together with the wind Pass the winter with the seeds Sing in the spring with the birds Your weapons may be powerful.,neutral,0.53
-Your pitiful robots may be numerous.,negative,0.8778
-But you can't survive away from the earth.,negative,0.6211
-Laputa will not die.,neutral,0.7233
-It will rise again.,positive,0.698
-Its power is the stuff of humanity's dreams.,positive,0.7754
-"Next, I shoot off your ears!",negative,0.5638
-Beg for your life.,neutral,0.6722
-Make the kid hand over the stone.,neutral,0.7706
-Wait!,neutral,0.6225
-The stone's hidden.,neutral,0.7324
-"You can shoot, but you won't get it.",negative,0.6187
-"Stay away, Pazu.",neutral,0.654
-He'll kill us both.,negative,0.915
-I'll spare her life if you tell me where the stone is.,neutral,0.5864
-Or do you intend to conquer me with that cannon of yours?,neutral,0.6609
-Let me talk to Sheeta alone.,neutral,0.8119
-Run away.,neutral,0.526
-Take the stone and run!,neutral,0.744
-Three minutes.,neutral,0.5574
-Pazu.,neutral,0.6045
-"Sheeta, calm down and listen.",neutral,0.7491
-Teach me that spell.,neutral,0.6791
-I'll say it with you.,neutral,0.7086
-Put your hand in mine.,neutral,0.6223
-I cut the pirates' ropes.,neutral,0.684
-Time's up.,neutral,0.6253
-What do you say?,neutral,0.7648
-My eyes!,positive,0.5932
-My eyes!,positive,0.5932
-I can't see...,negative,0.5827
-"Mama, it's collapsing!",negative,0.5385
-"All right, let's go.",positive,0.5058
-Hurry!,neutral,0.5702
-Hurry!,neutral,0.5702
-"Look, the bottom's falling out!",negative,0.7838
-Sheeta was such a nice girl...,positive,0.9211
-They used the spell of destruction.,negative,0.8161
-Those kids saved Laputa from those idiots.,negative,0.6805
-It's stopping!,neutral,0.5465
-A crystal!,positive,0.5355
-A humongous one!,positive,0.8777
-It's rising.,positive,0.6164
-The tree... it's carrying it away.,neutral,0.7592
-Chase it!,positive,0.6383
-"You're heavy, get off.",negative,0.5725
-I can't!,negative,0.5726
-Sheeta!,neutral,0.5406
-Pazu...,neutral,0.6679
-The roots protected us.,neutral,0.7087
-We can still use this.,positive,0.5776
-Here goes.,neutral,0.5682
-"What are you doing, we're not moving.",neutral,0.5837
-"Of course not, we're overloaded.",negative,0.7131
-It's Sheeta!,neutral,0.5111
-She's alive!,positive,0.9059
-It's the kid!,neutral,0.5589
-Dola!,neutral,0.5051
-Thank God you're alive!,positive,0.9673
-You guys okay?,neutral,0.7287
-"Oh, no!",negative,0.6841
-My galleon's wrecked...,negative,0.6698
-"Oh, stop blubbering.",negative,0.7935
-We'll build a better ship!,positive,0.9026
-"You poor child, the worst is having your hair hacked off...",negative,0.969
-I can't breathe!,negative,0.799
+Go!,positive,0.6266
+Get out of here!,negative,0.7254
+Get this thing off of me!,negative,0.8386
+"It's the dungeon for you, boy.",neutral,0.6234
+Get off of me.,negative,0.7477
+Let him go.,neutral,0.5066
+"Looky here, men.",neutral,0.7072
+A street mouse.,neutral,0.7487
+"Unhand him, by order of the princess.",neutral,0.8304
+Princess Jasmine.,neutral,0.8289
+The princess?,neutral,0.8364
+Princess?,neutral,0.8118
+What are you doing outside the palace?,neutral,0.9132
+And with this street rat.,negative,0.5596
+That's not your concern.,neutral,0.493
+Do as I command.,neutral,0.7496
+Release him.,neutral,0.5074
+"I would, Princess, except my orders come from Jafar.",neutral,0.8748
+You'll have to take it up with him.,neutral,0.872
+"Believe me, I will.",positive,0.78
+Jafar?,neutral,0.7286
+"Oh, Princess.",neutral,0.6515
+Awk!,neutral,0.5187
+"Jafar, I'm stuck.",negative,0.7054
+How may I be of service to you?,neutral,0.8362
+"The guards just took a boy from the market, on your orders.",negative,0.5307
+Your father has charged me with keeping peace in Agrabah.,neutral,0.872
+The boy was a criminal.,negative,0.9328
+What was his crime?,neutral,0.6371
+"I can't breathe, Jafar.",negative,0.8286
+"Why, kidnapping the princess, of course.",neutral,0.5791
+If you could just...,neutral,0.7792
+Aah!,neutral,0.5209
+That hurt!,negative,0.7599
+He didn't kidnap me.,neutral,0.6188
+I ran away.,neutral,0.5757
+"Oh, dear.",neutral,0.4791
+"Oh, how frightfully upsetting.",negative,0.9478
+Had I but known...,neutral,0.7897
+What do you mean?,neutral,0.7294
+"Sadly, the boy's sentence has already been carried out.",negative,0.9217
+What sentence?,neutral,0.6948
+Death.,negative,0.6056
+By beheading.,negative,0.6402
+No.,neutral,0.4936
+"I am exceedingly sorry, Princess.",negative,0.6784
+How could you?,neutral,0.488
+"So, how did it go?",neutral,0.7941
+I think she took it...,neutral,0.7795
+rather well.,positive,0.6433
+"It's all my fault, Rajah.",negative,0.7218
+I didn't even know his name.,negative,0.493
+She was the princess.,neutral,0.7065
+I can't believe it.,negative,0.6368
+I must have sounded so stupid to her.,negative,0.9246
+Yoo-hoo!,positive,0.8853
+Aladdin!,positive,0.6489
+Hello!,positive,0.5738
+Abu.,neutral,0.5772
+Down here.,neutral,0.6585
+"Come on, help me out of these.",neutral,0.7164
+"Hey, she was in trouble.",negative,0.6051
+"Ah, she was worth it.",positive,0.8096
+"Yeah, yeah, yeah.",positive,0.4589
+Don't worry.,positive,0.5337
+I'll never see her again.,negative,0.9397
+"I'm a street rat, remember?",negative,0.4972
+And there's a law.,neutral,0.6554
+She's gotta marry a prince.,neutral,0.7687
+She deserves a prince.,positive,0.504
+Ta-da!,neutral,0.5546
+I'm a fool.,negative,0.926
+"You're only a fool if you give up, boy.",negative,0.8845
+Who are you?,neutral,0.7975
+"A lowly prisoner, like yourself.",negative,0.6299
+"But together, perhaps we can be more.",positive,0.8032
+I'm listening.,neutral,0.5667
+"There is a cave, boy, a Cave of Wonders, filled with treasures beyond your wildest dreams.",positive,0.7471
+Ooh!,neutral,0.554
+"Treasure enough to impress even your princess, I'd wager.",neutral,0.529
+"Jafar, can you hurry up?",neutral,0.7099
+I'm dyin' in here.,neutral,0.6299
+But the law says only a prince can...,neutral,0.821
+"You've heard of the golden rule, haven't you?",neutral,0.7863
+Whoever has the gold makes the rules.,neutral,0.7448
+Why would you share all of this wonderful treasure with me?,neutral,0.4975
+I need a young pair of legs and a strong back to go in after it.,neutral,0.7544
+"Uh, one problem.",negative,0.6525
+It's out there.,neutral,0.6299
+We're in here.,neutral,0.5322
+Uh-uh.,neutral,0.4945
+Things aren't always what they seem.,neutral,0.5127
+So...,neutral,0.7269
+do we have a deal?,neutral,0.8363
+"Oh, I don't know.",neutral,0.5574
+Who disturbs my slumber?,negative,0.6119
+"Uh, it is l, Aladdin.",neutral,0.7909
+Proceed.,neutral,0.7282
+Touch nothing but the lamp.,neutral,0.7556
+"Remember, boy, first fetch me the lamp, and then you shall have your reward.",neutral,0.7827
+"Come on, Abu.",neutral,0.7118
+Would you look at that!,neutral,0.632
+Just a handful of this stuff would make me richer than the Sultan.,positive,0.5346
+Abu!,neutral,0.5929
+Don't...,neutral,0.6396
+touch...,neutral,0.7219
+anything.,neutral,0.6079
+We gotta find that lamp.,neutral,0.7321
+Huh?,neutral,0.6584
+Aladdin!,positive,0.6489
+"Abu, will you knock it off?",neutral,0.8438
+"Abu, what are you, crazy?",negative,0.5942
+A magic carpet.,neutral,0.7381
+Come on.,neutral,0.5758
+Come on out.,neutral,0.6834
+We're not gonna hurt you.,neutral,0.6625
+"Hey, take it easy, Abu.",positive,0.5173
+He's not gonna bite.,neutral,0.698
+Thanks.,positive,0.6284
+Wait a minute.,neutral,0.5549
+Don't go.,negative,0.5596
+Maybe you can help us.,neutral,0.5046
+Hey!,neutral,0.5279
+Whoa!,neutral,0.4812
+"You see, we're trying to find this lamp.",neutral,0.7909
+I think he knows where it is.,neutral,0.7999
+Wait here.,neutral,0.6363
+Oh!,neutral,0.5628
+This is it?,neutral,0.6686
+This is what we came all the way down here to...,neutral,0.748
+Abu!,neutral,0.5929
+No!,neutral,0.4416
+lnfidels!,neutral,0.6394
+Uh-oh.,negative,0.5243
+You have touched the forbidden treasure!,neutral,0.533
+Now you will never again see the light of day!,negative,0.882
+Whoa!,neutral,0.4812
+Help!,neutral,0.6156
+Help!,neutral,0.6156
+Help!,neutral,0.6156
+Gotcha!,positive,0.744
+"Carpet, let's move.",neutral,0.7545
+Abu!,neutral,0.5929
+"Abu, this is no time to panic.",neutral,0.6407
+Start panicking.,negative,0.7224
+Whoa!,neutral,0.4812
+Help me out.,neutral,0.7344
+Throw me the lamp.,negative,0.5693
+I can't hold on.,negative,0.7412
+Give me your hand.,neutral,0.6384
+First give me the lamp.,neutral,0.7335
+Yes!,positive,0.8097
+At last!,positive,0.7347
+What are you doing?,neutral,0.8242
+Giving you your reward.,neutral,0.5199
+Your eternal reward.,positive,0.5472
+It's mine.,neutral,0.5461
+It's all mine.,neutral,0.5483
+I...,neutral,0.7305
+where is it?,neutral,0.6929
+No.,neutral,0.4936
+No!,neutral,0.4416
+Jasmine?,neutral,0.8324
+"Oh, dearest.",neutral,0.7141
+What's wrong?,negative,0.7724
+Jafar has...,neutral,0.8073
+done something terrible.,negative,0.9291
+"There, there, my dear.",neutral,0.709
+We'll set it right.,neutral,0.4893
+"Now, tell me everything.",neutral,0.7013
+Oh.,neutral,0.5443
+Aladdin.,neutral,0.6785
+Wake up.,neutral,0.6348
+Aladdin.,neutral,0.6785
+Oh!,neutral,0.5628
+My head.,negative,0.5182
+We're trapped.,negative,0.6139
+That two-faced son of a jackal!,negative,0.9482
+"Whoever he was, he's long gone with that lamp.",negative,0.558
+Aha!,positive,0.6184
+"Why, you hairy little thief.",negative,0.9221
+"Looks like such a beat-up, worthless piece of junk.",negative,0.974
+"Hey, I think there's something written here, but it's hard to make out.",neutral,0.5625
+Aaaaahhhhh!,positive,0.5084
+Oy!,neutral,0.4978
+"10,000 years will give you such a crick in the neck.",negative,0.6604
+Hang on a second.,neutral,0.6844
+Whoa!,neutral,0.4812
+Whoa!,neutral,0.4812
+Does it feel good to be outta there.,positive,0.476
+"Nice to be back, ladies and gentlemen.",positive,0.9763
+Hi.,neutral,0.5326
+Where you from?,neutral,0.6749
+What's your name?,neutral,0.7728
+Uh...,neutral,0.6651
+"Uh, Aladdin.",neutral,0.7787
+Aladdin.,neutral,0.6785
+"Hello, Aladdin.",neutral,0.5693
+Nice to have you on the show.,positive,0.9798
+"Can we call you ""Al""?",neutral,0.8833
+"Or maybe just ""Din."" How about ""Laddie""?",neutral,0.8326
+"Sounds like, ""Here, boy.",neutral,0.7275
+"C'mon, Laddie."" I must have hit my head harder than I thought.",negative,0.6327
+Do you smoke?,neutral,0.8124
+Mind if I do?,neutral,0.8412
+"Oh, sorry, Cheetah.",negative,0.6372
+Hope I didn't singe the fur.,neutral,0.6053
+"Yo, Rugman.",neutral,0.7141
+Haven't seen you in a few millennia.,neutral,0.5531
+Give me some tass-el.,neutral,0.6425
+Yeah.,neutral,0.5491
+"Yo, yo.",neutral,0.6867
+"Say, you're a lot smaller than my last master.",neutral,0.4972
+That or I'm gettin' bigger.,neutral,0.6813
+Look from the side.,neutral,0.7172
+Do I look different?,neutral,0.7677
+Wait a minute.,neutral,0.5549
+I'm your master?,neutral,0.8153
+That's right.,neutral,0.569
+He can be taught.,neutral,0.7356
+What would you wish of me?,neutral,0.8745
+"The ever impressive, the long contained, often imitated, but never duplicated...",positive,0.6804
+"Duplicated, duplicated...",neutral,0.5124
+Genie...,neutral,0.6889
+of the Lamp!,neutral,0.658
+"Right here direct from the lamp, right here for your very much wish fulfillment.",positive,0.5943
+Thank you.,positive,0.853
+Whoa.,neutral,0.6108
+Wish fulfillment?,neutral,0.8545
+Three wishes to be exact.,neutral,0.8777
+And ix-nay on the wishing for more wishes.,neutral,0.6121
+That's it.,neutral,0.5321
+Three.,neutral,0.568
+"Uno, dos, tres.",neutral,0.6409
+"No substitutions, exchanges or refunds.",neutral,0.6809
+Now I know I'm dreaming.,neutral,0.5399
+"Master, I don't think you quite realize what you've got here.",negative,0.5957
+So why don't you just ruminate whilst I illuminate the possibilities.,neutral,0.8037
+"Well, Ali Baba had them 40 thieves Scheherazade had a thousand tales But, master, you're in luck 'Cause up your sleeves You got a brand of magic never fails You got some power in your corner now Some heavy ammunition in your camp You got some punch pizzazz Yahoo and how See, all you gotta do Is rub that lamp and I'll say Mr.",neutral,0.6442
+"Aladdin, sir, What will your pleasure be Let me take your order Jot it down You ain't never had a friend like me Life is your restaurant And I'm your maitre d' Come on, whisper what it is you want You ain't never had a friend like me Yes, sir We pride ourselves on service You're the boss, the king, the shah Say what you wish It's yours, true dish How 'bout a little more baklava ?",neutral,0.6259
+"Have some of column A Try all of column B I'm in the mood to help you, dude You ain't never had a friend like me Can your friends do this ?",neutral,0.5677
+Can your friends do that ?,neutral,0.8858
+Can your friends pull this Out their little hat ?,neutral,0.8151
+Can your friends go poof ?,neutral,0.6413
+"Hey, looky here.",neutral,0.5791
+Ha ha!,positive,0.5443
+"Can your friends go Abracadabra, let her rip And then make the sucker disappear So don't you sit there Slack-jawed, buggy-eyed I'm here to answer All your midnight prayers You got me bona fide certified You got a genie For your charge d'affaires I got a powerful urge to help you out So what's your wish I really wanna know You got a list That's three miles long, no doubt All you gotta do is rub like so Mr.",neutral,0.683
+"Aladdin, sir Have a wish or two or three I'm on the job, you big nabob You ain't never had a friend Never had a friend You ain't never had a friend Never had a friend You ain't never Had a Friend Like Me You ain't never had a friend like me Huh?",negative,0.4848
+"So, what'll it be, Master?",neutral,0.8816
+"You're gonna grant me any three wishes I want, right?",neutral,0.6376
+"Ah, almost.",neutral,0.6185
+"There are a few provisos, a couple of quid pro quos.",neutral,0.8997
+Like?,neutral,0.7071
+"Ah, rule number one: I can't kill anybody.",neutral,0.5658
+So don't ask.,neutral,0.6518
+Rule number two.,neutral,0.7591
+I can't make anybody fall in love with anybody else.,negative,0.4831
+You little punim there.,neutral,0.6614
+Rule number three.,neutral,0.8024
+I can't bring people back from the dead.,negative,0.7343
+It's not a pretty picture.,negative,0.8451
+I don't like doing it.,negative,0.9414
+"Other than that, you got it.",neutral,0.5848
+Hmm.,neutral,0.6435
+Oh!,neutral,0.5628
+Provisos?,neutral,0.7217
+You mean limitations?,neutral,0.6887
+On wishes?,neutral,0.829
+Some all-powerful genie.,neutral,0.5487
+Can't even bring people back from the dead.,negative,0.798
+"I don't know, Abu.",neutral,0.6311
+He probably can't even get us out of this cave.,negative,0.8597
+Looks like we're gonna have to find a way out.,neutral,0.6982
+Excuse me?,neutral,0.5234
+Are you lookin' at me?,neutral,0.8304
+Did you rub my lamp?,neutral,0.7923
+Did you wake me up?,neutral,0.8413
+Did you bring me here?,neutral,0.8216
+And you're walking out on me?,negative,0.5377
+"I don't think so, not right now.",neutral,0.5158
+"You're gettin' your wishes, so sit down!",neutral,0.7143
+"In case of emergency, the exits are here, here, here, here, anywhere.",neutral,0.831
+Keep your hands and arms inside the carpet.,neutral,0.8106
+We're...,neutral,0.775
+outta here!,neutral,0.4443
+"Jafar, this is an outrage.",negative,0.6715
+If it weren't for all your years of loyal service...,neutral,0.5573
+"From now on, you are to discuss sentencing of prisoners with me, before they are beheaded.",neutral,0.6465
+"I assure you, Your Highness, it won't happen again.",neutral,0.5895
+Jasmine...,neutral,0.8414
+Jafar.,neutral,0.6419
+Let's put this whole messy business behind us.,negative,0.7218
+Please.,neutral,0.6087
+"My most abject and humblest apologies to you as well, Princess.",neutral,0.5464
+At least some good will come of my being forced to marry.,positive,0.4759
+"When I am queen, I will have the power to get rid of you.",neutral,0.7122
+That's nice.,positive,0.9712
+"All settled, then.",neutral,0.5782
+"Now, Jasmine, getting back to this suitor business...",neutral,0.8024
+Jasmine?,neutral,0.8324
+Jasmine!,neutral,0.6309
+If only I had gotten that lamp.,neutral,0.6526
+"""l will have the power to get rid of you."" To think we gotta keep kissing up to that chump and his chump daughter for the rest of our lives...",negative,0.7249
+"No, lago.",neutral,0.5745
+Only until she finds a chump husband.,neutral,0.702
+Then she'll have us banished.,negative,0.6351
+Or beheaded.,negative,0.4693
+Oh.,neutral,0.5443
+Wait a minute.,neutral,0.5549
+Jafar.,neutral,0.6419
+What if you were the chump husband?,neutral,0.7156
+What?,neutral,0.5653
+"Okay, you marry the princess, all right?",neutral,0.8569
+"And, uh, then you become the sultan.",neutral,0.7218
+Oh.,neutral,0.5443
+Marry the shrew.,neutral,0.73
+I become the sultan.,neutral,0.7729
+The idea has merit.,positive,0.619
+"Yes, merit.",neutral,0.5152
+Yes.,positive,0.461
+And then we drop papa-in-law and the little woman off a cliff.,neutral,0.5049
+Yaaah!,positive,0.5431
+Kersplat!,neutral,0.6644
+I love the way your foul little mind works.,positive,0.4339
+Thank you for choosing Magic Carpet for all your travel needs.,positive,0.977
+Don't stand until the rug has come to a complete stop.,neutral,0.4902
+Thank you.,positive,0.853
+Goodbye now.,neutral,0.6478
+Good-ye.,positive,0.7278
+Thank you.,positive,0.853
+"Well, how about that, Mr.",neutral,0.8063
+Doubting Mustafa?,neutral,0.8463
+"Oh, you sure showed me.",neutral,0.5514
+"Now, about my three wishes.",neutral,0.8415
+Dost mine ears deceive me?,neutral,0.5339
+Three.,neutral,0.568
+"You are down by one, boy.",neutral,0.5225
+"Ah, no.",negative,0.4863
+I never actually wished to get out of the cave.,negative,0.8182
+You did that on your own.,neutral,0.6199
+"Well, I feel sheepish.",negative,0.8419
+"All right, you baaad boy, but no more freebies.",neutral,0.5141
+Fair deal.,positive,0.5156
+"So, three wishes.",neutral,0.8147
+I want them to be good.,positive,0.8441
+What would you wish for?,neutral,0.8749
+Me?,neutral,0.707
+No one's ever asked me that before.,neutral,0.5798
+"Well, in my case...",neutral,0.7847
+"Ah, forget it.",neutral,0.4852
+What?,neutral,0.5653
+"No, I can't.",negative,0.7151
+I...,neutral,0.7305
+Come on.,neutral,0.5758
+Tell me.,neutral,0.7081
+Freedom.,neutral,0.5949
+You're a prisoner?,neutral,0.5177
+It's all part and parcel of the whole genie gig.,neutral,0.8124
+Phenomenal cosmic powers...,neutral,0.8746
+Itty bitty living space.,neutral,0.5113
+"Genie, that's terrible.",negative,0.9516
+"But, oh, to be free.",neutral,0.619
+"Not have to go, ""Poof.",neutral,0.6405
+What do you need?,neutral,0.7642
+Poof.,neutral,0.5611
+What do you need?,neutral,0.7642
+Poof.,neutral,0.5611
+"What do you need?"" To be my own master.",neutral,0.8628
+Such a thing would be greater than all the magic and all the treasures in all the world.,positive,0.8614
+But what am I talking about?,neutral,0.7612
+Let's get real here.,neutral,0.7347
+It's not gonna happen.,negative,0.6759
+"Genie, wake up and smell the hummus.",neutral,0.7532
+Why not?,neutral,0.6867
+The only way I get outta this is if my master wishes me out.,neutral,0.6914
+So you can guess how often that's happened.,neutral,0.7614
+I'll do it.,positive,0.596
+I'll set you free.,positive,0.5517
+"Uh-huh, yeah, right.",neutral,0.5808
+"No, really, I promise.",neutral,0.7005
+"after I make my first two wishes, I'll use my third wish to set you free.",neutral,0.6636
+"Well, here's hopin'.",neutral,0.5262
+All right.,neutral,0.4897
+Let's make some magic.,positive,0.5786
+So how 'bout it?,neutral,0.7628
+What is it you want most?,neutral,0.8519
+"Well, there's this girl.",neutral,0.7787
+Wrong.,negative,0.7284
+"I can't make anybody fall in love, remember?",negative,0.4739
+"Oh, but, Genie, she's smart and fun and...",positive,0.8621
+Pretty?,neutral,0.7091
+Beautiful.,positive,0.9154
+She's got these eyes that just...,neutral,0.6865
+and this hair.,neutral,0.6724
+Wow.,positive,0.7094
+And her smile...,positive,0.6678
+Ami.,neutral,0.6511
+C'est l'amour.,neutral,0.6816
+But she's the princess.,neutral,0.6992
+"To even have a chance, I'd have to be...",neutral,0.6188
+"Hey, can you make me a prince?",neutral,0.6521
+Let's see here.,neutral,0.7548
+Chicken à la king?,neutral,0.821
+Nope.,neutral,0.4866
+Alaskan king crab.,neutral,0.7853
+Ow.,neutral,0.5139
+I hate it when they do that.,negative,0.9713
+Caesar salad.,neutral,0.7535
+Ah!,positive,0.4984
+"Et tu, Brute.",neutral,0.7139
+No.,neutral,0.4936
+Aha.,neutral,0.5938
+"""To make a prince."" Is that an official wish?",neutral,0.8389
+Say the magic words.,neutral,0.8185
+"Genie, I wish for you to make me a prince.",positive,0.6661
+All right!,positive,0.7464
+"Yo, yo!",positive,0.5398
+Woof!,negative,0.6351
+Woof!,negative,0.6351
+"First, that fez-and-vest combo is much too third century.",negative,0.5681
+These patches.,neutral,0.6885
+"What are we trying to say, beggar?",neutral,0.5357
+No.,neutral,0.4936
+Let's work with me here.,neutral,0.5793
+Ooh.,neutral,0.5574
+I like it.,positive,0.9082
+Muy macho.,neutral,0.6248
+"Now, it still needs something.",neutral,0.7061
+What does it say to me?,neutral,0.8102
+It says mode of transportation.,neutral,0.7777
+"Excuse me, monkey boy.",negative,0.4777
+Aqui.,neutral,0.6751
+Over here.,neutral,0.6487
+Uh-oh.,negative,0.5243
+Here he comes.,neutral,0.6828
+What better way to make your entrance on the streets of Agrabah than riding your very own brand-new camel.,positive,0.6632
+Watch out.,neutral,0.6217
+They spit.,negative,0.8285
+Mmm.,neutral,0.595
+Not enough.,negative,0.809
+Still not enough.,negative,0.824
+Let's see.,neutral,0.607
+What do you need?,neutral,0.7642
+Yes!,positive,0.8097
+Esalalumbo shimin Dumbo !,neutral,0.8316
+Whoa!,neutral,0.4812
+Talk about your trunk space.,neutral,0.827
+Check this action out.,neutral,0.8815
+"Abu, you look good.",positive,0.9691
+He's got the outfit.,neutral,0.6042
+He's got the elephant.,neutral,0.758
+But we're not through yet.,neutral,0.6176
+"Hang on to your turban, kid.",neutral,0.5215
+We're gonna make you a star.,positive,0.7722
+"Sire, I've found a solution to the problem with your daughter.",neutral,0.6716
+Awk.,neutral,0.5249
+The problem with your daughter.,negative,0.8259
+"Oh, really?",neutral,0.4861
+Right here.,neutral,0.5976
+"""lf the princess has not chosen a husband by the appointed time, then the sultan shall choose for her."" But Jasmine hated all those suitors.",negative,0.5207
+How could I choose someone she hates?,negative,0.924
+"Not to worry, my liege.",neutral,0.5476
+There is more.,neutral,0.7174
+"""lf in the event a suitable prince cannot be found,"" Jerk.",neutral,0.6813
+"""a princess must then be wed to..."" Hmm.",neutral,0.883
+Interesting.,positive,0.7793
+What?,neutral,0.5653
+Who?,neutral,0.6756
+The royal vizier.,neutral,0.7595
+"Why, that would be...",neutral,0.7792
+me.,neutral,0.5547
+But I thought the law says that only a prince can marry a princess.,neutral,0.7592
+I'm quite sure that...,neutral,0.742
+"Desperate times call for desperate measures, my lord.",negative,0.6071
+Yes.,positive,0.461
+Desperate measures.,negative,0.545
+You will order the princess to marry me.,neutral,0.8407
+I will order...,neutral,0.7424
+the princess...,neutral,0.8132
+to...,neutral,0.6947
+But you're so old.,negative,0.654
+The princess will marry me.,neutral,0.5503
+The princess will marry...,neutral,0.8044
+What.,neutral,0.4812
+What is that?,neutral,0.7507
+That music.,neutral,0.544
+"Jafar, you must come and see this.",positive,0.5377
+"Make way for Prince Ali Say hey It's Prince Ali Hey, clear the way in the old bazaar Hey you, let us through It's a bright new star Oh come, be the first on your block To meet his eye Make way, here he comes Ring bells, bang the drums You're gonna love this guy Prince Ali, fabulous he Ali Ababwa Genuflect, show some respect Down on one knee Now, try your best to stay calm Brush up your Sunday salaam Then come and meet His spectacular coterie Prince Ali, mighty is he, Ali Ababwa Strong as ten regular men definitely He faced the galloping hordes A hundred bad guys with swords Who sent those goons to their lords Why, Prince Ali He's got 75 golden camels Don't they look lovely, June?",positive,0.8235
+"Purple peacocks, he's got 53 Fabulous, Harry.",positive,0.868
+I love the feathers.,positive,0.9748
+"When it comes to exotic-type mammals Has he got a zoo I'm telling you It's a world-class menagerie Prince Ali, handsome is he, Ali Ababwa <font color=#FF8080>There's no question this Ali's alluring</font> That physique, how can I speak, weak at the knee <font color=#FF8080>Never ordinary, never boring Everything about the man just plain impresses</font> Well, get on out in that square <font color=#FF8080>He's a wonder, he's a whiz, a wonder</font> Adjust your veil and prepare <font color=#FF8080>He's about to pull my heart asunder</font> To gawk and grovel and stare At Prince Ali <font color=#FF8080>And I absolutely love the way he dresses !</font> - He's got 95 white Persian monkeys He's got the monkeys - Let's see the monkeys And to view them he charges no fee He's got slaves He's got servants and flunkies Proud to work for him They bow to his whim, love serving him They're just lousy with loyalty to Ali Prince Ali Prince Ali, Amorous he Ali Ababwa Heard your princess Was a sight lovely to see And that, good people, is why He got dolled up and dropped by With 60 elephants, llamas galore With bears and lions, A brass band and more With his 40 fakirs, His cooks, his bakers His birds that warble on key Make way For Prince Ali Splendid.",positive,0.6249
+Absolutely marvelous.,positive,0.9039
+"Your Majesty, I have journeyed from afar to seek your daughter's hand.",neutral,0.8777
+Prince Ali Ababwa.,neutral,0.8479
+Of course.,neutral,0.5552
+I'm delighted to meet you.,positive,0.9892
+"This is my royal vizier, Jafar.",neutral,0.819
+"He's delighted, too.",positive,0.9118
+Ecstatic.,positive,0.7954
+"I'm afraid, Prince Abooboo...",negative,0.6481
+Ababwa.,neutral,0.6819
+Whatever.,neutral,0.5607
+You cannot just parade in here uninvited and expect to...,negative,0.5981
+"By Allah, this is quite a remarkable device.",positive,0.9277
+Ooh.,neutral,0.5574
+I don't suppose I might...,neutral,0.5386
+"Why, certainly, Your Majesty.",neutral,0.5401
+Allow me.,neutral,0.6624
+"Sire, I must advise against this.",negative,0.7946
+"Oh, button up, Jafar.",neutral,0.6198
+Learn to have a little fun.,positive,0.7027
+"Ow, ow, ow.",negative,0.6995
+Ahh!,neutral,0.4871
+Whoa!,neutral,0.4812
+Just where did you say you were from?,neutral,0.8363
+"Oh, much farther than you've traveled, I'm sure.",neutral,0.659
+Try me.,neutral,0.7325
+"Look out, Polly.",neutral,0.7611
+"Hey, watch it.",neutral,0.7719
+Watch it with the dumb rug.,negative,0.8039
+Aah!,neutral,0.5209
+Whew!,positive,0.7488
+Out of the way.,neutral,0.6493
+I'm coming in to land.,neutral,0.7952
+"Jafar, watch this.",neutral,0.6661
+"Spectacular, Your Highness.",neutral,0.5939
+That was lovely.,positive,0.9803
+"Yes, I do seem to have a knack for it.",positive,0.647
+This is a very impressive youth.,positive,0.9788
+And a prince besides.,neutral,0.7862
+"If we're lucky, you won't have to marry Jasmine after all.",neutral,0.7116
+"I don't trust him, Sire.",negative,0.9031
+Nonsense.,negative,0.5721
+"One thing I pride myself on, Jafar, I'm an excellent judge of character.",positive,0.8968
+"Oh, excellent judge.",positive,0.6849
+"Yeah, sure.",positive,0.4873
+Not!,negative,0.5247
+Jasmine will like this one.,positive,0.8332
+And I'm pretty sure I'll like Princess Jasmine.,positive,0.943
+"Your Highness, no.",neutral,0.6824
+I must intercede on Jasmine's behalf.,neutral,0.8617
+This boy is no different from the others.,neutral,0.6444
+What makes him think he is worthy of the princess?,negative,0.5093
+"Your Majesty, I am Prince Ali Ababwa.",neutral,0.893
+Just let her meet me.,neutral,0.821
+I will win your daughter.,positive,0.6269
+How dare you.,negative,0.9162
+All of you.,neutral,0.5785
+Standing around deciding my future?,neutral,0.8258
+I am not a prize to be won.,negative,0.6479
+"Oh, dear.",neutral,0.4791
+"Don't worry, Prince Ali.",neutral,0.5385
+Just give Jasmine time to cool down.,neutral,0.8385
+I think it's time to say good-bye to Prince Abooboo.,neutral,0.7426
+What am I gonna do?,neutral,0.7402
+Jasmine won't even let me talk to her.,negative,0.8865
+I should've known I couldn't pull off this stupid prince wish.,negative,0.9193
+So move.,neutral,0.6934
+Hey.,neutral,0.5456
+That's a good move.,positive,0.9556
+I can't believe it.,negative,0.6368
+I'm losing to a rug.,negative,0.8892
+"Genie, I need help.",neutral,0.498
+"All right, Sparky, here's the deal.",neutral,0.7056
+"If you wanna court the little lady, you gotta be a straight shooter.",neutral,0.4959
+Do you got it?,neutral,0.7091
+What?,neutral,0.5653
+Tell her the...,neutral,0.8291
+...,neutral,0.6204
+truth!,positive,0.5232
+No way.,negative,0.6397
+"If Jasmine found out I was really some crummy street rat, she'd laugh at me.",negative,0.6249
+A woman appreciates a man who can make her laugh.,positive,0.9195
+"Al, all joking aside, you really ought to be yourself.",neutral,0.6798
+"Hey, that's the last thing I wanna be.",negative,0.7336
+"Okay, I'm gonna go see her.",positive,0.6937
+I just...,neutral,0.5688
+"I gotta be smooth, cool, confident.",positive,0.7338
+How do I look?,neutral,0.765
+Like a prince.,neutral,0.5035
+Princess Jasmine?,neutral,0.9075
+Who's there?,neutral,0.8102
+"It's me, Prince Ali.",neutral,0.802
+Ahem.,neutral,0.6977
+"Uh, Prince Ali Ababwa.",neutral,0.828
+I do not want to see you.,negative,0.9681
+"No, no, please, Princess.",negative,0.6194
+Give me a chance.,positive,0.4903
+Just leave me alone.,negative,0.5334
+"Down, kitty.",neutral,0.4765
+"So, how's our little beau doing?",neutral,0.7187
+"Good kitty, take off.",positive,0.7657
+"Down, kitty.",neutral,0.4765
+Wait.,neutral,0.5851
+Wait.,neutral,0.5851
+Do I know you?,neutral,0.8071
+"Uh, no.",neutral,0.5216
+No.,neutral,0.4936
+You remind me of someone I met in the marketplace.,neutral,0.7111
+The marketplace?,neutral,0.7982
+I have servants who go to the marketplace for me.,neutral,0.8976
+"Why, I even have servants who go to the marketplace for my servants.",neutral,0.8533
+It couldn't have been me you met.,negative,0.4927
+No.,neutral,0.4936
+I guess not.,neutral,0.4714
+"Enough about you, Casanova.",neutral,0.6526
+Talk about her.,neutral,0.7959
+"She's smart, fun, the hair, the eyes.",positive,0.9578
+Anything.,neutral,0.6404
+Pick a feature.,neutral,0.6593
+Ahem.,neutral,0.6977
+"Uh, Princess Jasmine?",neutral,0.8497
+You're very...,neutral,0.712
+"Wonderful, magnificent, punctual.",positive,0.9585
+...,neutral,0.6204
+punctual.,neutral,0.7084
+Punctual?,neutral,0.8063
 Sorry.,negative,0.5092
-Pathetic.,negative,0.7627
-"All that work, and only this to show.",neutral,0.6666
-We ran out of time!,negative,0.5398
+"Uh, beautiful.",positive,0.8012
+Nice recovery.,positive,0.892
+Hmm.,neutral,0.6435
+"I'm rich, too, you know.",positive,0.6146
+Yeah.,neutral,0.5491
+The daughter of a sultan.,neutral,0.6644
+I know.,neutral,0.5132
+A fine prize for any prince to marry.,positive,0.8385
+"Uh, right.",neutral,0.5702
+Right.,neutral,0.5665
+A prince like me.,neutral,0.6778
+Warning!,neutral,0.5555
+Warning!,neutral,0.5555
+Right.,neutral,0.5665
+A prince like you.,neutral,0.648
+"And every other stuffed shirt, swaggering peacock I've met.",neutral,0.7718
+Mayday!,positive,0.6534
+Mayday!,positive,0.6534
+Just go jump off a balcony!,neutral,0.4626
+What?,neutral,0.5653
+Stop her.,negative,0.647
+Stop her!,negative,0.618
+Want me to sting her?,neutral,0.675
+Buzz off.,neutral,0.5571
+"Okay, fine.",neutral,0.5716
+"But remember, ""bee"" yourself.",neutral,0.7651
+"Yeah, right.",neutral,0.5468
+What?,neutral,0.5653
+Uh...,neutral,0.6651
+"Uh, you're right.",neutral,0.7283
+You aren't just some prize to be won.,neutral,0.5971
+You should be free to make your own choice.,neutral,0.7527
+I'll go now.,neutral,0.7002
+No!,neutral,0.4416
+What?,neutral,0.5653
+What?,neutral,0.5653
+How...,neutral,0.7021
+How are you doing that?,neutral,0.8084
+It's a magic carpet.,neutral,0.7124
+It's lovely.,positive,0.9661
+"You, uh...",neutral,0.7603
+"You don't want to go for a ride, do you?",negative,0.6474
+"We could get out of the palace, see the world.",neutral,0.748
+Is it safe?,neutral,0.8214
+Sure.,neutral,0.4753
+Do you trust me?,neutral,0.8416
+What?,neutral,0.5653
+Do you trust me?,neutral,0.8416
+Yes.,positive,0.461
+Yes.,positive,0.461
+"I can show you the world Shining, shimmering, splendid Tell me, Princess Now, when did you last Let your heart decide I can open your eyes Take you wonder by wonder Over, sideways and under On a magic carpet ride A whole new world A new fantastic point of view No one to tell us no Or where to go Or say we're only dreaming A whole new world A dazzling place I never knew But when I'm way up here It's crystal clear That now I'm in A whole new world with you Now I'm in A whole new world with you Unbelievable sights Indescribable feeling Soaring, tumbling, freewheeling Through an endless diamond sky - A whole new world Don't you dare close your eyes - A hundred thousand things to see Hold your breath, it gets better I'm like a shooting star I've come so far I can't go back to where I used to be - A whole new world Every turn a surprise - With new horizons to pursue Every moment, red-letter I'll chase them anywhere There's time to spare Let me share This whole new world with you - A whole new world A whole new world That's where we'll be That's where we'll be - A thrilling chase A wondrous place For you and me It's all so magical.",positive,0.8581
+Yeah.,neutral,0.5491
+It's a shame Abu had to miss this.,negative,0.9149
+Nah.,neutral,0.5064
+He hates fireworks.,negative,0.8375
+"He doesn't like flying, either.",negative,0.7936
+"Uh, that is, um...",neutral,0.7601
+"Oh, no.",negative,0.6307
+You are the boy from the market.,neutral,0.7923
+I knew it.,neutral,0.5054
+Why did you lie?,negative,0.7953
+"Jasmine, I'm sorry.",negative,0.5597
+Did you think I was stupid?,negative,0.655
+No.,neutral,0.4936
+That I wouldn't figure it out?,neutral,0.567
+No.,neutral,0.4936
+"I mean, I hoped you wouldn't.",neutral,0.6234
+"No, that's not what I meant.",neutral,0.5288
+Who are you?,neutral,0.7975
+Tell me the truth.,neutral,0.6636
+The truth?,neutral,0.7912
+The truth.,neutral,0.658
+Um...,neutral,0.6851
+The truth is...,neutral,0.792
+"I sometimes dress as a commoner, um...",neutral,0.8986
+to escape the pressures of palace life.,neutral,0.6292
+But I really am a prince.,positive,0.6676
+Why didn't you just tell me?,neutral,0.5309
+"Well, you know...",neutral,0.7191
+"royalty going out into the city in disguise, it sounds a little strange, don't you think?",neutral,0.4893
+Hmm.,neutral,0.6435
+Not that strange.,neutral,0.6816
+"Good night, my handsome prince.",positive,0.9641
+"Sleep well, Princess.",neutral,0.5731
+Yes!,positive,0.8097
+"For the first time in my life, things are starting to go right.",positive,0.9411
+Abu.,neutral,0.5772
+Abu.,neutral,0.5772
+Hold him.,neutral,0.6511
+"I'm afraid you've worn out your welcome, Prince Abooboo.",negative,0.7602
+"Why, you...",neutral,0.6577
+Make sure he's never found.,neutral,0.5224
+Never fails.,positive,0.5421
+Get in the bath and there's a rub at the lamp.,neutral,0.8727
+Hello?,neutral,0.643
+Al?,neutral,0.6724
+Al!,neutral,0.5479
+"Kid, snap out of it.",negative,0.6416
+You can't cheat on this one.,neutral,0.4735
+I can't help unless you make a wish.,neutral,0.6167
+"You have to say, ""Genie, I want you to save my life."" Got it?",neutral,0.643
+"Come on, Aladdin!",positive,0.6873
+I'll take that as a yes.,positive,0.7594
+Up scope.,neutral,0.7319
+Don't you scare me like that.,negative,0.8328
+"Genie, l, uh...",neutral,0.768
+I...,neutral,0.7305
+"Thanks, Genie.",positive,0.7798
+"Oh, Al.",neutral,0.6841
+"I'm gettin' kind of fond of you, kid.",positive,0.9182
+Not that I wanna pick out curtains or anything.,neutral,0.652
+Jasmine.,neutral,0.8176
+"Oh, Father, I just had the most wonderful time.",positive,0.9819
+I'm so happy.,positive,0.9883
+"You should be, Jasmine.",neutral,0.7003
+I have chosen a husband for you.,neutral,0.5136
+What?,neutral,0.5653
+You will wed Jafar.,neutral,0.8652
+"You're speechless, I see.",negative,0.7631
+A fine quality in a wife.,positive,0.6812
+I will never marry you.,negative,0.9143
+"Father, I choose Prince Ali.",neutral,0.7905
+Prince Ali left.,neutral,0.7985
+"Better check your crystal ball again, Jafar.",neutral,0.6529
+Prince Ali!,neutral,0.6318
+How in the...,neutral,0.5158
+uh.,neutral,0.544
+Awk!,neutral,0.5187
+"Tell them the truth, Jafar.",neutral,0.7796
+You tried to have me killed.,negative,0.8547
+What?,neutral,0.5653
+"Ridiculous nonsense, Your Highness.",negative,0.9439
+He is obviously lying.,negative,0.9498
+Obviously lying.,negative,0.8242
+"Father, what's wrong with you?",negative,0.8954
+I know what's wrong.,negative,0.8389
+"Oh, my!",positive,0.4772
+Jafar's been controlling you with this.,neutral,0.63
+What?,neutral,0.5653
+Jafar?,neutral,0.7286
+"You, you traitor!",negative,0.9529
+"Your Majesty, all this can be explained.",neutral,0.7786
+Guards!,neutral,0.6936
+Guards!,neutral,0.6936
+"Well, that's it.",neutral,0.5886
+We're dead.,negative,0.7712
+Forget it.,negative,0.5068
+Just dig a grave for both of us.,neutral,0.5005
+We're dead.,negative,0.7712
+Arrest Jafar at once.,neutral,0.567
+"This is not done yet, boy.",neutral,0.6493
+Find him!,neutral,0.5966
+Search everywhere!,neutral,0.6088
+"Jasmine, are you all right?",neutral,0.8557
+Yes.,positive,0.461
+"Jafar, my most trusted counselor, plotting against me all this time.",neutral,0.5147
+"This is horrible, just horrible.",negative,0.9773
+How will I ever...,negative,0.6536
+Huh?,neutral,0.6584
+Can this be true?,neutral,0.7716
+My daughter has finally chosen a suitor?,neutral,0.8093
+"Ha, ha!",positive,0.478
+Praise Allah!,positive,0.8432
+"You brilliant boy, I could kiss you.",positive,0.9605
+I won't.,neutral,0.5811
+I'll leave that to my...,neutral,0.8099
+But you two will be wed at once.,neutral,0.866
+"Yes, yes.",positive,0.8412
+"And you'll be happy and prosperous, and then you, my boy, will become sultan.",positive,0.8107
+Sultan?,neutral,0.7529
+Yes.,positive,0.461
+"A fine upstanding youth such as yourself, a person of your unimpeachable moral character is exactly what this kingdom needs.",positive,0.8998
+We gotta get outta here.,negative,0.5798
+I gotta start packing.,neutral,0.6062
+Only essentials.,neutral,0.6326
+We gotta travel light.,neutral,0.7497
+"Bring the guns, the weapons, and how about this picture?",neutral,0.5106
+I think I'm making a weird face in it.,negative,0.5185
+"Oh, boy.",neutral,0.5503
+He's cracked.,negative,0.6749
+He's gone nuts.,negative,0.679
+Jafar!,neutral,0.5995
+Jafar!,neutral,0.5995
+Get a grip!,negative,0.5426
+Good grip.,positive,0.6026
+"Prince Ali is nothing more than that ragged urchin, Aladdin.",negative,0.8026
+"He has the lamp, lago.",neutral,0.8067
+"Why, that miserable...",negative,0.9234
+But you are going to relieve him of it.,neutral,0.7298
+Me?,neutral,0.707
+Sultan?,neutral,0.7529
+They want me to be Sultan?,neutral,0.5583
+Huzzah!,positive,0.9232
+"#Hail the conquering hero# Aladdin, you've just won the heart of the princess.",positive,0.6331
+What are you gonna do next?,neutral,0.8999
+Psst.,neutral,0.6015
+"Your line is, ""I'm going to free the genie."" Anytime.",neutral,0.6588
+Genie.,neutral,0.5898
+I can't.,negative,0.7719
+Sure you can.,positive,0.7133
+"You just go, ""Genie, I wish you free."" I'm serious.",neutral,0.6301
+"Look, I'm sorry.",negative,0.7125
+I really am.,neutral,0.4689
+But they wanna make me sultan.,neutral,0.575
+No.,neutral,0.4936
+They wanna make Prince Ali sultan.,neutral,0.6463
+"Without you, I'm just Aladdin.",neutral,0.5904
+"Al, you won.",neutral,0.506
+Because of you.,neutral,0.6318
+The only reason anyone thinks I'm worth anything is because of you.,positive,0.6016
+What if they find out I'm not really a prince?,neutral,0.5725
+What if Jasmine finds out?,neutral,0.8663
+I'd lose her.,negative,0.8271
+"Genie, I can't keep this up on my own.",negative,0.7883
+I can't wish you free.,negative,0.573
+Fine.,neutral,0.5034
+I understand.,neutral,0.5501
+You've lied to everyone else.,negative,0.8449
+"Hey, I was beginning to feel left out.",negative,0.7645
+"Now, if you'll excuse me, Master.",neutral,0.8623
+"Genie, I'm really sorry.",negative,0.6882
+"Well, fine.",positive,0.4959
+Then just stay in there.,neutral,0.7359
+What are you guys looking at?,neutral,0.8672
+"Look, l...",neutral,0.7741
+I'm sorry.,negative,0.6455
+"Abu, I'm sorry.",negative,0.6511
+I didn't...,neutral,0.6823
+Wait.,neutral,0.5851
+Come on.,neutral,0.5758
+What am I doing?,neutral,0.6682
+Genie's right.,neutral,0.6231
+I gotta tell Jasmine the truth.,neutral,0.8226
+Ali.,neutral,0.6078
+"Oh, Ali.",neutral,0.6765
+Will you come here?,neutral,0.8955
+"Well, here goes.",neutral,0.4846
+Jasmine?,neutral,0.8324
+Where are you?,neutral,0.7606
+Out in the menagerie.,neutral,0.7389
+Hurry.,neutral,0.6666
+I'm coming.,neutral,0.6873
+"You got a problem, Pinky?",negative,0.5146
+Jerk.,neutral,0.5751
+"Boy, Jafar's gonna be happy to see you.",positive,0.9302
+"Excellent work, lago.",positive,0.8895
+"Ah, go on.",neutral,0.6788
+"No, really.",neutral,0.5845
+"On a scale of one to ten, you are an eleven.",neutral,0.7749
+"Oh, Jafar, you're too kind.",positive,0.8666
+I'm embarrassed.,negative,0.9025
+I'm blushing.,positive,0.7265
+"People of Agrabah, my daughter has finally chosen a suitor.",neutral,0.8037
+Jasmine.,neutral,0.8176
+"Ali, where have you been?",neutral,0.8032
+"Jasmine, there's something I got to tell you.",neutral,0.8845
+The whole kingdom's turned out for Father's announcement.,neutral,0.6146
+No.,neutral,0.4936
+"But, Jasmine, listen to me, please.",neutral,0.8186
+You don't understand...,negative,0.7757
+Good luck.,positive,0.9243
+...Ali Ababwa!,neutral,0.8404
+"Oh, boy.",neutral,0.5503
+"Look at them, cheering that little pipsqueak.",positive,0.7714
+Let them cheer.,positive,0.7347
+Let them cheer.,positive,0.7347
+"You know, Al, I'm getting really...",neutral,0.7101
+I don't think you're him.,neutral,0.5454
+"Tonight, the part of Al will be played by a tall, dark and sinister ugly man.",negative,0.706
+I am your master now.,neutral,0.7646
+I was afraid of that.,negative,0.557
+"Genie, grant me my first wish.",positive,0.6197
+I wish to rule on high as sultan.,neutral,0.7059
+Whoa!,neutral,0.4812
+Bless my soul.,positive,0.6823
+What is this?,neutral,0.6891
+What's going on?,neutral,0.7289
+"Oh, my goodness, what's happening?",negative,0.6639
+Father.,neutral,0.6912
+"Jafar, you vile betrayer.",negative,0.9575
+That's Sultan Vile Betrayer to you.,negative,0.9086
+"Oh, yeah?",neutral,0.6854
+We'll just see about that.,neutral,0.72
+The lamp.,neutral,0.7107
+"Finders keepers, Abooboo.",neutral,0.7851
+"Genie, no!",negative,0.4589
+"Sorry, kid.",negative,0.6337
+I got a new master now.,neutral,0.5633
+"Jafar, I order you to stop.",negative,0.5918
+"Ah, but there's a new order now.",neutral,0.7925
+My order.,neutral,0.7192
+"Finally, you will bow to me.",neutral,0.5255
+We will never bow to you.,neutral,0.4804
+Why am I not surprised?,neutral,0.5064
+"If you won't bow before a sultan, then you will cower before a sorcerer!",negative,0.7998
+"Genie, my second wish...",neutral,0.6788
+I wish to be the most powerful sorcerer in the world!,positive,0.9343
+"Genie, stop!",negative,0.5977
+"Ladies and gentlemen, a warm Agrabah welcome for Sorcerer Jafar!",positive,0.9521
+"Now, where were we?",neutral,0.8053
+"Ah, yes.",positive,0.7368
+Abject humiliation.,negative,0.9289
+"Down, boy.",negative,0.4648
+"Oh, Princess.",neutral,0.6515
+There's someone I'm dying to introduce you to.,neutral,0.4556
+Jafar.,neutral,0.6419
+Get your hands off her.,negative,0.6542
+"Prince Ali Yes, it is he But not as you know him Read my lips And come to grips with reality Yes, meet a blast from your past Whose lies were too good to last Say hello To your precious Prince Ali Or should we say Aladdin?",neutral,0.6659
+Ali?,neutral,0.6638
+"Jasmine, I tried to tell you.",neutral,0.7646
+I'm just...,neutral,0.5096
+"So Ali turns out to be Merely Aladdin Just a con, need I go on Take it from me His personality flaws Give me adequate cause To send him packing On a one-way trip So his prospects Take a terminal dip His assets frozen, the venue chosen Is the ends of the earth, whoopee!",neutral,0.556
+So long!,positive,0.7531
+"Good-bye, see ya.",neutral,0.7121
+Ex-Prince Ali Abu.,neutral,0.8949
+Abu!,neutral,0.5929
+"Oh, this is all my fault.",negative,0.8637
+I should have freed the genie when I had the chance.,neutral,0.7252
+Abu.,neutral,0.5772
+Are you okay?,neutral,0.7918
+Mm-hmm.,neutral,0.7172
+"I'm sorry, Abu.",negative,0.6113
+I made a mess of everything.,negative,0.8923
+Somehow...,neutral,0.7153
+I gotta go back and set things right.,neutral,0.7123
+Carpet.,neutral,0.7326
+"Abu, start digging.",neutral,0.6996
+That's it.,neutral,0.5321
+Yeah!,positive,0.7406
+All right!,positive,0.7464
+"Now, back to Agrabah.",neutral,0.7831
+Let's go.,positive,0.5876
+Puppet ruler want a cracker?,neutral,0.5279
+Here's your cracker.,neutral,0.6606
+Shoved all the way down your throat.,negative,0.6259
+Here.,neutral,0.5711
+Have lots.,neutral,0.536
+Stop it.,negative,0.6723
+"Jafar, leave him alone.",neutral,0.5055
+"It pains me to see you reduced to this, Jasmine.",negative,0.957
+A beautiful desert bloom such as yourself should be on the arm of the most powerful man in the world.,positive,0.9363
+"What do you say, my dear?",neutral,0.8413
+"Why, with you as my queen...",neutral,0.716
+Never.,neutral,0.4316
+I'll teach you some respect.,neutral,0.7239
+No.,neutral,0.4936
+Genie.,neutral,0.5898
+I have decided to make my final wish.,neutral,0.8556
+I wish for Princess Jasmine to fall desperately in love with me.,positive,0.7072
+"Ah, Master, there are a few addendas, some quid pro quo...",neutral,0.8016
+"Don't talk back to me, you big blue lout.",negative,0.8817
+"You will do what I order you to do, slave.",neutral,0.6907
+Jafar.,neutral,0.6419
+I never realized how...,neutral,0.5337
+incredibly handsome you are.,positive,0.9753
+Mmm.,neutral,0.595
+That's better.,positive,0.77
+"Now, pussycat...",negative,0.7213
+tell me more about myself.,neutral,0.8656
+You're tall...,neutral,0.7191
+dark...,neutral,0.7018
+well dressed...,neutral,0.5356
+Al.,neutral,0.6423
+"Al, little buddy.",neutral,0.7076
+Shh.,negative,0.4913
+"Al, I can't help you.",negative,0.5209
+I work for Seor Psychopath now.,neutral,0.7205
+What are you gonna do?,neutral,0.856
+"Hey, I'm a street rat, remember?",neutral,0.5115
+I'll improvise.,neutral,0.6405
+...cute little gaps between your teeth.,positive,0.7182
+Go on.,neutral,0.6503
+And your beard...,neutral,0.6461
+is so...,neutral,0.761
+twisted.,neutral,0.6584
+You've stolen my heart.,negative,0.842
+Jaf...!,neutral,0.6933
+And the street rat?,neutral,0.7036
+What street rat?,neutral,0.603
+Yech!,neutral,0.4957
+That was...,neutral,0.69
+You!,positive,0.4782
+"How many times do I have to kill you, boy?",negative,0.7836
+Get the lamp.,neutral,0.646
+No!,neutral,0.4416
+"Ah, ah, ah, Princess.",neutral,0.7182
+Your time is up.,neutral,0.6175
+Jasmine.,neutral,0.8176
+"Oh, nice shot, Jaf...",positive,0.8058
+Don't toy with me.,negative,0.5181
+Abu!,neutral,0.5929
+"Things are unraveling fast now, boy.",negative,0.9135
+Get the point?,neutral,0.742
+I'm just getting warmed up.,neutral,0.5967
+"Are you afraid to fight me yourself, you cowardly snake?",negative,0.9159
+"A snake, am l?",neutral,0.5447
+Perhaps you'd like to see how snakelike I can be.,neutral,0.5432
+"#Rick 'em, rack 'em, rock 'em, rake Stick that sword into that snake# You stay out of this.",neutral,0.5787
+"Jafar, Jafar, he's our man.",positive,0.7257
+If he can't do it...,neutral,0.521
+great!,positive,0.9185
+Aladdin.,neutral,0.6785
+"Jasmine, hang on.",neutral,0.7983
+You little fool.,negative,0.937
+You thought you could defeat the most powerful being on Earth.,neutral,0.4861
+"Squeeze him, Jafar.",neutral,0.7459
+Squeeze him like a...,neutral,0.7458
+Awk!,neutral,0.5187
+"Without the genie, boy, you're nothing.",neutral,0.4726
+The genie.,neutral,0.6841
+The genie.,neutral,0.6841
+The genie has more power than you'll ever have.,positive,0.6278
+What?,neutral,0.5653
+He gave you your power.,neutral,0.5758
+He can take it away.,neutral,0.5825
+"Al, what are you doing?",neutral,0.8264
+Why are you bringing me into this?,negative,0.7882
+"Face it, Jafar.",neutral,0.7136
+You're still just second best.,neutral,0.6186
+You're right.,positive,0.4782
+His power does exceed my own.,neutral,0.5981
+But not for long.,neutral,0.6178
+The boy is crazy.,negative,0.4179
+He's a little punch-drunk.,neutral,0.6173
+One too many hits with the snake.,negative,0.727
+"Slave, I make my third wish.",neutral,0.8008
+I wish to be an all-powerful genie!,positive,0.8613
+"All right, your wish is my command.",neutral,0.7695
+"Way to go, Al.",positive,0.9012
+Yes.,positive,0.461
+Yes!,positive,0.8097
+The power.,neutral,0.5217
+The absolute power!,positive,0.6967
+What have you done?,neutral,0.823
+Trust me.,positive,0.511
+"The universe is mine to command, to control!",neutral,0.5428
+"Not so fast, Jafar.",neutral,0.672
+Aren't you forgetting something?,negative,0.5149
+Huh?,neutral,0.6584
+You wanted to be a genie...,neutral,0.6712
+you got it.,positive,0.5589
+What?,neutral,0.5653
+And everything that goes with it.,neutral,0.6237
+No!,neutral,0.4416
+No!,neutral,0.4416
+I'm gettin' out of here.,neutral,0.5934
+Phenomenal cosmic powers...,neutral,0.8746
+You're the genie.,neutral,0.6044
+I don't want...,negative,0.8874
+Itty bitty living space.,neutral,0.5113
+"Al, you little genius, you.",negative,0.5634
+Ahh!,neutral,0.4871
+Get your blasted beak out of my face.,negative,0.9469
+"Oh, shut up, you moron.",negative,0.95
+Don't tell me to shut up.,negative,0.5259
+Allow me.,neutral,0.6624
+"10,000 years in a Cave of Wonders ought to chill him out.",neutral,0.7793
+Shut up!,negative,0.787
+Jasmine...,neutral,0.8414
+I'm sorry I lied to you about being a prince.,negative,0.7418
+I know why you did.,neutral,0.673
+"Well, I guess...",neutral,0.7368
+this is good-bye?,neutral,0.7521
+"Oh, that stupid law.",negative,0.9567
+This isn't fair.,negative,0.9635
+I love you.,positive,0.9643
+"Al, no problem.",neutral,0.541
+You've still got one wish left.,neutral,0.7459
+Just say the word and you're a prince again.,neutral,0.5762
+"But, Genie, what about your freedom?",neutral,0.7301
+"Hey, it's only an eternity of servitude.",negative,0.6047
+This is love.,positive,0.8877
+"Al, you're not gonna find another girl like her in a million years.",neutral,0.4902
+"Believe me, I know.",positive,0.5392
+I've looked.,neutral,0.6981
+"Jasmine, I do love you, but I got to stop pretending to be something I'm not.",neutral,0.4865
+I understand.,neutral,0.5501
+"Genie, I wish for your freedom.",positive,0.5476
+One bona fide prince pedigree coming up.,neutral,0.6599
+What?,neutral,0.5653
+"Genie, you're free.",positive,0.5114
+I'm free.,positive,0.7877
+I'm free.,positive,0.7877
+Quick.,neutral,0.5475
+Quick.,neutral,0.5475
+Wish for something outrageous.,neutral,0.6377
+"Say, ""l want the Nile."" Try that.",neutral,0.658
+"Uh, I wish for the Nile.",neutral,0.5853
+No way!,negative,0.6254
+"Oh, does that feel good!",positive,0.955
+Oh!,neutral,0.5628
+I'm free!,positive,0.8941
+I'm free at last!,positive,0.9377
+I'm hittin' the road.,neutral,0.7272
+I'm off to see the world.,positive,0.5396
+I'm...,neutral,0.6445
+"Genie, I'm...",neutral,0.7026
+I'm gonna miss you.,negative,0.4515
+"Me, too, Al.",neutral,0.7584
+"No matter what anybody says, you'll always be a prince to me.",positive,0.888
+That's right.,neutral,0.569
+You've certainly proven your worth as far as I'm concerned.,positive,0.9122
+It's that law that's the problem.,negative,0.8111
+Father?,neutral,0.7309
+"Well, am I Sultan or am I Sultan?",neutral,0.7345
+"From this day forth, the princess shall marry whomever she deems worthy.",neutral,0.63
+Him.,neutral,0.6884
+I choose...,neutral,0.7788
+"I choose you, Aladdin.",positive,0.6359
+Call me Al.,neutral,0.8211
+"Oh, all of ya, come over here.",neutral,0.7431
+Big group hug.,positive,0.7677
+Group hug.,neutral,0.5438
+Mind if I kiss the monkey?,neutral,0.8581
+"Ooh, hairball.",neutral,0.6584
+"Well, I can't do any more damage around this Popsicle stand.",negative,0.927
+I'm outta here!,neutral,0.454
+"Bye-bye, you two crazy lovebirds!",negative,0.4535
+"Hey, Rugman, ciao.",neutral,0.7739
+I'm history.,neutral,0.6857
+"No, I'm mythology.",neutral,0.621
+I don't care what I am.,neutral,0.5868
+I'm free!,positive,0.8941
+#A whole new world# #A whole new life# #For you and me# #A whole new world #?,positive,0.6959
+Made you look.,neutral,0.6484
+"00:00:0,500 --> 00:00:2,00 <font color=""#ffff00"" size=14>www.moviesubtitles.org</font>",neutral,0.7141
