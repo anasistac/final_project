@@ -163,5 +163,29 @@ plt.colorbar()  # Shows topic strength color scale
 plt.title("Topic Distribution per Document (Heatmap)")
 plt.tight_layout()
 
-plt.savefig("topic_heatmap.png", dpi=300)
+plt.savefig("ghibli_topic_heatmap.png", dpi=300)
 print("Saved heatmap as 'ghibli_topic_heatmap.png'")
+
+# Plot top words per topic
+
+fig = plt.figure(figsize=(16, 10))
+num_top_words = 10
+
+
+topic2top_words = dict(movie_ldamodel.show_topics(formatted=False, num_words=num_top_words))
+fontsize_base = 25 / max([w[0][1] for w in topic2top_words.values()])  
+
+for topic, words_shares in topic2top_words.items():
+    plt.subplot(1, movie_ldamodel.num_topics, topic + 1)
+    plt.ylim(0, num_top_words + 0.5)
+    plt.xticks([])
+    plt.yticks([])
+    plt.title(f'Topic #{topic}')
+    for i, (word, share) in enumerate(words_shares):
+        plt.text(0.3, num_top_words - i - 0.5, word, fontsize=fontsize_base * share)
+
+plt.tight_layout()
+plt.show()
+
+plt.savefig("topic_words_per_topic.png", dpi=300)
+print("Saved word-topic plot as 'topic_words_per_topic.png'")

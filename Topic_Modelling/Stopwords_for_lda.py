@@ -3,7 +3,11 @@
 
 # Custom movie words
 custom_movie_words = {"animation", "scene", "movie", "character", "song", "gonna", "hopps", "lot", "sir", 
-                      "mei", "japanse", "japan", "guy", "boy", "girl", "hey", "αrren", "thing", "things"}
+                      "mei", "japanse", "japan", "guy", "boy", "girl", "hey", "αrren", "thing", "things", "film",
+                      "story", "idea", "sequence", "voice", "shot", "howard", "effect", "actor", "case", "point", "term",
+                      "line", "computer", "animator", "bit", "moment", "disney", "studio", "studio_ghibli", "ghibli", "huh", 
+                      "minute", "minute", "second", "second", "frame", "frame", "animation", "animator", "animation", "animator",
+                      "pig", "granduncle", "time", "hurry", "grunt", "gasp", "day", "gina"}
 
 # main characters from the disney movies 
 disney_main_characters = {"aladdin", "jasmine", "genie", "jafar", "abu", "iago", "sultan",
@@ -22,7 +26,7 @@ disney_main_characters = {"aladdin", "jasmine", "genie", "jafar", "abu", "iago",
     "woody", "buzz", "jessie", "potato_head", "slinky", "rex", "hamm", "bo_peep", "andy",
     "ralph", "vanellope", "felix", "calhoun", "shank", "yesss", "knowsmore", "spamley",
     "judy", "nick", "bogo", "bellwether", "clawhauser", "flash", "mr_big",
-    "rapunzel", "flynn", "gothel", "pascal", "maximus", "toy"
+    "rapunzel", "flynn", "gothel", "pascal", "maximus", "toy", "bunny", "jiminy", "elephant"
 }
 
 
@@ -44,7 +48,10 @@ ghibli_main_characters = {
     'mahito', 'heron',
     'jiro', 'naoko',
     'anna', 'marnie',
-    'shizuku', 'seiji'
+    'shizuku', 'seiji', 'natsuko',
+    'lisa', 'sparrowhawk', 'laputa',
+    'τherru', 'αnd', 'αrchmage', 'haνe', 
+    ' τenar', 'cob', 'room'
 }
 
 
@@ -56,7 +63,7 @@ stopwords_mallet = {
     "anything", "anyway", "anyways", "anywhere", "apart", "appear", "appreciate", "appropriate", "are",
     "around", "as", "aside", "ask", "asking", "associated", "at", "available", "away", "awfully", "b", "be",
     "became", "because", "become", "becomes", "becoming", "been", "before", "beforehand", "behind", "being",
-    "believe", "below", "beside", "besides", "best", "better", "between", "beyond", "both", "brief", "but",
+    "believe", "below", "beside", "besides", "best", "better", "between", "beyond", "big" "both", "brief", "but",
     "by", "c", "came", "can", "cannot", "cant", "cause", "causes", "certain", "certainly", "changes", "clearly",
     "co", "com", "come", "comes", "concerning", "consequently", "consider", "considering", "contain",
     "containing", "contains", "corresponding", "could", "course", "currently", "d", "definitely", "described",
@@ -69,7 +76,7 @@ stopwords_mallet = {
     "having", "he", "hello", "help", "hence", "her", "here", "hereafter", "hereby", "herein", "hereupon",
     "hers", "herself", "hi", "him", "himself", "his", "hither", "hopefully", "how", "howbeit", "however", "i",
     "ie", "if", "ignored", "immediate", "in", "inasmuch", "inc", "indeed", "indicate", "indicated", "indicates",
-    "inner", "insofar", "instead", "into", "inward", "is", "it", "its", "itself", "j", "just", "k", "keep", "keeps",
+    "inner", "insofar", "instead", "into", "inward", "is", "it", "its", "itself", "j", "just", "k", "kind", "keep", "keeps",
     "kept", "know", "knows", "known", "l", "last", "lately", "later", "latter", "latterly", "least", "less", "lest",
     "let", "like", "liked", "likely", "little", "look", "looking", "looks", "ltd", "m", "mainly", "many", "may",
     "maybe", "me", "mean", "meanwhile", "merely", "might", "more", "moreover", "most", "mostly", "much",
@@ -91,12 +98,12 @@ stopwords_mallet = {
     "those", "though", "three", "through", "throughout", "thru", "thus", "to", "together", "too", "took",
     "toward", "towards", "tried", "tries", "truly", "try", "trying", "twice", "two", "u", "un", "under",
     "unfortunately", "unless", "unlikely", "until", "unto", "up", "upon", "us", "use", "used", "useful",
-    "uses", "using", "usually", "uucp", "v", "value", "various", "very", "via", "viz", "vs", "w", "want",
+    "uses", "using", "usually", "uucp", "v", "value", "various", "very", "via", "viz", "vs", "w", "wait", "want",
     "wants", "was", "way", "we", "welcome", "well", "went", "were", "what", "whatever", "when", "whence",
     "whenever", "where", "whereafter", "whereas", "whereby", "wherein", "whereupon", "wherever",
     "whether", "which", "while", "whither", "who", "whoever", "whole", "whom", "whose", "why", "will",
-    "willing", "wish", "with", "within", "without", "wonder", "would", "x", "y", "yes", "yet", "you", "your",
-    "yours", "yourself", "yourselves", "z", "zero"
+    "willing", "wish", "with", "within", "without", "wonder", "whoa", "would", "x", "y", "yes", "yet", "you", "your",
+    "yours", "yourself", "yourselves", "yeah", "z", "zero"
 }
 
 
