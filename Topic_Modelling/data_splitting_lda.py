@@ -12,7 +12,7 @@ import os
 from pathlib import Path
 from math import ceil
 
-def split_script_by_words(file_path, output_dir, parts=4):
+def split_script_by_words(file_path, output_dir, parts=6):
     with open(file_path, 'r', encoding='utf-8') as f:
         text = f.read()
 
@@ -30,7 +30,7 @@ def split_script_by_words(file_path, output_dir, parts=4):
         with open(output_file, 'w', encoding='utf-8') as out_f:
             out_f.write(chunk_text)
 
-def process_folder(input_folder, output_folder, parts=4):
+def process_folder(input_folder, output_folder, parts=6):
     os.makedirs(output_folder, exist_ok=True)
     
     for filename in os.listdir(input_folder):

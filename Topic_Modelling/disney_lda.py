@@ -68,20 +68,11 @@ for words in raw_documents:
         else:
             lemma = lemmatizer.lemmatize(word)
         lemma = lemma.lower()
-        if filter_token(lemma) and tag in {"ADJ", "NOUN"} and len(lemma) > 2: 
+        if filter_token(lemma) and tag in {"NOUN"} and len(lemma) > 2: 
             lemmatized_doc.append(lemma)
     movie_docs.append(lemmatized_doc)
 
-# Training and test sets (80/20)
-indices = list(range(len(movie_docs)))
-train_idx, test_idx = train_test_split(indices, test_size=0.3, random_state=42)
-
-train_docs = [movie_docs[i] for i in train_idx]
-test_docs = [movie_docs[i] for i in test_idx]
-
-train_doc_names = [document_names[i] for i in train_idx]
-
-print(f"Number of test documents: {len(test_docs)}")
+print(f"Total documents: {len(movie_docs)}")
 
 ''' 2. Construct the document-term matrix '''
 
@@ -92,47 +83,49 @@ from collections import Counter
 from gensim import models
 from gensim.models.ldamodel import LdaModel
 
+
 # Create dictionary representation of documents
-train_movie_dictionary = corpora.Dictionary(train_docs)
+movie_dictionary = corpora.Dictionary(movie_docs)
 
 # Filter out words that occur in less than 2 documents, or more than 80% of the documents.
-train_movie_dictionary.filter_extremes(no_below=2, no_above=0.8)
-print('Number of unique tokens:', len(train_movie_dictionary))
+movie_dictionary.filter_extremes(no_below=2, no_above=0.8)
+print('Number of unique tokens:', len(movie_dictionary))
 
 # Bag-of-words representation of the documents
-train_bow_corpus = [train_movie_dictionary.doc2bow(d) for d in train_docs]
-test_bow_corpus = [train_movie_dictionary.doc2bow(d) for d in test_docs]
+movie_bow_corpus = [movie_dictionary.doc2bow(d) for d in movie_docs]
 
 
 ''' 3. Applying the LDA model'''
-movie_ldamodel = models.ldamodel.LdaModel(train_bow_corpus, num_topics=5, id2word = train_movie_dictionary, passes = 20)
+movie_ldamodel = models.ldamodel.LdaModel(movie_bow_corpus, num_topics=5, id2word = movie_dictionary, passes = 40)
 
 ''' 4. Examining the topics'''#
 
 # Top words in each topic (words and weights)
-print(movie_ldamodel.show_topics(formatted=False, num_words=5))
+print(movie_ldamodel.show_topics(formatted=False, num_words=8))
 
 # Topic distribution for each document
-for doc_topics in movie_ldamodel.get_document_topics(train_bow_corpus):
+for doc_topics in movie_ldamodel.get_document_topics(movie_bow_corpus):
     print(doc_topics)
 
 ''' 5. Evaluation '''
 # Imports
 from gensim.models import CoherenceModel
 
-# Compute perplexity (how well the model fits the data — lower is better)
-print('\nPerplexity:', movie_ldamodel.log_perplexity(test_bow_corpus))
-
 # Compute coherence score (how interpretable the topics are — higher is better)
 coherence_model_lda = CoherenceModel(
     model=movie_ldamodel,
-    texts=train_docs,
-    dictionary=train_movie_dictionary,
+    texts=movie_docs,
+    dictionary=movie_dictionary,
     coherence='c_v'  
 )
 
 print('\nCoherence score:', coherence_model_lda.get_coherence())
 
+# Compute coherence score for different number of topics
+for k in range(2, 21):
+    model = LdaModel(movie_bow_corpus, num_topics=k, id2word=movie_dictionary, passes=25)
+    coherence = CoherenceModel(model=model, texts=movie_docs, dictionary=movie_dictionary, coherence='c_v').get_coherence()
+    print(f"Topics: {k}, Coherence: {coherence:.4f}")
 
 ''' 6. Visualize the topics '''
 # Imports
@@ -140,28 +133,52 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Create a document-topic matrix: rows = documents, columns = topics
-doc2topics = np.zeros((len(train_docs), movie_ldamodel.num_topics))
+doc2topics = np.zeros((len(movie_docs), movie_ldamodel.num_topics))
 
 # Fill in topic probabilities for each document
-for di, doc_topics in enumerate(movie_ldamodel.get_document_topics(train_bow_corpus, minimum_probability=0)):
+for di, doc_topics in enumerate(movie_ldamodel.get_document_topics(movie_bow_corpus, minimum_probability=0)):
     for ti, v in doc_topics:
         doc2topics[di, ti] = v
 
-for i, doc_name in enumerate(train_doc_names):
+for i, doc_name in enumerate(document_names):
     print(f"{doc_name}: {doc2topics[i]}")
 
-
-# Plot heatmap
-docs_id = train_doc_names  
-num_topics = movie_ldamodel.num_topics  
+# Heatmap
+docs_id = document_names
+num_topics = movie_ldamodel.num_topics
 
 fig = plt.figure(figsize=(16, 12))
-plt.pcolor(doc2topics, cmap='Blues')  
+plt.pcolor(doc2topics, cmap='Blues')
 plt.yticks(np.arange(doc2topics.shape[0]) + 0.5, docs_id, fontsize=10)
 plt.xticks(np.arange(num_topics) + 0.5, [f"Topic #{n}" for n in range(num_topics)], rotation=90)
-plt.colorbar()  # Shows topic strength color scale
+plt.colorbar()
 plt.title("Topic Distribution per Document (Heatmap)")
 plt.tight_layout()
+plt.savefig("disyney_topic_heatmap.png", dpi=300)
+print("Saved heatmap as 'disyney_topic_heatmap.png'")
 
-plt.savefig("topic_heatmap.png", dpi=300)
-print("Saved heatmap as 'disney_topic_heatmap.png'")
+
+# Plot top words per topic
+
+fig = plt.figure(figsize=(16, 10))
+num_top_words = 10
+
+
+topic2top_words = dict(movie_ldamodel.show_topics(formatted=False, num_words=num_top_words))
+fontsize_base = 25 / max([w[0][1] for w in topic2top_words.values()])  
+
+for topic, words_shares in topic2top_words.items():
+    plt.subplot(1, movie_ldamodel.num_topics, topic + 1)
+    plt.ylim(0, num_top_words + 0.5)
+    plt.xticks([])
+    plt.yticks([])
+    plt.title(f'Topic #{topic}')
+    for i, (word, share) in enumerate(words_shares):
+        plt.text(0.3, num_top_words - i - 0.5, word, fontsize=fontsize_base * share)
+
+plt.tight_layout()
+plt.show()
+
+plt.savefig("disney_topic_words_per_topic.png", dpi=300)
+print("Saved word-topic plot as 'disney_topic_words_per_topic.png'")
+
