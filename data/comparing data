@@ -1,0 +1,55 @@
+import os
+from collections import Counter
+from wordcloud import WordCloud, STOPWORDS
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# Paths to preprocessed files
+ghibli_path = '/workspaces/final_project/data_preprocessed/ghibli.txt'
+disney_path = '/workspaces/final_project/data_preprocessed/disney.txt'
+
+def get_frequencies(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        text = f.read().lower()
+    words = text.split()
+    counter = Counter(words)
+    return counter
+
+def show_wordcloud(frequencies, title, ax, colormap='Blues', max_words=100):
+    stopwords = set(STOPWORDS)
+    wc = WordCloud(
+        width=800, height=400, background_color='white',
+        colormap=colormap, max_words=max_words,
+        stopwords=stopwords
+    ).generate_from_frequencies(frequencies)
+    ax.imshow(wc, interpolation='bilinear')
+    ax.axis('off')
+    ax.set_title(title)
+
+def plot_top_words(counter, title, ax, n=10):
+    top = counter.most_common(n)
+    words, counts = zip(*top)
+    ax.bar(words, counts, color='skyblue')
+    ax.set_title(title)
+    ax.set_ylabel('Frecuency')
+    ax.set_xticklabels(words, rotation=45, ha='right')
+
+if __name__ == "__main__":
+    # get frequencies
+    ghibli_freq = get_frequencies(ghibli_path)
+    disney_freq = get_frequencies(disney_path)
+
+    # Print top 10 words
+    print("Top 10 words Ghibli:", ghibli_freq.most_common(10))
+    print("Top 10 words Disney:", disney_freq.most_common(10))
+
+    # Comparative visualization: WordCloud and Bar Chart
+    fig, axes = plt.subplots(2, 2, figsize=(18, 14))
+    show_wordcloud(ghibli_freq, "Most Common Words in Ghibli", axes[0, 0], colormap='Blues')
+    show_wordcloud(disney_freq, "Most Common Words in Disney", axes[0, 1], colormap='Reds')
+    plot_top_words(ghibli_freq, 'Top 10 words Ghibli', axes[1, 0])
+    plot_top_words(disney_freq, 'Top 10 words Disney', axes[1, 1])
+
+    plt.tight_layout()
+    fig.savefig('comparative_wordclouds.png')
+    plt.show()

@@ -1,0 +1,1051 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+In the beginning...,neutral,0.4577,Family,0.8134,3
+there was only ocean...,uncertain,0.3569,Resilience,0.023,4
+until the mother island emerged.,uncertain,0.3064,Resilience,0.7074,5
+Te Fiti.,uncertain,0.2579,Family,0.9795,2
+Her heart held the greatest power ever known.,very positive,0.712,Family,0.8591,8
+It could create life itself.,uncertain,0.4163,Personal Growth,0.6628,5
+And Te Fiti shared it with the world.,very positive,0.4826,Family,0.8501,8
+But in time...,neutral,0.5079,Personal Growth,0.9112,3
+some began to seek Te Fiti's heart.,neutral,0.5145,Romantic Love,0.6973,7
+They believed if they could possess it...,uncertain,0.3075,Resilience,0.573,7
+the great power of creation would be theirs.,uncertain,0.363,Family,0.5394,8
+And one day...,uncertain,0.4381,Family,0.7246,3
+the most daring of them all...,very positive,0.5227,Personal Growth,0.2962,6
+voyaged across the vast ocean to take it.,uncertain,0.4072,Resilience,0.5886,8
+He was a demigod of the wind and sea.,very negative,0.4869,Resilience,0.2209,9
+He was a warrior.,uncertain,0.4062,Resilience,0.1068,4
+A trickster.,very negative,0.5408,Family,0.2452,2
+A shapeshifter who could change form...,uncertain,0.2368,Family,0.0497,6
+with the power of his magical fish hook.,positive,0.4984,Resilience,0.2919,8
+And his name...,uncertain,0.2751,Identity,0.6547,3
+was Maui.,uncertain,0.3091,Resilience,0.7172,2
+"But without her heart, Te Fiti began to crumble...",uncertain,0.4264,Trauma,0.9435,9
+giving birth to a terrible darkness.,very negative,0.7797,Loneliness,0.9161,6
+Maui tried to escape...,uncertain,0.296,Trauma,0.7765,4
+but was confronted by another who sought the heart.,uncertain,0.3789,Personal Growth,0.7302,9
+Te Kā!,uncertain,0.4384,Family,0.7963,2
+A demon of earth and fire.,very positive,0.66,Trauma,0.0052,6
+Maui was struck from the sky...,uncertain,0.3404,Trauma,0.9563,6
+never to be seen again.,very negative,0.6988,Trauma,0.4498,5
+And his magical fish hook and the heart of Te Fiti...,very positive,0.6288,Family,0.5673,11
+were lost to the sea.,uncertain,0.4241,Grief,0.6542,5
+"Where, even now...",neutral,0.4709,Resilience,0.7477,3
+"1,000 years later...",uncertain,0.3988,Family,0.7682,3
+Te Kā and the demons of the deep...,uncertain,0.2913,Trauma,0.0231,8
+still hunt for the heart.,very positive,0.5889,Personal Growth,0.5547,5
+Hiding in a darkness that will continue to spread...,uncertain,0.3179,Loneliness,0.9769,9
+chasing away our fish...,uncertain,0.3331,Trauma,0.5,4
+draining the life from island after island...,uncertain,0.4022,Trauma,0.714,7
+until every one of us is devoured...,very positive,0.4604,Family,0.7806,7
+by the bloodthirsty jaws...,uncertain,0.4224,Trauma,0.2281,4
+of inescapable death!,very negative,0.5023,Trauma,0.0783,3
+But one day...,neutral,0.4942,Family,0.7996,3
+the heart will be found...,uncertain,0.4054,Romantic Love,0.8033,5
+by someone who will journey beyond our reef...,uncertain,0.3392,Personal Growth,0.9424,8
+find Maui...,uncertain,0.344,Personal Growth,0.7447,2
+deliver him across the great ocean...,uncertain,0.4163,Resilience,0.3791,6
+to restore Te Fiti's heart...,uncertain,0.334,Family,0.9185,5
+and save us all.,very positive,0.6182,Resilience,0.5765,4
+"Thank you, Mother.",very positive,0.5555,Family,0.9915,3
+That's enough.,neutral,0.6333,Family,0.6976,2
+Papa.,uncertain,0.4419,Family,0.8266,1
+No one goes outside the reef.,very negative,0.5305,Resilience,0.4617,6
+We are safe here.,uncertain,0.3989,Family,0.9281,4
+There is no darkness.,very negative,0.4884,Family,0.848,4
+There are no monsters.,very negative,0.6937,Resilience,0.6148,4
+Monsters!,very positive,0.4509,Trauma,0.0324,1
+"There's no monsters, no monsters...",very negative,0.5502,Family,0.4595,5
+It's the darkness!,uncertain,0.401,Loneliness,0.9739,3
+"No, there is nothing beyond our reef, but storms and rough seas.",neutral,0.5157,Trauma,0.3021,12
+I'm gonna throw up.,uncertain,0.4264,Family,0.7492,4
+As long as we stay on our very safe island...,uncertain,0.2662,Resilience,0.7827,10
+...we'll be fine.,neutral,0.5834,Family,0.9363,3
+The legends are true.,very positive,0.4673,Family,0.5147,4
+Someone will have to go.,neutral,0.5111,Family,0.7072,5
+"Mother, Motunui is paradise.",very positive,0.7143,Family,0.4323,4
+Who would want to go anywhere else?,uncertain,0.3517,Personal Growth,0.3044,7
+"Shoo, shoo!",very positive,0.5087,Trauma,0.3891,2
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+"There you are, Moana.",uncertain,0.326,Personal Growth,0.5702,4
+What are you doing?,neutral,0.5407,Personal Growth,0.5829,4
+You scared me.,uncertain,0.2778,Trauma,0.9746,3
+What?,uncertain,0.396,Family,0.3908,1
+I wanna's go back.,uncertain,0.3027,Family,0.652,4
+"I know, I know.",neutral,0.5617,Family,0.7063,4
+But you don't go out there.,uncertain,0.2807,Family,0.6045,6
+It's dangerous.,very negative,0.5892,Trauma,0.6214,2
+"Moana, come on.",uncertain,0.3338,Personal Growth,0.4048,3
+Let's go back to the village.,uncertain,0.4055,Resilience,0.6668,6
+You are the next great chief of our people.,very positive,0.6125,Personal Growth,0.6713,9
+"And you will do wondrous things, my little minnow.",uncertain,0.4325,Resilience,0.8662,9
+"Oh, yes.",uncertain,0.4069,Family,0.8729,2
+"But first, you must learn where you're meant to be.",neutral,0.4532,Personal Growth,0.8576,10
+"Moana Make way, make way Moana, it's time you knew The village of Motunui is all you need The dancers are practicing They dance to an ancient song Who needs a new song This old one's all we need This tradition is our mission And Moana, there's so much to do Don't trip on the taro root That's all you need We share everything we make We joke and we weave our baskets The fishermen come back from the sea I wanna see Don't walk away Moana, stay on the ground now Our people will need a chief And there you are There you are There comes a day When you're gonna look around And realize happiness is Where you are Consider the coconut The what Consider its tree We use each part of the coconut It's all we need We make our nets from the fibers The water is sweet inside We use the leaves to build fires We cook up the meat inside Consider the coconuts The trunks and the leaves The island gives us what we need And no one leaves That's right, we stay We're safe and we're well-provided And when we look to the future There you are You'll be okay In time you'll learn just as I did You must find happiness right where you are I like to dance with the water The undertow and the waves The water is mischievous Ha!",very positive,0.5326,Personal Growth,0.9782,239
+"I like how it misbehaves The village may think I'm crazy Or say that I drift too far But once you know what you like Well, there you are You are your father's daughter Stubbornness and pride Mind what he says but remember You may hear a voice inside And if the voice starts to whisper To follow the farthest star Moana, that voice inside is who you are Dad!",uncertain,0.3343,Family,0.9748,70
+I was only looking at the boats.,uncertain,0.3708,Resilience,0.2002,7
+I wasn't gonna get on 'em.,negative,0.4855,Family,0.6573,6
+Come on.,uncertain,0.4016,Family,0.8255,2
+There's something I need to show you.,neutral,0.7143,Resilience,0.6194,7
+I've wanted to bring you here from the moment you opened your eyes.,very positive,0.4821,Family,0.8822,13
+This is a sacred place.,uncertain,0.3697,Family,0.0061,5
+A place of chiefs.,uncertain,0.439,Resilience,0.0062,4
+There will come a time...,uncertain,0.4338,Family,0.5648,5
+when you will stand on this peak and place a stone on this mountain.,uncertain,0.4148,Personal Growth,0.6078,14
+Like I did.,neutral,0.5504,Personal Growth,0.8166,3
+Like my father did.,uncertain,0.3939,Family,0.9921,4
+"And his father, and every chief that has ever been.",very positive,0.7041,Family,0.9986,10
+And on that day...,uncertain,0.3952,Family,0.7704,4
+when you add your stone...,uncertain,0.3259,Resilience,0.4251,5
+you will raise this whole island higher.,uncertain,0.3845,Resilience,0.8717,7
+"You are the future of our people, Moana.",very positive,0.631,Personal Growth,0.8571,8
+And they are not out there.,uncertain,0.4038,Loneliness,0.6568,6
+They are right here.,neutral,0.5069,Family,0.8307,4
+It's time to be who they need you to be.,neutral,0.5255,Family,0.8396,10
+"We make our nets from the fibers We weave our nets from the fibers The water is sweet inside A real tasty treat inside We use the leaves to build fires We sing these songs in our choirs To cook up the meat inside We have mouths to feed inside The village believes in us That's right The village believes The island gives us what we need And no one leaves So here I'll stay My home, my people beside me And when I think of tomorrow There we are I'll lead the way I'll have my people to guide me We'll build our future together Where we are 'Cause every path leads ya back to Where you are You can find happiness right Where you are Where you are And every storm, this roof leaks, no matter how many fronds I add.",very positive,0.4803,Family,0.9657,143
+Fixed!,uncertain,0.3042,Family,0.8884,1
+Not the fronds.,negative,0.4751,Resilience,0.138,3
+Wind shifted the post.,uncertain,0.3145,Personal Growth,0.6669,4
+That's good pork!,uncertain,0.41,Resilience,0.1627,3
+I didn't mean...,uncertain,0.4286,Trauma,0.7027,3
+I wasn't...,uncertain,0.4024,Personal Growth,0.592,2
+What?,uncertain,0.396,Family,0.3908,1
+"They're calling me, so I gotta...",uncertain,0.2707,Family,0.863,6
+Bye!,very positive,0.4797,Family,0.7205,1
+You're doing great.,uncertain,0.4013,Personal Growth,0.8878,3
+Is it done yet?,neutral,0.605,Family,0.4811,4
+So close.,uncertain,0.2868,Family,0.8816,2
+I'm curious about that chicken eating the rock.,uncertain,0.3597,Resilience,0.4767,8
+He seems to lack the basic intelligence required for pretty much everything.,negative,0.4802,Family,0.8153,12
+Should we maybe just cook him?,uncertain,0.3196,Family,0.5968,6
+Sometimes our strengths lie beneath the surface.,uncertain,0.4279,Resilience,0.9142,7
+Far beneath in some cases.,uncertain,0.4163,Trauma,0.4171,5
+But I'm sure there's more to Heihei than meets the eye.,uncertain,0.3264,Identity,0.4976,11
+It's the harvest.,uncertain,0.3159,Family,0.002,3
+"This morning, I was husking the coconuts and...",uncertain,0.4151,Personal Growth,0.8129,8
+Well...,uncertain,0.4194,Family,0.7545,1
+we should clear the diseased trees and we will start a new grove.,uncertain,0.3159,Resilience,0.5673,13
+There.,neutral,0.639,Family,0.8052,1
+"Thanks, Moana.",uncertain,0.3515,Friendship,0.7143,2
+She's doing great.,uncertain,0.4448,Family,0.9675,3
+This suits you.,uncertain,0.4072,Personal Growth,0.859,3
+Chief?,uncertain,0.2914,Identity,0.2579,1
+There's something you need to see.,neutral,0.7186,Resilience,0.3811,6
+Our traps in the east lagoon...,uncertain,0.3665,Resilience,0.3493,6
+they're pulling up less and less fish.,negative,0.5159,Family,0.5249,7
+Then we'll rotate the fishing grounds.,uncertain,0.4387,Resilience,0.2346,6
+We have.,neutral,0.4773,Family,0.898,2
+There's no fish.,very negative,0.7232,Resilience,0.2135,3
+Oh.,uncertain,0.3785,Family,0.8249,1
+Then we'll fish the far side of the island.,uncertain,0.2955,Family,0.6726,9
+We tried.,uncertain,0.3181,Family,0.7809,2
+The windward side.,neutral,0.5285,Resilience,0.7604,3
+"And the leeward side, the shallows, the channel.",neutral,0.5511,Resilience,0.7002,8
+We've tried the whole lagoon.,uncertain,0.2493,Resilience,0.156,5
+They're just gone.,very negative,0.4664,Family,0.7984,3
+Have you tried using a different bait?,uncertain,0.4348,Family,0.1379,7
+I don't think it's the bait.,uncertain,0.3838,Family,0.1157,6
+There's no fish.,very negative,0.7232,Resilience,0.2135,3
+It seems like it's getting worse and worse.,negative,0.4883,Family,0.7388,8
+"Of course, I understand you have reason for concern.",uncertain,0.3937,Empathy,0.8125,9
+I will talk to the council.,neutral,0.571,Resilience,0.5908,6
+I'm sure we...,neutral,0.5624,Family,0.8091,3
+What if we fish beyond the reef?,uncertain,0.3935,Resilience,0.2925,7
+No one goes beyond the reef.,very negative,0.524,Resilience,0.1021,6
+I know.,neutral,0.5486,Family,0.7759,2
+But if there are no fish in the lagoon...,neutral,0.4967,Resilience,0.4267,9
+Moana.,uncertain,0.2953,Personal Growth,0.0478,1
+And there's a whole ocean.,neutral,0.5366,Resilience,0.2946,5
+We have one rule.,neutral,0.7062,Family,0.3098,4
+"An old rule, when there were fish.",uncertain,0.3105,Resilience,0.0063,7
+A rule that keeps us safe...,uncertain,0.335,Resilience,0.3102,6
+"But Dad, I...",uncertain,0.4259,Family,0.9958,3
+...instead of endangering our people so you can run right back to the water.,uncertain,0.4251,Family,0.6433,14
+Every time I think you're past this...,uncertain,0.3907,Trauma,0.631,7
+No one goes beyond the reef!,very negative,0.6208,Resilience,0.037,6
+"Well, it's not like you said it in front of your dad.",uncertain,0.4174,Family,0.9616,12
+Standing on a boat.,neutral,0.4933,Resilience,0.6212,4
+"I didn't say go beyond the reef, because I want to be on the ocean.",negative,0.4526,Personal Growth,0.2373,15
+But you still do.,uncertain,0.3274,Resilience,0.82,4
+He's hard on you because...,uncertain,0.319,Family,0.626,5
+Because he doesn't get me.,very negative,0.5248,Loneliness,0.7847,5
+Because he was you.,uncertain,0.3575,Identity,0.9852,4
+Drawn to the ocean.,very negative,0.5737,Resilience,0.0736,4
+Down by the shore.,uncertain,0.3037,Resilience,0.6364,4
+"He took a canoe, Moana.",uncertain,0.2788,Personal Growth,0.38,5
+He crossed the reef...,uncertain,0.2645,Trauma,0.7976,4
+and found an unforgiving sea.,uncertain,0.3542,Trauma,0.872,5
+Waves like mountains.,uncertain,0.3982,Resilience,0.4235,3
+His best friend begged to be on that boat.,uncertain,0.2952,Family,0.9689,9
+Your dad couldn't save him.,very negative,0.5353,Family,0.9932,5
+He's hoping he can save you.,uncertain,0.2695,Empathy,0.5621,6
+Sometimes...,neutral,0.4987,Personal Growth,0.7043,1
+"who we wish we were, what we wish we could do...",uncertain,0.4167,Personal Growth,0.9289,11
+it's just not meant to be.,negative,0.5562,Trauma,0.4693,6
+"I've been staring at the edge of the water Long as I can remember Never really knowing why I wish I could be the perfect daughter But I come back to the water No matter how hard I try Every turn I take Every trail I track Every path I make Every road leads back To the place I know Where I cannot go Where I long to be See the line where the sky meets the sea It calls me And no one knows How far it goes If the wind in my sail on the sea Stays behind me One day I'll know If I go, there's just no telling how far I'll go I know everybody on this island Seems so happy on this island Everything is by design I know everybody on this island Has a role on this island So maybe I can roll with mine I can lead with pride I can make us strong I'll be satisfied If I play along But the voice inside Sings a different song What is wrong with me See the light as it shines on the sea It's blinding But no one knows How deep it goes And it seems like it's calling out to me So come find me And let me know What's beyond that line Will I cross that line The line where the sky meets the sea It calls me And no one knows How far it goes If the wind in my sail on the sea stays behind me One day I'll know How far I'll go Whoa.",very positive,0.5643,Personal Growth,0.951,266
+"We're okay, Pua.",neutral,0.4824,Family,0.9251,3
+I can do this.,neutral,0.534,Resilience,0.8584,4
+There's more fish beyond the reef.,uncertain,0.3822,Resilience,0.1283,6
+There's more beyond the reef.,uncertain,0.3426,Resilience,0.2556,5
+Not so bad.,neutral,0.4546,Family,0.8538,3
+Pua!,very positive,0.5039,Family,0.7197,1
+Whatever just happened...,uncertain,0.4127,Trauma,0.5748,3
+blame it on the pig.,uncertain,0.4212,Trauma,0.2847,5
+Gramma.,uncertain,0.3978,Family,0.9788,1
+Are you gonna tell Dad?,uncertain,0.3778,Family,0.9951,5
+I'm his mom.,very positive,0.5854,Family,0.9958,3
+I don't have to tell him anything.,uncertain,0.4312,Resilience,0.7352,7
+He was right.,uncertain,0.3624,Family,0.8181,3
+About going out there.,neutral,0.4757,Personal Growth,0.6348,4
+It's time to put my stone on the mountain.,uncertain,0.3226,Personal Growth,0.4039,9
+Okay.,neutral,0.7094,Family,0.8657,1
+"Well, then, head on back.",neutral,0.4864,Family,0.7919,5
+Put that stone up there.,uncertain,0.361,Family,0.7114,5
+Why aren't you trying to talk me out of it?,uncertain,0.332,Family,0.7596,10
+You said that's what you wanted.,neutral,0.5258,Family,0.7949,6
+It is.,neutral,0.709,Family,0.9153,2
+When I die...,uncertain,0.36,Grief,0.3352,3
+I'm going to come back as one of these.,neutral,0.4533,Identity,0.4993,9
+Or I chose the wrong tattoo.,very negative,0.5504,Family,0.3909,6
+Why are you acting weird?,uncertain,0.3177,Trauma,0.3033,5
+I'm the village crazy lady.,very positive,0.4732,Identity,0.9101,5
+That's my job.,uncertain,0.4068,Resilience,0.4433,3
+"If there's something you want to tell me, just tell me!",likely_emotive,0.4776,Family,0.5691,11
+Is there something you wanna tell me?,neutral,0.5974,Empathy,0.4519,7
+Is there something you want to hear?,neutral,0.6199,Resilience,0.3398,7
+You've been told all our people's stories...,uncertain,0.3532,Family,0.5875,7
+but one.,neutral,0.6191,Family,0.5407,2
+What is this place?,uncertain,0.3949,Resilience,0.0176,4
+Do you really think our ancestors stayed within the reef?,uncertain,0.2773,Family,0.8617,10
+What's in there?,neutral,0.5467,Personal Growth,0.1889,3
+The answer to the question you keep asking yourself.,uncertain,0.3701,Resilience,0.5586,9
+Who are you meant to be?,uncertain,0.3447,Identity,0.8349,6
+Go inside...,neutral,0.5254,Personal Growth,0.7544,2
+bang the drum...,uncertain,0.3875,Resilience,0.2235,3
+and find out.,neutral,0.4963,Family,0.6359,3
+Whoa.,uncertain,0.4024,Family,0.7479,1
+Oh.,uncertain,0.3785,Family,0.8249,1
+Bang the drum.,uncertain,0.2596,Resilience,0.4705,3
+We read the wind and the sky When the sun is high We sail the length of the seas On the ocean breeze At night we name every star We know where we are We know who we are Who we are We set a course to find A brand new island everywhere we roam We keep our island in our mind And when it's time to find home We know the way We are explorers reading every sign We tell the stories of our elders In a never-ending chain We know the way We were voyagers.,very positive,0.4972,Identity,0.9946,97
+We were voyagers!,very positive,0.6224,Personal Growth,0.1483,3
+We were voyagers!,very positive,0.6224,Personal Growth,0.1483,3
+We were voyagers!,very positive,0.6224,Personal Growth,0.1483,3
+We were voyagers!,very positive,0.6224,Personal Growth,0.1483,3
+Why'd we stop?,uncertain,0.3288,Family,0.5404,3
+Maui.,uncertain,0.3212,Resilience,0.6943,1
+"When he stole from the mother island, darkness fell.",uncertain,0.4086,Trauma,0.7637,9
+Te Kā awoke.,very negative,0.475,Family,0.8993,3
+Monsters lurked and boats stopped coming back.,uncertain,0.4019,Trauma,0.4618,7
+"To protect our people, the ancient chiefs forbid voyaging...",uncertain,0.4264,Family,0.6864,9
+and now we have forgotten who we are.,very negative,0.455,Identity,0.7627,8
+And the darkness has continued to spread...,uncertain,0.4217,Loneliness,0.8814,7
+chasing away our fish...,uncertain,0.3331,Trauma,0.5,4
+draining the life...,uncertain,0.3979,Trauma,0.3893,3
+from island after island.,uncertain,0.4376,Resilience,0.697,4
+Our island.,very positive,0.5768,Resilience,0.8755,2
+"But, one day...",neutral,0.4947,Family,0.7871,3
+"someone will journey beyond our reef, find Maui...",uncertain,0.3843,Personal Growth,0.6861,8
+deliver him across the great ocean...,uncertain,0.4163,Resilience,0.3791,6
+to restore the heart of Te Fiti.,uncertain,0.4059,Family,0.8755,7
+I was there that day.,neutral,0.6263,Family,0.8858,5
+The ocean chose you.,very positive,0.4508,Resilience,0.5088,4
+I thought it was a dream.,very positive,0.6457,Family,0.4376,6
+Nope!,very negative,0.6549,Family,0.7436,1
+Our ancestors believed Maui lies there...,uncertain,0.2709,Family,0.5763,6
+at the bottom of his hook.,uncertain,0.3565,Resilience,0.4655,6
+"Follow it, and you will find him.",uncertain,0.4082,Resilience,0.5008,7
+But why would it choose me?,uncertain,0.3677,Personal Growth,0.3639,6
+I don't even know how to make it past the reef.,uncertain,0.3324,Trauma,0.5531,11
+But I know who does!,uncertain,0.3317,Family,0.8656,5
+The crops are turning black.,uncertain,0.4348,Trauma,0.3806,5
+What about the fish?,uncertain,0.3691,Resilience,0.2638,4
+This is happening all over the island.,uncertain,0.3486,Resilience,0.7192,7
+"Please, please settle down.",uncertain,0.2829,Family,0.9145,4
+What are you going to do?,neutral,0.5626,Personal Growth,0.5204,6
+We will dig new fields.,uncertain,0.3427,Resilience,0.2642,5
+We will find a way to...,uncertain,0.3965,Family,0.8232,6
+We can stop the darkness!,very positive,0.4617,Loneliness,0.6289,5
+Save our island!,very positive,0.656,Resilience,0.4438,3
+There's a cavern of boats.,uncertain,0.3844,Resilience,0.1019,5
+Huge canoes.,uncertain,0.3803,Resilience,0.3587,2
+"We can take them, find Maui, make him restore the heart.",very positive,0.4667,Personal Growth,0.7512,11
+We were voyagers.,uncertain,0.4103,Personal Growth,0.1747,3
+We can voyage again!,very positive,0.6945,Resilience,0.7895,4
+You told me to help our people.,uncertain,0.4421,Resilience,0.6187,7
+This is how we help our people.,uncertain,0.436,Resilience,0.5823,7
+Dad?,uncertain,0.3396,Family,0.9906,1
+What are you doing?,neutral,0.5407,Personal Growth,0.5829,4
+I should've burned those boats a long time ago!,very negative,0.4991,Trauma,0.8527,9
+No!,very negative,0.5534,Family,0.9037,1
+Don't!,very negative,0.5023,Family,0.8107,1
+We have to find Maui.,uncertain,0.3459,Resilience,0.4096,5
+We have to restore the heart!,very positive,0.6487,Personal Growth,0.7248,6
+There is no heart!,very negative,0.7723,Loneliness,0.9348,4
+This is just a rock!,very positive,0.4743,Resilience,0.1074,5
+No!,very negative,0.5534,Family,0.9037,1
+Chief!,very positive,0.5889,Identity,0.4543,1
+It's your mother!,very positive,0.6825,Family,0.9979,3
+Mother...,uncertain,0.339,Family,0.996,1
+What can be done?,neutral,0.5435,Family,0.6066,4
+Go.,uncertain,0.3746,Personal Growth,0.843,1
+Gramma.,uncertain,0.3978,Family,0.9788,1
+Go.,uncertain,0.3746,Personal Growth,0.843,1
+Not now.,negative,0.4672,Family,0.694,2
+I can't.,uncertain,0.34,Trauma,0.8142,2
+You must!,very positive,0.5522,Family,0.8129,2
+The ocean chose you.,very positive,0.4508,Resilience,0.5088,4
+Follow the fish hook.,positive,0.4649,Resilience,0.4962,4
+Gramma...,uncertain,0.3692,Family,0.9949,1
+And when you find Maui...,uncertain,0.3995,Personal Growth,0.2799,5
+you grab him by the ear.,uncertain,0.2661,Family,0.6676,6
+You say...,neutral,0.453,Family,0.7518,2
+"""I am Moana of Motunui.",uncertain,0.2314,Identity,0.9598,5
+"""You will board my boat...",uncertain,0.3597,Resilience,0.4879,5
+"""sail across the sea...",uncertain,0.3161,Resilience,0.2373,4
+"""and restore the heart of Te Fiti."" I can't leave you.",very positive,0.5505,Family,0.8969,11
+There is nowhere you could go that I won't be with you.,uncertain,0.4004,Family,0.9475,12
+Go!,very positive,0.4999,Personal Growth,0.9034,1
+"There's a line where the sky meets the sea And it calls me But no one knows How far it goes All that time wondering where I need to be is behind me I'm on my own To worlds unknown Every turn I take Every trail I track Is a choice I make Now I can't turn back from the great unknown Where I go alone Where I long to be See her light up the night in the sea She calls me And yes, I know That I can go There's a moon in the sky And the wind is behind me Soon I'll know How far I'll go I am Moana of Motunui.",uncertain,0.4483,Personal Growth,0.7949,115
+You will board my boat...,uncertain,0.3657,Resilience,0.691,5
+sail across the sea and restore the heart of Te Fiti.,very positive,0.5531,Resilience,0.7588,11
+I am Moana...,uncertain,0.2686,Identity,0.9793,3
+of Motu...,uncertain,0.2799,Resilience,0.7061,2
+...nui.,uncertain,0.3608,Loneliness,0.9683,1
+Heihei?,uncertain,0.4073,Identity,0.6081,1
+It's okay.,neutral,0.6938,Family,0.7846,2
+You're all right.,uncertain,0.3993,Family,0.8965,3
+See?,uncertain,0.3472,Family,0.7879,1
+There we go.,neutral,0.5941,Family,0.7744,3
+Nice water.,uncertain,0.4323,Resilience,0.271,2
+The ocean is a friend of mine.,uncertain,0.4103,Friendship,0.9561,7
+Heihei?,uncertain,0.4073,Identity,0.6081,1
+Heihei!,very positive,0.6334,Identity,0.9619,1
+Stay.,uncertain,0.3367,Resilience,0.9278,1
+Okay.,neutral,0.7094,Family,0.8657,1
+"Next stop, Maui.",uncertain,0.3021,Personal Growth,0.8703,3
+I am Moana of Motunui.,uncertain,0.2884,Identity,0.9782,5
+You will board my boat...,uncertain,0.3657,Resilience,0.691,5
+sail...,uncertain,0.4039,Personal Growth,0.5298,1
+across the sea...,uncertain,0.3648,Resilience,0.5311,3
+and restore the heart of Te Fiti.,very positive,0.5139,Family,0.9063,7
+I am Moana of Motu...,uncertain,0.3021,Identity,0.9455,5
+Board my boat!,uncertain,0.3167,Friendship,0.9128,3
+"Oh, no.",uncertain,0.4435,Family,0.826,2
+"No, no, no!",very negative,0.5215,Family,0.9186,3
+Ocean...,uncertain,0.3144,Resilience,0.1978,1
+can I get a little help?,uncertain,0.3123,Family,0.6131,6
+"No, no.",uncertain,0.4292,Family,0.8691,2
+Please.,uncertain,0.3244,Family,0.8544,1
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Help me!,uncertain,0.4382,Personal Growth,0.8082,2
+Please!,uncertain,0.248,Family,0.8072,1
+What?,uncertain,0.396,Family,0.3908,1
+I said help me!,uncertain,0.4024,Personal Growth,0.8116,4
+And wrecking my boat?,very negative,0.5524,Trauma,0.7649,4
+Not helping!,negative,0.5027,Trauma,0.7387,2
+Fish pee in you all day!,very positive,0.5498,Trauma,0.4613,6
+So...,uncertain,0.4336,Family,0.757,1
+Maui?,uncertain,0.2611,Resilience,0.3449,1
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+"Maui, demigod of the wind and sea...",uncertain,0.4152,Resilience,0.7472,7
+I am Moana of Motunui.,uncertain,0.2884,Identity,0.9782,5
+You will board my boat.,uncertain,0.3929,Resilience,0.6834,5
+No.,very negative,0.4577,Family,0.8406,1
+You will board my boat.,uncertain,0.3929,Resilience,0.6834,5
+Yeah.,uncertain,0.3646,Family,0.8922,1
+I am Moana of Motunui.,uncertain,0.2884,Identity,0.9782,5
+You will board my...,uncertain,0.3251,Family,0.8168,4
+Boat!,very positive,0.4554,Personal Growth,0.031,1
+A boat!,very positive,0.5029,Resilience,0.5229,2
+The gods have given me a...,uncertain,0.3959,Resilience,0.7414,6
+"Maui, shapeshifter...",uncertain,0.4218,Resilience,0.2924,2
+demigod of the wind and sea...,very negative,0.4887,Resilience,0.4283,6
+I am Moana of...,uncertain,0.2637,Identity,0.9235,4
+Hero of men.,very positive,0.5642,Personal Growth,0.6396,3
+What?,uncertain,0.396,Family,0.3908,1
+"It's actually, Maui, shapeshifter, demigod of the wind and sea...",very positive,0.4715,Resilience,0.0291,10
+hero of men.,very positive,0.602,Resilience,0.6618,3
+I interrupted.,uncertain,0.3844,Family,0.8039,2
+From the top.,very positive,0.6329,Family,0.8508,3
+Hero of men.,very positive,0.5642,Personal Growth,0.6396,3
+Go.,uncertain,0.3746,Personal Growth,0.843,1
+I am...,uncertain,0.4224,Identity,0.988,2
+"Sorry, sorry, sorry.",neutral,0.5087,Family,0.8368,3
+And women.,uncertain,0.4051,Resilience,0.6387,2
+Men and women.,neutral,0.5015,Personal Growth,0.7215,3
+Both.,neutral,0.6921,Resilience,0.7732,1
+All.,uncertain,0.3521,Family,0.8632,1
+"Not a guy, girl thing.",uncertain,0.4227,Resilience,0.5646,5
+"You know, Maui is a hero to all.",very positive,0.6447,Resilience,0.8515,8
+You're doing great.,uncertain,0.4013,Personal Growth,0.8878,3
+What?,uncertain,0.396,Family,0.3908,1
+No!,very negative,0.5534,Family,0.9037,1
+I'm here to...,uncertain,0.4119,Personal Growth,0.8413,3
+Of course.,uncertain,0.37,Family,0.9305,2
+"Yes, yes, yes.",neutral,0.7626,Family,0.8896,3
+Maui always has time for his fans.,uncertain,0.4153,Friendship,0.6349,7
+When you use a bird to write with...,uncertain,0.3667,Resilience,0.4047,8
+it's called tweeting.,uncertain,0.388,Personal Growth,0.01,3
+"I know, not every day you get a chance to meet your hero.",uncertain,0.3942,Resilience,0.2137,13
+You are not my hero.,negative,0.5008,Identity,0.6761,5
+And I'm not here so you can sign my oar!,uncertain,0.3756,Loneliness,0.686,10
+I'm here 'cause you stole the heart of Te Fiti!,very positive,0.7343,Trauma,0.9617,10
+And you will board my boat...,uncertain,0.3494,Resilience,0.5707,6
+and sail across the sea and put it back!,very positive,0.5882,Resilience,0.5783,9
+"Yeah, it almost sounded like you don't like me...",uncertain,0.3146,Trauma,0.6334,9
+which is impossible because...,uncertain,0.3847,Family,0.3362,4
+"I got stuck here for 1,000 years...",uncertain,0.317,Trauma,0.9519,7
+trying to get the heart as a gift for you mortals.,uncertain,0.2406,Personal Growth,0.8033,11
+So you could have the power to create life itself.,uncertain,0.3166,Personal Growth,0.3779,10
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"So, what I believe you were trying to say...",neutral,0.5169,Family,0.6449,9
+"is ""thank you."" ""Thank you?"" You're welcome.",uncertain,0.3356,Family,0.6056,7
+What?,uncertain,0.396,Family,0.3908,1
+"No, no, no!",very negative,0.5215,Family,0.9186,3
+I didn't...,uncertain,0.4282,Family,0.5247,2
+I wasn't...,uncertain,0.4024,Personal Growth,0.592,2
+Why would I ever say that?,uncertain,0.3483,Family,0.3538,6
+"Okay, okay.",neutral,0.7579,Family,0.7632,2
+"I see what's happening Yeah You're face to face with greatness and it's strange You don't even know how you feel It's adorable Well it's nice to see that humans never change Open your eyes Let's begin Yes, it's really me It's Maui Breathe it in I know it's a lot The hair The bod When you're staring at a demigod What can I say except You're welcome For the tides, the sun, the sky Hey, it's okay, it's okay You're welcome I'm just an ordinary demiguy Hey!",very positive,0.628,Personal Growth,0.8946,88
+What has two thumbs and pulled up the sky When you were waddling yay high?,uncertain,0.2587,Personal Growth,0.383,15
+This guy When the nights got cold Who stole you fire from down below?,uncertain,0.311,Trauma,0.8656,14
+"You're looking at him yo Oh also I lassoed the sun You're welcome To stretch your days and bring you fun Also I harnessed the breeze You're welcome To fill your sails and shake your trees So what can I say except You're welcome For the islands I pulled from the sea There's no need to pray It's okay You're welcome Ha I guess it's just my way of being me You're welcome You're welcome Well come to think of it Kid, honestly I could go on and on I could explain every natural phenomenon The tide, the grass, the ground Oh that was Maui just messing around I killed an eel I buried its guts Sprouted a tree Now you got coconuts What's the lesson?",uncertain,0.433,Personal Growth,0.872,126
+What is the take away?,uncertain,0.3734,Personal Growth,0.424,5
+"Don't mess with Maui when he's on a breakaway And the tapestry here on my skin Is a map of the victories I win Look where I've been I make everything happen Look at that Mean Mini-Maui just tickety tappin' Ha ha Ha ha Ha ha Hey Well anyway let me say You're welcome You're welcome For the wonderful world you know Hey, it's okay, it's okay You're welcome You're welcome Well come to think of it I gotta go Hey it's your day to say You're welcome You're welcome 'Cause I'm gonna need that boat I'm sailing away away You're welcome You're welcome 'Cause Maui can do everything but float You're welcome You're welcome You're welcome You're welcome Huh?",uncertain,0.3466,Personal Growth,0.8823,120
+And thank you!,very positive,0.5479,Family,0.8133,3
+Hey!,uncertain,0.3457,Family,0.7355,1
+Let me out!,uncertain,0.4257,Personal Growth,0.8676,3
+"You lying, slimy son of a...",uncertain,0.3559,Trauma,0.6458,6
+You're welcome You're so welcome.,very positive,0.5342,Family,0.9347,5
+No.,very negative,0.4577,Family,0.8406,1
+I'm not going to Te Fiti with some kid.,negative,0.4638,Personal Growth,0.2745,9
+I'm going to get my hook.,uncertain,0.3571,Family,0.4889,6
+You have yours and I'm not Maui without mine.,uncertain,0.2893,Family,0.863,9
+"Okay, talk to the back.",neutral,0.5239,Family,0.7761,5
+Boat snack.,uncertain,0.2887,Resilience,0.0074,2
+"Good riddance, you filthy pile of pebbles.",uncertain,0.423,Grief,0.7445,7
+"Oh, no, no, no.",uncertain,0.3756,Family,0.9076,4
+Don't look at me like that.,uncertain,0.4415,Personal Growth,0.7264,6
+It's a beautiful cave.,uncertain,0.3976,Resilience,0.2886,4
+She's gonna love it.,positive,0.4944,Family,0.9697,4
+And I'm going to love you in ma belly.,very positive,0.493,Family,0.9661,9
+"Now, let's fatten you up, drumstick.",uncertain,0.3455,Personal Growth,0.7563,6
+I could watch that all day.,uncertain,0.3032,Family,0.8168,6
+Okay.,neutral,0.7094,Family,0.8657,1
+Enjoy the island.,uncertain,0.4328,Resilience,0.5279,3
+"Maui, out.",uncertain,0.3237,Personal Growth,0.6994,2
+No!,very negative,0.5534,Family,0.9037,1
+Stop!,uncertain,0.2849,Family,0.771,1
+Hey!,uncertain,0.3457,Family,0.7355,1
+You have to put back the heart!,very positive,0.7432,Empathy,0.8318,7
+Did not see that coming.,negative,0.4561,Family,0.7849,5
+I am Moana of Motunui.,uncertain,0.2884,Identity,0.9782,5
+This is my canoe...,uncertain,0.3545,Resilience,0.594,4
+and you will journey to...,uncertain,0.3625,Personal Growth,0.8761,5
+"All right, get over it.",uncertain,0.2999,Family,0.7391,5
+We gotta move.,uncertain,0.2773,Personal Growth,0.8576,3
+And she's back.,uncertain,0.3902,Resilience,0.9478,3
+I am Moana of Motunui...,uncertain,0.2339,Identity,0.979,5
+"It was Moana, right?",uncertain,0.2594,Personal Growth,0.0024,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+And you will restore the heart!,very positive,0.6303,Personal Growth,0.6562,6
+All right.,uncertain,0.4407,Family,0.828,2
+I'm out.,uncertain,0.4372,Trauma,0.5395,2
+"Oh, come on!",very positive,0.5798,Trauma,0.5274,3
+What is your problem?,uncertain,0.4292,Family,0.3907,4
+Are you afraid of it?,uncertain,0.3957,Family,0.3168,5
+No!,very negative,0.5534,Family,0.9037,1
+No.,very negative,0.4577,Family,0.8406,1
+I'm not afraid.,uncertain,0.3797,Resilience,0.9798,3
+Stay out of it or you're sleeping in my armpit.,uncertain,0.3603,Family,0.8722,10
+"You, stop it.",uncertain,0.2753,Trauma,0.6331,3
+That is not a heart.,uncertain,0.3853,Loneliness,0.3621,5
+It is a curse.,uncertain,0.4187,Loneliness,0.4128,4
+"The second I took it, I got blasted outta the sky...",uncertain,0.3282,Trauma,0.9553,11
+and I lost my hook.,very negative,0.583,Trauma,0.6304,5
+Get it away from me.,uncertain,0.323,Trauma,0.2658,5
+Get this away?,uncertain,0.3684,Trauma,0.5882,3
+"Hey, hey, hey!",uncertain,0.3787,Family,0.7728,3
+"I'm a demigod, okay?",uncertain,0.3153,Identity,0.4545,4
+Stop that.,very negative,0.4566,Trauma,0.7796,2
+I will smite you!,very positive,0.6431,Identity,0.1723,4
+You wanna get smote?,uncertain,0.4449,Trauma,0.1969,4
+Smotten?,uncertain,0.3657,Trauma,0.2963,1
+"Listen, that thing doesn't give you power to create life...",very negative,0.4918,Family,0.4233,10
+it's a homing beacon of death.,very negative,0.778,Loneliness,0.109,6
+"If you don't put it away, bad things are gonna come for it.",uncertain,0.3138,Family,0.6776,13
+Come for this?,uncertain,0.3321,Family,0.7479,3
+The heart?,uncertain,0.2389,Romantic Love,0.3504,2
+You mean this heart right here?,very positive,0.7109,Romantic Love,0.6245,6
+"Don't, you can't raise your voice like that!",very negative,0.4972,Family,0.8811,8
+Come and get it!,very positive,0.6153,Family,0.7858,4
+You are gonna get us killed!,uncertain,0.3804,Family,0.3015,6
+"No, I'm gonna get us to Te Fiti, so you can put it back.",uncertain,0.3213,Resilience,0.2553,14
+Thank you.,positive,0.5047,Family,0.8872,2
+You're welcome.,positive,0.4571,Family,0.8921,2
+Kakamora.,uncertain,0.3311,Friendship,0.3578,1
+Kaka-what?,uncertain,0.3116,Personal Growth,0.0847,1
+Murdering little pirates.,very negative,0.5058,Trauma,0.0087,3
+Wonder what they're here for.,uncertain,0.4296,Identity,0.3253,5
+They're kinda cute.,positive,0.5032,Family,0.8909,3
+Ocean!,very positive,0.6436,Resilience,0.0495,1
+Do something!,uncertain,0.3677,Personal Growth,0.6853,2
+Help us!,uncertain,0.4199,Family,0.781,2
+"The ocean doesn't help you, you help yourself!",uncertain,0.3673,Personal Growth,0.931,8
+Tighten the halyard.,very negative,0.5967,Family,0.5324,3
+Bind the stays!,very positive,0.5354,Family,0.7565,3
+You can't sail?,very negative,0.4717,Resilience,0.1095,3
+I am self-taught.,very positive,0.4986,Personal Growth,0.9422,3
+Can't you shapeshift or something?,neutral,0.5031,Family,0.2293,5
+Do you see my hook?,uncertain,0.3387,Personal Growth,0.5038,5
+"No magic hook, no magic powers!",very negative,0.5191,Family,0.6093,6
+Their boat is turning into more boats!,uncertain,0.4193,Resilience,0.8039,7
+"Yep, I just did that.",uncertain,0.3809,Resilience,0.6742,5
+"No, no!",very negative,0.5612,Family,0.9034,2
+Heihei!,very positive,0.6334,Identity,0.9619,1
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+They took the heart!,very positive,0.5794,Family,0.9,4
+That's a chicken.,uncertain,0.3359,Resilience,0.218,3
+The heart is in the...,uncertain,0.3423,Romantic Love,0.8718,5
+We have to get him back!,very positive,0.5778,Family,0.7874,6
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+There!,uncertain,0.4205,Family,0.7808,1
+Right there!,uncertain,0.3366,Family,0.8187,2
+You're turning?,uncertain,0.3262,Personal Growth,0.9529,2
+What are you doing?,neutral,0.5407,Personal Growth,0.5829,4
+Escaping!,very positive,0.6275,Personal Growth,0.8643,1
+The heart!,very positive,0.6316,Romantic Love,0.8576,2
+Forget it!,uncertain,0.4047,Family,0.6504,2
+You'll never get it back!,very negative,0.6636,Trauma,0.6601,5
+"Besides, you got a better one.",uncertain,0.3226,Personal Growth,0.7346,6
+Hey!,uncertain,0.3457,Family,0.7355,1
+What am I gonna steer with?,uncertain,0.3534,Family,0.4084,6
+They're just gonna kill ya!,uncertain,0.2819,Grief,0.4227,5
+Coconuts.,uncertain,0.3665,Resilience,0.0812,1
+Got it!,uncertain,0.4456,Family,0.7826,2
+Hey!,uncertain,0.3457,Family,0.7355,1
+Yeah!,uncertain,0.3534,Family,0.8606,1
+We did it!,uncertain,0.4147,Family,0.8869,3
+"Congratulations on not being dead, girlie.",neutral,0.5568,Resilience,0.9179,6
+You surprise me.,uncertain,0.4385,Personal Growth,0.8279,3
+But I'm still not taking that thing back.,uncertain,0.4296,Family,0.8639,8
+You wanna get to Te Fiti you gotta go through a whole ocean of bad.,very negative,0.5156,Trauma,0.4576,15
+Not to mention Te Kā.,uncertain,0.3933,Family,0.1567,5
+Lava monster?,uncertain,0.3423,Trauma,0.0055,2
+Ever defeat a lava monster?,very negative,0.496,Resilience,0.1017,5
+No.,very negative,0.4577,Family,0.8406,1
+Have you?,uncertain,0.4429,Family,0.8021,2
+I'm not going on a suicide mission with some mortal.,very negative,0.4943,Identity,0.3398,10
+You can't restore the heart without me...,very negative,0.7656,Personal Growth,0.5996,7
+and me says no.,very negative,0.5014,Personal Growth,0.8325,4
+I'm getting my hook.,positive,0.4889,Family,0.5803,4
+End of discussion.,uncertain,0.3994,Family,0.2522,3
+You'd be a hero.,very positive,0.6123,Personal Growth,0.6605,4
+"That's what you're all about, right?",neutral,0.5155,Identity,0.7209,6
+"Little girl, I am a hero.",uncertain,0.4159,Personal Growth,0.8685,6
+Maybe you were.,neutral,0.5943,Personal Growth,0.8269,3
+But now...,uncertain,0.4318,Personal Growth,0.8061,2
+now you're just the guy who stole the heart of Te Fiti.,very positive,0.6468,Trauma,0.9435,12
+The guy who cursed the world.,uncertain,0.2755,Grief,0.2316,6
+You're no one's hero.,very negative,0.6265,Identity,0.5078,4
+No one?,very negative,0.715,Loneliness,0.9432,2
+But...,uncertain,0.3872,Family,0.8111,1
+put this back...,uncertain,0.2566,Family,0.5543,3
+save the world...,uncertain,0.4186,Resilience,0.4291,3
+you'd be everyone's hero.,very positive,0.5917,Personal Growth,0.6517,4
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+You're so amazing!,very positive,0.7485,Personal Growth,0.8256,3
+We'd never make it without my hook.,very negative,0.7205,Family,0.4382,7
+Not past Te Kā.,uncertain,0.3803,Family,0.246,4
+Then we get your hook.,uncertain,0.2809,Family,0.4149,5
+"We get your hook, take out Te Kā, restore the heart.",very positive,0.4926,Personal Growth,0.634,11
+Unless you don't wanna be...,very negative,0.5152,Personal Growth,0.5161,5
+"Maui, demigod of the wind and sea.",very negative,0.4929,Resilience,0.6494,7
+Hero to...,uncertain,0.2664,Personal Growth,0.745,2
+all.,uncertain,0.3758,Family,0.816,1
+"First, we get my hook.",uncertain,0.3146,Resilience,0.5805,5
+Then save the world.,very positive,0.5578,Resilience,0.2373,4
+Deal?,uncertain,0.3774,Family,0.8017,1
+Deal.,neutral,0.4853,Family,0.9249,1
+Worth a shot.,neutral,0.4616,Family,0.7721,3
+"Okay, we go east.",neutral,0.686,Family,0.7173,4
+To the lair of Tamatoa.,uncertain,0.3886,Resilience,0.2887,5
+"If anyone has my hook, it's that beady-eyed bottom-feeder.",uncertain,0.3155,Trauma,0.4637,9
+Teach me to sail.,uncertain,0.3346,Personal Growth,0.7636,4
+My job is to deliver Maui across the great ocean.,uncertain,0.4046,Resilience,0.637,10
+I should...,neutral,0.5159,Personal Growth,0.8693,2
+I should be sailing.,neutral,0.4859,Personal Growth,0.6204,4
+"It's called wayfinding, princess.",uncertain,0.2696,Personal Growth,0.0031,4
+And it's not just sails and knots...,neutral,0.4885,Resilience,0.456,7
+it's seeing where you're going in your mind.,neutral,0.4873,Personal Growth,0.9003,8
+Knowing where you are...,neutral,0.5469,Personal Growth,0.7119,4
+by knowing where you've been.,uncertain,0.3711,Personal Growth,0.571,5
+"Okay, first, I'm not a princess.",neutral,0.4805,Personal Growth,0.8216,6
+I am the daughter of the chief.,very positive,0.4768,Family,0.9957,7
+Same difference.,neutral,0.5707,Family,0.6856,2
+No.,very negative,0.4577,Family,0.8406,1
+"If you wear a dress, and you have an animal sidekick...",neutral,0.5092,Resilience,0.1672,11
+you're a princess.,uncertain,0.386,Romantic Love,0.378,3
+You are not a wayfinder.,uncertain,0.4293,Family,0.4485,5
+"You will never be a wayfinder, you will never be a...",very negative,0.7371,Family,0.1483,11
+Really?,uncertain,0.3086,Family,0.6704,1
+Blow dart in my butt cheek?,uncertain,0.3012,Trauma,0.8083,6
+You are a bad person.,very negative,0.6205,Identity,0.6441,5
+"If you can talk, you can teach.",neutral,0.5946,Resilience,0.7118,7
+Wayfinding.,uncertain,0.2924,Personal Growth,0.0614,1
+Lesson one.,neutral,0.5632,Family,0.2726,2
+Hit it.,uncertain,0.4061,Family,0.8244,2
+Pull the sheet.,very negative,0.6037,Family,0.8139,3
+Not the sheet.,uncertain,0.4467,Resilience,0.2479,3
+No.,very negative,0.4577,Family,0.8406,1
+Nope.,very negative,0.6084,Family,0.6379,1
+Nope.,very negative,0.6084,Family,0.6379,1
+No.,very negative,0.4577,Family,0.8406,1
+Tried that one already.,uncertain,0.3091,Family,0.5576,4
+"You're measuring the stars, not giving the sky a high-five.",neutral,0.4534,Personal Growth,0.116,10
+"If the current's warm, you're going the right way.",uncertain,0.347,Family,0.6838,9
+It's cold.,very negative,0.5075,Family,0.4504,2
+"Wait, it's getting warmer.",uncertain,0.4328,Personal Growth,0.7962,4
+That is disgusting!,very negative,0.6497,Trauma,0.4729,3
+What is wrong with you?,very negative,0.4757,Trauma,0.1802,5
+We're here?,uncertain,0.3478,Identity,0.6234,2
+"See, told you I could do it!",uncertain,0.4105,Personal Growth,0.854,7
+Motunui?,uncertain,0.2785,Personal Growth,0.5512,1
+I'm home?,very positive,0.554,Identity,0.9363,2
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Dad?,uncertain,0.3396,Family,0.9906,1
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Mom?,uncertain,0.3447,Family,0.9891,1
+Help!,uncertain,0.4477,Family,0.7238,1
+No!,very negative,0.5534,Family,0.9037,1
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Enjoy your beauty rest?,uncertain,0.3044,Family,0.5663,4
+"You know, a real wayfinder never sleeps...",uncertain,0.3697,Personal Growth,0.4417,7
+so they actually get where they need to go.,uncertain,0.2739,Family,0.7043,9
+"Muscle up, buttercup.",uncertain,0.4324,Personal Growth,0.9621,3
+We're here.,uncertain,0.3259,Family,0.8748,2
+You're sure this guy's gonna have your hook?,uncertain,0.3281,Family,0.5366,8
+Tamatoa?,uncertain,0.361,Personal Growth,0.2311,1
+"Oh, he'll have it.",uncertain,0.2721,Family,0.882,4
+He's a scavenger.,uncertain,0.36,Resilience,0.0852,3
+Collects stuff.,uncertain,0.4157,Resilience,0.4349,2
+Thinks it makes him look cool.,positive,0.5102,Personal Growth,0.6049,6
+"And for Tamatoa, trust me...",uncertain,0.3078,Personal Growth,0.4439,5
+my hook is the coolest collectible.,uncertain,0.4304,Romantic Love,0.0454,6
+And he lives up there?,uncertain,0.3038,Resilience,0.6979,5
+"No, no, no.",neutral,0.5052,Family,0.9084,3
+That's just the entrance...,uncertain,0.3283,Resilience,0.0205,4
+to Lalotai.,uncertain,0.2744,Romantic Love,0.6725,2
+Lalotai?,uncertain,0.2922,Romantic Love,0.4772,1
+Realm of monsters?,uncertain,0.3079,Trauma,0.0105,3
+We're going to the realm of monsters?,uncertain,0.2844,Trauma,0.0069,7
+We?,uncertain,0.2775,Family,0.6686,1
+No.,very negative,0.4577,Family,0.8406,1
+Me.,uncertain,0.3665,Identity,0.9921,1
+You are gonna stay here with the other chicken.,uncertain,0.3165,Family,0.9359,9
+That's what I'm talking about.,neutral,0.6209,Family,0.7542,5
+Gimme some.,uncertain,0.3774,Family,0.7498,2
+Come on.,uncertain,0.4016,Family,0.8255,2
+That was a good one.,uncertain,0.4228,Family,0.8273,5
+How do you not get it?,very negative,0.5705,Family,0.5145,6
+"I called her a chicken, there's a chicken on the boat.",uncertain,0.2812,Resilience,0.2397,11
+"I know she's human, but that's not the...",neutral,0.4889,Trauma,0.2595,8
+You know what?,neutral,0.4551,Family,0.6533,3
+Forget it.,uncertain,0.4056,Family,0.5781,2
+Forget it!,uncertain,0.4047,Family,0.6504,2
+I'm not explaining it to you.,negative,0.4566,Family,0.5865,6
+'Cause then it's not funny.,uncertain,0.363,Family,0.5643,5
+"So, daughter of the chief...",uncertain,0.2579,Family,0.9939,5
+I thought you stayed in the village.,uncertain,0.3845,Identity,0.224,7
+"You know, kissing babies and things.",uncertain,0.3579,Family,0.4243,6
+"Hey, I'm just trying to understand...",uncertain,0.4118,Personal Growth,0.7528,6
+why your people decided to send...,uncertain,0.3739,Family,0.6413,6
+How do I phrase this?,uncertain,0.3514,Family,0.5903,5
+You.,uncertain,0.4455,Identity,0.9779,1
+My people didn't send me.,very negative,0.6407,Family,0.8814,5
+The ocean did.,uncertain,0.4088,Resilience,0.7284,3
+The ocean?,uncertain,0.3443,Resilience,0.1928,2
+Makes sense.,uncertain,0.3614,Family,0.8883,2
+"You're what, eight?",uncertain,0.3438,Personal Growth,0.8027,3
+Can't sail.,very negative,0.53,Trauma,0.633,2
+Obvious choice.,uncertain,0.3269,Family,0.8285,2
+It chose me for a reason.,neutral,0.5199,Resilience,0.7623,6
+If the ocean's so smart...,uncertain,0.4115,Resilience,0.7093,5
+why didn't it just take the heart back to Te Fiti itself?,uncertain,0.286,Trauma,0.7052,12
+Or bring me my hook?,uncertain,0.3546,Personal Growth,0.3569,5
+The ocean's straight up kooky-dooks.,uncertain,0.3156,Trauma,0.0216,5
+But I'm sure it's not wrong about you.,uncertain,0.4251,Family,0.7963,8
+You're the Chosen One!,very positive,0.7341,Identity,0.9665,4
+The ocean chose you for a reason.,uncertain,0.3301,Resilience,0.4632,7
+"If you start singing, I'm gonna throw up.",uncertain,0.3885,Family,0.6344,8
+"So, not seeing an entrance.",uncertain,0.3838,Personal Growth,0.2625,5
+"Yes, because it only appears...",neutral,0.4596,Family,0.5427,5
+after a human sacrifice.,very negative,0.5083,Trauma,0.2947,4
+Kidding.,uncertain,0.3581,Family,0.282,1
+So serious.,very negative,0.5009,Family,0.537,2
+Don't worry...,very negative,0.5537,Resilience,0.8479,2
+it's a lot farther down than it looks.,negative,0.5322,Resilience,0.6205,8
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+I am still falling!,very negative,0.5266,Trauma,0.8368,4
+You can do this.,uncertain,0.3201,Resilience,0.724,4
+Go!,very positive,0.4999,Personal Growth,0.9034,1
+And he sticks the landing.,uncertain,0.3642,Family,0.9062,5
+What?,uncertain,0.396,Family,0.3908,1
+"Dum-dum, she's not even here.",very negative,0.4716,Loneliness,0.8382,5
+No mortal's gonna jump into the realm of...,uncertain,0.3131,Family,0.135,8
+Huh?,uncertain,0.3473,Personal Growth,0.5272,1
+"Well, she's dead.",uncertain,0.439,Trauma,0.5892,3
+"Okay, let's get my hook.",uncertain,0.3993,Family,0.6528,5
+Maui's fishhook!,very positive,0.5246,Resilience,0.0827,2
+Yeah!,uncertain,0.3534,Family,0.8606,1
+Sorry!,uncertain,0.2688,Grief,0.7504,1
+I thought you were a monster...,very negative,0.7351,Trauma,0.7587,6
+But I found your hook.,uncertain,0.439,Resilience,0.5376,5
+"And, you're right, this Tamatoa guy really likes his treasure.",very positive,0.5399,Empathy,0.4999,10
+Stay.,uncertain,0.3367,Resilience,0.9278,1
+What?,uncertain,0.396,Family,0.3908,1
+No.,very negative,0.4577,Family,0.8406,1
+I'm the one who found...,uncertain,0.2836,Resilience,0.7453,5
+Listen.,uncertain,0.3697,Family,0.904,1
+For a thousand years...,uncertain,0.3171,Family,0.8933,4
+I've only been thinking of keeping this hair silky...,uncertain,0.3211,Personal Growth,0.732,9
+getting my hook...,uncertain,0.3525,Personal Growth,0.8834,3
+and being awesome again.,very positive,0.6057,Personal Growth,0.9236,4
+And it's not getting screwed up by a mortal...,uncertain,0.3651,Resilience,0.747,9
+"who has no business inside of a monster cave, except...",uncertain,0.3375,Trauma,0.2785,10
+Except...,uncertain,0.3529,Family,0.3555,1
+maybe as bait.,neutral,0.5189,Family,0.1916,3
+Huh?,uncertain,0.3473,Personal Growth,0.5272,1
+Wow!,very positive,0.5691,Family,0.8282,1
+"The shiny, glittery cave.",uncertain,0.3514,Resilience,0.0576,4
+And just like me...,uncertain,0.3432,Identity,0.8924,4
+it is covered in sparkly treasure.,very positive,0.5737,Family,0.6511,6
+"Sparkle, sparkle, sparkle.",neutral,0.6688,Family,0.7918,3
+You're not selling it!,very negative,0.5004,Family,0.6867,4
+This is stupid!,uncertain,0.415,Family,0.3327,3
+I'm just gonna walk up and get it!,very positive,0.5423,Personal Growth,0.8218,8
+"You go up there, he will kill you.",very positive,0.4796,Family,0.5699,8
+Just stick to the plan.,uncertain,0.4469,Family,0.7321,5
+"When he shows up, keep him distracted.",negative,0.4934,Personal Growth,0.5623,7
+Make him talk about himself.,uncertain,0.4373,Personal Growth,0.8762,5
+He loves bragging about how great he is.,uncertain,0.4392,Personal Growth,0.7918,8
+You two must get along swell.,uncertain,0.2972,Friendship,0.8781,6
+"No, not since I ripped off his leg.",uncertain,0.4438,Trauma,0.9306,8
+You ripped off his...,very negative,0.645,Trauma,0.7881,4
+Maui?,uncertain,0.2611,Resilience,0.3449,1
+What have we here?,uncertain,0.4373,Family,0.3243,4
+"It's a sparkly, shiny...",uncertain,0.3331,Personal Growth,0.7371,4
+Wait a minute.,neutral,0.5314,Family,0.7425,3
+It's a human!,very positive,0.4598,Personal Growth,0.8482,3
+"What are you doing down here, in the realm of the...",uncertain,0.3851,Identity,0.313,11
+"Just pick an eye, babe.",uncertain,0.3267,Romantic Love,0.6627,5
+I can't concentrate on what I'm saying if you keep...,neutral,0.4805,Family,0.6858,10
+"Yeah, pick one, pick one!",uncertain,0.3563,Personal Growth,0.2571,5
+"You're a funny-looking little thing, aren't you?",uncertain,0.4037,Family,0.7965,7
+Don't!,very negative,0.5023,Family,0.8107,1
+That's my gramma's!,uncertain,0.4065,Family,0.9971,3
+"""That's my gramma's!"" I ate my gramma!",very positive,0.5532,Family,0.9861,7
+"And it took a week, 'cause she was absolutely humongous.",uncertain,0.3435,Family,0.8699,10
+Why are you here?,uncertain,0.3868,Identity,0.3387,4
+'Cause you're amazing!,very positive,0.5861,Family,0.8306,3
+And we mortals have heard of the tale of the crab who became a legend!,very positive,0.4942,Resilience,0.0257,15
+And I just had to know...,uncertain,0.4259,Family,0.8179,6
+how you became so...,neutral,0.4965,Personal Growth,0.8386,4
+crabulous?,very negative,0.6689,Trauma,0.1551,1
+Are you just trying to get me to talk about myself?,uncertain,0.3301,Identity,0.3944,11
+Because if you are...,neutral,0.4662,Identity,0.6454,4
+I will gladly do so.,uncertain,0.4062,Family,0.8173,5
+Huh?,uncertain,0.3473,Personal Growth,0.5272,1
+In song form!,very positive,0.5127,Romantic Love,0.6101,3
+"Well, Tamatoa hasn't always been this glam I was a drab little crab once Now I know I can be happy as a clam Because I'm beautiful, baby And did your granny say Listen to your heart Be who you are on the inside I need three words To tear her argument apart Your granny lied I'd rather be shiny Like a treasure From a sunken pirate wreck Scrub the deck And make it look shiny I will sparkle like a Wealthy woman's neck Just a sec Don't ya know Fish are dumb, dumb, dumb They chase anything that glitters Beginners Oh, and here they come, come, come To the brightest thing that glitters Mm, fish dinners I just love free food And you look like seafood Hey, crab cake!",very positive,0.4869,Personal Growth,0.9851,130
+I'm back.,uncertain,0.3526,Resilience,0.8794,2
+It's Maui Time!,very positive,0.6391,Personal Growth,0.1742,3
+"What do you say, little buddy?",neutral,0.5651,Friendship,0.8127,6
+Giant hawk?,uncertain,0.2702,Resilience,0.0382,2
+Coming up!,uncertain,0.4177,Family,0.7924,2
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+"Well, well, well.",uncertain,0.4017,Family,0.8425,3
+Little Maui's having trouble with his look Ya little semi-demi-mini-god Ouch What a terrible performance Get the hook Get it?,very negative,0.5922,Personal Growth,0.6756,20
+"You don't swing it Like you used to, man Yet I have to give you Credit for my start And your tattoos on the outside For just like you I made myself a work of art I'll never hide I can't I'm too shiny Watch me dazzle Like a diamond in the rough Strut my stuff My stuff is so shiny Send your armies But they'll never be enough My shell's too tough Maui, man You can try, try, try But you can't expect a demigod To beat a decapod Look it up You will die, die, die Now it's time for me to take apart Your achin' heart Far from the ones who abandoned you Chasing the love of these humans Who made you feel wanted You tried to be tough But your armor's just not hard enough Maui Now it's time to kick your heinie Ever seen someone so shiny Soak it in 'Cause it's the last you'll ever see C'est la vie Mon ami I'm so shiny Now I eat you so prepare your final plea Just for me You'll never be quite as shiny You wish you were nice and shiny Hey!",uncertain,0.3451,Personal Growth,0.921,196
+Huh?,uncertain,0.3473,Personal Growth,0.5272,1
+I got something shiny for ya!,positive,0.4669,Resilience,0.7339,6
+The heart of Te Fiti.,very positive,0.6365,Family,0.9582,5
+You can't run from me!,uncertain,0.3465,Identity,0.7762,5
+"Oh, you can.",uncertain,0.4156,Family,0.8122,3
+You keep surprising me.,neutral,0.5808,Personal Growth,0.8683,4
+There's only so far you can get on those two little legs.,uncertain,0.4051,Family,0.4342,12
+The power of creation...,uncertain,0.3665,Family,0.0847,4
+for a crustacean.,uncertain,0.3971,Resilience,0.7645,3
+Where is it?,uncertain,0.4163,Family,0.3797,3
+Where is it?,uncertain,0.4163,Family,0.3797,3
+We gotta go!,very positive,0.4749,Personal Growth,0.6678,3
+What about the heart?,uncertain,0.4145,Personal Growth,0.4814,4
+He can have it.,uncertain,0.4487,Family,0.8751,4
+I've got a better one.,uncertain,0.3346,Family,0.5841,5
+"Yes, I have the...",neutral,0.4584,Family,0.8671,4
+Wait a minute.,neutral,0.5314,Family,0.7425,3
+"I see, she's taken a barnacle and she's covered it in...",uncertain,0.3714,Trauma,0.6668,11
+bioluminescent algae as a diversion.,uncertain,0.4274,Family,0.0362,5
+Come back here!,very positive,0.6049,Family,0.797,3
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+Hey!,uncertain,0.3457,Family,0.7355,1
+Did you like the song?,uncertain,0.2671,Family,0.5907,5
+We're alive!,very positive,0.6066,Resilience,0.9676,2
+We're alive!,very positive,0.6066,Resilience,0.9676,2
+Listen...,uncertain,0.3659,Family,0.8626,1
+I appreciate what you did down there.,neutral,0.4807,Resilience,0.644,7
+Mm-hmm.,neutral,0.4894,Family,0.8868,1
+Took guts.,uncertain,0.3549,Personal Growth,0.8947,2
+Mm-hmm.,neutral,0.4894,Family,0.8868,1
+But...,uncertain,0.3872,Family,0.8111,1
+Mm-hmm.,neutral,0.4894,Family,0.8868,1
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+"I'm trying to be sincere for once, and it feels like you're distracted.",negative,0.5424,Personal Growth,0.6622,13
+"No, no.",uncertain,0.4292,Family,0.8691,2
+No way!,very negative,0.6604,Family,0.7808,2
+Really?,uncertain,0.3086,Family,0.6704,1
+Because you're looking at me like I have a...,uncertain,0.3145,Empathy,0.6426,9
+shark head.,uncertain,0.2871,Trauma,0.2295,2
+What?,uncertain,0.396,Family,0.3908,1
+Do you have a shark head?,uncertain,0.3178,Trauma,0.1177,6
+"Look, the point is...",neutral,0.5186,Family,0.6468,4
+"for a little girl, child, thing, whatever...",uncertain,0.4332,Personal Growth,0.764,7
+who had no business being down there...,uncertain,0.4461,Trauma,0.396,7
+you did me a solid.,positive,0.4538,Friendship,0.8477,5
+But you also almost died.,very negative,0.5895,Trauma,0.9444,5
+And I couldn't even beat that dumb crab.,uncertain,0.4435,Trauma,0.597,8
+"So, chances of beating Te Kā?",uncertain,0.3708,Resilience,0.078,6
+Bupkis.,uncertain,0.3426,Personal Growth,0.3227,1
+We're never making it to Te Fiti.,very negative,0.6982,Trauma,0.1651,7
+This mission is cursed.,very negative,0.5539,Grief,0.4389,4
+It's not cursed.,uncertain,0.4025,Family,0.8202,3
+Shark head.,uncertain,0.3479,Trauma,0.3681,2
+It is not cursed.,uncertain,0.3052,Family,0.8352,4
+Cursed.,very negative,0.6776,Trauma,0.8228,1
+What can I say except We're dead soon We're dead soon Can you at least try?,uncertain,0.4175,Family,0.8841,16
+Giant hawk.,uncertain,0.3044,Resilience,0.3248,2
+"Hey, it's okay, it's okay We're dead soon All right, break time's over.",neutral,0.4727,Family,0.8299,13
+Get up.,uncertain,0.3873,Personal Growth,0.9835,2
+Why?,uncertain,0.3626,Family,0.3678,1
+Are you gonna give me a speech?,uncertain,0.3766,Family,0.3328,7
+"Tell me I can beat Te Kā 'cause I'm ""Maui?"" Take a hike, Tiny.",uncertain,0.3136,Identity,0.9328,14
+How do you get your tattoos?,uncertain,0.3725,Family,0.1651,6
+They show up.,uncertain,0.4178,Family,0.9159,3
+When I earn them.,uncertain,0.2864,Personal Growth,0.7454,4
+How'd you earn that one?,uncertain,0.3294,Personal Growth,0.5642,5
+What's that for?,neutral,0.4612,Family,0.2366,3
+That's man's discovery of Nunya.,uncertain,0.3465,Personal Growth,0.0149,5
+What's Nunya?,uncertain,0.3741,Family,0.0307,2
+Nunya business.,uncertain,0.2981,Loneliness,0.0533,2
+I'll just keep asking.,uncertain,0.3837,Family,0.7485,4
+What's it for?,neutral,0.4813,Personal Growth,0.2055,3
+You need to stop doing that.,uncertain,0.3862,Family,0.6812,6
+Back off.,uncertain,0.3714,Family,0.7485,2
+Just tell me what it is.,neutral,0.5406,Personal Growth,0.1146,6
+I said back off.,uncertain,0.3744,Trauma,0.5298,4
+Is it why your hook's not working?,uncertain,0.3991,Family,0.0981,7
+"You don't wanna talk, don't talk.",uncertain,0.448,Loneliness,0.7905,6
+You wanna throw me off the boat...,uncertain,0.3078,Trauma,0.7679,7
+throw me off.,uncertain,0.4115,Trauma,0.5032,3
+You wanna tell me I don't know what I'm doing...,uncertain,0.3855,Personal Growth,0.735,10
+I know I don't.,uncertain,0.4389,Identity,0.6707,4
+I have no idea why the ocean chose me.,neutral,0.4877,Resilience,0.4483,9
+You're right.,neutral,0.5339,Family,0.7645,2
+But my island is dying...,very negative,0.5673,Grief,0.6998,5
+so I am here.,uncertain,0.3374,Identity,0.9346,4
+It's just me and you.,very positive,0.648,Identity,0.9541,5
+And I want to help...,uncertain,0.4408,Family,0.846,5
+but I can't if you don't let me.,neutral,0.5013,Family,0.8285,8
+I wasn't born a demigod.,uncertain,0.3293,Personal Growth,0.6015,5
+I had human parents.,uncertain,0.3211,Family,0.9928,4
+They took one look and decided...,uncertain,0.3903,Family,0.869,6
+they did not want me.,uncertain,0.3485,Loneliness,0.853,5
+They threw me into the sea...,uncertain,0.3672,Trauma,0.9551,6
+like I was nothing.,very negative,0.5085,Loneliness,0.886,4
+"Somehow, I was found by the gods.",very positive,0.6742,Identity,0.6722,7
+They gave me the hook.,uncertain,0.4495,Family,0.7206,5
+They made me...,very positive,0.4766,Family,0.9668,3
+Maui.,uncertain,0.3212,Resilience,0.6943,1
+And back to the humans I went.,uncertain,0.3984,Family,0.5462,7
+"I gave them islands, fire, coconuts.",very positive,0.4598,Resilience,0.6432,6
+Anything they could ever want.,uncertain,0.3649,Family,0.7227,5
+You took the heart for them.,very positive,0.5064,Empathy,0.9381,6
+You did everything for them.,very positive,0.5204,Family,0.9088,5
+So they'd love you.,very positive,0.515,Family,0.9471,4
+It was never enough.,very negative,0.5897,Family,0.8205,4
+Maybe the gods found you for a reason.,uncertain,0.395,Resilience,0.6576,8
+Maybe the ocean brought you to them...,uncertain,0.4477,Resilience,0.4892,7
+because it saw someone who was worthy of being saved.,uncertain,0.3423,Empathy,0.7099,10
+But the gods aren't the ones who make you Maui.,uncertain,0.3436,Personal Growth,0.532,10
+You are.,neutral,0.5926,Identity,0.9896,2
+"Okay, okay.",neutral,0.7579,Family,0.7632,2
+"I love you, too, buddy.",uncertain,0.351,Family,0.9713,5
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+Yeah!,uncertain,0.3534,Family,0.8606,1
+"Next stop, Te Fiti.",uncertain,0.3586,Family,0.088,4
+What?,uncertain,0.396,Family,0.3908,1
+I figured it out.,uncertain,0.421,Family,0.7911,4
+"You know, the ocean used to love when I pulled up islands...",uncertain,0.3659,Resilience,0.472,12
+'cause your ancestors would sail her seas and find 'em.,uncertain,0.3672,Family,0.9561,10
+"All those new lands, new villages.",very positive,0.5258,Resilience,0.1425,6
+It was the water that connected 'em all.,very positive,0.4769,Family,0.6558,8
+And if I were the ocean...,neutral,0.5825,Resilience,0.2492,6
+I think I'd be looking for a curly-haired non-princess...,uncertain,0.3563,Personal Growth,0.5797,9
+to start that again.,uncertain,0.265,Family,0.7138,4
+That is literally the nicest thing you've ever said to me.,very positive,0.8068,Family,0.781,11
+Probably should have saved it for Te Fiti.,uncertain,0.2934,Resilience,0.1504,8
+I did.,neutral,0.4724,Family,0.8655,2
+Moana of Motunui...,uncertain,0.2925,Family,0.8695,3
+I believe you have officially delivered Maui across the great sea.,very positive,0.5557,Resilience,0.7096,11
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+You're so amazing!,very positive,0.7485,Personal Growth,0.8256,3
+It's time.,neutral,0.6991,Personal Growth,0.7222,2
+Go save the world.,very positive,0.5619,Resilience,0.231,4
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+What are you doing?,neutral,0.5407,Personal Growth,0.5829,4
+Finding you a better way in!,uncertain,0.4273,Personal Growth,0.7818,6
+We won't make it!,very negative,0.61,Family,0.8313,4
+"Yes, we will!",very positive,0.5803,Family,0.9393,3
+Turn around!,uncertain,0.3969,Personal Growth,0.8874,2
+No!,very negative,0.5534,Family,0.9037,1
+"Moana, stop!",uncertain,0.2525,Trauma,0.3432,2
+No!,very negative,0.5534,Family,0.9037,1
+Are you okay?,neutral,0.5205,Empathy,0.7858,3
+Maui?,uncertain,0.2611,Resilience,0.3449,1
+I told you to turn back.,uncertain,0.333,Trauma,0.6256,6
+I thought we could make it.,uncertain,0.3162,Family,0.8248,6
+We?,uncertain,0.2775,Family,0.6686,1
+I thought I could make it.,uncertain,0.2932,Personal Growth,0.7677,6
+We can fix it.,uncertain,0.2578,Family,0.81,4
+It was made by the gods.,very positive,0.5019,Resilience,0.5348,6
+You can't fix it!,uncertain,0.3741,Family,0.8019,4
+Next time we'll be more careful.,uncertain,0.3925,Family,0.8153,6
+Te Kā was stuck on the barrier islands.,negative,0.5594,Loneliness,0.4986,8
+"It's lava, it can't go in the water.",very negative,0.5187,Trauma,0.0048,8
+We can find a way around.,uncertain,0.4107,Resilience,0.6726,6
+I'm not going back.,negative,0.4545,Personal Growth,0.7087,4
+We still have to restore the heart.,very positive,0.461,Personal Growth,0.7184,7
+My hook is cracked.,very negative,0.5404,Trauma,0.8959,4
+"One more hit, and it's over.",uncertain,0.3667,Family,0.5627,6
+"Maui, you have to restore the heart.",very positive,0.5115,Personal Growth,0.7485,7
+"Without my hook, I am nothing.",very negative,0.6744,Identity,0.5407,6
+That's not true!,uncertain,0.4314,Family,0.6449,3
+"Without my hook, I am nothing!",very negative,0.7171,Identity,0.4241,6
+We are only here...,uncertain,0.3645,Identity,0.8588,4
+because you stole the heart in the first place.,uncertain,0.4106,Trauma,0.9591,9
+"No, we're here because the ocean told you you're special...",uncertain,0.3598,Personal Growth,0.3608,10
+and you believed it.,neutral,0.4522,Family,0.8298,4
+I am Moana of Motunui.,uncertain,0.2884,Identity,0.9782,5
+You will board my boat...,uncertain,0.3657,Resilience,0.691,5
+"Goodbye, Moana.",uncertain,0.2956,Grief,0.176,2
+...sail across the sea...,uncertain,0.2842,Resilience,0.2939,4
+I'm not killing myself...,uncertain,0.3043,Resilience,0.801,4
+so you can prove you're something you're not!,uncertain,0.3928,Identity,0.5657,8
+...and restore the heart of Te Fiti!,very positive,0.5851,Family,0.9282,7
+The ocean chose me!,very positive,0.6637,Identity,0.6929,4
+It chose wrong.,very negative,0.4737,Family,0.8065,3
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+Why did you bring me here?,uncertain,0.3071,Personal Growth,0.4934,6
+I'm not the right person.,negative,0.5322,Identity,0.766,5
+You have to choose someone else.,neutral,0.7453,Personal Growth,0.431,6
+Choose someone else.,neutral,0.4997,Personal Growth,0.5924,3
+Please.,uncertain,0.3244,Family,0.8544,1
+No.,very negative,0.4577,Family,0.8406,1
+You're a long ways past the reef.,uncertain,0.3396,Personal Growth,0.5732,7
+Gramma?,very negative,0.4526,Family,0.9839,1
+Guess I chose the right tattoo.,uncertain,0.2619,Family,0.6788,6
+Gramma!,uncertain,0.352,Family,0.9952,1
+"I tried, Gramma.",uncertain,0.4234,Family,0.9893,3
+I couldn't do it.,very negative,0.4984,Family,0.768,4
+It's not your fault.,uncertain,0.3461,Family,0.7178,4
+I never should have put so much on your shoulders.,very negative,0.5237,Trauma,0.6939,10
+If you are ready to go home...,uncertain,0.3255,Family,0.4575,7
+I will be with you.,uncertain,0.3332,Friendship,0.9406,5
+Why do you hesitate?,uncertain,0.4123,Family,0.5427,4
+I don't know.,uncertain,0.4149,Personal Growth,0.5138,3
+"I know a girl from an island She stands apart from the crowd She loves the sea and her people She makes her whole family proud Sometimes the world seems against you The journey may leave a scar But scars can heal and reveal just Where you are The people you love will change you The things you have learned will guide you And nothing on earth can silence The quiet voice still inside you And when that voice starts to whisper Moana, you've come so far Moana, listen Do you know who you are?",very positive,0.4735,Personal Growth,0.959,95
+Who am I?,uncertain,0.4473,Identity,0.942,3
+I am a girl who loves my island And the girl who loves the sea It calls me I am the daughter of the village chief We are descended from voyagers Who found their way across the world They call me I've delivered us to where we are I have journeyed farther I am everything I've learned and more Still it calls me And the call isn't out there at all It's inside me It's like the tide Always falling and rising I will carry you here in my heart You remind me That come what may I know the way I am Moana I am Moana of Motunui.,very positive,0.7441,Family,0.9593,109
+Aboard my boat...,very negative,0.6708,Resilience,0.693,3
+I will sail across the sea...,uncertain,0.389,Resilience,0.5281,6
+and restore the heart of Te Fiti.,very positive,0.5139,Family,0.9063,7
+Te Kā can't follow us into the water.,uncertain,0.4334,Resilience,0.4698,8
+We make it past the barrier islands...,uncertain,0.3977,Resilience,0.7718,7
+we make it to Te Fiti.,uncertain,0.3995,Resilience,0.3448,6
+None of which you understand...,very negative,0.4894,Trauma,0.4097,5
+because you are a chicken.,uncertain,0.3726,Trauma,0.4899,5
+No!,very negative,0.5534,Family,0.9037,1
+Heihei!,very positive,0.6334,Identity,0.9619,1
+"No, no, no!",very negative,0.5215,Family,0.9186,3
+Nice work!,uncertain,0.395,Family,0.7836,2
+Te Fiti.,uncertain,0.2579,Family,0.9795,2
+Maui!,very positive,0.5062,Personal Growth,0.5425,1
+You came back.,very positive,0.5203,Resilience,0.9766,3
+But your hook.,uncertain,0.3259,Personal Growth,0.5502,3
+One more hit and...,uncertain,0.3962,Family,0.5254,4
+Te Kā's gotta catch me first.,uncertain,0.3801,Personal Growth,0.762,6
+"I got your back, Chosen One.",very positive,0.5898,Empathy,0.8747,6
+Go save the world.,very positive,0.5619,Resilience,0.231,4
+Maui.,uncertain,0.3212,Resilience,0.6943,1
+Thank you.,positive,0.5047,Family,0.8872,2
+You're welcome.,positive,0.4571,Family,0.8921,2
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+"Hot-hot-hot, hot-hot-hot!",very positive,0.4985,Family,0.8641,2
+"Hey, Te Kā!",uncertain,0.3525,Friendship,0.8599,3
+Shark head!,uncertain,0.4411,Trauma,0.2979,2
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Get the heart to the spiral!,very positive,0.5809,Personal Growth,0.7772,6
+Te Fiti...,uncertain,0.2742,Family,0.9871,2
+it's gone.,negative,0.4527,Family,0.6839,2
+Te Kā!,uncertain,0.4384,Family,0.7963,2
+Let her come to me.,uncertain,0.4224,Family,0.9094,5
+I have crossed the horizon to find you I know your name They have stolen the heart from inside you But this does not define you This is not who you are You know who you are Who you truly are.,uncertain,0.407,Trauma,0.7691,41
+Te Fiti!,very positive,0.6377,Family,0.9753,2
+The chicken lives.,uncertain,0.2929,Resilience,0.9829,3
+I'm sorry about your hook.,neutral,0.4698,Trauma,0.4048,5
+"Well, hook, no hook...",neutral,0.5244,Family,0.6191,4
+I'm Maui.,uncertain,0.2806,Identity,0.9836,2
+Te Fiti!,very positive,0.6377,Family,0.9753,2
+"Hey, I mean, how you been?",uncertain,0.4182,Empathy,0.8815,6
+"Look, what I did was...",neutral,0.509,Resilience,0.5841,5
+wrong.,uncertain,0.4045,Family,0.6837,1
+I have no excuse.,very negative,0.5196,Trauma,0.3543,4
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+"You know, it'd be rude to refuse a gift from a goddess.",uncertain,0.3848,Resilience,0.2853,12
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+Thank you.,positive,0.5047,Family,0.8872,2
+Your kind gesture is deeply appreciated.,very positive,0.5832,Family,0.8106,6
+Cheeeehoooo.,uncertain,0.3301,Family,0.7518,1
+"Gonna miss you, drumstick.",uncertain,0.3108,Grief,0.9544,4
+"You could come with us, you know.",uncertain,0.3372,Family,0.9404,7
+My people are going to need a master wayfinder.,uncertain,0.3294,Family,0.6383,9
+They already have one.,uncertain,0.2869,Family,0.8649,4
+"See you out there, Maui.",uncertain,0.33,Personal Growth,0.7972,5
+"See you out there, Moana.",uncertain,0.301,Personal Growth,0.6274,5
+Cheeeehoooo!,uncertain,0.4167,Family,0.7249,1
+Mom!,very positive,0.4899,Family,0.9947,1
+Dad!,uncertain,0.4203,Family,0.9946,1
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+I may have gone a little ways past the reef.,uncertain,0.4414,Personal Growth,0.687,10
+It suits you.,uncertain,0.4333,Personal Growth,0.8468,3
+She's back!,very positive,0.5931,Resilience,0.9378,2
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Pua!,very positive,0.5039,Family,0.7197,1
+Moana!,very positive,0.5244,Personal Growth,0.0756,1
+Welcome home!,very positive,0.6075,Family,0.9696,2
+"We set a course to find A brand new island everywhere we roam We keep our island in our mind And when it's time to find home We know the way We are explorers reading every sign We tell the stories of our elders In a never-ending chain We know the way Shiny I'm so shiny Didn't help me though, did it?",uncertain,0.3909,Personal Growth,0.4299,62
+Still upside down here.,uncertain,0.324,Family,0.7774,4
+Just need a little push.,uncertain,0.3448,Personal Growth,0.8609,5
+Can we be real?,uncertain,0.3997,Family,0.6579,4
+If my name was Sebastian and I had a cool Jamaican accent...,uncertain,0.3368,Personal Growth,0.7598,12
+you'd totally help me.,very positive,0.5988,Empathy,0.7492,4
+You would.,neutral,0.4931,Family,0.9042,2
+You know you would.,neutral,0.5289,Family,0.8899,4
