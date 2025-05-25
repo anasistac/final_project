@@ -1,0 +1,1520 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+"In ancient times, the land lay covered in forests, where, from ages long past, dwelt the spirits of the gods.",uncertain,0.3746,Resilience,0.1931,20
+PRINCESS MONONOKE Yakul!,very positive,0.6972,Personal Growth,0.1012,3
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+The wise woman wants everybody back to the village at once.,very positive,0.5114,Family,0.8781,11
+We just came from Ji-san.,uncertain,0.3307,Personal Growth,0.6209,5
+Ji-san?,uncertain,0.2737,Personal Growth,0.7216,1
+"Yes, in the forest.",neutral,0.4721,Resilience,0.6513,4
+Something's wrong.,uncertain,0.3542,Family,0.7679,2
+The birds have gone.,negative,0.5361,Trauma,0.4736,4
+The animals too.,uncertain,0.3967,Resilience,0.6771,3
+I'll go check with Ji-san.,neutral,0.4776,Family,0.8483,5
+You three hurry back home.,uncertain,0.2307,Family,0.9773,5
+Something's there.,neutral,0.6827,Resilience,0.5597,2
+"Ji-san, did you see it too?",uncertain,0.2959,Family,0.8514,6
+I did.,neutral,0.4724,Family,0.8655,2
+It isn't human.,uncertain,0.359,Trauma,0.417,3
+The wise woman's calling everybody back to the village.,uncertain,0.3715,Family,0.855,9
+There.,neutral,0.639,Family,0.8052,1
+Look.,uncertain,0.3684,Family,0.8535,1
+It's some kind of demon!,uncertain,0.3498,Trauma,0.004,5
+A demon?,very negative,0.6065,Trauma,0.0127,2
+"Run, Yakul!",uncertain,0.4267,Personal Growth,0.8188,2
+It's headed for the village.,uncertain,0.372,Resilience,0.6335,5
+I've got to stop it.,uncertain,0.2657,Family,0.7761,5
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+That thing is cursed!,very negative,0.5477,Grief,0.8657,4
+Don't let it touch you!,very negative,0.4899,Resilience,0.7227,5
+Yakul!,very positive,0.6529,Personal Growth,0.6246,1
+"Calm your fury, O mighty Lord!",very positive,0.6505,Trauma,0.5916,6
+"Whatever you may be, god or demon, please leave us in peace!",very positive,0.6739,Family,0.715,12
+The monster!,very positive,0.5391,Trauma,0.2243,2
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Go back!,uncertain,0.4269,Trauma,0.6087,2
+Leave our village alone!,uncertain,0.3402,Loneliness,0.575,4
+Stop!,uncertain,0.2849,Family,0.771,1
+Please!,uncertain,0.248,Family,0.8072,1
+Get up!,uncertain,0.4082,Personal Growth,0.9846,2
+He killed it!,very negative,0.6486,Family,0.7828,3
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+Fetch the wise woman!,very negative,0.5136,Personal Growth,0.4888,4
+Don't put the fire out yet.,very negative,0.4935,Resilience,0.7911,6
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+"Kaya, don't touch it.",uncertain,0.4196,Family,0.896,4
+This wound is evil.,very negative,0.7616,Trauma,0.9734,4
+Ashitaka is hurt!,uncertain,0.3201,Trauma,0.9363,3
+Where is the wise woman?,uncertain,0.3068,Personal Growth,0.4918,5
+"You must keep away from him, all of you.",uncertain,0.3114,Family,0.7646,9
+"Everyone, stay back.",uncertain,0.2837,Family,0.9754,3
+What shall we do?,neutral,0.4522,Family,0.6707,4
+"Take this and pour it over his wound, child, slowly.",very positive,0.5196,Trauma,0.9573,10
+All right.,uncertain,0.4407,Family,0.828,2
+"O nameless god of rage and hate, I bow before you.",very positive,0.467,Trauma,0.0347,11
+Where you have fallen we will raise a mound and perform rites.,uncertain,0.2471,Trauma,0.7983,12
+Pass on in peace and bear us no hatred.,very positive,0.5673,Family,0.8842,9
+"Disgusting little creatures, soon all of you will feel my hate and suffer as I have suffered.",very negative,0.7588,Trauma,0.7932,17
+I'm afraid this is very bad.,very negative,0.7422,Family,0.7813,6
+The stones tell me the boar god came from far to the west.,uncertain,0.3897,Resilience,0.1447,13
+"He had some kind of poison inside him, driving him mad, a poisonous hatred that consumed his heart and flesh...",uncertain,0.3733,Trauma,0.8911,20
+and turned him into a demon monster.,very negative,0.5504,Trauma,0.5833,7
+Prince Ashitaka?,very positive,0.4783,Romantic Love,0.7805,2
+Yes?,uncertain,0.4134,Family,0.849,1
+Show everyone your right arm.,very positive,0.5372,Personal Growth,0.8374,5
+Hii-sama!,very positive,0.4626,Family,0.9354,1
+"My prince, are you prepared to learn what fate the stones have foretold you?",uncertain,0.2528,Family,0.5534,14
+"Yes, I was prepared the very moment that I let my arrow fly.",uncertain,0.436,Resilience,0.8402,13
+"The infection will spread, cause you great pain and kill you.",very positive,0.5,Family,0.4101,11
+Is there no way we can stop it?,very negative,0.6072,Family,0.6564,8
+The prince got that wound by defending our village and saving our lives!,very positive,0.5688,Trauma,0.9601,13
+Do we just sit here and watch him die?,uncertain,0.4018,Family,0.8565,9
+"You cannot alter your fate, my prince.",very positive,0.6445,Family,0.633,7
+"However, you can rise to meet it, if you choose.",uncertain,0.4041,Resilience,0.9316,10
+Look at this.,uncertain,0.3553,Family,0.797,3
+This iron ball was found in the boar's body.,uncertain,0.3754,Trauma,0.9162,9
+It shattered his bones and burned its way deep inside him.,very negative,0.7589,Trauma,0.9642,11
+This is what turned him into a demon.,very negative,0.6002,Trauma,0.9407,8
+"There is evil at work in the land to the west, Prince Ashitaka.",uncertain,0.3609,Trauma,0.1,13
+It's your fate to go there and see what you can see with eyes unclouded by hate.,very negative,0.6208,Personal Growth,0.29,17
+You may find a way to lift the curse.,neutral,0.576,Family,0.6596,9
+You understand?,neutral,0.4624,Family,0.7922,2
+Yes.,uncertain,0.3673,Family,0.9347,1
+We are the last of the Emishi.,uncertain,0.3753,Family,0.5741,7
+It's 500 years since the emperor destroyed our tribe...,very negative,0.5485,Trauma,0.9755,9
+and drove the remnants of our people to the east.,uncertain,0.3893,Family,0.8463,10
+"Some managed to survive here for all these years, but our tribe's blood has grown thinner and weaker with each generation.",neutral,0.4948,Family,0.9328,21
+"Now our last prince must cut his hair and leave us, never to return?",uncertain,0.4319,Family,0.9425,14
+Sometimes I think the gods are laughing at us.,uncertain,0.2624,Trauma,0.521,9
+"Our laws forbid us from watching you go, Ashitaka.",uncertain,0.4493,Trauma,0.3718,9
+Farewell.,uncertain,0.3897,Grief,0.6454,1
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+"Kaya, what are you doing here?",uncertain,0.3566,Family,0.3865,6
+You know it's forbidden.,uncertain,0.3058,Family,0.4512,4
+Do you think I care about that?,uncertain,0.4212,Family,0.4903,7
+I came to give you this so you won't forget your little sister.,very positive,0.4923,Family,0.978,13
+Your crystal dagger.,uncertain,0.3847,Resilience,0.2424,3
+"Kaya, I can't take this.",uncertain,0.444,Family,0.8307,5
+"Please, keep it with you, brother, to protect you.",uncertain,0.3269,Family,0.9908,9
+"Please, I want you to have it, so you won't...",uncertain,0.37,Family,0.8723,10
+forget.,very negative,0.4826,Family,0.3589,1
+"Kaya, you know I could never forget you.",very positive,0.4634,Family,0.9337,8
+A battle?,uncertain,0.4031,Resilience,0.0054,2
+Move in!,very positive,0.4849,Personal Growth,0.9093,2
+Look!,uncertain,0.4131,Family,0.7393,1
+"Up there, on the hill!",uncertain,0.4274,Family,0.7363,5
+His head is mine!,uncertain,0.4196,Identity,0.9509,4
+Stop!,uncertain,0.2849,Family,0.771,1
+My arm!,very positive,0.5359,Trauma,0.9163,2
+What's happening to me?,neutral,0.4898,Personal Growth,0.5145,4
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Stop him before he gets away!,very negative,0.456,Trauma,0.6166,6
+Let me pass!,very positive,0.4587,Personal Growth,0.8138,3
+I'm warning you!,very positive,0.5148,Family,0.7296,3
+A demon.,very negative,0.752,Trauma,0.0215,2
+The mark is getting bigger.,uncertain,0.319,Personal Growth,0.8053,5
+Are you selling soup or donkey piss?,neutral,0.5656,Personal Growth,0.0091,7
+There he is now.,neutral,0.491,Family,0.8284,4
+Will this be enough?,uncertain,0.4021,Family,0.7091,4
+What are you trying to pull?,uncertain,0.3331,Family,0.3484,6
+This isn't money.,very negative,0.4995,Personal Growth,0.5178,3
+"Give me back my rice, you little thief.",uncertain,0.4195,Trauma,0.3278,8
+"Excuse me, but might I inspect that?",uncertain,0.3539,Family,0.5318,7
+"But this is a lump of pure gold, you silly woman!",very positive,0.6241,Personal Growth,0.8779,11
+"If it's money you want, I'll pay for the rice and take this nugget off your hands.",uncertain,0.2801,Resilience,0.4105,17
+"My good people, is there a money changer who could tell us how much this is worth?",very positive,0.5941,Family,0.7069,17
+No?,very negative,0.4566,Family,0.5772,1
+All right.,uncertain,0.4407,Family,0.828,2
+"Now, I'm just a monk, but I'd say three bags of rice at least.",uncertain,0.3717,Personal Growth,0.7461,14
+"That's right, maybe even more.",neutral,0.4927,Family,0.7567,5
+"Hey, wait a minute.",neutral,0.4973,Family,0.7343,4
+Give me my gold!,very positive,0.6608,Personal Growth,0.4772,4
+Hey!,uncertain,0.3457,Family,0.7355,1
+You can't just rush off now.,uncertain,0.3057,Family,0.7634,6
+Don't you even think of thanking me.,very negative,0.5601,Personal Growth,0.517,7
+It was my pleasure.,positive,0.5296,Family,0.8083,4
+"In fact, I should be thanking you, really.",uncertain,0.3719,Personal Growth,0.798,8
+"You see, I was caught in that battle.",uncertain,0.4494,Trauma,0.6677,8
+I saw what you did to those samurai.,uncertain,0.3543,Trauma,0.8619,8
+You fight like a demon.,very positive,0.5151,Identity,0.0666,5
+Where'd you learn to fight like that?,uncertain,0.407,Resilience,0.2416,7
+I see you noticed we're being followed.,neutral,0.6577,Identity,0.3127,7
+That's what we get for waving gold.,uncertain,0.3047,Family,0.0816,7
+"They'll wait till we're asleep, then slit our throats.",uncertain,0.3935,Family,0.6343,9
+What to you say we give 'em a little demonstration of how fast we can run?,neutral,0.4932,Family,0.4731,16
+So the demon monster turned out to be a giant boar.,uncertain,0.3205,Resilience,0.5482,11
+"I followed its trail westward through the mountains, but then-- You lost it.",uncertain,0.4071,Trauma,0.7244,13
+That's life.,very positive,0.5156,Personal Growth,0.1194,2
+See this place here?,uncertain,0.3471,Resilience,0.6935,4
+"When I came here last, a few years back, this was a lovely little village.",uncertain,0.3867,Resilience,0.7323,15
+But then there must have been a flood or a landslide.,neutral,0.5765,Trauma,0.473,11
+Everybody's dead.,very negative,0.594,Trauma,0.82,2
+"These days, there are angry ghosts all around us, dead from wars, sickness, starvation.",very negative,0.7461,Trauma,0.897,14
+And nobody cares.,very negative,0.6923,Family,0.6723,3
+So you say you're under a curse?,very negative,0.4681,Grief,0.0308,7
+So what?,uncertain,0.3431,Family,0.3799,2
+So's the whole damn world.,very positive,0.5542,Identity,0.4143,5
+"Ah, this is good!",very positive,0.4715,Family,0.8312,4
+I was wrong to fight in that village.,uncertain,0.4465,Trauma,0.4984,8
+Two men are dead because of me.,very negative,0.617,Trauma,0.6391,7
+Samurai thugs.,uncertain,0.34,Trauma,0.0096,2
+"You win some, you lose some.",neutral,0.4749,Family,0.621,6
+Hand me your bowl.,uncertain,0.417,Family,0.8447,4
+"My point is, everybody dies.",very negative,0.5528,Family,0.5775,5
+"Some now, some later.",neutral,0.7138,Personal Growth,0.78,4
+Beautiful bowl.,very positive,0.4633,Resilience,0.3804,2
+I've seen one other like it.,uncertain,0.4471,Family,0.3006,6
+Have you ever heard of the Emishi people?,uncertain,0.4123,Resilience,0.0186,8
+They're said to ride red elks.,uncertain,0.333,Resilience,0.1338,6
+They also use stone arrowheads just like you.,uncertain,0.3407,Family,0.4751,8
+"Of course, they were all wiped out 500 years ago.",uncertain,0.332,Family,0.3103,10
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+I won't tell anyone where you're from.,uncertain,0.4416,Identity,0.8337,7
+"Anyway, I've got much bigger fish to fry.",uncertain,0.3073,Personal Growth,0.6358,8
+Have you ever come across anything like this before?,uncertain,0.3185,Family,0.3969,9
+Never have.,very negative,0.5754,Family,0.6734,2
+It was inside the giant boar.,uncertain,0.2829,Trauma,0.7766,6
+I'm sure it was that ball that killed him.,very negative,0.679,Trauma,0.856,9
+There's a place high in the mountains far to the west of here.,uncertain,0.2794,Resilience,0.5685,13
+"It's where the Forest Spirit dwells, and it's very dangerous for humans.",very negative,0.522,Trauma,0.0091,12
+To enter there is certain death.,very negative,0.5013,Trauma,0.2165,6
+The Forest Spirit?,uncertain,0.3982,Resilience,0.0049,3
+"I've been told the beasts there are all giants, just as they were in the dawn of time.",uncertain,0.3368,Resilience,0.1077,18
+"See ya there, my friend.",neutral,0.5383,Friendship,0.9922,5
+"The sooner we get this rice home, the sooner we eat.",very positive,0.5626,Family,0.7549,11
+Let's move!,uncertain,0.3511,Personal Growth,0.8198,2
+Coming this way!,very positive,0.6068,Family,0.8321,3
+Wolves!,uncertain,0.4263,Personal Growth,0.0123,1
+Don't let the oxen panic!,uncertain,0.3661,Resilience,0.8267,5
+Stay calm!,very positive,0.5148,Family,0.9154,2
+Take up your positions!,uncertain,0.4219,Personal Growth,0.9022,4
+Keep your powder dry.,very negative,0.542,Family,0.8285,4
+Make sure you wait for them to come within range!,uncertain,0.3444,Family,0.8052,10
+Ready!,uncertain,0.4176,Family,0.8438,1
+And fire!,very positive,0.6362,Personal Growth,0.0546,2
+Second round!,uncertain,0.3501,Family,0.6286,2
+Fire!,very positive,0.6156,Personal Growth,0.0044,1
+That was it?,uncertain,0.3601,Family,0.6875,3
+They weren't so big.,negative,0.4691,Family,0.6954,4
+They're just pups.,uncertain,0.286,Personal Growth,0.6917,3
+Wait till you see their mother.,uncertain,0.4101,Family,0.9886,6
+It's Moro!,very positive,0.4559,Family,0.9324,2
+Come on.,uncertain,0.4016,Family,0.8255,2
+We killed her!,very negative,0.6436,Trauma,0.9005,3
+You forget she is a god.,very positive,0.6462,Resilience,0.2875,6
+It will take more than that.,uncertain,0.2705,Family,0.7073,6
+She certainly did some damage.,uncertain,0.4371,Trauma,0.8705,5
+We move out now.,uncertain,0.343,Personal Growth,0.944,4
+What about the men she pushed over the cliff?,very negative,0.5246,Trauma,0.8461,9
+They're dead.,very negative,0.562,Trauma,0.6798,2
+Let's get the living home.,uncertain,0.3166,Family,0.7734,5
+He's still breathing.,very positive,0.6076,Resilience,0.9042,3
+Hang on.,uncertain,0.3281,Family,0.8286,2
+My name is Ashitaka!,very positive,0.6866,Identity,0.8454,4
+I have travelled far from lands to the east.,uncertain,0.2812,Personal Growth,0.54,9
+"Are you ancient gods, and have I come to the realm of the Forest Spirit?",very positive,0.6695,Identity,0.0183,15
+Go away.,uncertain,0.2977,Trauma,0.6767,2
+A kodama!,very positive,0.6277,Family,0.4232,2
+I never thought I'd see one of them here.,uncertain,0.3853,Personal Growth,0.5561,9
+Easy there.,uncertain,0.4274,Family,0.8566,2
+"You don't want to make your injuries worse, do you?",uncertain,0.2968,Trauma,0.6602,10
+He's a tree spirit.,very positive,0.4876,Resilience,0.6079,4
+He brings good luck.,uncertain,0.2678,Family,0.4398,4
+It's a sign this forest is healthy.,very positive,0.5187,Resilience,0.4281,7
+But they'll lead their lord and master right to us.,very positive,0.5489,Family,0.8998,10
+Who do you mean?,uncertain,0.3704,Resilience,0.0681,4
+Those wolves I just saw?,uncertain,0.3127,Trauma,0.8975,5
+"No, I mean a real monster, like a huge enormous deer.",uncertain,0.3038,Trauma,0.3023,11
+Where did it go?,uncertain,0.3423,Family,0.3428,4
+"If Yakul's not afraid, then we have nothing to worry about here.",neutral,0.5027,Resilience,0.8806,12
+"Would you be kind enough to grant us passage through your forest, little one?",neutral,0.5288,Empathy,0.841,14
+"Sir, I really think we should turn around now.",uncertain,0.4034,Family,0.787,9
+No humans have ever made it through these woods alive.,very negative,0.6658,Trauma,0.7938,10
+There's a lovely trail back across the river.,positive,0.4866,Resilience,0.7147,8
+"The current's too swift for us to get across, and your friend's injuries are very bad.",negative,0.5549,Trauma,0.9164,16
+"Hey, little fellow, are you showing us the way or just getting us more lost?",neutral,0.4827,Personal Growth,0.6546,15
+"Please, sir, I'm really pretty sure they're not trying to help us get home.",uncertain,0.2833,Trauma,0.6891,14
+My God!,very positive,0.6779,Trauma,0.6869,2
+There's thousands of them.,uncertain,0.381,Resilience,0.5418,4
+Look at that.,neutral,0.5291,Family,0.7933,3
+"That must be their mother, a fine old tree.",uncertain,0.2476,Family,0.9927,9
+The tracks of those wolves and the girl with them.,uncertain,0.3781,Trauma,0.9417,10
+This place must be where the four of them live.,neutral,0.4986,Family,0.9884,10
+"Sir, I think we took a wrong turn.",very negative,0.4713,Trauma,0.7107,8
+This is a place for gods and demons.,very positive,0.5118,Resilience,0.0037,8
+I think we're safe.,uncertain,0.3861,Family,0.8915,4
+We'll rest a bit.,neutral,0.4942,Family,0.9069,4
+More tracks?,uncertain,0.4267,Personal Growth,0.0714,2
+Whatever made these made them recently.,uncertain,0.3566,Family,0.5034,6
+Sir!,very positive,0.5642,Personal Growth,0.622,1
+What's going on?,neutral,0.4787,Family,0.4452,3
+What just happened there?,uncertain,0.3803,Family,0.3722,4
+You went white as a sheet all of a sudden.,uncertain,0.4245,Trauma,0.8827,10
+Here.,uncertain,0.4147,Family,0.8075,1
+Did you see anything just then?,uncertain,0.356,Family,0.4033,6
+Like what?,uncertain,0.3593,Personal Growth,0.3372,2
+Forget it.,uncertain,0.4056,Family,0.5781,2
+Hang on just a little longer.,uncertain,0.3788,Family,0.8261,6
+You're almost home.,very positive,0.6815,Resilience,0.3639,3
+Thank you.,positive,0.5047,Family,0.8872,2
+"It's gone, That's strange.",uncertain,0.3296,Grief,0.6274,4
+Suddenly he doesn't feel heavy at all.,very negative,0.5273,Resilience,0.8803,7
+My arm!,very positive,0.5359,Trauma,0.9163,2
+It doesn't hurt!,uncertain,0.2946,Family,0.8018,3
+It's healed!,very positive,0.5896,Family,0.8538,2
+"No, it's still broken.",uncertain,0.2612,Family,0.7732,4
+"Sir, you were right.",uncertain,0.3833,Family,0.6926,4
+We made it back home just like you said!,very positive,0.6043,Family,0.9378,9
+It's a fortress.,very positive,0.4978,Resilience,0.9533,3
+It's Lady Eboshi's Irontown.,very positive,0.5851,Identity,0.0106,4
+We make iron here from the ore in the sand.,very negative,0.477,Resilience,0.2071,10
+Hey!,uncertain,0.3457,Family,0.7355,1
+Hey!,uncertain,0.3457,Family,0.7355,1
+Someone's come out of the woods.,very negative,0.4522,Personal Growth,0.7021,6
+Is it the Wolf Girl?,uncertain,0.423,Trauma,0.1378,5
+Look!,uncertain,0.4131,Family,0.7393,1
+It's me!,very positive,0.5699,Identity,0.9952,2
+"Kohroku, the ox driver!",very negative,0.5293,Resilience,0.0078,4
+It's Kohroku!,very negative,0.6309,Personal Growth,0.051,2
+He's alive!,very positive,0.6341,Resilience,0.9627,2
+Kohroku's alive!,very positive,0.604,Resilience,0.9596,2
+It's true!,very positive,0.6222,Family,0.8513,2
+Kohroku's still alive!,very positive,0.6185,Resilience,0.9754,3
+Let's go see!,uncertain,0.4432,Personal Growth,0.6566,3
+"I'm trying to tally these accounts here, so shut up!",uncertain,0.3638,Resilience,0.4457,10
+Haven't you heard?,uncertain,0.3211,Family,0.735,3
+Kohroku's come back from the dead!,uncertain,0.3636,Resilience,0.9059,6
+What?,uncertain,0.396,Family,0.3908,1
+This is unbelievable.,uncertain,0.3089,Family,0.616,3
+"Where are the others, Kohroku?",uncertain,0.3359,Loneliness,0.2821,5
+"Yes, is my son with you?",uncertain,0.4075,Family,0.9868,6
+I'm afraid we're the only ones who made it.,very negative,0.4663,Family,0.8428,9
+It's never the guards that die.,very negative,0.6893,Resilience,0.235,6
+Stand aside.,neutral,0.5922,Family,0.6143,2
+"That man in the weird costume, sir?",uncertain,0.2461,Empathy,0.3105,7
+Who do you think it could be?,uncertain,0.3478,Resilience,0.4535,7
+He's obviously an outsider.,uncertain,0.2779,Loneliness,0.7422,4
+This stranger saved our lives.,very positive,0.6445,Resilience,0.6454,5
+He carried the rifleman all the way back here.,uncertain,0.2646,Resilience,0.8882,9
+You should be grateful to him.,uncertain,0.3285,Resilience,0.6706,6
+"Hey, watch the arm.",uncertain,0.3126,Family,0.564,4
+Sir.,very positive,0.4849,Resilience,0.7463,1
+Hold it right there.,neutral,0.5713,Family,0.8757,4
+"I'm very grateful for you bringing these men back to us, stranger, but something doesn't smell right.",very negative,0.4756,Resilience,0.6207,17
+You got back almost as fast as we did and through the forbidden forest with two badly injured men and you want me to believe-- Kohroku!,very positive,0.65,Trauma,0.8855,26
+You're alive!,very positive,0.6229,Resilience,0.9222,2
+Toki!,very positive,0.5689,Personal Growth,0.4296,1
+That's just great!,very positive,0.4945,Family,0.877,3
+"How are you gonna drive the ox now, all banged up and mangled?",uncertain,0.2883,Trauma,0.8696,13
+But...,uncertain,0.3872,Family,0.8111,1
+You scared me half to death.,very negative,0.4828,Trauma,0.9362,6
+I wish the wolves had eaten you.,uncertain,0.4206,Trauma,0.8319,7
+Then maybe I could have found a real husband!,uncertain,0.3858,Personal Growth,0.6962,9
+"Sweetness, can we discuss this later?",uncertain,0.3708,Family,0.7851,6
+"Toki, save your sweet nothings for some other time.",uncertain,0.4114,Personal Growth,0.5751,9
+"And as for you, Gonza, a fine captain of the guard you are, always strutting and throwing your weight around once the danger's over.",very positive,0.4717,Resilience,0.7213,24
+You never do a lick of work around here.,very negative,0.6547,Family,0.7329,9
+That's unfair and untrue.,very negative,0.6736,Family,0.5489,4
+"Thanks, stranger.",uncertain,0.3272,Empathy,0.7641,2
+"My husband's an idiot, but I'm glad he's safe and sound.",uncertain,0.412,Family,0.9327,11
+"Oh, good.",very positive,0.5158,Family,0.8735,2
+I was starting to think I'd done something wrong by bringing him back home.,uncertain,0.3494,Family,0.8491,14
+"Say, why don't you take the mask off?",uncertain,0.4022,Family,0.7134,8
+I bet you're really handsome.,uncertain,0.2695,Personal Growth,0.5186,5
+Gonza?,uncertain,0.3237,Personal Growth,0.4033,1
+Bring the stranger to me later.,uncertain,0.4258,Empathy,0.7607,6
+I would like to thank him personally.,uncertain,0.2731,Personal Growth,0.944,7
+Kohroku.,very negative,0.5345,Personal Growth,0.1321,1
+"I'm happy you're back, and I apologize.",positive,0.4757,Family,0.8476,7
+"Milady, you really shouldn't tell him things like that.",uncertain,0.2307,Family,0.7825,9
+"If you're too nice to him, he'll walk all over you.",uncertain,0.3113,Family,0.8137,11
+"I hope you'll forgive me, too, Toki.",uncertain,0.4337,Empathy,0.8641,7
+I was responsible.,uncertain,0.3783,Identity,0.5396,3
+I should never have let it happen.,uncertain,0.375,Trauma,0.8013,7
+That's all right.,neutral,0.4734,Family,0.8165,3
+"Milady, if you hadn't been there, the wolves would have eaten everyone.",uncertain,0.2681,Trauma,0.8428,12
+So true!,very positive,0.6916,Family,0.7863,2
+No mistake!,very negative,0.6143,Family,0.8411,2
+"Get some rest, traveller.",uncertain,0.3525,Trauma,0.5967,4
+I will see you this evening.,uncertain,0.3824,Friendship,0.8366,6
+Hey!,uncertain,0.3457,Family,0.7355,1
+"You're not handsome, you're gorgeous!",uncertain,0.3471,Personal Growth,0.7806,5
+Here!,very positive,0.47,Family,0.7095,1
+"You know, they had to fight off wolves to get this rice through.",uncertain,0.3352,Resilience,0.7941,13
+Just dish it out!,very negative,0.5352,Family,0.793,4
+There he is!,uncertain,0.3322,Family,0.8195,3
+Where is he?,uncertain,0.3605,Personal Growth,0.5146,3
+Toki was right.,uncertain,0.4064,Family,0.6515,3
+He is handsome.,uncertain,0.3757,Family,0.7923,3
+But he's so young!,very positive,0.639,Personal Growth,0.8749,4
+That never stopped you before.,uncertain,0.4208,Resilience,0.9771,5
+Quiet out there!,uncertain,0.4033,Family,0.7837,3
+We lost some good men today.,uncertain,0.3602,Grief,0.8823,6
+"Yeah, there's lots of gorgeous men in here, honey!",likely_emotive,0.4537,Personal Growth,0.6514,9
+I've seen cattle that looked better.,uncertain,0.3586,Resilience,0.1132,6
+"Listen, stranger, come over to our place?",uncertain,0.2585,Empathy,0.9204,7
+You don't want to stay in this old barn.,very negative,0.5469,Resilience,0.5555,9
+"Look, woman!",very positive,0.4995,Personal Growth,0.7431,2
+"We risked our lives to bring you the rice, so watch your mouth.",uncertain,0.3897,Family,0.9923,13
+And who made the iron that paid for that rice?,uncertain,0.3308,Resilience,0.4701,10
+Tell me that.,neutral,0.4806,Family,0.6261,3
+"Yeah, we're pumping those bellows while you pigs are in bed.",uncertain,0.3671,Family,0.6986,11
+"Actually, if it's not too much trouble, I would like to see where you work.",neutral,0.5167,Resilience,0.5648,15
+You would?,neutral,0.4772,Family,0.8711,2
+We'll have to work in make-up tonight.,uncertain,0.4126,Family,0.7604,7
+Lend me your lipstick.,uncertain,0.282,Romantic Love,0.8058,4
+Don't forget now.,very negative,0.4606,Family,0.7816,3
+We'll be waiting for you.,neutral,0.4921,Family,0.957,5
+"It's best not to pay them any mind, you know.",uncertain,0.4137,Family,0.5445,10
+Lady Eboshi spoils them rotten.,very negative,0.6511,Family,0.6121,5
+That's why they're like that.,neutral,0.4536,Family,0.8009,5
+They say that happy women make a happy village.,positive,0.513,Family,0.8024,9
+Happy?,uncertain,0.31,Family,0.8037,1
+Ha!,very positive,0.5022,Family,0.756,1
+Those kind of women workin' here?,uncertain,0.3001,Personal Growth,0.5853,6
+Women like that--It's a disgrace.,uncertain,0.407,Trauma,0.4814,5
+They defile the iron.,uncertain,0.4431,Trauma,0.557,4
+Lady Eboshi goes around buying the contract of every brothel girl she can find.,positive,0.4606,Resilience,0.2876,14
+"Milady has a kind heart, that's all.",uncertain,0.4097,Family,0.9512,7
+"You got rice on your chin, old man.",uncertain,0.3785,Trauma,0.8438,8
+It's true.,uncertain,0.3693,Family,0.869,2
+Everything here has turned upside-down since she showed up.,uncertain,0.3527,Family,0.8794,9
+That's right.,neutral,0.5056,Family,0.8355,2
+"She's not even afraid of the gods, that woman.",very positive,0.6247,Resilience,0.971,9
+You should have seen the way she dealt with Nago.,neutral,0.6377,Resilience,0.8709,10
+Am I right?,uncertain,0.4241,Family,0.7216,3
+Who's Nago?,very negative,0.4573,Identity,0.7663,2
+"""Who's Nago?"" The gigantic boar god.",very positive,0.6425,Identity,0.2585,6
+He used to rule this whole forest.,uncertain,0.3436,Resilience,0.1299,7
+We couldn't even get near the mountains with him around.,uncertain,0.3261,Trauma,0.7788,10
+Nothing to do but sit around on our backsides for months.,uncertain,0.3997,Loneliness,0.6543,11
+"See, the iron in the sand under this town had all been dug out.",uncertain,0.3789,Resilience,0.5135,14
+"Then we tried to get at the iron under the mountain, but Nago wasn't gonna stand for that.",uncertain,0.3724,Trauma,0.28,18
+"Before we could dig for the iron, we had to clear away the forest, and that's what made the boar angry.",uncertain,0.411,Trauma,0.6283,21
+He's feeling no pain.,uncertain,0.4159,Family,0.7891,4
+Then one day Lady Eboshi came along with her warriors and her rifles.,uncertain,0.3547,Resilience,0.5329,13
+"Young man, what's wrong?",uncertain,0.2872,Empathy,0.8117,4
+Is something hurting your arm?,uncertain,0.4192,Empathy,0.3586,5
+"No, I was just thinking about the boar god.",uncertain,0.3714,Trauma,0.0285,9
+I was thinking how he must have died filled with hate.,very negative,0.6943,Trauma,0.8362,11
+"Forgive me for keeping you waiting, stranger.",uncertain,0.2757,Empathy,0.646,7
+That's good iron.,uncertain,0.289,Resilience,0.453,3
+We were running behind with tomorrow's shipment.,uncertain,0.3817,Resilience,0.4705,7
+Let's have a rest.,uncertain,0.4477,Family,0.9196,4
+You may tell the others.,neutral,0.6809,Family,0.7239,5
+"Yes, ma'am.",neutral,0.5371,Family,0.8839,2
+Some think you're a spy for the Wolf Girl or for Lord Asano and his samurai.,uncertain,0.4486,Identity,0.4456,16
+There are a lot of people out there with their eyes on this iron.,uncertain,0.3802,Personal Growth,0.1231,14
+"Why are you here, if you don't mind my asking?",uncertain,0.3786,Empathy,0.2791,10
+I believe you'll recognize this.,uncertain,0.3248,Family,0.8311,5
+"It shattered the bones of a giant boar, rotted his flesh and turned him into a monster.",very negative,0.7922,Trauma,0.9045,17
+"I fought with him, and for that I was cursed with this mark on my arm, and soon it will kill me.",uncertain,0.4046,Trauma,0.954,22
+Where is it you come from?,neutral,0.5075,Identity,0.266,6
+I've never seen a red elk like that before.,very negative,0.6982,Resilience,0.5278,9
+I have come a very long way.,uncertain,0.3594,Personal Growth,0.9696,7
+I can't tell you more than that.,very negative,0.5357,Family,0.7078,7
+Answer milady's question or I'll cut you in half!,uncertain,0.2598,Trauma,0.4411,9
+What do you plan to do?,neutral,0.59,Personal Growth,0.6839,6
+What exactly are you here for?,neutral,0.549,Identity,0.3143,6
+To see with eyes unclouded by hate.,very negative,0.5384,Resilience,0.1797,7
+"""Eyes unclouded""?",uncertain,0.3119,Family,0.3536,2
+That explains it.,neutral,0.5818,Family,0.7297,3
+Come.,very positive,0.4658,Family,0.9248,1
+I'll show you all my secrets.,uncertain,0.3607,Resilience,0.42,6
+"Is that wise, milady?",uncertain,0.2446,Personal Growth,0.4376,4
+"Gonza, take over for me.",uncertain,0.3403,Personal Growth,0.6965,5
+This is my garden.,uncertain,0.4073,Resilience,0.1161,4
+None of the townspeople dare to come here.,uncertain,0.4241,Loneliness,0.9473,8
+Follow me if you wish to learn my secret.,uncertain,0.4259,Identity,0.6235,9
+Good evening.,neutral,0.4778,Family,0.8737,2
+"We've only just finished it, milady.",very negative,0.6815,Family,0.7934,6
+It's still too heavy.,negative,0.4851,Family,0.5854,4
+Perhaps if you didn't hold it so delicately?,uncertain,0.331,Family,0.6688,8
+"Milady, if we make them any lighter, they'll fall apart.",uncertain,0.2582,Family,0.7536,10
+They're not for me.,negative,0.5265,Family,0.2254,4
+They're for the other women here.,uncertain,0.2846,Empathy,0.7642,6
+That'll be something to see.,neutral,0.5742,Family,0.6873,5
+This is the latest rifle that I've asked these people to design.,uncertain,0.356,Resilience,0.129,12
+The ones we brought here have turned out to be too heavy.,negative,0.5114,Family,0.6239,12
+These will kill forest monsters and pierce the thickest samurai armour.,uncertain,0.3751,Resilience,0.676,11
+"You better watch out there, young man.",very positive,0.4837,Trauma,0.5812,7
+Lady Eboshi wants to rule the world.,uncertain,0.3897,Resilience,0.1445,7
+I'm sorry to have to push you all so hard.,uncertain,0.4038,Family,0.7745,10
+I'll have wine sent down later.,uncertain,0.3302,Family,0.7787,6
+That'll be nice.,uncertain,0.3997,Family,0.867,3
+First you transform the boar into a demon.,uncertain,0.4416,Trauma,0.7403,8
+Now you're making even deadlier weapons!,very negative,0.4909,Trauma,0.0497,6
+How much more hatred and pain do you think we need?,very negative,0.6668,Trauma,0.6511,11
+"Yes, I'm the one who shot the boar, and I'm sorry that you suffer.",uncertain,0.3631,Identity,0.9158,14
+I truly am.,very positive,0.6271,Identity,0.9668,3
+That brainless pig.,very negative,0.7455,Trauma,0.2677,3
+"I'm the one he should have put a curse on, not you.",very negative,0.5398,Family,0.6927,12
+"Does that right hand of yours wish to kill me now, Ashitaka?",uncertain,0.2757,Trauma,0.62,12
+"If it would lift the curse, I'd let it tear you apart, but even that wouldn't end the killing now, would it?",uncertain,0.2934,Family,0.6503,22
+"No, it wouldn't.",uncertain,0.3623,Family,0.8985,3
+It would have to kill all of us to be at peace.,uncertain,0.3378,Family,0.517,12
+"Milady, Osa has something to say.",uncertain,0.3856,Family,0.6044,6
+"Forgive me, milady.",uncertain,0.4357,Empathy,0.7933,3
+You must not make light of the boy's strength.,negative,0.4701,Resilience,0.8702,9
+"Young man, like you, I know what rage feels like...",very positive,0.5233,Empathy,0.3279,10
+and grief and helplessness.,very negative,0.7558,Grief,0.9682,4
+But you must not take your revenge on Lady Eboshi.,uncertain,0.238,Trauma,0.7121,10
+She is the only one who saw us as human beings.,very positive,0.5159,Empathy,0.8767,11
+We are lepers.,very negative,0.4836,Loneliness,0.9956,3
+"The world hates and fears us, but she took us in and washed our rotting flesh and bandaged us.",uncertain,0.3309,Family,0.9167,19
+Osa?,uncertain,0.3492,Family,0.4794,1
+Life is suffering.,very negative,0.6283,Grief,0.9478,3
+It is hard.,negative,0.4659,Personal Growth,0.7615,3
+"The world is cursed, but still, you find reasons to keep living.",uncertain,0.3599,Resilience,0.9253,12
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+I'm making no sense.,very negative,0.4965,Family,0.685,4
+They just keep coming back.,uncertain,0.2737,Resilience,0.9651,5
+"Every night they're out there planting trees, trying to turn the mountain into a forest again.",uncertain,0.359,Family,0.8436,16
+Stay here.,uncertain,0.2957,Family,0.9662,2
+"Help me kill the Forest Spirit, Ashitaka.",very positive,0.5022,Trauma,0.0832,7
+You would do that?,uncertain,0.4361,Family,0.6589,4
+Kill the very heart of the forest?,uncertain,0.3422,Trauma,0.2906,7
+"Without that ancient god, the animals here would be nothing but dumb beasts once more.",very negative,0.5539,Resilience,0.1105,15
+"When the forest has been cleared and the wolves wiped out, this desolate place will be the richest land in the world, and Princess Mononoke will become human.",very positive,0.6378,Personal Growth,0.7163,28
+Princess Mononoke?,very negative,0.5421,Romantic Love,0.0019,2
+"Princess of the spirits of ghouls, beasts and ancient gods.",very positive,0.5959,Resilience,0.1787,10
+"The wolf stole her soul, and now she lives to kill me.",very positive,0.7393,Trauma,0.9598,12
+The legends say the blood of the Great Forest's Spirit can heal anything.,uncertain,0.2856,Resilience,0.6272,13
+Perhaps it could cure my poor lepers.,uncertain,0.3295,Empathy,0.2236,7
+Might even be able to lift your curse.,very negative,0.4808,Family,0.6244,8
+Milady!,very positive,0.5684,Family,0.7252,1
+How does the action feel to you?,neutral,0.5775,Family,0.3964,7
+"Smooth as silk, the perfect thing for ruling the world.",very positive,0.7149,Identity,0.324,10
+It's still too heavy for the girls.,negative,0.5407,Family,0.7444,7
+All right.,uncertain,0.4407,Family,0.828,2
+"Well, look who's here.",uncertain,0.3238,Family,0.7253,4
+Evening.,neutral,0.4587,Family,0.7887,1
+All right if I work the bellows for a while?,uncertain,0.4129,Resilience,0.7537,10
+"Well, I guess so.",neutral,0.551,Family,0.781,4
+Excuse me.,very negative,0.4911,Family,0.5672,2
+May I try it?,uncertain,0.3494,Personal Growth,0.537,4
+It's okay.,neutral,0.6938,Family,0.7846,2
+Might as well let him try.,uncertain,0.3858,Personal Growth,0.8885,6
+"When you get tired, I'll take over for you.",uncertain,0.3492,Empathy,0.8043,9
+"Well, that won't be long.",uncertain,0.411,Family,0.7425,5
+"Better keep that kimono shut tight, girl.",uncertain,0.3164,Family,0.8903,7
+"I'm impressed, but you'll never keep that pace up.",uncertain,0.3335,Family,0.716,9
+"It's hard work, isn't it?",uncertain,0.3646,Personal Growth,0.6728,5
+"You bet, and our shifts are four days long.",uncertain,0.3591,Resilience,0.8263,9
+You must lead hard lives here.,uncertain,0.2768,Trauma,0.5878,6
+"Yeah, I suppose.",neutral,0.4909,Family,0.8347,3
+But it sure beats working a brothel in the city?,uncertain,0.347,Trauma,0.2833,10
+"Here we get to eat as much as we want, and the men don't bother us!",uncertain,0.2402,Family,0.6363,16
+I see.,neutral,0.4752,Family,0.8388,2
+No!,very negative,0.5534,Family,0.9037,1
+But you can't leave tomorrow.,uncertain,0.3418,Family,0.8931,5
+Can't you stay a little longer?,uncertain,0.3318,Family,0.852,6
+You can stay and work here.,uncertain,0.4182,Resilience,0.7698,6
+"Thanks, but there's someone I have to find out there in the forest.",neutral,0.4597,Personal Growth,0.6692,13
+She's here.,uncertain,0.401,Family,0.9776,2
+The wolves are coming.,very positive,0.4633,Trauma,0.5631,4
+Stop!,uncertain,0.2849,Family,0.771,1
+Wait!,uncertain,0.368,Family,0.5416,1
+I don't want to fight you.,very negative,0.4737,Personal Growth,0.6514,6
+I'm a friend.,neutral,0.4574,Friendship,0.9945,3
+Hurry!,uncertain,0.4101,Family,0.7446,1
+She's after Lady Eboshi!,very positive,0.6885,Family,0.4549,4
+Somebody cut her off!,uncertain,0.3675,Trauma,0.8841,4
+Keep stoking those fires!,uncertain,0.3586,Personal Growth,0.9187,4
+Riflemen to the stockade.,uncertain,0.3245,Trauma,0.1457,4
+We've got her right where we want her.,uncertain,0.3878,Family,0.8033,8
+A weapon for every man!,very positive,0.6947,Personal Growth,0.4249,5
+Everyone defends Irontown!,very positive,0.6423,Resilience,0.3366,3
+"Toki, she's on the roof.",uncertain,0.3594,Resilience,0.6724,5
+"Now, don't get excited.",uncertain,0.374,Family,0.3811,4
+Keep those bellows working.,uncertain,0.4161,Resilience,0.804,4
+"Whatever happens, we can't let those fires go out.",neutral,0.5659,Family,0.7661,9
+Is she alone?,very negative,0.5197,Loneliness,0.5322,3
+Yes.,uncertain,0.3673,Family,0.9347,1
+We have her cornered.,uncertain,0.2781,Family,0.7973,4
+You know she means to kill you this time.,uncertain,0.3401,Trauma,0.7658,9
+We'll see about that.,neutral,0.5716,Family,0.7654,4
+Come on.,uncertain,0.4016,Family,0.8255,2
+"Can you hear me, Princess of Beasts?",very positive,0.5088,Personal Growth,0.1142,7
+"If it's me you want, here I am.",neutral,0.5665,Identity,0.9,8
+"If you seek revenge for all the animals we've killed, well, there are two women down here whom I'd like you to meet.",uncertain,0.4415,Trauma,0.1663,23
+They want revenge for husbands killed by your wolves.,very negative,0.4922,Family,0.808,9
+"Come on out, you little witch!",uncertain,0.3763,Personal Growth,0.6205,6
+My husband's dead because of you!,very negative,0.7123,Family,0.9108,6
+There she is!,uncertain,0.3968,Family,0.9233,3
+Everybody out of the way!,uncertain,0.421,Family,0.9409,5
+"Riflemen, get ready to fire!",very positive,0.5451,Trauma,0.1059,5
+It's a trap.,uncertain,0.3561,Trauma,0.7277,3
+No!,very negative,0.5534,Family,0.9037,1
+Wait!,uncertain,0.368,Family,0.5416,1
+Princess of the wolf gods!,very positive,0.8108,Resilience,0.0984,5
+Don't go down there!,very negative,0.5031,Trauma,0.6528,4
+Go back to the forest!,very positive,0.5676,Resilience,0.3277,5
+Don't throw your life away!,very negative,0.6955,Personal Growth,0.7577,5
+Shall I stop him?,very negative,0.4868,Trauma,0.2726,4
+Leave him be.,uncertain,0.3187,Family,0.8075,3
+Let him do what he likes.,uncertain,0.368,Personal Growth,0.8165,6
+She's down!,uncertain,0.3499,Loneliness,0.9787,2
+We got her!,very positive,0.501,Family,0.9441,3
+Stay back.,uncertain,0.282,Family,0.9073,2
+"Cut off a wolf's head, and it still has the power to bite.",uncertain,0.3534,Trauma,0.6889,13
+Take aim where she falls.,uncertain,0.3409,Trauma,0.7643,5
+Right.,uncertain,0.4358,Family,0.8802,1
+Open fire.,uncertain,0.3096,Family,0.4835,2
+Stay back!,very positive,0.616,Family,0.8949,2
+Wake up.,uncertain,0.3874,Personal Growth,0.9037,2
+No!,very negative,0.5534,Family,0.9037,1
+Skin her!,very positive,0.4825,Trauma,0.7831,2
+"Kill her, milady!",very positive,0.6525,Trauma,0.7914,3
+Kill her!,very positive,0.5273,Trauma,0.8045,2
+Kill her!,very positive,0.5273,Trauma,0.8045,2
+"Are you all right, sir?",uncertain,0.3769,Empathy,0.5908,5
+Can I help you?,uncertain,0.3554,Personal Growth,0.4681,4
+Get away from me!,very positive,0.6181,Trauma,0.5808,4
+Begone!,uncertain,0.4372,Family,0.5405,1
+Traitor!,very positive,0.6649,Trauma,0.4762,1
+"You're a spy for the wolves, aren't you?",uncertain,0.3131,Identity,0.6763,8
+Stay back!,very positive,0.616,Family,0.8949,2
+Step aside.,uncertain,0.4306,Family,0.5789,2
+"What do you think you're doing, boy?",uncertain,0.3297,Trauma,0.4776,7
+The girl's life is now mine.,uncertain,0.3789,Personal Growth,0.83,6
+I'm sure she'll make a lovely wife for you.,uncertain,0.3876,Family,0.7435,9
+There's a demon inside of you.,uncertain,0.3269,Trauma,0.0728,6
+It's inside both of you.,neutral,0.7525,Resilience,0.7654,5
+"Look, everyone!",uncertain,0.4408,Family,0.6297,2
+This is what hatred looks like.,very negative,0.4631,Trauma,0.0089,6
+This is what it does when it catches hold of you.,neutral,0.6786,Trauma,0.6763,11
+"It's eating me alive, and very soon now it will kill me!",very positive,0.6722,Trauma,0.8208,12
+Fear and anger only make it grow faster.,uncertain,0.3067,Personal Growth,0.7742,8
+"I'm getting a little bored of this curse of yours, Ashitaka.",uncertain,0.4268,Grief,0.021,11
+Let me just cut the damn thing off!,uncertain,0.3461,Family,0.72,8
+Lady Eboshi!,very positive,0.7152,Family,0.9323,2
+Someone come here and take her from me.,uncertain,0.3571,Trauma,0.6795,8
+Milady!,very positive,0.5684,Family,0.7252,1
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+She's just stunned.,very positive,0.5317,Trauma,0.9742,3
+She'll be all right.,neutral,0.4574,Family,0.9556,4
+"As for me, I'm leaving, and I'm taking the Wolf Girl!",uncertain,0.3813,Personal Growth,0.9027,11
+"No, you're not!",uncertain,0.4476,Family,0.928,3
+Nobody treats my Lady Eboshi like that!,very negative,0.4668,Family,0.9054,7
+Move and I fire!,very positive,0.5631,Personal Growth,0.3122,4
+"Kiyo, what are you doing?",uncertain,0.3188,Personal Growth,0.6167,5
+How can he still be walking?,uncertain,0.3482,Trauma,0.4534,6
+Is she all right?,uncertain,0.3901,Family,0.7411,4
+"Yes, milady's safe, sir.",very positive,0.5877,Family,0.9571,4
+Someone bring me my gun!,very positive,0.5902,Trauma,0.1935,5
+"Riflemen to the square now, on the double!",uncertain,0.3893,Resilience,0.2069,8
+They're not getting out of here alive!,uncertain,0.271,Trauma,0.8953,7
+"Toki, come here.",very positive,0.4693,Family,0.9118,3
+What?,uncertain,0.396,Family,0.3908,1
+What's happened?,uncertain,0.3437,Family,0.366,2
+"Sir, I can't let you pass.",uncertain,0.3107,Trauma,0.7359,6
+The gate's been ordered shut.,uncertain,0.4178,Family,0.6959,5
+It can't be opened.,very negative,0.4573,Family,0.7629,4
+"Turn back, please.",uncertain,0.3716,Trauma,0.8466,3
+We're grateful.,uncertain,0.2565,Family,0.9304,2
+You brought those men back to us.,very positive,0.5354,Resilience,0.9209,7
+We don't want to hurt you.,uncertain,0.4188,Family,0.8608,6
+Please!,uncertain,0.248,Family,0.8072,1
+I walked in through this gate this morning.,uncertain,0.323,Personal Growth,0.7045,8
+Now I'm going to leave the same way.,uncertain,0.3501,Family,0.7657,8
+Don't be a fool.,very negative,0.5832,Family,0.6612,4
+It takes ten men to open this gate.,uncertain,0.2784,Resilience,0.6473,8
+Stop it!,uncertain,0.357,Family,0.6417,2
+You'll kill yourself.,very negative,0.6913,Trauma,0.6717,3
+It's opening.,neutral,0.5152,Personal Growth,0.8756,2
+Out of the way!,uncertain,0.4213,Family,0.7813,4
+The wolves are attacking!,uncertain,0.2776,Trauma,0.7171,4
+Flint!,uncertain,0.4177,Personal Growth,0.1415,1
+She's all right!,very positive,0.4652,Family,0.9522,3
+Your princess is safe with me!,uncertain,0.4253,Family,0.907,6
+Stay and I will bring her!,very positive,0.6668,Family,0.9551,6
+"Come on, Yakul.",uncertain,0.3994,Personal Growth,0.8114,3
+You have my thanks.,uncertain,0.3689,Family,0.8244,4
+"Good luck, stranger.",very negative,0.5169,Personal Growth,0.8336,3
+Stop it!,uncertain,0.357,Family,0.6417,2
+Leave him!,uncertain,0.3954,Trauma,0.8073,2
+He's mine!,uncertain,0.3668,Family,0.9558,2
+His own people shot him.,uncertain,0.3634,Family,0.9703,5
+He's dying.,very negative,0.6234,Trauma,0.9148,2
+Why did you stop me from killing her?,very negative,0.5976,Family,0.5132,8
+Tell me while you're still alive.,uncertain,0.332,Family,0.6273,6
+I didn't want them to kill you.,uncertain,0.3387,Empathy,0.8386,7
+That's why.,neutral,0.5493,Family,0.7261,2
+I'm not afraid to die.,uncertain,0.3862,Resilience,0.9384,5
+I'd do anything to get you humans out of my forest.,uncertain,0.3076,Trauma,0.5954,11
+I knew that from the first moment I saw you.,uncertain,0.3677,Family,0.9225,10
+And I'm not afraid of you!,very positive,0.4666,Resilience,0.9181,6
+I should kill you for saving her!,uncertain,0.3488,Trauma,0.7951,7
+That woman is evil.,very negative,0.6311,Trauma,0.5641,4
+There's no one who can stop me from killing her.,very negative,0.5632,Family,0.7567,10
+No.,very negative,0.4577,Family,0.8406,1
+Live.,uncertain,0.4435,Personal Growth,0.8362,1
+That's enough!,likely_emotive,0.4552,Family,0.7331,2
+I'm not listening to you anymore!,very negative,0.5408,Trauma,0.6148,6
+You're beautiful.,very positive,0.5946,Family,0.8408,2
+"What is it, San?",uncertain,0.3473,Family,0.3507,4
+Want me to crunch his face off?,uncertain,0.4201,Trauma,0.6829,7
+The ape tribe.,uncertain,0.2876,Resilience,0.5429,3
+"Apes, how dare you show such disrespect to the wolf clan.",uncertain,0.3243,Trauma,0.6248,11
+This is our forest.,uncertain,0.3337,Resilience,0.0843,4
+"The human, give him to us.",very positive,0.4689,Personal Growth,0.5023,6
+Give us the human and go.,very positive,0.4965,Personal Growth,0.6243,6
+You go before my fangs find you.,uncertain,0.4215,Trauma,0.4711,7
+We will not go.,very negative,0.7331,Family,0.9205,4
+We will eat the human.,uncertain,0.3395,Family,0.3133,5
+We will eat the human.,uncertain,0.3395,Family,0.3133,5
+"Yes, let us eat the man creature.",uncertain,0.3688,Family,0.3247,7
+Are you crazy?,uncertain,0.3126,Family,0.5796,3
+Just what happened to make the ape tribe change this way?,uncertain,0.3109,Trauma,0.6649,11
+Since when do apes eat the flesh of a man?,very negative,0.5249,Trauma,0.1918,10
+"If we eat the human, we will steal his strength, and we will drive the other humans away.",uncertain,0.4056,Family,0.582,18
+Give us the man creature.,very positive,0.5053,Resilience,0.3455,5
+Stop this.,very negative,0.5316,Trauma,0.6929,2
+You know you can't possess the humans' strength by eating them.,uncertain,0.2999,Family,0.7306,11
+"All that'll do is make you into something else, something even worse than human.",very negative,0.4993,Trauma,0.7674,14
+We plant trees.,uncertain,0.3694,Resilience,0.3861,3
+Humans tear them up.,uncertain,0.3343,Trauma,0.5491,4
+The forest does not come back.,uncertain,0.4161,Trauma,0.6096,6
+"If we kill the humans, we will save the forest.",uncertain,0.3695,Trauma,0.3379,10
+You mustn't give up.,very negative,0.4867,Resilience,0.9303,4
+We'll find a way.,neutral,0.5127,Family,0.8489,4
+The Forest Spirit is with us.,very positive,0.5698,Resilience,0.0642,6
+Keep planting trees and someday we'll beat them.,uncertain,0.4053,Resilience,0.8245,8
+The Forest Spirit will not fight.,very negative,0.5675,Resilience,0.7891,6
+We will all die.,very positive,0.5714,Grief,0.2764,4
+Wolf Girl does not care.,uncertain,0.3734,Personal Growth,0.7005,5
+She is human.,uncertain,0.3953,Personal Growth,0.9434,3
+Enough!,uncertain,0.3123,Family,0.6826,1
+"I'll bite your head off, you chattering ape.",uncertain,0.335,Trauma,0.6524,8
+Stop!,uncertain,0.2849,Family,0.771,1
+Don't worry about them.,very negative,0.4522,Family,0.7937,4
+It's all right.,neutral,0.5232,Family,0.8957,3
+You two go on ahead now.,uncertain,0.3143,Family,0.8578,6
+I'll stay here and deal with the human.,uncertain,0.3656,Resilience,0.659,8
+What about the elk?,uncertain,0.3645,Resilience,0.416,4
+Can we eat him?,uncertain,0.4489,Family,0.3382,4
+"No, you may not.",uncertain,0.3893,Family,0.8919,4
+Go home!,very positive,0.5566,Trauma,0.6761,2
+Come over here.,uncertain,0.3566,Family,0.9129,3
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+I'm a friend.,neutral,0.4574,Friendship,0.9945,3
+Don't be shy.,uncertain,0.3711,Family,0.8611,3
+I won't hurt you.,uncertain,0.3845,Friendship,0.8815,4
+I need you to help me carry him.,neutral,0.5976,Family,0.7549,8
+You're very wise.,very positive,0.601,Resilience,0.8259,3
+"You know better than to set foot on this island, huh?",uncertain,0.3718,Trauma,0.6098,11
+I smell like a human.,uncertain,0.413,Identity,0.8567,5
+You can go wherever you want to.,uncertain,0.3507,Personal Growth,0.6635,7
+You're free now.,very positive,0.483,Personal Growth,0.8085,3
+There he is.,neutral,0.716,Family,0.8174,3
+Come and see.,very positive,0.5057,Family,0.9019,3
+Hurry.,uncertain,0.3969,Family,0.7371,1
+It's the Nightwalker.,very positive,0.568,Trauma,0.0021,3
+"Quick, you idiots.",positive,0.4686,Trauma,0.4262,3
+"He's the reason we've been sitting around in these stinking animal skins, you know.",uncertain,0.2642,Trauma,0.6848,14
+"But sir, we can't.",uncertain,0.303,Family,0.9072,4
+It's a sin to look at it.,uncertain,0.3,Family,0.5645,7
+And you call yourself the greatest hunter in the West.,very positive,0.7066,Identity,0.8883,10
+Look.,uncertain,0.3684,Family,0.8535,1
+"We've got a letter of pardon from the emperor, forgiving us for cutting off the head of the Great Forest Spirit.",uncertain,0.3989,Resilience,0.393,21
+"The legends tell us that when day becomes night, the Forest Spirit turns into the Nightwalker, and at sunrise, it changes back.",uncertain,0.35,Resilience,0.0465,22
+Look!,uncertain,0.4131,Family,0.7393,1
+See there?,uncertain,0.433,Family,0.7895,2
+It's happening.,neutral,0.7262,Family,0.8379,2
+"Take a look, Master Jigo.",very positive,0.4911,Resilience,0.6707,5
+What is it?,neutral,0.4969,Personal Growth,0.1153,3
+Over there.,uncertain,0.3791,Family,0.7609,2
+Look.,uncertain,0.3684,Family,0.8535,1
+There must be hundreds of them.,neutral,0.556,Family,0.7261,6
+Those boars are not from this region.,negative,0.6305,Trauma,0.1385,7
+They must've been traveling for months to get here.,neutral,0.4535,Family,0.8816,9
+That one's Okkoto!,uncertain,0.4326,Personal Growth,0.0076,3
+Can't be.,very negative,0.5321,Family,0.6162,2
+They say he died 100 years ago.,uncertain,0.3184,Family,0.8021,7
+"It's him, all right.",neutral,0.4523,Identity,0.9817,4
+I know those old tusks.,uncertain,0.3974,Family,0.2713,5
+And it looks like he brought along his whole tribe.,uncertain,0.4018,Family,0.9819,10
+He's seen us!,very positive,0.5387,Family,0.9215,3
+Let's get out of here!,uncertain,0.2474,Personal Growth,0.7669,5
+"Come on, you cowards!",very positive,0.5108,Trauma,0.6415,4
+Move!,uncertain,0.3968,Personal Growth,0.8668,1
+Quickly!,positive,0.4803,Family,0.7717,1
+The bullet wound's gone.,uncertain,0.4455,Trauma,0.7661,4
+Yakul.,uncertain,0.2927,Personal Growth,0.0996,1
+You're awake.,very negative,0.5252,Family,0.8166,2
+You should thank Yakul.,uncertain,0.3016,Personal Growth,0.5763,4
+He hasn't left your side this whole time.,very negative,0.5278,Family,0.9729,8
+How'd you know his name's Yakul?,uncertain,0.2993,Identity,0.6424,6
+"He told me, and he told me about you-- about your village, your people and your forest.",uncertain,0.3608,Family,0.8459,17
+The Forest Spirit brought you back to life again.,very positive,0.664,Resilience,0.8734,9
+He wants you to live.,uncertain,0.4269,Personal Growth,0.8001,5
+I had the strangest dream.,uncertain,0.3767,Resilience,0.4117,5
+There was a golden creature.,uncertain,0.301,Resilience,0.3349,5
+Eat this.,uncertain,0.2757,Family,0.8245,2
+Chew.,uncertain,0.2747,Personal Growth,0.6495,1
+We are here to kill the humans and save the forest.,uncertain,0.3644,Trauma,0.1261,11
+"Why are there humans here, Moro?",uncertain,0.2993,Trauma,0.0636,6
+Humans are everywhere these days.,uncertain,0.295,Personal Growth,0.7915,5
+Go back to your own mountain.,very positive,0.4695,Personal Growth,0.913,6
+Kill them there.,very negative,0.6276,Family,0.798,3
+"The girl is San, my daughter.",very positive,0.5989,Family,0.9816,6
+We will kill them here.,very negative,0.5994,Family,0.4846,5
+We will save this forest.,very positive,0.4803,Resilience,0.8425,5
+What is that other human doing here?,uncertain,0.3746,Personal Growth,0.101,7
+"He was shot, and then the Great Spirit healed his wound.",uncertain,0.3096,Resilience,0.8854,11
+This man is not our enemy!,very negative,0.4865,Friendship,0.8558,6
+The Forest Spirit saved him?,very positive,0.6531,Resilience,0.3873,5
+Saved the life of that loathsome runt?,uncertain,0.2455,Resilience,0.6399,7
+Why didn't he save Nago?,very negative,0.4738,Trauma,0.7244,5
+Is he not the guardian of the forest?,uncertain,0.4362,Identity,0.105,8
+Why?,uncertain,0.3626,Family,0.3678,1
+The Forest Spirit gives life and takes life away.,very positive,0.4978,Resilience,0.088,9
+"Life and death are his alone, or have you boars forgotten that?",very negative,0.4944,Identity,0.3006,12
+You lie!,uncertain,0.3116,Trauma,0.6,2
+You must have begged the Forest Spirit to spare his life!,very positive,0.7265,Empathy,0.86,11
+"But you did not beg for Nago, did you?",uncertain,0.3245,Family,0.6938,9
+Nago was afraid to die.,uncertain,0.4143,Trauma,0.9271,5
+"Now I, too, carry within my breast a poisoned human bullet.",very negative,0.5815,Trauma,0.9001,11
+"Nago fled, and the darkness took him.",very negative,0.5492,Trauma,0.9028,7
+I remain and contemplate my death.,uncertain,0.2821,Loneliness,0.6135,6
+Mother!,very positive,0.6857,Family,0.9919,1
+Please ask the Forest Spirit to save you.,uncertain,0.3078,Resilience,0.3499,8
+"I have lived long enough, San.",uncertain,0.3828,Resilience,0.524,6
+Soon the Forest Spirit will let me rest forever.,very positive,0.4895,Resilience,0.4484,9
+All these years you defended the Forest Spirit!,very positive,0.6019,Resilience,0.1017,8
+He must save you!,very positive,0.6673,Family,0.4934,4
+You are not fooling us.,uncertain,0.3207,Family,0.6714,5
+Nago was beautiful and strong.,very positive,0.57,Resilience,0.8535,5
+He would not have run from anything.,uncertain,0.2973,Resilience,0.8534,7
+You wolves must have eaten him!,very positive,0.5042,Trauma,0.9512,6
+Quiet!,uncertain,0.4066,Family,0.9006,1
+"Watch what you say, you filthy pig!",very positive,0.467,Trauma,0.3888,7
+"Gods of the mountain, please listen to me.",very positive,0.5288,Trauma,0.5763,8
+"Nago died far from here, and I was the one who killed him.",very negative,0.7497,Trauma,0.8153,13
+He had become some kind of demon.,negative,0.5418,Trauma,0.3768,7
+One day he attacked our village.,uncertain,0.3112,Trauma,0.7491,6
+"If you want proof, look at my hand where he touched me.",uncertain,0.3693,Trauma,0.5743,12
+I came here to beg the Forest Spirit to lift Nago's curse from me.,very positive,0.5669,Trauma,0.2923,14
+"He healed the bullet wound in my side, but the demon mark remains.",neutral,0.552,Trauma,0.8845,13
+"First it will tear my soul apart, and then it will kill me.",neutral,0.5193,Trauma,0.8159,13
+"Okkoto, finally, a boar who will listen to reason.",very positive,0.5845,Personal Growth,0.6731,9
+"No, Lord Okkoto, wait!",uncertain,0.3922,Personal Growth,0.6885,4
+"Please, you mustn't eat him.",uncertain,0.3585,Family,0.9124,5
+"You are Moro's human child, aren't you?",very positive,0.4664,Family,0.9936,7
+I have heard of you.,uncertain,0.425,Identity,0.5499,5
+You're blind.,very negative,0.5344,Family,0.3981,2
+Stand back.,neutral,0.4737,Family,0.87,2
+I will not eat him.,very negative,0.7865,Resilience,0.8952,5
+"It's all right, San.",uncertain,0.3159,Family,0.9156,4
+"My Lord Okkoto, what I said about Nago's death was the truth.",uncertain,0.4114,Family,0.9324,12
+"I believe you, and I thank you for it, young one.",very positive,0.5267,Personal Growth,0.8741,11
+I am only grieved and ashamed that a demon has come from our tribe.,very negative,0.7967,Grief,0.9723,14
+"O mighty Lord, is there a way to lift Nago's curse from me?",uncertain,0.3328,Grief,0.2585,13
+Leave this forest...,uncertain,0.2779,Trauma,0.4455,3
+for the next time we meet I will have to kill you.,uncertain,0.2625,Trauma,0.4827,12
+You cannot win against the humans.,very negative,0.6762,Personal Growth,0.2488,6
+Their guns will destroy you all.,very negative,0.8091,Trauma,0.4316,6
+"Look on my tribe, Moro.",uncertain,0.4115,Family,0.8189,5
+"We grow small, and we grow stupid.",uncertain,0.3661,Trauma,0.6148,7
+We will soon be nothing but squealing game that the humans hunt for their meat.,uncertain,0.384,Trauma,0.435,15
+You'd risk everything on one last battle?,uncertain,0.4219,Trauma,0.1874,7
+That's just what the humans want.,uncertain,0.3329,Personal Growth,0.7293,6
+I do not ask for the help of the wolf tribe.,uncertain,0.4306,Resilience,0.6589,11
+"Even if every one of us dies, it will be a battle the humans will never forget.",uncertain,0.4127,Family,0.5736,17
+The Forest Spirit.,very positive,0.6433,Resilience,0.0065,3
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Keep your oxen together!,very positive,0.5959,Resilience,0.8532,4
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Get ready now.,uncertain,0.3578,Family,0.8896,3
+Little bit closer.,uncertain,0.3617,Family,0.8479,3
+Fire!,very positive,0.6156,Personal Growth,0.0044,1
+Reload!,very positive,0.4762,Family,0.8457,1
+Fire!,very positive,0.6156,Personal Growth,0.0044,1
+"Ready-- Well, I see somebody is going to have to go play the peacemaker.",uncertain,0.3443,Family,0.7497,14
+Take our riflemen and hide behind the cliffs.,uncertain,0.3761,Resilience,0.6129,8
+There they are!,uncertain,0.3953,Family,0.9253,3
+Where?,uncertain,0.3606,Personal Growth,0.2031,1
+"The hunters are ready, sir.",uncertain,0.4323,Resilience,0.3964,5
+Excellent.,very positive,0.7193,Family,0.9268,1
+"Well done, my boy.",uncertain,0.3905,Personal Growth,0.9137,4
+Go and spread the word.,positive,0.455,Family,0.8061,5
+We'll be moving out presently.,neutral,0.5641,Personal Growth,0.9314,5
+"Greetings, Jigo.",uncertain,0.3116,Friendship,0.9465,2
+"I've got the emperor breathing down my neck, and you're busy playing war with Lord Asano.",very positive,0.6239,Trauma,0.5109,16
+"And you'd have nothing to do with him being here, now, would you?",uncertain,0.289,Family,0.9374,13
+Of course not.,negative,0.4655,Family,0.794,3
+Whatever made you think that?,uncertain,0.3818,Family,0.4365,5
+He'll call a truce if I give him half my iron.,uncertain,0.2763,Family,0.7998,11
+Is that right?,neutral,0.4618,Family,0.7397,3
+"Well, he's a greedy bastard, isn't he?",uncertain,0.2442,Family,0.6085,7
+"But all the same, you might as well let him have his iron.",uncertain,0.3934,Family,0.8855,13
+"Listen, the boars are gathering for battle.",uncertain,0.3784,Trauma,0.0273,7
+You know what that means.,neutral,0.7076,Resilience,0.5636,5
+You made a promise.,uncertain,0.4272,Family,0.8283,4
+"Get me the head of the Forest Spirit, then we can come back and destroy Lord Asano together.",very positive,0.6707,Trauma,0.2787,18
+"Watch out, milady!",very positive,0.5943,Trauma,0.561,3
+There's a horseman coming!,uncertain,0.4222,Personal Growth,0.1245,4
+Get in!,very positive,0.5043,Personal Growth,0.8879,2
+"Well, speak of the devil, a messenger from Lord Asano.",uncertain,0.3708,Trauma,0.0482,10
+We have guests.,neutral,0.4915,Resilience,0.4629,3
+"Mind your manners, ladies.",very positive,0.4648,Family,0.7001,4
+"Yes, ma'am.",neutral,0.5371,Family,0.8839,2
+"Welcome back, milady!",very positive,0.683,Friendship,0.7794,3
+Whoa!,very positive,0.5642,Family,0.7385,1
+Wait!,uncertain,0.368,Family,0.5416,1
+Won't you even talk to the man?,uncertain,0.4273,Trauma,0.7564,7
+"Lady Eboshi, mistress of Irontown!",very positive,0.6381,Family,0.808,5
+I bring a message to you from my Lord Asano.,uncertain,0.4401,Resilience,0.6692,10
+You have fought valiantly and well.,very positive,0.4887,Resilience,0.9248,6
+"Now, open your gates that we may speak with you.",uncertain,0.3237,Empathy,0.7689,10
+Hmph!,very positive,0.5463,Family,0.5253,1
+We can hear you just fine from down there.,uncertain,0.3703,Family,0.9247,9
+"Milady took this mountain away from the gods, the boars and beasts!",very positive,0.6664,Resilience,0.7441,12
+"And now that it's worth something, you want it!",uncertain,0.3795,Family,0.6561,9
+"Well, you won't get it!",uncertain,0.2681,Family,0.6638,5
+You ladies need to be taught some respect!,uncertain,0.3896,Trauma,0.2485,8
+Respect?,uncertain,0.4228,Family,0.2691,1
+What's that?,uncertain,0.3998,Family,0.166,2
+We haven't had any respect since the day we were born!,very negative,0.5224,Trauma,0.7092,11
+You want some of our iron?,uncertain,0.2951,Family,0.266,6
+Here ya go!,very positive,0.5761,Family,0.7189,3
+They are really something.,uncertain,0.4011,Family,0.8153,4
+They'll fight forest gods or samurai.,uncertain,0.3619,Resilience,0.121,6
+It doesn't matter to them.,uncertain,0.3509,Family,0.7189,5
+"They're an amazing bunch, your girls.",very positive,0.6688,Family,0.9755,6
+They were wasted in the brothels.,uncertain,0.4056,Trauma,0.155,6
+Impressive for a piece of paper.,uncertain,0.3875,Resilience,0.5354,6
+"Well, you know, it's gotten me all the best hunters and trappers around.",uncertain,0.4277,Personal Growth,0.781,13
+"Remember, my dear lady, we're after a god, not just a beast.",very positive,0.7248,Identity,0.4309,12
+"Yes, milady, what is it?",very positive,0.4937,Family,0.4921,5
+Do you have any idea who this paper has come from?,uncertain,0.3393,Identity,0.6649,11
+From the emperor himself.,uncertain,0.3028,Personal Growth,0.7302,4
+The emperor?,uncertain,0.2689,Identity,0.0438,2
+Who's he?,uncertain,0.3883,Identity,0.8135,2
+The Mikado.,uncertain,0.3116,Resilience,0.0058,2
+The Mikado?,uncertain,0.3917,Resilience,0.0039,2
+"Okay, you got me there.",neutral,0.5317,Family,0.726,5
+Thank you.,positive,0.5047,Family,0.8872,2
+"Yes, milady.",very positive,0.4857,Family,0.8924,2
+"Every day that we cut trees and dig for iron, the forest and its creatures grow weaker.",negative,0.5837,Trauma,0.4514,17
+"My way, there is no loss of life, Jigo.",uncertain,0.2795,Resilience,0.81,9
+"Listen, you owe me and I've come to collect.",uncertain,0.408,Identity,0.5189,9
+"When you needed riflemen, I sent them, and without them, you lose Irontown.",uncertain,0.3507,Trauma,0.2396,13
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+Did that sound like a threat?,very negative,0.4965,Identity,0.0787,6
+Don't tell me the emperor believes...,uncertain,0.4471,Trauma,0.3406,6
+that wives' tale about the Great Spirit's head granting immortality.,very positive,0.5722,Family,0.0966,10
+I'm sure I don't know what the emperor believes.,uncertain,0.3865,Identity,0.3457,9
+I'm just a humble monk.,uncertain,0.3721,Personal Growth,0.9729,5
+I'm just trying to get by.,uncertain,0.4341,Resilience,0.4542,6
+I keep my promises.,neutral,0.5228,Family,0.8098,4
+We have fought the boars before.,uncertain,0.39,Resilience,0.0786,6
+They're easier to kill than Moro and her cubs.,uncertain,0.3655,Trauma,0.2716,9
+"So you can call out that shady bunch you've got hidden under the cliff, Jigo.",uncertain,0.3994,Identity,0.6531,15
+So I've been found out.,neutral,0.4892,Identity,0.8187,5
+"Just one more thing, milady.",very negative,0.5024,Resilience,0.4248,5
+"Did a stranger come through here, by any chance?",uncertain,0.3454,Resilience,0.6057,9
+He's a young man riding a great big red elk.,uncertain,0.4446,Personal Growth,0.8267,10
+Came and went.,uncertain,0.3408,Family,0.5409,3
+"A bad-looking bunch, if you ask me.",very negative,0.4941,Family,0.8778,7
+Those men are no ordinary hunters.,very negative,0.4733,Resilience,0.4815,6
+They're killers.,very negative,0.5382,Identity,0.1377,2
+Killers?,uncertain,0.4204,Identity,0.0053,1
+"Milady, at least let some of us go with you.",uncertain,0.3462,Family,0.9466,10
+"Yes, you can't trust these men.",very negative,0.4627,Identity,0.5212,6
+They're strangers.,uncertain,0.3244,Loneliness,0.7948,2
+What if it goes wrong and we're stuck here?,uncertain,0.3737,Family,0.6041,9
+We can't help you.,very negative,0.6286,Trauma,0.6413,4
+You said yourself we're better shots than the men are.,uncertain,0.3346,Personal Growth,0.9153,10
+That's precisely why I want you all here in Irontown.,uncertain,0.307,Family,0.7461,10
+I can deal with forest gods.,uncertain,0.3996,Resilience,0.7119,6
+It's humans I'm worried about.,uncertain,0.3333,Personal Growth,0.4485,5
+"Once the Forest Spirit is dead, we don't know what will happen.",uncertain,0.3339,Trauma,0.4329,12
+Will Jigo be satisfied with the creature's head or will he be after my ironworks as well?,neutral,0.4587,Personal Growth,0.7897,17
+Jigo's riflemen may turn on us.,uncertain,0.4368,Trauma,0.6812,6
+"If that happens, I'll need every one of you here to fight them.",neutral,0.4877,Family,0.8352,13
+"Remember, you can't trust men.",uncertain,0.3411,Identity,0.1919,5
+Don't worry about her ladyship.,uncertain,0.4178,Resilience,0.3348,5
+"I'll be right at her side, protecting her.",uncertain,0.3517,Family,0.966,8
+That's what we're afraid of.,uncertain,0.3554,Trauma,0.5437,5
+What?,uncertain,0.396,Family,0.3908,1
+"Even if you were a woman, you'd still be an idiot!",uncertain,0.3469,Family,0.6567,11
+Do you suffer?,uncertain,0.447,Trauma,0.301,3
+"You know, you could always jump, boy.",uncertain,0.4383,Personal Growth,0.8252,7
+End it all.,uncertain,0.3283,Family,0.6005,3
+"As soon as your strength returns, the mark will spread and destroy you.",uncertain,0.4176,Trauma,0.8346,13
+It feels like I must've been asleep for weeks.,negative,0.479,Trauma,0.6645,9
+"I had a dream that San was by my side, nursing me.",very positive,0.6514,Family,0.9882,12
+I was hoping you'd cry out in your sleep.,uncertain,0.2655,Family,0.7685,9
+Then I would have bitten your head off to silence you.,uncertain,0.3284,Trauma,0.7167,11
+It's a beautiful forest.,uncertain,0.3492,Resilience,0.0795,4
+Are Okkoto and the boars on the move yet?,neutral,0.4915,Resilience,0.2796,9
+"Yes, the boars are marching.",uncertain,0.3393,Trauma,0.163,5
+"The trees cry out as they die, but you cannot hear them.",uncertain,0.3329,Trauma,0.7564,12
+"I listen to the forest's pain and feel the ache of the bullet in my chest, and I dream of the day when I will finally crunch that gun woman's head in my jaws.",uncertain,0.4034,Trauma,0.9269,34
+"Moro, why can't the humans and the forest live together?",uncertain,0.2743,Empathy,0.1909,10
+Why can't we stop this fighting now?,uncertain,0.3799,Family,0.4068,7
+The humans are gathering for the final battle.,uncertain,0.337,Resilience,0.0446,8
+The flames of their guns will burn us all.,uncertain,0.4103,Trauma,0.2556,9
+And what happens to San?,uncertain,0.3299,Trauma,0.4534,5
+"What's your plan, to let her die with you?",neutral,0.5064,Family,0.8563,9
+Typical.,neutral,0.7366,Family,0.8291,1
+Selfish.,very positive,0.5996,Trauma,0.0732,1
+You think like a human.,uncertain,0.2886,Empathy,0.7742,5
+San is my daughter.,very positive,0.5578,Family,0.9958,4
+She is of the wolf tribe.,uncertain,0.2661,Identity,0.9458,6
+"When the forest dies, so does she.",neutral,0.5183,Trauma,0.853,7
+You must set her free!,very positive,0.6716,Personal Growth,0.7056,5
+She's not a wolf!,uncertain,0.4132,Identity,0.9368,4
+She's human!,very positive,0.6045,Personal Growth,0.9716,2
+"Silence, boy.",very negative,0.5885,Family,0.806,2
+How dare you speak to a god like that?,very positive,0.4926,Trauma,0.3563,9
+I caught her human parents defiling my forest.,uncertain,0.2238,Family,0.8653,8
+They threw their baby at my feet as they ran away.,uncertain,0.4137,Family,0.8947,11
+"Instead of eating her, I raised her as my own.",uncertain,0.4489,Family,0.9367,10
+"Now, my poor, ugly, beautiful daughter is neither human nor wolf.",neutral,0.5462,Family,0.9107,11
+How could you help her?,uncertain,0.3452,Family,0.6401,5
+"I don't know, but at least we might find a way to live.",uncertain,0.4305,Family,0.5645,13
+How?,uncertain,0.3953,Family,0.3719,1
+Will you join forces with San and fight the humans?,uncertain,0.2962,Resilience,0.2768,10
+No.,very negative,0.4577,Family,0.8406,1
+All that would do is cause more hatred.,uncertain,0.3796,Trauma,0.4679,8
+"There is nothing you can do, boy.",uncertain,0.3525,Trauma,0.727,7
+Soon the demon mark will spread and kill you.,uncertain,0.4278,Trauma,0.4741,9
+Leave this place at sunrise.,uncertain,0.4201,Personal Growth,0.6251,5
+Return and I shall kill you.,very positive,0.4941,Family,0.4364,6
+You're feeling all right?,uncertain,0.422,Family,0.7678,4
+"I'm fine, thanks to you and the Forest Spirit.",uncertain,0.4026,Resilience,0.8959,9
+"Yakul, sorry if I worried you.",uncertain,0.2482,Personal Growth,0.3974,6
+I guess my legs are still pretty weak?,uncertain,0.3386,Trauma,0.7078,8
+It's so quiet.,very positive,0.4545,Family,0.8598,3
+I wonder where the little kodama went.,uncertain,0.2911,Personal Growth,0.3305,7
+I can smell the ironworks.,uncertain,0.3157,Resilience,0.0069,5
+Thanks for showing us the way!,positive,0.4623,Family,0.7555,6
+I have another favour to ask!,uncertain,0.2744,Family,0.3733,6
+Will you please give this to San for me?,uncertain,0.232,Empathy,0.8811,9
+Let's go.,uncertain,0.4351,Family,0.8754,2
+"It stinks, and it burns my eyes.",very negative,0.4771,Trauma,0.5912,7
+That's what they want.,neutral,0.5125,Family,0.8448,4
+They're trying to kill our sense of smell.,uncertain,0.3689,Family,0.2939,8
+It's that damn woman again.,very positive,0.5221,Trauma,0.9136,5
+She knows we're out here.,uncertain,0.3143,Family,0.8541,5
+It's a trap and a stupid one.,uncertain,0.3379,Trauma,0.8274,7
+What?,uncertain,0.396,Family,0.3908,1
+They're trying to lure the boars out of the forest.,negative,0.4825,Trauma,0.1443,10
+The humans are planning something.,uncertain,0.4495,Personal Growth,0.7103,5
+Then we have to find Okkoto while there's still time to stop him or they'll be killed!,uncertain,0.3919,Trauma,0.3248,17
+Okkoto is too stubborn.,negative,0.6643,Family,0.2717,4
+He won't listen.,very negative,0.6492,Family,0.8399,3
+None of them will.,very negative,0.5342,Family,0.88,4
+They may even know it's a trap.,uncertain,0.2905,Family,0.775,7
+The boars are a proud race.,positive,0.4684,Identity,0.0824,6
+The last one left alive will still be charging blindly forward.,uncertain,0.2257,Trauma,0.4577,11
+Why chop the trees down?,very negative,0.4527,Trauma,0.3492,5
+"To make them angry, which makes them stupid.",very negative,0.4723,Family,0.4166,8
+"Mother, I have to go.",very positive,0.6751,Family,0.992,5
+Okkoto's blind.,very negative,0.5697,Loneliness,0.8361,2
+I must be his eyes.,uncertain,0.3812,Identity,0.9683,5
+You understand?,neutral,0.4624,Family,0.7922,2
+Do as you must.,neutral,0.5484,Family,0.7125,4
+You know that boy wanted to share his life with you.,uncertain,0.4237,Empathy,0.8884,11
+I hate him!,uncertain,0.3769,Trauma,0.6582,3
+I hate all humans!,very positive,0.4548,Grief,0.1298,4
+From Ashitaka for me?,uncertain,0.3898,Personal Growth,0.191,4
+Pretty.,uncertain,0.3798,Family,0.9005,1
+"You two, stay with San.",uncertain,0.3159,Family,0.9879,5
+I must go to the Forest Spirit.,very positive,0.4824,Personal Growth,0.0194,7
+Let's go.,uncertain,0.4351,Family,0.8754,2
+The Moro tribe has come to fight with you.,positive,0.4836,Trauma,0.2714,9
+Where can I find Lord Okkoto?,uncertain,0.4314,Personal Growth,0.0785,6
+Thank you.,positive,0.5047,Family,0.8872,2
+It's coming from Irontown.,uncertain,0.315,Resilience,0.2546,4
+Let's go!,very positive,0.4721,Personal Growth,0.855,2
+Who goes there?,uncertain,0.3857,Personal Growth,0.2771,3
+Samurai again.,very positive,0.502,Personal Growth,0.1573,2
+"Halt, I said!",uncertain,0.3617,Family,0.6912,3
+Out of the way!,uncertain,0.4213,Family,0.7813,4
+What the devil was that thing?,uncertain,0.3705,Trauma,0.2,6
+Don't waste your arrows.,uncertain,0.4079,Family,0.7142,4
+He's knocking them away.,uncertain,0.4447,Family,0.5461,4
+He's a dead man anyway.,very negative,0.6627,Trauma,0.684,5
+Cease fire!,very positive,0.5125,Family,0.2746,2
+"Toki, come and look.",very positive,0.5254,Family,0.8717,4
+It can't be.,uncertain,0.4149,Family,0.8275,3
+It's Ashitaka.,uncertain,0.4341,Family,0.0072,2
+So it's not a ghost.,uncertain,0.3597,Resilience,0.4606,5
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+Toki!,very positive,0.5689,Personal Growth,0.4296,1
+Are you all right?,uncertain,0.3641,Family,0.4713,4
+We're all right.,uncertain,0.4098,Family,0.9468,3
+Lord Asano's samurai thought they'd try and ambush us while our men were away.,uncertain,0.2441,Trauma,0.3447,14
+Thought we'd just roll over.,uncertain,0.34,Family,0.8174,5
+But we showed them!,uncertain,0.3442,Family,0.7905,4
+Where's Lady Eboshi?,very negative,0.4523,Family,0.5251,3
+She took every able-bodied man and went to kill the Forest Spirit.,very positive,0.4718,Trauma,0.8616,12
+We're cut off here.,uncertain,0.4009,Loneliness,0.9589,4
+Can't get a message to Lady Eboshi.,uncertain,0.4125,Family,0.7989,7
+The Forest Spirit.,very positive,0.6433,Resilience,0.0065,3
+That explains the explosions.,uncertain,0.4422,Family,0.0453,4
+"Hey, sir, I've still got your bow and arrows!",very positive,0.6098,Resilience,0.7533,9
+Aren't you gonna tell him you've got his cloak and saddle too?,uncertain,0.2782,Personal Growth,0.8885,12
+I do?,uncertain,0.4219,Identity,0.8283,2
+You're useless.,very negative,0.6547,Loneliness,0.7352,2
+"Many thanks, Kohroku!",likely_emotive,0.469,Personal Growth,0.7337,3
+I'll try and bring you some help!,uncertain,0.4171,Resilience,0.6094,7
+Can you hold out?,uncertain,0.4194,Family,0.781,4
+Don't worry!,very negative,0.6214,Resilience,0.8154,2
+We can always pour hot iron on them.,uncertain,0.2777,Family,0.6511,8
+Bring back Lady Eboshi!,very positive,0.7031,Family,0.2819,4
+And don't take too long!,uncertain,0.3234,Family,0.7857,5
+I missed.,uncertain,0.4073,Family,0.6446,2
+They're bringing boats across the river!,uncertain,0.43,Resilience,0.5873,6
+Go and get Lady Eboshi.,very positive,0.4651,Family,0.9058,5
+We'll hold them off as long as we can!,uncertain,0.2271,Family,0.9325,9
+I'll be back!,very positive,0.6213,Resilience,0.8763,3
+I promise!,uncertain,0.3563,Family,0.8246,2
+Be careful!,very positive,0.5058,Family,0.6944,2
+Get him!,very positive,0.4913,Personal Growth,0.7588,2
+Stop that man!,uncertain,0.389,Trauma,0.784,3
+Looks like they'll try to cut us off.,negative,0.4559,Family,0.6741,8
+"Run, Yakul.",uncertain,0.3697,Personal Growth,0.7835,2
+Burning animal flesh.,very negative,0.5488,Trauma,0.4038,3
+Yakul!,very positive,0.6529,Personal Growth,0.6246,1
+Stay back!,very positive,0.616,Family,0.8949,2
+Show me your wound.,very positive,0.5021,Trauma,0.9084,4
+You'll have to stay here.,uncertain,0.3798,Family,0.9243,5
+Wait for me.,neutral,0.454,Family,0.8592,3
+I'll come back for you.,uncertain,0.4363,Resilience,0.8438,5
+"I said, stay!",uncertain,0.3225,Family,0.8637,3
+"We're almost there, my friend.",very positive,0.5301,Friendship,0.962,5
+Who goes there?,uncertain,0.3857,Personal Growth,0.2771,3
+My orders are no outsiders permitted here.,very negative,0.5341,Resilience,0.568,7
+"All right, but I've just come from Irontown.",uncertain,0.4085,Trauma,0.4081,8
+I have a message for Lady Eboshi.,uncertain,0.3616,Empathy,0.7332,7
+Tell me where she is.,neutral,0.6542,Family,0.7695,5
+The Eboshi woman's not here.,negative,0.497,Family,0.9581,5
+Give me the message.,uncertain,0.3715,Family,0.501,4
+I'll make sure she gets it.,neutral,0.4764,Family,0.9101,6
+I must speak with her.,uncertain,0.3635,Family,0.7844,5
+Now where is she?,uncertain,0.41,Personal Growth,0.6398,4
+It's really you?,uncertain,0.2999,Identity,0.8838,3
+"You're still alive, lad?",uncertain,0.397,Resilience,0.7813,4
+It looks like you men had a worse time than I did.,uncertain,0.4068,Family,0.8167,12
+We've been burying our friends all day.,uncertain,0.242,Grief,0.9324,7
+It was horrible.,very negative,0.6848,Trauma,0.7934,3
+Irontown has come under attack.,uncertain,0.4342,Trauma,0.6505,5
+What?,uncertain,0.396,Family,0.3908,1
+The women and the lepers have fallen back to the inner wall.,uncertain,0.4484,Trauma,0.8697,12
+We haven't got a lot of time.,uncertain,0.4211,Family,0.7174,7
+Those samurai bastards.,very negative,0.5261,Trauma,0.2358,3
+Asano must've just been waiting for us to leave Irontown.,uncertain,0.3286,Family,0.6427,10
+Now I must find Lady Eboshi.,uncertain,0.2882,Family,0.8373,6
+She's off hunting down the Forest Spirit.,uncertain,0.4101,Personal Growth,0.053,7
+Then someone's got to stop her.,uncertain,0.3374,Family,0.5579,6
+Call her back.,uncertain,0.4465,Family,0.9374,3
+"If you're all done, I want you out of here.",neutral,0.4882,Family,0.7717,10
+"The rest of you, keep digging!",uncertain,0.3387,Personal Growth,0.7402,6
+Wait!,uncertain,0.368,Family,0.5416,1
+What about Irontown?,uncertain,0.4144,Resilience,0.125,3
+That's right!,uncertain,0.3399,Family,0.8305,2
+It's our home!,very positive,0.5897,Family,0.9749,3
+"What do they expect us to do, abandon Irontown?",uncertain,0.3966,Trauma,0.5133,9
+You heard the boy!,very positive,0.5189,Family,0.8537,4
+We haven't a moment to lose.,uncertain,0.432,Family,0.8448,6
+Send a message to Lady Eboshi!,very positive,0.4689,Friendship,0.8097,6
+No messenger would have a chance of finding her!,uncertain,0.3449,Identity,0.72,9
+Then send out a hunter!,uncertain,0.409,Personal Growth,0.071,5
+What else are they good for?,uncertain,0.4043,Family,0.1146,6
+Lady Eboshi is just being used by Jigo.,uncertain,0.4417,Family,0.3618,8
+"When you fought with the boars, were there any wolves with them?",uncertain,0.3841,Trauma,0.6045,12
+"Did you see San, the Wolf Girl?",uncertain,0.2376,Trauma,0.2404,7
+I have no idea.,very negative,0.5862,Personal Growth,0.4081,4
+It was pitch black when the animals came at us.,very negative,0.4628,Trauma,0.7735,10
+She was there.,neutral,0.6019,Family,0.9695,3
+I saw her.,uncertain,0.4056,Family,0.8384,3
+I was right in the front line.,uncertain,0.3611,Trauma,0.5451,7
+"I saw everything, everything.",very positive,0.5547,Family,0.6222,4
+What happened?,very negative,0.489,Family,0.3208,2
+I'm not sure!,uncertain,0.3542,Personal Growth,0.6129,3
+Everything started happening so fast.,very positive,0.6246,Family,0.7837,5
+It was like a nightmare.,very negative,0.8327,Trauma,0.9037,5
+Jigo's troops put us in front as bait to lure the boars in.,uncertain,0.3585,Resilience,0.4121,13
+They didn't tell us about the land mines under our feet...,uncertain,0.362,Trauma,0.8147,11
+or the grenades coming in on top of us.,uncertain,0.3535,Trauma,0.8529,9
+Where's San?,uncertain,0.3591,Family,0.7988,2
+Take it easy.,uncertain,0.4375,Family,0.8762,3
+I'm trying to get you out.,uncertain,0.436,Personal Growth,0.658,6
+There's a wolf over here!,uncertain,0.3096,Trauma,0.8201,5
+Hey!,uncertain,0.3457,Family,0.7355,1
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Young master!,very positive,0.7063,Personal Growth,0.9111,2
+What do you think you're doing?,neutral,0.5652,Family,0.326,6
+I have got to find Lady Eboshi.,uncertain,0.3429,Family,0.6718,7
+This wolf's gonna help me find her.,positive,0.4933,Resilience,0.7644,7
+"You're on their side, aren't you, boy?",uncertain,0.3511,Family,0.8919,7
+Stand aside!,uncertain,0.4478,Trauma,0.4602,2
+What's more important?,uncertain,0.4433,Family,0.5309,3
+The head of the Forest Spirit or saving your town?,very positive,0.507,Identity,0.018,10
+Those darts are poison.,very negative,0.6543,Trauma,0.663,4
+That's enough now!,uncertain,0.354,Family,0.7177,3
+I'm not gonna slave any longer!,uncertain,0.2561,Personal Growth,0.7613,6
+Heave.,very positive,0.5779,Family,0.7739,1
+Look out!,uncertain,0.3944,Family,0.6713,2
+"After you've come through the swamp, take cover by the lake until we get there.",uncertain,0.2942,Resilience,0.5379,15
+Be careful.,uncertain,0.36,Family,0.7755,2
+Those riflemen with milady belong to Jigo.,very positive,0.4623,Family,0.9871,7
+Here.,uncertain,0.4147,Family,0.8075,1
+Take these.,uncertain,0.3778,Family,0.671,2
+"Where I'm going, they won't be of any use.",uncertain,0.406,Identity,0.5001,9
+"You go with them, Yakul.",uncertain,0.4102,Family,0.9088,5
+Look after him!,very positive,0.5068,Family,0.8945,3
+Find San!,very positive,0.5535,Family,0.8893,2
+That's where we'll find Eboshi!,uncertain,0.4261,Personal Growth,0.0271,5
+Come on.,uncertain,0.4016,Family,0.8255,2
+Keep moving.,uncertain,0.3846,Personal Growth,0.9417,2
+Straight ahead.,uncertain,0.3293,Family,0.7523,2
+Today we finish this.,uncertain,0.3466,Family,0.7562,4
+Sir.,very positive,0.4849,Resilience,0.7463,1
+Yes?,uncertain,0.4134,Family,0.849,1
+Have you spotted them?,uncertain,0.423,Family,0.5768,4
+Okkoto's badly wounded.,very negative,0.5419,Trauma,0.9869,3
+He and the Wolf Girl are making their way to the realm of the Forest Spirit.,very positive,0.4541,Resilience,0.5295,16
+"So they're going to beg him for his help, are they?",uncertain,0.2703,Family,0.832,11
+"Keep after them, but stay out of sight or you'll scare the Forest Spirit away.",uncertain,0.3882,Family,0.4398,15
+"Yes, sir.",uncertain,0.383,Family,0.8721,2
+I understand.,neutral,0.5531,Empathy,0.8502,2
+"That was boar's blood painted on his face, wasn't it?",uncertain,0.4125,Trauma,0.8755,10
+A little trade secret.,uncertain,0.4263,Resilience,0.07,4
+Don't want to smell human.,uncertain,0.4309,Personal Growth,0.4504,5
+We're almost at the pool of the Forest Spirit.,very positive,0.4818,Personal Growth,0.0111,9
+What was that?,uncertain,0.3154,Family,0.1964,3
+"Lord Okkoto, something's wrong.",uncertain,0.4032,Trauma,0.6267,4
+We have to keep moving.,uncertain,0.386,Personal Growth,0.8462,5
+Something's out there.,neutral,0.6407,Resilience,0.1609,3
+What?,uncertain,0.396,Family,0.3908,1
+"With so much blood in the air, I can't smell it.",uncertain,0.3419,Trauma,0.66,11
+I should have known it was you!,uncertain,0.2989,Family,0.9217,7
+You did this!,uncertain,0.4219,Family,0.8057,3
+"Because of you, the forest will die!",very positive,0.6317,Trauma,0.6896,7
+You're wrong!,uncertain,0.411,Personal Growth,0.4809,2
+We've all been fighting to save it!,very positive,0.5,Family,0.9484,7
+This is the thanks you give us?,uncertain,0.33,Family,0.3952,7
+You bring bad things!,very negative,0.5442,Trauma,0.6119,4
+"Bad things coming, neither human nor animal.",neutral,0.7052,Trauma,0.3563,7
+"What do you mean, ""neither human nor animal""?",neutral,0.7327,Personal Growth,0.0104,8
+They're coming!,very positive,0.6109,Family,0.9468,2
+It's the end for us!,very positive,0.6008,Family,0.5885,5
+They're warriors.,uncertain,0.4203,Resilience,0.198,2
+They've come back.,uncertain,0.3687,Resilience,0.9805,3
+My warriors!,very positive,0.6928,Family,0.6277,2
+They have come back to me from the land of the dead.,uncertain,0.437,Family,0.8526,12
+"Forward, my warriors!",uncertain,0.4166,Personal Growth,0.8562,3
+Forward to the pool of the Forest Spirit!,uncertain,0.3839,Personal Growth,0.4006,8
+"No, Lord Okkoto!",very negative,0.5325,Grief,0.6008,3
+Your warriors haven't come back to you.,uncertain,0.4422,Trauma,0.7319,7
+Those are humans wearing the skins of your warriors to hide their scent!,uncertain,0.3696,Trauma,0.6852,13
+It's a trick!,uncertain,0.4186,Family,0.3987,3
+It's just a human trick to get us to lead them to the Forest Spirit!,very positive,0.6076,Family,0.0237,15
+"Come out, Forest Spirit!",very positive,0.6473,Personal Growth,0.2394,4
+"If you are truly master here, give my warriors the power to slay the humans and be victorious!",very positive,0.6919,Identity,0.5248,18
+"Stop, Lord Okkoto, please!",very positive,0.561,Trauma,0.6872,4
+You've got to listen!,very positive,0.4985,Family,0.7991,4
+"San, they're all around us.",uncertain,0.3844,Family,0.7464,5
+Okkoto's done for.,neutral,0.5051,Trauma,0.5144,3
+Leave him!,uncertain,0.3954,Trauma,0.8073,2
+No!,very negative,0.5534,Family,0.9037,1
+I won't let him turn into a demon like Nago did!,uncertain,0.4422,Trauma,0.7031,11
+Tell mother that the humans are setting a trap for the Forest Spirit.,uncertain,0.3664,Family,0.9256,13
+She'll know what to do.,neutral,0.5443,Family,0.9233,5
+"You'll have to hurry, or it could mean the end of all of us!",uncertain,0.3383,Family,0.91,14
+Go on now.,uncertain,0.3217,Personal Growth,0.7635,3
+Stay back or you die!,very positive,0.5077,Trauma,0.4788,5
+And then this whole forest will see just what you are!,very positive,0.5604,Identity,0.7276,11
+Ashitaka?,uncertain,0.2697,Personal Growth,0.2608,1
+Get back!,uncertain,0.4369,Trauma,0.7007,2
+I burn!,uncertain,0.4046,Trauma,0.8263,2
+There are flames growing inside of me.,uncertain,0.3359,Personal Growth,0.9524,7
+You must fight it!,very positive,0.6787,Trauma,0.4703,4
+Don't let yourself become a demon!,very negative,0.4908,Trauma,0.2747,6
+Lord Okkoto!,very positive,0.6252,Personal Growth,0.3028,2
+What is it?,neutral,0.4969,Personal Growth,0.1153,3
+Is it San?,uncertain,0.3395,Personal Growth,0.2118,3
+She's in danger.,uncertain,0.4113,Trauma,0.9254,3
+Let's go.,uncertain,0.4351,Family,0.8754,2
+I'm on fire.,very positive,0.5538,Personal Growth,0.9635,3
+No!,very negative,0.5534,Family,0.9037,1
+I don't want to become a demon!,very negative,0.5175,Personal Growth,0.2503,7
+"Please stop, Okkoto!",uncertain,0.2839,Trauma,0.7534,3
+You're too slow!,negative,0.6108,Personal Growth,0.6594,3
+Get on!,very positive,0.4677,Personal Growth,0.8242,2
+A wolf!,very positive,0.6246,Trauma,0.4523,2
+Eboshi!,very negative,0.6929,Personal Growth,0.3579,1
+You keep going!,uncertain,0.388,Personal Growth,0.9602,3
+Eboshi!,very negative,0.6929,Personal Growth,0.3579,1
+I have something to say!,uncertain,0.4225,Personal Growth,0.7036,5
+Hold your fire!,very positive,0.6285,Family,0.8042,3
+What is it you want?,neutral,0.5282,Personal Growth,0.3542,5
+Lord Asano's samurai have attacked Irontown!,very positive,0.6006,Trauma,0.0918,6
+The women are outnumbered!,uncertain,0.3098,Trauma,0.6645,4
+They can't hold them off for long!,uncertain,0.2837,Family,0.8533,7
+Forget about the Forest Spirit!,very positive,0.5205,Personal Growth,0.0041,5
+"Your men are already heading back, but they need you to lead them!",uncertain,0.3114,Family,0.6757,13
+What proof is there this isn't a lie?,neutral,0.4739,Family,0.5004,8
+Lie?,neutral,0.4702,Family,0.1596,1
+Don't be ridiculous!,uncertain,0.3807,Family,0.4275,3
+What reason do I have to lie?,neutral,0.5146,Family,0.1686,7
+So we don't kill the forest gods.,very negative,0.5664,Resilience,0.729,7
+Now you want us to kill samurai instead.,very negative,0.4531,Trauma,0.5944,8
+No!,very negative,0.5534,Family,0.9037,1
+What I want is for the humans and the forest to live in peace!,very positive,0.5637,Empathy,0.3601,14
+Just whose side is he on anyway?,uncertain,0.4081,Identity,0.3417,7
+Shouldn't we go back?,uncertain,0.3723,Family,0.5737,4
+The women are on their own now.,uncertain,0.3204,Personal Growth,0.85,7
+They can take care of themselves.,uncertain,0.3266,Personal Growth,0.8481,6
+There's the pool.,neutral,0.5229,Resilience,0.037,3
+The creature must be somewhere nearby.,uncertain,0.4317,Resilience,0.5222,6
+"It's the moment of truth, boys, so keep your eyes peeled.",uncertain,0.3803,Family,0.671,11
+"Why do we need that woman, sir?",uncertain,0.405,Trauma,0.3915,7
+"When you're going to kill a god, let someone else do your dirty work.",very negative,0.4732,Trauma,0.2063,14
+"Moro, what happened to you?",uncertain,0.2983,Trauma,0.7115,5
+San!,very positive,0.5905,Family,0.9046,1
+"It's me, Ashitaka!",very positive,0.6626,Identity,0.9902,3
+San!,very positive,0.5905,Family,0.9046,1
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+Okkoto?,uncertain,0.3512,Personal Growth,0.3826,1
+"Leave, boy.",uncertain,0.2845,Personal Growth,0.748,2
+Fight me and the Forest Spirit will never come.,very positive,0.7221,Identity,0.5912,9
+"Lord Okkoto, calm your fury!",very positive,0.7156,Trauma,0.6346,5
+"O mighty Lord, let me have the girl!",very positive,0.6168,Family,0.8129,8
+I beg of you!,very positive,0.6107,Family,0.7727,4
+"Please, let her go!",uncertain,0.3124,Family,0.9153,4
+San!,very positive,0.5905,Family,0.9046,1
+Are you there?,neutral,0.4581,Family,0.6622,3
+It's me!,very positive,0.5699,Identity,0.9952,2
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+San!,very positive,0.5905,Family,0.9046,1
+Kill him!,uncertain,0.3926,Trauma,0.7126,2
+Stop him!,very negative,0.5045,Trauma,0.6109,2
+He'll ruin everything!,very negative,0.6302,Family,0.9615,3
+San!,very positive,0.5905,Family,0.9046,1
+San!,very positive,0.5905,Family,0.9046,1
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+San!,very positive,0.5905,Family,0.9046,1
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+And here I was saving the last of my strength to bite off that damn woman's head.,uncertain,0.3103,Trauma,0.8912,17
+But I must save San.,uncertain,0.3755,Family,0.8207,5
+Close ranks!,uncertain,0.3272,Family,0.9595,2
+Don't touch him.,very negative,0.5481,Family,0.866,3
+He's no longer a god.,very negative,0.4818,Resilience,0.091,5
+"You can't even speak, can you?",very negative,0.5207,Trauma,0.7724,6
+"Well done, men.",neutral,0.5088,Personal Growth,0.791,3
+"Now, fall back and get the wounded out of here.",uncertain,0.3321,Trauma,0.9465,10
+"Ooh, what a revolting spectacle.",uncertain,0.3503,Trauma,0.2926,5
+It's him.,uncertain,0.3356,Identity,0.9912,2
+"Give me back my daughter, demon.",uncertain,0.4133,Family,0.8402,6
+"Ashitaka, can you save the girl you love?",very positive,0.6224,Romantic Love,0.7745,8
+The Forest Spirit.,very positive,0.6433,Resilience,0.0065,3
+Eboshi!,very negative,0.6929,Personal Growth,0.3579,1
+Hold your fire!,very positive,0.6285,Family,0.8042,3
+Eboshi!,very negative,0.6929,Personal Growth,0.3579,1
+Your enemy's not the Forest Spirit.,very negative,0.4709,Loneliness,0.0574,6
+But that should have killed it.,uncertain,0.3272,Trauma,0.8239,6
+He's a god.,very positive,0.7132,Resilience,0.1593,3
+It'll take more than one shot.,neutral,0.4869,Family,0.6898,6
+San!,very positive,0.5905,Family,0.9046,1
+Don't die.,very negative,0.5885,Resilience,0.9653,2
+I don't get it.,very negative,0.4782,Family,0.7337,4
+The Great Forest Spirit took their lives away.,very positive,0.5689,Grief,0.7563,8
+Quick!,positive,0.5572,Family,0.7543,1
+He's starting to change.,uncertain,0.3973,Personal Growth,0.9755,4
+"Now watch closely, everyone.",uncertain,0.4238,Family,0.761,4
+"I'm going to show you how to kill a god, a god of life and death.",very negative,0.5536,Trauma,0.0037,16
+The trick is not to fear him.,uncertain,0.3277,Resilience,0.8134,7
+No!,very negative,0.5534,Family,0.9037,1
+Stop!,uncertain,0.2849,Family,0.771,1
+Eboshi!,very negative,0.6929,Personal Growth,0.3579,1
+You will die!,very positive,0.7625,Grief,0.5337,3
+She did it!,positive,0.4751,Family,0.9351,3
+Quickly!,positive,0.4803,Family,0.7717,1
+Go get the head!,uncertain,0.4497,Trauma,0.763,4
+"Quick, Jigo!",positive,0.4513,Personal Growth,0.6094,2
+Bring me that box of yours!,very positive,0.6196,Friendship,0.6651,6
+The porters are all dead!,very negative,0.6568,Trauma,0.9626,5
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Be careful not to touch the spirit's body!,uncertain,0.2907,Trauma,0.4181,8
+It'll suck the life out of you!,very negative,0.5116,Loneliness,0.598,7
+Here it is!,uncertain,0.3894,Family,0.7642,3
+"One head, as promised!",uncertain,0.4446,Personal Growth,0.331,4
+Milady!,very positive,0.5684,Family,0.7252,1
+I told you.,uncertain,0.3562,Family,0.8053,3
+A wolf's head can still bite.,uncertain,0.3891,Trauma,0.6342,6
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+We got to get out of here.,uncertain,0.3237,Trauma,0.6385,7
+"It's coming, sir!",very positive,0.5914,Personal Growth,0.8195,3
+Run!,uncertain,0.3124,Personal Growth,0.7969,1
+"Gonza, we've got to get to the island!",very positive,0.4828,Resilience,0.4677,8
+Island?,uncertain,0.3022,Resilience,0.0778,1
+I can't swim!,very negative,0.4598,Resilience,0.2765,3
+Then walk along the bottom.,uncertain,0.2993,Family,0.7295,5
+Give her to me!,very positive,0.6236,Romantic Love,0.6835,4
+I'll cut her throat!,uncertain,0.3988,Trauma,0.6257,4
+Your claim has been avenged.,uncertain,0.377,Identity,0.7367,5
+Your mother saw to that.,uncertain,0.3272,Family,0.9963,5
+Here.,uncertain,0.4147,Family,0.8075,1
+Lady Eboshi.,very negative,0.4683,Family,0.9779,2
+Help me.,uncertain,0.4141,Personal Growth,0.8117,2
+Don't waste your sympathy.,uncertain,0.4404,Family,0.7431,4
+I promised Toki that I'd bring you back to Irontown.,uncertain,0.3691,Friendship,0.799,10
+He's searching for his head.,uncertain,0.3813,Personal Growth,0.8375,5
+We can't stay here.,very negative,0.7175,Family,0.8984,4
+"San, you have got to help us.",uncertain,0.4183,Personal Growth,0.6247,7
+No!,very negative,0.5534,Family,0.9037,1
+You're on their side!,uncertain,0.4135,Family,0.8963,4
+You always were!,very positive,0.5645,Family,0.9409,3
+Take that damn woman and just go away!,very positive,0.639,Trauma,0.8875,8
+Never!,uncertain,0.36,Family,0.5854,1
+I hate all of you humans!,very negative,0.5074,Grief,0.4105,6
+"Yes, I'm human, San, and so are you.",very positive,0.6137,Identity,0.9279,8
+Stop it!,uncertain,0.357,Family,0.6417,2
+"I'm a wolf, you hear?",uncertain,0.3604,Identity,0.9672,5
+San?,uncertain,0.3266,Family,0.7793,1
+Stay back!,very positive,0.616,Family,0.8949,2
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+I tried to stop it.,uncertain,0.3684,Family,0.7356,5
+It's over.,uncertain,0.4102,Family,0.7563,2
+Everything's over.,uncertain,0.3289,Family,0.7522,2
+The forest is dead.,very negative,0.6444,Trauma,0.3402,4
+Nothing is over.,uncertain,0.4283,Resilience,0.936,3
+The two of us are still alive.,uncertain,0.323,Resilience,0.9151,7
+"Now, will you help me, San?",very positive,0.6481,Empathy,0.8826,6
+"Hey, wait!",uncertain,0.3151,Personal Growth,0.6637,2
+Come back!,very positive,0.5622,Personal Growth,0.8167,2
+Help us!,uncertain,0.4199,Family,0.781,2
+A little crisis and they panic.,negative,0.5837,Trauma,0.8548,6
+Whoa!,very positive,0.5642,Family,0.7385,1
+What are you doing?,neutral,0.5407,Personal Growth,0.5829,4
+Look!,uncertain,0.4131,Family,0.7393,1
+The head is moving!,uncertain,0.4195,Personal Growth,0.6731,4
+It's calling him to us!,very positive,0.5108,Family,0.7768,5
+It shouldn't jam anymore.,uncertain,0.4091,Family,0.744,4
+Thanks.,uncertain,0.375,Family,0.9123,1
+It's awfully quiet.,uncertain,0.3079,Family,0.827,3
+Asano is waiting for sunrise.,uncertain,0.3477,Personal Growth,0.7673,5
+I wonder if that young man ever found Lady Eboshi.,uncertain,0.2504,Personal Growth,0.7713,10
+Don't worry about him.,uncertain,0.4465,Resilience,0.7255,4
+"He found her, all right.",neutral,0.4546,Family,0.8816,5
+They'll be marching over that hill any minute now.,uncertain,0.2473,Family,0.8571,9
+Big dope.,uncertain,0.3171,Personal Growth,0.8134,2
+Don't ask me why I love him.,uncertain,0.4199,Family,0.6705,7
+"Hey, Kohroku!",very negative,0.5535,Friendship,0.8703,2
+"Let him sleep, Toki, while he can.",uncertain,0.3873,Family,0.8451,7
+What's that?,uncertain,0.3998,Family,0.166,2
+"I don't know, but I don't like it.",uncertain,0.3234,Trauma,0.442,8
+It's the Nightwalker!,very positive,0.7562,Trauma,0.0013,3
+"Everybody, hold your positions!",uncertain,0.4413,Family,0.8758,4
+"Toki, it's coming right at us.",uncertain,0.3986,Trauma,0.0684,6
+Run!,uncertain,0.3124,Personal Growth,0.7969,1
+We've gotta go!,very positive,0.4846,Family,0.6619,3
+No!,very negative,0.5534,Family,0.9037,1
+We promised Lady Eboshi we would defend Irontown!,very positive,0.4861,Resilience,0.7658,8
+Look!,uncertain,0.4131,Family,0.7393,1
+Over there!,uncertain,0.3389,Family,0.7503,2
+He's come back!,very positive,0.6355,Resilience,0.9865,3
+Get everyone out!,very positive,0.5328,Family,0.7452,3
+"The Great Spirit's head's been cut off, and he wants it back!",uncertain,0.4105,Trauma,0.9354,12
+"If that black ooze touches you, you're dead!",uncertain,0.4496,Trauma,0.6069,8
+Run for the lake!,uncertain,0.3758,Trauma,0.4512,4
+The water will slow it down!,uncertain,0.3888,Family,0.5693,6
+Lady Eboshi and the men are on their way from the other side.,uncertain,0.3603,Family,0.9569,13
+I'm gonna try to return his head before he kills us all.,uncertain,0.3507,Trauma,0.7278,12
+Hurry!,uncertain,0.4101,Family,0.7446,1
+What are we gonna do now?,neutral,0.4733,Family,0.6025,6
+It'll kill us all!,uncertain,0.4096,Family,0.6892,4
+We'll never get out now!,uncertain,0.3289,Trauma,0.8521,5
+That's enough!,likely_emotive,0.4552,Family,0.7331,2
+Get everyone down to the lake and stay calm.,uncertain,0.4102,Family,0.9652,9
+We can carry the sick and the wounded.,uncertain,0.384,Trauma,0.741,8
+Not that way!,negative,0.4752,Family,0.6774,3
+Stop!,uncertain,0.2849,Family,0.771,1
+Oh!,uncertain,0.3701,Family,0.7929,1
+There it goes!,uncertain,0.33,Family,0.7367,3
+We're done for!,uncertain,0.3643,Grief,0.8592,3
+"Once the forge burns, it'll be the end of Irontown.",uncertain,0.3948,Trauma,0.0595,10
+"We're still alive, Kohroku.",uncertain,0.3462,Resilience,0.9627,4
+We'll manage somehow.,uncertain,0.3733,Resilience,0.9287,3
+"Now, let's go.",uncertain,0.4223,Family,0.811,3
+There they are!,uncertain,0.3953,Family,0.9253,3
+Go!,very positive,0.4999,Personal Growth,0.9034,1
+Stop right there!,uncertain,0.2367,Family,0.7861,3
+"Oh, you're both alive.",uncertain,0.3325,Family,0.8818,4
+"Oh, how nice.",very positive,0.5776,Family,0.9037,3
+I'm giving the creature its head back.,uncertain,0.3187,Empathy,0.8813,7
+Put the box down and back away.,uncertain,0.403,Personal Growth,0.6037,7
+Give the head back now?,uncertain,0.2603,Trauma,0.8277,5
+"Come on, boy.",very positive,0.5647,Personal Growth,0.934,3
+Don't be silly.,uncertain,0.3593,Family,0.7147,3
+"Now, when the sun's about to come up?",uncertain,0.3476,Family,0.6415,8
+Look!,uncertain,0.4131,Family,0.7393,1
+"He's a brainless, swollen, life-sucking god of death.",very negative,0.7349,Trauma,0.4858,8
+At sunrise he'll vanish.,uncertain,0.3503,Personal Growth,0.4526,4
+"Sir, it's coming!",very positive,0.6135,Personal Growth,0.7907,3
+We've gotta get out of here!,uncertain,0.388,Trauma,0.6606,6
+"Look, everybody wants everything.",uncertain,0.3853,Family,0.5163,4
+That's the way the world is.,uncertain,0.4224,Family,0.127,6
+But I might actually get it.,uncertain,0.4435,Personal Growth,0.7812,6
+Don't force me to kill you.,very negative,0.6407,Family,0.5107,6
+You make it sound so very easy.,very positive,0.6779,Family,0.6351,7
+You really ought to...,uncertain,0.3584,Personal Growth,0.7835,4
+relax!,uncertain,0.4338,Family,0.8449,1
+Get going!,uncertain,0.3914,Personal Growth,0.9374,2
+Ashitaka!,very positive,0.6582,Personal Growth,0.6313,1
+I got it!,very positive,0.4906,Resilience,0.7642,3
+This is bad.,very negative,0.5369,Trauma,0.753,3
+"Master, we're surrounded!",very positive,0.6722,Trauma,0.5364,3
+"Come on, sun!",very positive,0.6622,Personal Growth,0.8138,3
+Rise!,very positive,0.5848,Personal Growth,0.9922,1
+Open the box!,very positive,0.6135,Personal Growth,0.6215,3
+Don't you see?,uncertain,0.3948,Family,0.7576,3
+It's too late for that now!,negative,0.5437,Family,0.7729,6
+Why are you wasting your breath talking to him?,uncertain,0.3822,Trauma,0.4064,9
+Human hands must return it!,very positive,0.6669,Family,0.825,5
+Don't say I didn't warn you.,very negative,0.5083,Family,0.7536,6
+Forest Spirit!,very positive,0.5786,Personal Growth,0.0179,2
+We give you back your head!,very positive,0.6266,Trauma,0.4912,6
+Take it and be at peace!,very positive,0.6075,Family,0.7342,6
+"Uh, well, that got his attention, all right.",uncertain,0.3027,Family,0.8786,8
+"Well, I think it's over.",uncertain,0.3679,Family,0.7426,5
+It's the men.,uncertain,0.3518,Trauma,0.6503,3
+Milady!,very positive,0.5684,Family,0.7252,1
+You're here!,very positive,0.6051,Family,0.822,2
+Her ladyship has been injured.,negative,0.5639,Family,0.992,5
+Look!,uncertain,0.4131,Family,0.7393,1
+It's falling on Irontown!,very negative,0.5152,Trauma,0.3382,4
+"Hang on tight, everybody!",very positive,0.5613,Family,0.9712,4
+Don't let go!,uncertain,0.4121,Family,0.8255,3
+I didn't know the Forest Spirit made the flowers grow.,uncertain,0.3741,Resilience,0.1722,10
+San.,uncertain,0.3757,Personal Growth,0.6015,1
+"San, look.",uncertain,0.3287,Family,0.918,2
+"Even if all the trees return, it won't be his forest anymore.",uncertain,0.2784,Trauma,0.8225,12
+The Great Forest Spirit is dead now.,very negative,0.6711,Grief,0.4027,7
+Never.,uncertain,0.3827,Family,0.5442,1
+He's life itself.,neutral,0.5391,Identity,0.9036,3
+"He's not dead, San.",uncertain,0.3339,Resilience,0.9701,4
+"He's here right now, trying to tell us something, that it's time for us both to live.",neutral,0.5563,Family,0.8024,17
+"Ashitaka, you mean so much to me, but I can't forgive the humans for what they've done.",very positive,0.5844,Family,0.8412,17
+I understand.,neutral,0.5531,Empathy,0.8502,2
+"You'll live in the forest, and I'll go help them rebuild Irontown.",uncertain,0.3759,Friendship,0.8724,12
+I'll always be near.,uncertain,0.3286,Family,0.9056,4
+Yakul and I will come and visit you...,very positive,0.5193,Family,0.9644,8
+"whenever we can, all right?",uncertain,0.4494,Family,0.5542,5
+Amazing.,very positive,0.6643,Family,0.854,1
+The wolves and that crazy little Wolf Girl helped save us all.,positive,0.4746,Resilience,0.8797,12
+Ashitaka.,uncertain,0.315,Family,0.2927,1
+Can someone find him?,neutral,0.4561,Personal Growth,0.6886,4
+I need to thank him.,uncertain,0.407,Personal Growth,0.7647,5
+We're going to start all over again.,uncertain,0.2988,Family,0.7842,7
+This time we'll build a better town.,uncertain,0.3204,Resilience,0.5603,7
+"Well, I give up!",uncertain,0.3612,Family,0.616,4
+You can't win against fools!,very positive,0.5574,Grief,0.1623,5
+THE END,uncertain,0.3197,Family,0.3163,2
