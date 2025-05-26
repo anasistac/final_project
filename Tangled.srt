@@ -1,0 +1,4335 @@
+﻿1
+00:00:54,721 --> 00:00:58,057
+<i>This is the story of how I died.</i>
+
+2
+00:00:59,601 --> 00:01:04,188
+<i>But don't worry, this is a fun story,</i>
+<i>and the truth is, it isn't even mine.</i>
+
+3
+00:01:04,273 --> 00:01:07,275
+<i>This is the story of a girl</i>
+<i>named Rapunzel.</i>
+
+4
+00:01:09,069 --> 00:01:10,778
+<i>And it starts with the sun.</i>
+
+5
+00:01:12,656 --> 00:01:17,285
+<i>Once upon a time, a single drop</i>
+<i>of sunlight fell from the heavens.</i>
+
+6
+00:01:17,369 --> 00:01:23,040
+<i>And from this small drop of sun</i>
+<i>grew a magic golden flower.</i>
+
+7
+00:01:23,959 --> 00:01:27,170
+<i>It had the ability to heal</i>
+<i>the sick and injured.</i>
+
+8
+00:01:28,672 --> 00:01:32,216
+<i>Oh, you see that old woman over there?</i>
+<i>You might want to remember her.</i>
+
+9
+00:01:32,301 --> 00:01:33,301
+<i>She's kind of important.</i>
+
+10
+00:01:35,095 --> 00:01:37,054
+<i>Centuries passed</i>
+
+11
+00:01:37,139 --> 00:01:39,432
+<i>and a hop, skip and a boat ride away</i>
+<i>there grew a kingdom.</i>
+
+12
+00:01:40,350 --> 00:01:43,561
+<i>The kingdom was ruled</i>
+<i>by a beloved king and queen.</i>
+
+13
+00:01:44,480 --> 00:01:47,190
+<i>And the queen</i>
+<i>was about to have a baby.</i>
+
+14
+00:01:47,858 --> 00:01:48,941
+<i>But she got sick.</i>
+
+15
+00:01:50,027 --> 00:01:51,027
+<i>Really sick.</i>
+
+16
+00:01:51,778 --> 00:01:53,070
+<i>She was running out of time,</i>
+
+17
+00:01:53,155 --> 00:01:56,240
+<i>and that's when people</i>
+<i>start to look for a miracle.</i>
+
+18
+00:01:56,325 --> 00:01:59,660
+<i>Or in this case, a magic golden flower.</i>
+
+19
+00:02:00,162 --> 00:02:02,914
+<i>Ah! I told you she'd be important.</i>
+
+20
+00:02:02,998 --> 00:02:05,249
+<i>Instead of sharing the sun's gift,</i>
+
+21
+00:02:05,334 --> 00:02:08,044
+<i>this woman, Mother Gothel,</i>
+<i>hoarded its healing power</i>
+
+22
+00:02:08,128 --> 00:02:11,422
+<i>and used it to keep herself young</i>
+<i>for hundreds of years.</i>
+
+23
+00:02:11,507 --> 00:02:15,009
+<i>And all she had to do</i>
+<i>was sing a special song.</i>
+
+24
+00:02:15,719 --> 00:02:19,388
+<i>Flower, gleam and glow</i>
+
+25
+00:02:20,057 --> 00:02:23,851
+<i>Let your power shine</i>
+
+26
+00:02:24,353 --> 00:02:27,605
+<i>Make the clock reverse</i>
+
+27
+00:02:27,689 --> 00:02:31,526
+<i>Bring back what once was mine</i>
+
+28
+00:02:31,610 --> 00:02:34,779
+<i>What once was mine</i>
+
+29
+00:02:34,863 --> 00:02:38,699
+<i>You get the gist. She sings to it,</i>
+<i>she turns young. Creepy, right?</i>
+
+30
+00:02:49,836 --> 00:02:50,878
+We found it!
+
+31
+00:02:57,052 --> 00:03:01,722
+<i>The magic of the golden flower</i>
+<i>healed the queen.</i>
+
+32
+00:03:02,558 --> 00:03:07,520
+<i>A healthy baby girl, a princess</i>
+<i>was born, with beautiful golden hair.</i>
+
+33
+00:03:16,572 --> 00:03:19,240
+<i>I'll give you a hint,</i>
+<i>that's Rapunzel.</i>
+
+34
+00:03:21,201 --> 00:03:22,493
+<i>To celebrate her birth,</i>
+
+35
+00:03:22,578 --> 00:03:25,871
+<i>the king and queen</i>
+<i>launched a flying lantern into the sky.</i>
+
+36
+00:03:31,336 --> 00:03:34,547
+<i>And for that one moment,</i>
+<i>everything was perfect.</i>
+
+37
+00:03:37,467 --> 00:03:39,010
+<i>And then that moment ended.</i>
+
+38
+00:03:40,762 --> 00:03:44,849
+<i>Flower, gleam and glow<i>
+
+39
+00:03:46,810 --> 00:03:50,438
+<i>Let your power shine</i>
+
+40
+00:03:50,814 --> 00:03:52,607
+<i>Make the clock...</i>
+
+41
+00:03:59,489 --> 00:04:01,991
+<i>Gothel broke into the castle,</i>
+<i>stole the child,</i>
+
+42
+00:04:02,075 --> 00:04:04,118
+<i>and just like that, gone!</i>
+
+43
+00:04:06,330 --> 00:04:09,749
+<i>The kingdom searched and searched,</i>
+<i>but they could not find the princess.</i>
+
+44
+00:04:10,042 --> 00:04:13,127
+<i>For deep within the forest,</i>
+<i>in a hidden tower,</i>
+
+45
+00:04:13,211 --> 00:04:14,712
+<i>Gothel raised the child as her own.</i>
+
+46
+00:04:14,880 --> 00:04:17,632
+<i>Save what has been lost</i>
+
+47
+00:04:17,799 --> 00:04:21,677
+<i>Bring back what once was mine</i>
+
+48
+00:04:21,762 --> 00:04:24,388
+<i>What once was mine</i>
+
+49
+00:04:24,473 --> 00:04:27,058
+<i>Gothel had found</i>
+<i>her new magic flower,</i>
+
+50
+00:04:27,142 --> 00:04:29,852
+<i>but this time,</i>
+<i>she was determined to keep it hidden.</i>
+
+51
+00:04:30,479 --> 00:04:33,064
+Why can't I go outside?
+
+52
+00:04:33,148 --> 00:04:35,775
+The outside world is a dangerous place,
+
+53
+00:04:35,859 --> 00:04:38,402
+filled with horrible, selfish people.
+
+54
+00:04:38,487 --> 00:04:41,572
+You must stay here, where you're safe.
+
+55
+00:04:41,657 --> 00:04:43,240
+Do you understand, flower?
+
+56
+00:04:43,325 --> 00:04:44,700
+Yes, Mommy.
+
+57
+00:04:47,996 --> 00:04:52,541
+<i>But the walls of that tower</i>
+<i>could not hide everything.</i>
+
+58
+00:04:55,837 --> 00:04:57,296
+<i>Each year, on her birthday,</i>
+
+59
+00:04:57,381 --> 00:05:00,925
+<i>the king and queen released</i>
+<i>thousands of lanterns into the sky</i>
+
+60
+00:05:01,009 --> 00:05:06,097
+<i>in hope that one day</i>
+<i>their lost princess would return.</i>
+
+61
+00:05:25,075 --> 00:05:26,492
+Ha!
+
+62
+00:05:27,202 --> 00:05:28,285
+Hmm.
+
+63
+00:05:28,620 --> 00:05:32,123
+Well, I guess
+Pascal's not hiding out here.
+
+64
+00:05:35,127 --> 00:05:36,335
+-Gotcha!
+
+65
+00:05:38,046 --> 00:05:42,591
+That's 22 for me.
+How about 23 out of 45?
+
+66
+00:05:44,010 --> 00:05:46,137
+Okay. Well, what do you want to do?
+
+67
+00:05:48,932 --> 00:05:53,728
+Yeah. I don't think so.
+I like it in here, and so do you.
+
+68
+00:05:55,897 --> 00:05:59,233
+Oh, come on, Pascal.
+It's not so bad in there.
+
+69
+00:06:11,955 --> 00:06:15,458
+<i>Seven a.m., the usual</i>
+<i>morning lineup</i>
+
+70
+00:06:16,376 --> 00:06:20,588
+<i>Start on the chores</i>
+<i>And sweep till the floor's all clean</i>
+
+71
+00:06:21,089 --> 00:06:24,675
+<i>Polish and wax, do laundry</i>
+<i>and mop and shine up</i>
+
+72
+00:06:24,759 --> 00:06:29,180
+<i>Sweep again and by then it's, like, 7:1 5</i>
+
+73
+00:06:29,264 --> 00:06:33,684
+<i>And so I'll read a book</i>
+<i>Or maybe two or three</i>
+
+74
+00:06:33,768 --> 00:06:38,022
+<i>I'll add a few new paintings</i>
+<i>to my gallery</i>
+
+75
+00:06:38,106 --> 00:06:42,443
+<i>I'll play guitar and knit</i>
+<i>and cook and basically</i>
+
+76
+00:06:42,527 --> 00:06:47,072
+<i>Just wonder when will my life begin?</i>
+
+77
+00:06:56,416 --> 00:07:00,628
+<i>Then after lunch it's puzzles</i>
+<i>and darts and baking</i>
+
+78
+00:07:00,712 --> 00:07:05,174
+<i>Papier-mâché, a bit of ballet and chess</i>
+
+79
+00:07:05,509 --> 00:07:09,053
+<i>Pottery and ventriloquy, candle-making</i>
+
+80
+00:07:09,137 --> 00:07:13,849
+<i>Then I'll stretch, maybe sketch</i>
+<i>Take a climb, sew a dress</i>
+
+81
+00:07:13,934 --> 00:07:17,895
+<i>And I'll reread the books</i>
+<i>If I have time to spare</i>
+
+82
+00:07:17,979 --> 00:07:22,358
+<i>I'll paint the walls some more</i>
+<i>I'm sure there's room somewhere</i>
+
+83
+00:07:22,442 --> 00:07:26,820
+<i>And then I'll brush and brush</i>
+<i>and brush and brush my hair</i>
+
+84
+00:07:26,905 --> 00:07:31,450
+<i>Stuck in the same place</i>
+<i>I've always been</i>
+
+85
+00:07:31,535 --> 00:07:36,580
+<i>And I'll keep wondering and wondering</i>
+<i>and wondering and wondering</i>
+
+86
+00:07:36,665 --> 00:07:40,042
+<i>When will my life begin?</i>
+
+87
+00:07:42,003 --> 00:07:45,422
+<i>Tomorrow night</i>
+
+88
+00:07:45,590 --> 00:07:49,760
+<i>the lights will appear</i>
+
+89
+00:07:50,470 --> 00:07:53,722
+<i>Just like they do</i>
+
+90
+00:07:53,807 --> 00:07:58,644
+<i>on my birthday each year</i>
+
+91
+00:08:00,146 --> 00:08:03,440
+<i>What is it like</i>
+
+92
+00:08:04,526 --> 00:08:08,445
+<i>out there where they glow</i>
+
+93
+00:08:09,531 --> 00:08:13,158
+<i>Now that I'm older</i>
+
+94
+00:08:13,702 --> 00:08:18,205
+<i>Mother might just let me go</i>
+
+95
+00:08:41,896 --> 00:08:45,024
+Wow! I could get used
+to a view like this.
+
+96
+00:08:45,108 --> 00:08:46,984
+Rider, come on !
+
+97
+00:08:47,068 --> 00:08:52,323
+Hold on. Yep. I'm used to it.
+Guys, I want a castle.
+
+98
+00:08:52,782 --> 00:08:55,618
+We do this job,
+you can buy your own castle.
+
+99
+00:09:08,006 --> 00:09:10,007
+-Hay fever?
+-Yeah.
+
+100
+00:09:12,010 --> 00:09:13,093
+Huh?
+
+101
+00:09:13,678 --> 00:09:16,597
+Wait! Hey, wait!
+
+102
+00:09:17,432 --> 00:09:20,184
+Can't you picture me in a castle
+of my own? Because I certainly can.
+
+103
+00:09:20,268 --> 00:09:23,145
+All the things we've seen,
+and it's only 8:00 in the morning !
+
+104
+00:09:23,229 --> 00:09:26,315
+Gentlemen, this is a very big day!
+
+105
+00:09:26,691 --> 00:09:30,736
+This is it!
+This is a very big day, Pascal.
+
+106
+00:09:31,946 --> 00:09:34,948
+I'm finally going to do it.
+I'm going to ask her.
+
+107
+00:09:35,033 --> 00:09:37,117
+- Rapunzel !
+
+108
+00:09:37,619 --> 00:09:39,286
+Let down your hair!
+
+109
+00:09:40,246 --> 00:09:41,288
+It's time!
+
+110
+00:09:42,582 --> 00:09:45,876
+I know, I know.
+Come on. Don't let her see you.
+
+111
+00:09:48,171 --> 00:09:52,174
+Rapunzel !
+I'm not getting any younger down here!
+
+112
+00:09:53,051 --> 00:09:54,593
+Coming, Mother!
+
+113
+00:10:18,827 --> 00:10:21,412
+Hi. Welcome home, Mother.
+
+114
+00:10:21,496 --> 00:10:24,748
+Rapunzel,
+how you manage to do that
+
+115
+00:10:24,833 --> 00:10:28,001
+every single day without fail.
+
+116
+00:10:28,086 --> 00:10:30,504
+It looks absolutely exhausting, darling.
+
+117
+00:10:30,588 --> 00:10:32,965
+Oh, (CHUCKLES) it's nothing.
+
+118
+00:10:33,049 --> 00:10:35,342
+Then I don't know why it takes so long.
+
+119
+00:10:35,427 --> 00:10:37,845
+Oh, darling, I'm just teasing.
+
+120
+00:10:40,223 --> 00:10:41,348
+All right.
+
+121
+00:10:41,433 --> 00:10:44,768
+So, Mother, as you know
+tomorrow is a very big day...
+
+122
+00:10:44,853 --> 00:10:46,437
+Rapunzel, look in that mirror.
+
+123
+00:10:46,521 --> 00:10:47,980
+You know what I see?
+
+124
+00:10:48,064 --> 00:10:52,151
+I see a strong, confident,
+beautiful young lady.
+
+125
+00:10:53,278 --> 00:10:55,446
+Oh, look, you're here, too.
+
+126
+00:10:55,530 --> 00:10:58,949
+I'm just teasing.
+Stop taking everything so seriously.
+
+127
+00:10:59,617 --> 00:11:02,453
+Okay. So, Mother,
+as I was saying, tomorrow is...
+
+128
+00:11:02,537 --> 00:11:04,997
+Rapunzel,
+Mother's feeling a little run-down.
+
+129
+00:11:05,081 --> 00:11:08,083
+Would you sing for me, dear?
+Then we'll talk.
+
+130
+00:11:08,168 --> 00:11:10,502
+Oh ! Of course, Mother.
+
+131
+00:11:18,845 --> 00:11:20,220
+Flower, gleam and glow
+<i>Let your power shine</i>
+
+132
+00:11:20,305 --> 00:11:21,972
+<i>Make the clock reverse</i>
+<i>Bring back what once was mine</i>
+
+133
+00:11:22,056 --> 00:11:23,807
+<i>Heal what has been hurt</i>
+<i>Change the Fates' design</i>
+
+134
+00:11:23,892 --> 00:11:25,976
+<i>Save what has been lost</i>
+<i>Bring back what once was mine</i>
+
+135
+00:11:26,060 --> 00:11:27,811
+-Rapunzel !
+-So, Mother,
+
+136
+00:11:27,896 --> 00:11:30,731
+earlier I was saying tomorrow
+is a big day, and you didn't respond.
+
+137
+00:11:30,815 --> 00:11:33,567
+So, I'm just going to tell you,
+it's my birthday!
+
+138
+00:11:33,651 --> 00:11:36,570
+-Ta-da!
+-No, no, no. Can't be.
+
+139
+00:11:36,654 --> 00:11:39,990
+I distinctly remember.
+Your birthday was last year.
+
+140
+00:11:40,074 --> 00:11:43,410
+That's the funny thing about birthdays.
+They're kind of an annual thing.
+
+141
+00:11:45,246 --> 00:11:49,750
+Mother, I'm turning 1 8,
+and I wanted to ask...
+
+142
+00:11:50,210 --> 00:11:52,920
+What I really want
+for this birthday...
+
+143
+00:11:53,046 --> 00:11:55,380
+Actually what I wanted
+for quite a few birthdays now...
+
+144
+00:11:55,465 --> 00:11:57,633
+Rapunzel, please,
+stop with the mumbling.
+
+145
+00:11:57,717 --> 00:12:00,344
+You know how I feel about
+the mumbling. Blah-blah-blah-blah.
+
+146
+00:12:00,428 --> 00:12:03,096
+It's very annoying !
+I'm just teasing. You're adorable.
+
+147
+00:12:03,181 --> 00:12:05,015
+I love you so much, darling.
+
+148
+00:12:10,855 --> 00:12:12,523
+I want to see
+the floating lights.
+
+149
+00:12:14,150 --> 00:12:16,318
+What?
+
+150
+00:12:16,402 --> 00:12:20,197
+I was hoping you would take me
+to see the floating lights.
+
+151
+00:12:20,573 --> 00:12:23,367
+Oh ! You mean the stars.
+
+152
+00:12:23,660 --> 00:12:24,952
+That's the thing.
+
+153
+00:12:26,371 --> 00:12:29,289
+I've charted stars,
+and they're always constant.
+
+154
+00:12:29,374 --> 00:12:33,210
+But these, they appear every year
+on my birthday, Mother.
+
+155
+00:12:33,294 --> 00:12:35,254
+Only on my birthday.
+
+156
+00:12:35,338 --> 00:12:40,509
+And I can't help but feel like
+they're meant for me.
+
+157
+00:12:41,344 --> 00:12:43,262
+I need to see them, Mother.
+
+158
+00:12:43,346 --> 00:12:46,890
+And not just from my window, in person.
+
+159
+00:12:46,975 --> 00:12:49,560
+I have to know what they are.
+
+160
+00:12:49,644 --> 00:12:53,730
+You want to go outside?
+Why, Rapunzel...
+
+161
+00:12:54,357 --> 00:12:57,276
+Look at you,
+<i>as fragile as a flower</i>
+
+162
+00:12:57,986 --> 00:13:01,822
+<i>Still a little sapling, just a sprout</i>
+
+163
+00:13:01,906 --> 00:13:04,741
+<i>You know why we stay up in this tower</i>
+
+164
+00:13:04,826 --> 00:13:06,410
+-I know, but...
+-That's right.
+
+165
+00:13:06,494 --> 00:13:10,372
+<i>To keep you safe and sound, dear</i>
+
+166
+00:13:10,456 --> 00:13:13,166
+<i>Guess I always knew</i>
+<i>this day was coming</i>
+
+167
+00:13:14,127 --> 00:13:16,837
+<i>Knew that soon</i>
+<i>you'd want to leave the nest</i>
+
+168
+00:13:17,505 --> 00:13:18,755
+<i>Soon but not yet</i>
+
+169
+00:13:19,007 --> 00:13:21,341
+<i>Shh!</i>
+<i>Trust me, pet</i>
+
+170
+00:13:21,676 --> 00:13:25,512
+<i>Mother knows best</i>
+
+171
+00:13:27,849 --> 00:13:30,934
+<i>Mother knows best</i>
+<i>Listen to your mother</i>
+
+172
+00:13:32,103 --> 00:13:33,937
+<i>It's a scary world out there</i>
+
+173
+00:13:34,022 --> 00:13:35,606
+<i>Mother knows best</i>
+
+174
+00:13:36,733 --> 00:13:38,650
+<i>One way or another</i>
+<i>Something will go wrong</i>
+
+175
+00:13:38,735 --> 00:13:40,402
+<i>l swear</i>
+
+176
+00:13:40,486 --> 00:13:43,280
+<i>Ruffians, thugs, poison ivy, quicksand</i>
+
+177
+00:13:43,364 --> 00:13:45,449
+<i>Cannibals and snakes, the plague</i>
+
+178
+00:13:45,533 --> 00:13:46,617
+-No!
+-Yes.
+
+179
+00:13:46,701 --> 00:13:49,369
+<i>Also large bugs</i>
+<i>Men with pointy teeth</i>
+
+180
+00:13:49,454 --> 00:13:52,873
+<i>And stop! No more, you'll just upset me</i>
+
+181
+00:13:52,957 --> 00:13:55,959
+<i>Mother's right here</i>
+<i>Mother will protect you</i>
+
+182
+00:13:56,044 --> 00:13:59,296
+<i>Darling, here's what I suggest</i>
+
+183
+00:13:59,380 --> 00:14:03,550
+<i>Skip the drama</i>
+<i>Stay with Mama</i>
+
+184
+00:14:03,635 --> 00:14:08,430
+<i>Mother knows best</i>
+
+185
+00:14:10,683 --> 00:14:13,477
+<i>Mother knows best</i>
+<i>Take it from your mumsy</i>
+
+186
+00:14:13,561 --> 00:14:16,396
+<i>On your own, you won't survive</i>
+
+187
+00:14:16,481 --> 00:14:19,399
+<i>Sloppy, underdressed</i>
+<i>Immature, clumsy</i>
+
+188
+00:14:19,484 --> 00:14:22,319
+<i>Please, they'll eat you up alive</i>
+
+189
+00:14:22,403 --> 00:14:25,572
+<i>Gullible, naive</i>
+<i>Positively grubby</i>
+
+190
+00:14:25,657 --> 00:14:28,408
+<i>Ditsy and a bit... Well, hmm, vague</i>
+
+191
+00:14:28,493 --> 00:14:31,328
+<i>Plus, I believe, getting kind of chubby</i>
+
+192
+00:14:31,412 --> 00:14:35,499
+<i>I'm just saying 'cause I wuv you</i>
+
+193
+00:14:35,583 --> 00:14:38,669
+<i>Mother understands</i>
+<i>Mother's here to help you</i>
+
+194
+00:14:38,753 --> 00:14:44,007
+<i>All I have is one request</i>
+
+195
+00:14:48,096 --> 00:14:50,722
+-Rapunzel?
+-Yes?
+
+196
+00:14:52,100 --> 00:14:56,019
+Don't ever ask to leave this tower again.
+
+197
+00:14:57,981 --> 00:14:59,272
+Yes, Mother.
+
+198
+00:14:59,774 --> 00:15:00,816
+Oh.
+
+199
+00:15:01,275 --> 00:15:03,527
+I love you very much, dear.
+
+200
+00:15:04,237 --> 00:15:05,821
+I love you more.
+
+201
+00:15:06,114 --> 00:15:08,281
+I love you most.
+
+202
+00:15:09,450 --> 00:15:11,576
+Don't forget it
+
+203
+00:15:11,661 --> 00:15:15,330
+<i>You'll regret it</i>
+
+204
+00:15:15,415 --> 00:15:19,918
+<i>Mother knows best</i>
+
+205
+00:15:23,965 --> 00:15:27,134
+Ta-ta! I'll see you in a bit, my flower!
+
+206
+00:15:29,512 --> 00:15:30,971
+I'll be here.
+
+207
+00:15:54,662 --> 00:15:55,996
+Oh, no.
+
+208
+00:15:56,080 --> 00:15:58,623
+No, no, no, no, no.
+This is bad. This is very, very bad.
+
+209
+00:15:58,708 --> 00:16:00,417
+This is really bad.
+
+210
+00:16:01,836 --> 00:16:03,920
+They just can't get my nose right.
+
+211
+00:16:04,005 --> 00:16:05,380
+Who cares?
+
+212
+00:16:05,465 --> 00:16:08,592
+It's easy for you to say.
+You guys look amazing.
+
+213
+00:16:24,025 --> 00:16:26,860
+All right. Okay.
+Give me a boost and I'll pull you up.
+
+214
+00:16:28,362 --> 00:16:29,780
+Give us the satchel first.
+
+215
+00:16:31,199 --> 00:16:32,407
+I just...
+
+216
+00:16:32,617 --> 00:16:36,620
+I can't believe that after all we've been
+through together, you don't trust me?
+
+217
+00:16:39,040 --> 00:16:40,165
+Ouch.
+
+218
+00:16:48,424 --> 00:16:50,092
+Now help us up, pretty boy!
+
+219
+00:16:50,176 --> 00:16:53,053
+Sorry, my hands are full.
+
+220
+00:16:54,055 --> 00:16:55,180
+What?
+
+221
+00:16:55,848 --> 00:16:56,890
+Rider!
+
+222
+00:17:03,397 --> 00:17:05,482
+Retrieve that satchel at any cost!
+
+223
+00:17:05,566 --> 00:17:06,858
+Yes, sir!
+
+224
+00:17:23,417 --> 00:17:25,961
+We got him now, Maximus.
+
+225
+00:17:38,766 --> 00:17:41,351
+Come on, fleabag ! Forward !
+
+226
+00:17:43,771 --> 00:17:45,272
+No. No!
+
+227
+00:17:45,690 --> 00:17:50,902
+Stop it! Stop it!
+Give it to me! Give me that!
+
+228
+00:18:16,929 --> 00:18:17,888
+Ha!
+
+229
+00:19:33,047 --> 00:19:34,547
+Alone at last.
+
+230
+00:20:18,926 --> 00:20:19,926
+Huh.
+
+231
+00:20:36,193 --> 00:20:37,319
+-Huh?
+
+232
+00:20:55,338 --> 00:20:56,421
+Hmm.
+
+233
+00:21:05,681 --> 00:21:06,681
+Huh?
+
+234
+00:21:10,144 --> 00:21:13,438
+Okay, okay, okay.
+I've got a person in my closet.
+
+235
+00:21:13,522 --> 00:21:16,107
+I've got a person in my closet.
+
+236
+00:21:17,360 --> 00:21:21,196
+I've got a person in my closet!
+
+237
+00:21:23,866 --> 00:21:26,451
+Too weak to handle myself out there,
+huh, Mother?
+
+238
+00:21:26,535 --> 00:21:29,662
+Well, tell that to my frying pan.
+
+239
+00:21:31,999 --> 00:21:32,999
+Huh?
+
+240
+00:21:43,219 --> 00:21:44,260
+Hmm.
+
+241
+00:21:51,894 --> 00:21:52,894
+Hmm.
+
+242
+00:22:11,205 --> 00:22:12,914
+- Rapunzel !
+-Oh !
+
+243
+00:22:14,583 --> 00:22:16,418
+Let down your hair!
+
+244
+00:22:16,961 --> 00:22:18,336
+One moment, Mother!
+
+245
+00:22:18,421 --> 00:22:20,463
+I have a big surprise!
+
+246
+00:22:20,548 --> 00:22:22,841
+Uh... I do, too!
+
+247
+00:22:22,925 --> 00:22:25,260
+Ooh, I bet my surprise is bigger!
+
+248
+00:22:25,553 --> 00:22:27,929
+I seriously doubt it.
+
+249
+00:22:29,265 --> 00:22:32,684
+I brought back parsnips. I'm going
+to make hazelnut soup for dinner.
+
+250
+00:22:32,768 --> 00:22:35,145
+Your favorite. Surprise!
+
+251
+00:22:35,229 --> 00:22:37,647
+Well, Mother,
+there's something I want to tell you.
+
+252
+00:22:37,731 --> 00:22:40,567
+Oh, Rapunzel, you know I hate
+leaving you after a fight.
+
+253
+00:22:40,651 --> 00:22:43,111
+Especially when I've done
+absolutely nothing wrong.
+
+254
+00:22:43,195 --> 00:22:45,530
+I've been thinking a lot
+about what you said earlier.
+
+255
+00:22:45,614 --> 00:22:48,158
+I hope you're not still talking
+about the stars.
+
+256
+00:22:48,242 --> 00:22:50,660
+"Floating lights,"
+and, yes, I'm leading up to that.
+
+257
+00:22:50,744 --> 00:22:53,246
+Because I really thought
+we dropped the issue, sweetheart.
+
+258
+00:22:53,330 --> 00:22:55,415
+No, Mother, I'm just saying,
+
+259
+00:22:55,499 --> 00:22:58,001
+you think I'm not strong enough
+to handle myself out there.
+
+260
+00:22:58,085 --> 00:23:01,337
+Oh, I know you're not strong enough
+to handle yourself out there.
+
+261
+00:23:01,422 --> 00:23:04,674
+-But if you just...
+-We're done talking about this.
+
+262
+00:23:04,758 --> 00:23:07,302
+-Trust me! I know what I'm...
+-Rapunzel.
+
+263
+00:23:07,386 --> 00:23:09,929
+-Oh, come on !
+-Enough with the lights!
+
+264
+00:23:10,014 --> 00:23:14,434
+You are not leaving this tower! Ever!
+
+265
+00:23:19,982 --> 00:23:24,444
+Great. Now I'm the bad guy.
+
+266
+00:23:36,916 --> 00:23:39,792
+All I was going to say, Mother, is that...
+
+267
+00:23:40,503 --> 00:23:43,213
+I know what I want for my birthday now.
+
+268
+00:23:43,297 --> 00:23:45,298
+And what is that?
+
+269
+00:23:45,716 --> 00:23:47,050
+New paint.
+
+270
+00:23:47,718 --> 00:23:51,054
+The paint made from the white shells
+you once brought me.
+
+271
+00:23:51,138 --> 00:23:56,309
+That is a very long trip, Rapunzel.
+Almost three days' time.
+
+272
+00:23:56,560 --> 00:24:01,648
+I just thought it was a better idea
+than the stars.
+
+273
+00:24:05,778 --> 00:24:08,112
+You'll be all right on your own?
+
+274
+00:24:08,948 --> 00:24:11,658
+I know I'm safe as long as I'm here.
+
+275
+00:24:19,667 --> 00:24:22,168
+<i>I'll be back</i>
+<i>in three days' time.</i>
+
+276
+00:24:23,128 --> 00:24:25,380
+<i>I love you very much, dear.</i>
+
+277
+00:24:26,340 --> 00:24:27,674
+<i>I love you more.</i>
+
+278
+00:24:28,676 --> 00:24:30,843
+<i>I love you most.</i>
+
+279
+00:24:51,532 --> 00:24:52,532
+Okay.
+
+280
+00:25:08,799 --> 00:25:10,049
+Huh.
+
+281
+00:25:31,572 --> 00:25:32,697
+Huh? What...
+
+282
+00:25:38,454 --> 00:25:41,205
+Is this hair?
+
+283
+00:25:41,915 --> 00:25:45,126
+Struggling... Struggling is pointless.
+
+284
+00:25:45,210 --> 00:25:46,252
+Huh?
+
+285
+00:25:48,672 --> 00:25:53,259
+I know why you're here,
+and I'm not afraid of you.
+
+286
+00:25:53,719 --> 00:25:55,261
+What?
+
+287
+00:26:03,604 --> 00:26:07,482
+Who are you?
+And how did you find me?
+
+288
+00:26:10,944 --> 00:26:14,280
+Who are you,
+and how did you find me?
+
+289
+00:26:17,701 --> 00:26:21,788
+I know not who you are,
+nor how I came to find you.
+
+290
+00:26:21,872 --> 00:26:23,790
+But may I just say...
+
+291
+00:26:25,125 --> 00:26:26,876
+Hi.
+
+292
+00:26:29,129 --> 00:26:31,839
+How you doing?
+The name's Flynn Rider.
+
+293
+00:26:33,425 --> 00:26:35,218
+How's your day going? Huh?
+
+294
+00:26:36,637 --> 00:26:40,306
+Who else knows my location,
+Flynn Rider?
+
+295
+00:26:40,391 --> 00:26:42,517
+-All right, blondie.
+-Rapunzel.
+
+296
+00:26:42,601 --> 00:26:44,268
+Gesundheit. Here's the deal.
+
+297
+00:26:44,353 --> 00:26:47,230
+I was in a situation,
+gallivanting through the forest.
+
+298
+00:26:47,314 --> 00:26:49,607
+I came across your tower and...
+
+299
+00:26:49,692 --> 00:26:50,983
+Oh ! Oh, no.
+
+300
+00:26:51,151 --> 00:26:52,360
+Where is my satchel?
+
+301
+00:26:52,653 --> 00:26:55,863
+I've hidden it.
+Somewhere you'll never find it.
+
+302
+00:26:58,826 --> 00:27:00,660
+It's in that pot, isn't it?
+
+303
+00:27:05,374 --> 00:27:06,582
+Huh?
+
+304
+00:27:06,875 --> 00:27:09,293
+Would you stop that?
+
+305
+00:27:09,378 --> 00:27:12,255
+Now it's hidden
+where you'll never find it.
+
+306
+00:27:13,090 --> 00:27:17,093
+So, what do you want with my hair?
+To cut it?
+
+307
+00:27:17,177 --> 00:27:18,428
+-What?
+-Sell it?
+
+308
+00:27:18,512 --> 00:27:22,181
+No! Listen, the only thing
+I want to do with your hair
+
+309
+00:27:22,266 --> 00:27:24,600
+is to get out of it, literally.
+
+310
+00:27:24,685 --> 00:27:25,768
+You...
+
+311
+00:27:25,853 --> 00:27:28,479
+Wait. You don't want my hair?
+
+312
+00:27:28,564 --> 00:27:30,523
+Why on earth would I want your hair?
+
+313
+00:27:30,607 --> 00:27:33,234
+Look, I was being chased,
+I saw a tower, I climbed it.
+
+314
+00:27:33,318 --> 00:27:34,318
+End of story.
+
+315
+00:27:34,403 --> 00:27:35,903
+You're telling the truth?
+
+316
+00:27:36,029 --> 00:27:37,321
+Yes!
+
+317
+00:27:37,531 --> 00:27:38,614
+Hmm.
+
+318
+00:27:50,711 --> 00:27:52,587
+I know.
+I need someone to take me.
+
+319
+00:27:52,671 --> 00:27:55,173
+--I think he's telling the truth, too.
+
+320
+00:27:55,257 --> 00:27:58,426
+He doesn't have fangs.
+But what choice do I have?
+
+321
+00:28:00,304 --> 00:28:04,307
+Okay, Flynn Rider,
+I'm prepared to offer you a deal.
+
+322
+00:28:04,391 --> 00:28:06,184
+-Deal?
+-Look this way.
+
+323
+00:28:07,728 --> 00:28:10,605
+Do you know what these are?
+
+324
+00:28:10,689 --> 00:28:13,816
+You mean the lantern thing
+they do for the princess?
+
+325
+00:28:14,401 --> 00:28:17,820
+Lanterns? I knew they weren't stars.
+
+326
+00:28:18,906 --> 00:28:21,240
+Well, tomorrow evening,
+
+327
+00:28:21,325 --> 00:28:25,203
+they will light the night sky
+with these lanterns.
+
+328
+00:28:25,287 --> 00:28:28,873
+You will act as my guide,
+take me to these lanterns,
+
+329
+00:28:28,957 --> 00:28:30,541
+and return me home safely.
+
+330
+00:28:30,626 --> 00:28:34,962
+Then, and only then,
+will I return your satchel to you.
+
+331
+00:28:35,047 --> 00:28:36,255
+That is my deal.
+
+332
+00:28:36,340 --> 00:28:37,507
+Yeah.
+
+333
+00:28:38,717 --> 00:28:40,176
+No can do.
+
+334
+00:28:40,260 --> 00:28:44,055
+Unfortunately the kingdom and I
+aren't exactly simpatico at the moment,
+
+335
+00:28:44,139 --> 00:28:46,432
+so I won't be taking you anywhere.
+
+336
+00:28:53,023 --> 00:28:56,192
+Something brought you here,
+Flynn Rider.
+
+337
+00:28:56,276 --> 00:28:57,693
+Call it what you will,
+
+338
+00:28:57,778 --> 00:29:00,613
+-fate, destiny...
+-A horse.
+
+339
+00:29:00,697 --> 00:29:03,032
+So I have made the decision
+to trust you.
+
+340
+00:29:03,116 --> 00:29:04,158
+A horrible decision, really.
+
+341
+00:29:04,243 --> 00:29:07,328
+But trust me when I tell you this.
+
+342
+00:29:09,289 --> 00:29:12,750
+You can tear this tower apart
+brick by brick,
+
+343
+00:29:12,835 --> 00:29:17,588
+but without my help, you will never find
+your precious satchel.
+
+344
+00:29:19,132 --> 00:29:20,466
+Let me get this straight.
+
+345
+00:29:20,551 --> 00:29:23,761
+I take you to see the lanterns,
+bring you back home,
+
+346
+00:29:23,846 --> 00:29:25,721
+and you'll give me back my satchel?
+
+347
+00:29:25,806 --> 00:29:27,306
+I promise.
+
+348
+00:29:29,142 --> 00:29:33,855
+And when I promise something,
+I never, ever break that promise.
+
+349
+00:29:36,233 --> 00:29:38,234
+-Ever.
+
+350
+00:29:40,863 --> 00:29:43,239
+All right, listen.
+I didn't want to have to do this,
+
+351
+00:29:43,323 --> 00:29:45,074
+but you leave me no choice.
+
+352
+00:29:45,826 --> 00:29:47,702
+Here comes the smolder.
+
+353
+00:29:55,252 --> 00:29:59,255
+This is kind of an off day for me.
+This doesn't normally happen.
+
+354
+00:29:59,339 --> 00:30:01,132
+Fine! I'll take you to see the lanterns.
+
+355
+00:30:01,216 --> 00:30:02,592
+Really?
+
+356
+00:30:03,594 --> 00:30:04,594
+Oops.
+
+357
+00:30:04,678 --> 00:30:06,679
+You broke my smolder.
+
+358
+00:30:12,185 --> 00:30:14,186
+Are you coming, blondie?
+
+359
+00:30:24,072 --> 00:30:27,783
+Look at the world so close
+<i>And I'm halfway to it</i>
+
+360
+00:30:29,036 --> 00:30:33,122
+<i>Look at it all so big</i>
+<i>Do I even dare</i>
+
+361
+00:30:34,041 --> 00:30:37,919
+<i>Look at me, there at last</i>
+<i>I just have to do it</i>
+
+362
+00:30:38,587 --> 00:30:42,715
+<i>Should l? No</i>
+<i>Here I go</i>
+
+363
+00:31:13,622 --> 00:31:19,210
+<i>Just smell the grass, the dirt</i>
+<i>Just like I dreamed they'd be</i>
+
+364
+00:31:20,629 --> 00:31:25,967
+<i>Just feel that summer breeze</i>
+<i>The way it's calling me</i>
+
+365
+00:31:27,636 --> 00:31:32,974
+<i>For, like, the first time ever</i>
+<i>I'm completely free</i>
+
+366
+00:31:34,393 --> 00:31:38,270
+<i>I could go running and racing</i>
+
+367
+00:31:38,355 --> 00:31:40,272
+<i>And dancing and chasing</i>
+
+368
+00:31:40,565 --> 00:31:44,360
+<i>And leaping and bounding</i>
+<i>Hair flying, heart pounding</i>
+
+369
+00:31:44,444 --> 00:31:48,614
+<i>And splashing and reeling</i>
+<i>and finally feeling</i>
+
+370
+00:31:49,574 --> 00:31:55,663
+<i>That's when my life begins</i>
+
+371
+00:32:03,130 --> 00:32:06,132
+I can't believe I did this!
+
+372
+00:32:06,216 --> 00:32:08,509
+I can't believe I did this.
+
+373
+00:32:08,593 --> 00:32:11,303
+I can't believe I did this!
+
+374
+00:32:12,931 --> 00:32:14,765
+Mother would be so furious.
+
+375
+00:32:14,850 --> 00:32:18,227
+But that's okay. What she doesn't know
+won't kill her, right?
+
+376
+00:32:18,311 --> 00:32:21,105
+Oh, my gosh !
+This would kill her.
+
+377
+00:32:21,273 --> 00:32:24,525
+This is so fun !
+
+378
+00:32:24,985 --> 00:32:27,862
+I am a horrible daughter.
+I'm going back.
+
+379
+00:32:28,238 --> 00:32:30,573
+I am never going back!
+
+380
+00:32:32,034 --> 00:32:34,744
+I am a despicable human being !
+
+381
+00:32:36,955 --> 00:32:39,373
+Best day ever!
+
+382
+00:32:48,467 --> 00:32:51,886
+You know,
+I can't help but notice you seem
+
+383
+00:32:51,970 --> 00:32:54,513
+a little at war with yourself here.
+
+384
+00:32:55,348 --> 00:32:57,933
+-What?
+-I'm only picking up bits and pieces.
+
+385
+00:32:58,018 --> 00:33:01,687
+Overprotective mother,
+forbidden road trip. This is serious stuff.
+
+386
+00:33:02,314 --> 00:33:05,399
+But let me ease your conscience.
+This is part of growing up.
+
+387
+00:33:05,484 --> 00:33:09,695
+A little rebellion, a little adventure,
+that's good. Healthy, even.
+
+388
+00:33:11,281 --> 00:33:12,698
+You think?
+
+389
+00:33:12,783 --> 00:33:15,951
+I know. You're way over-thinking this,
+trust me.
+
+390
+00:33:16,036 --> 00:33:18,079
+Does your mother deserve it? No.
+
+391
+00:33:18,163 --> 00:33:21,082
+Would this break her heart
+and crush her soul? Of course.
+
+392
+00:33:21,166 --> 00:33:23,250
+But you've got to do it.
+
+393
+00:33:24,086 --> 00:33:25,628
+"Break her heart"?
+
+394
+00:33:26,088 --> 00:33:28,714
+-In half.
+-"Crush her soul"?
+
+395
+00:33:29,716 --> 00:33:30,925
+Like a grape.
+
+396
+00:33:31,009 --> 00:33:34,011
+She would be heartbroken. You're right.
+
+397
+00:33:34,096 --> 00:33:37,640
+I am, aren't I? Oh, bother.
+
+398
+00:33:38,308 --> 00:33:42,686
+All right. I can't believe I'm saying this,
+but I'm letting you out of the deal.
+
+399
+00:33:42,771 --> 00:33:45,815
+-What?
+-That's right, but don't thank me.
+
+400
+00:33:45,899 --> 00:33:49,110
+Let's turn around and get you home.
+Here's your pan, here's your frog.
+
+401
+00:33:49,194 --> 00:33:50,444
+I get back my satchel,
+
+402
+00:33:50,529 --> 00:33:53,864
+you get back a mother-daughter
+relationship based on mutual trust,
+
+403
+00:33:53,949 --> 00:33:57,159
+and <i>voilà,</i>
+we part ways as unlikely friends.
+
+404
+00:33:57,244 --> 00:34:00,287
+No. I am seeing those lanterns.
+
+405
+00:34:00,372 --> 00:34:03,999
+Oh, come on ! What is it going to take
+for me to get my satchel back?
+
+406
+00:34:04,084 --> 00:34:05,626
+I will use this.
+
+407
+00:34:08,797 --> 00:34:11,966
+Is it ruffians? Thugs?
+Have they come for me?
+
+408
+00:34:16,054 --> 00:34:18,681
+Stay calm. It can probably smell fear.
+
+409
+00:34:18,932 --> 00:34:20,307
+Oh !
+
+410
+00:34:20,517 --> 00:34:24,687
+Sorry. Guess I'm just a little bit jumpy.
+
+411
+00:34:25,564 --> 00:34:29,483
+Probably be best if we avoid ruffians
+and thugs, though.
+
+412
+00:34:29,609 --> 00:34:32,778
+Yeah, that would probably be best.
+
+413
+00:34:34,322 --> 00:34:36,866
+Are you hungry?
+I know a great place for lunch.
+
+414
+00:34:36,950 --> 00:34:39,201
+Where?
+
+415
+00:34:39,286 --> 00:34:41,954
+Oh, don't you worry.
+You'll know it when you smell it.
+
+416
+00:35:20,160 --> 00:35:21,869
+A palace horse.
+
+417
+00:35:23,079 --> 00:35:24,830
+Where's your rider?
+
+418
+00:35:25,457 --> 00:35:26,749
+Rapunzel.
+
+419
+00:35:27,667 --> 00:35:29,001
+Rapunzel !
+
+420
+00:35:36,426 --> 00:35:40,095
+Rapunzel ! Let down your hair!
+
+421
+00:35:42,015 --> 00:35:43,515
+Rapunzel?
+
+422
+00:36:03,370 --> 00:36:04,370
+Rapunzel?
+
+423
+00:36:07,499 --> 00:36:08,707
+Rapunzel !
+
+424
+00:36:53,586 --> 00:36:56,880
+I know it's around here somewhere.
+
+425
+00:36:57,632 --> 00:37:01,176
+Ah, there it is! The Snuggly Duckling.
+
+426
+00:37:01,261 --> 00:37:02,678
+Don't worry. Very quaint place.
+Perfect for you.
+
+427
+00:37:04,264 --> 00:37:07,558
+Don't want you scaring and giving up
+on this whole endeavor now, do we?
+
+428
+00:37:07,642 --> 00:37:11,103
+-Well, I do like ducklings.
+-Yay!
+
+429
+00:37:12,731 --> 00:37:15,023
+Garçon, your finest table, please!
+
+430
+00:37:21,906 --> 00:37:25,200
+You smell that? Take a deep breath
+through the nose.
+
+431
+00:37:25,493 --> 00:37:27,828
+Really let that seep in.
+What are you getting?
+
+432
+00:37:27,912 --> 00:37:31,623
+To me, it's part man-smell and the other
+part is really bad man-smell.
+
+433
+00:37:31,708 --> 00:37:33,709
+I don't know why,
+but overall it smells like the color brown.
+
+434
+00:37:33,793 --> 00:37:34,793
+-Your thoughts?
+
+435
+00:37:35,962 --> 00:37:38,338
+That's a lot of hair.
+
+436
+00:37:38,423 --> 00:37:40,758
+She's growing it out.
+Is that blood in your mustache?
+
+437
+00:37:40,842 --> 00:37:43,510
+Goldie, look at all the blood
+in his mustache!
+
+438
+00:37:43,803 --> 00:37:45,554
+Good sir, that's a lot of blood !
+
+439
+00:37:46,806 --> 00:37:51,393
+You don't look so good, blondie. Maybe
+we should get you home, call it a day.
+
+440
+00:37:51,478 --> 00:37:54,396
+Probably better off.
+This is a five-star joint.
+
+441
+00:37:54,481 --> 00:37:57,691
+If you can't handle this place, maybe
+you should be back in your tower.
+
+442
+00:37:58,151 --> 00:38:00,486
+--Is this you?
+
+443
+00:38:03,490 --> 00:38:05,324
+Now they're just being mean.
+
+444
+00:38:05,825 --> 00:38:06,784
+It's him, all right.
+
+445
+00:38:06,868 --> 00:38:09,495
+Greno, go find some guards.
+
+446
+00:38:09,579 --> 00:38:12,956
+That reward
+is going to buy me a new hook.
+
+447
+00:38:13,041 --> 00:38:16,502
+-I could use the money.
+-What about me? I'm broke!
+
+448
+00:38:16,586 --> 00:38:17,586
+Get back!
+
+449
+00:38:17,837 --> 00:38:18,962
+-Mine!
+-Ruffians, stop!
+
+450
+00:38:19,047 --> 00:38:21,924
+-We can work this out!
+-Hey! Leave him alone!
+
+451
+00:38:22,008 --> 00:38:23,217
+Gentlemen, please!
+
+452
+00:38:23,301 --> 00:38:26,678
+Give me back my guide! Ruffians!
+
+453
+00:38:35,063 --> 00:38:36,605
+Not the nose! Not the nose!
+
+454
+00:38:39,651 --> 00:38:41,401
+Put him down !
+
+455
+00:38:44,197 --> 00:38:48,116
+I don't know where I am, and I need him
+to take me to see the lanterns
+
+456
+00:38:48,201 --> 00:38:51,119
+because I've been dreaming about them
+my entire life!
+
+457
+00:38:51,204 --> 00:38:56,166
+Find your humanity!
+Haven't any of you ever had a dream?
+
+458
+00:39:08,054 --> 00:39:10,889
+I had a dream once.
+
+459
+00:39:19,566 --> 00:39:21,984
+I'm malicious, mean
+<i>and scary</i>
+
+460
+00:39:22,068 --> 00:39:24,278
+<i>My sneer could curdle dairy</i>
+
+461
+00:39:24,362 --> 00:39:27,823
+<i>And violence-wise</i>
+<i>my hands are not the cleanest</i>
+
+462
+00:39:27,907 --> 00:39:32,119
+<i>But despite my evil look</i>
+<i>And my temper and my hook</i>
+
+463
+00:39:32,662 --> 00:39:35,330
+<i>I've always yearned</i>
+<i>to be a concert pianist</i>
+
+464
+00:39:36,749 --> 00:39:39,960
+<i>Can't you see me on the stage</i>
+<i>performing Mozart</i>
+
+465
+00:39:40,044 --> 00:39:43,171
+<i>Tickling the ivories till they gleam</i>
+
+466
+00:39:43,256 --> 00:39:47,175
+<i>Yep, I'd rather be called deadly</i>
+<i>For my killer show tune medley</i>
+
+467
+00:39:48,177 --> 00:39:49,177
+Thank you !
+
+468
+00:39:49,262 --> 00:39:52,014
+<i>'Cause way down deep inside</i>
+<i>I've got a dream</i>
+
+469
+00:39:52,098 --> 00:39:55,475
+<i>He's got a dream</i>
+<i>He's got a dream</i>
+
+470
+00:39:55,560 --> 00:39:59,521
+<i>See, I ain't as cruel and vicious</i>
+<i>as I seem</i>
+
+471
+00:39:59,606 --> 00:40:03,275
+<i>Though I do like breaking femurs</i>
+<i>You can count me with the dreamers</i>
+
+472
+00:40:03,359 --> 00:40:06,194
+<i>Like everybody else I've got a dream</i>
+
+473
+00:40:12,076 --> 00:40:15,829
+<i>I've got scars and lumps and bruises</i>
+<i>Plus something here that oozes</i>
+
+474
+00:40:15,914 --> 00:40:19,041
+<i>And let's not even mention</i>
+<i>my complexion</i>
+
+475
+00:40:19,125 --> 00:40:22,920
+<i>But despite my extra toes</i>
+<i>And my goiter and my nose</i>
+
+476
+00:40:23,004 --> 00:40:26,298
+<i>I really want to make a love connection</i>
+
+477
+00:40:26,382 --> 00:40:30,093
+<i>Can't you see me</i>
+<i>with a special little lady?</i>
+
+478
+00:40:30,178 --> 00:40:33,513
+<i>Rowing in a rowboat down the stream</i>
+
+479
+00:40:33,598 --> 00:40:37,392
+<i>Though I'm one disgusting blighter</i>
+<i>I'm a lover not a fighter</i>
+
+480
+00:40:37,477 --> 00:40:40,395
+<i>'Cause way down deep inside</i>
+<i>I've got a dream</i>
+
+481
+00:40:40,480 --> 00:40:42,314
+<i>-I've got a dream</i>
+<i>He's got a dream</i>
+
+482
+00:40:42,398 --> 00:40:44,316
+<i>-I've got a dream</i>
+<i>-He's got a dream</i>
+
+483
+00:40:44,400 --> 00:40:47,736
+<i>And I know one day</i>
+<i>romance will reign supreme</i>
+
+484
+00:40:47,820 --> 00:40:49,738
+<i>Though my face</i>
+<i>leaves people screaming</i>
+
+485
+00:40:49,822 --> 00:40:51,740
+<i>There's a child behind it dreaming</i>
+
+486
+00:40:51,824 --> 00:40:54,993
+<i>Like everybody else, I've got a dream</i>
+
+487
+00:40:55,495 --> 00:40:58,664
+<i>Thor would like to quit and be a florist</i>
+
+488
+00:40:59,082 --> 00:41:02,334
+<i>Gunther does interior design</i>
+
+489
+00:41:02,418 --> 00:41:06,004
+<i>-Ulf is into mime</i>
+<i>-Attila's cupcakes are sublime</i>
+
+490
+00:41:06,089 --> 00:41:09,549
+<i>Bruiser knits, Killer sews</i>
+<i>Fang does little puppet shows</i>
+
+491
+00:41:09,634 --> 00:41:15,222
+<i>And Vladimir collects ceramic unicorns</i>
+
+492
+00:41:16,516 --> 00:41:18,850
+-What about you?
+-I'm sorry, me?
+
+493
+00:41:18,935 --> 00:41:20,185
+What's your dream?
+
+494
+00:41:20,269 --> 00:41:23,188
+No, no, no. Sorry, boys. I don't sing.
+
+495
+00:41:24,440 --> 00:41:26,441
+I have dreams like you
+<i>No, really</i>
+
+496
+00:41:26,526 --> 00:41:28,110
+<i>Just much less touchy-feely</i>
+
+497
+00:41:28,194 --> 00:41:31,238
+<i>They mainly happen</i>
+<i>somewhere warm and sunny</i>
+
+498
+00:41:31,322 --> 00:41:34,950
+<i>On an island that I own</i>
+<i>Tanned and rested and alone</i>
+
+499
+00:41:36,035 --> 00:41:38,996
+<i>Surrounded by enormous</i>
+<i>piles of money</i>
+
+500
+00:41:39,080 --> 00:41:40,956
+<i>-I've got a dream</i>
+<i>She's got a dream</i>
+
+501
+00:41:41,040 --> 00:41:42,791
+<i>-I've got a dream</i>
+<i>-She's got a dream</i>
+
+502
+00:41:42,875 --> 00:41:45,377
+<i>I just want to see</i>
+<i>the floating lanterns gleam</i>
+
+503
+00:41:46,587 --> 00:41:50,590
+<i>And with every passing hour</i>
+<i>I'm so glad I left my tower</i>
+
+504
+00:41:50,675 --> 00:41:53,510
+<i>Like all you lovely folks</i>
+<i>I've got a dream</i>
+
+505
+00:41:53,594 --> 00:41:55,303
+<i>She's got a dream</i>
+<i>He's got a dream</i>
+
+506
+00:41:55,388 --> 00:41:57,222
+<i>They've got a dream</i>
+<i>We've got a dream</i>
+
+507
+00:41:57,306 --> 00:42:00,517
+<i>So our differences</i>
+<i>ain't really that extreme</i>
+
+508
+00:42:00,601 --> 00:42:04,688
+<i>We're one big team</i>
+
+509
+00:42:05,398 --> 00:42:06,606
+<i>-Call us brutal</i>
+<i>-Sick</i>
+
+510
+00:42:06,691 --> 00:42:09,151
+<i>-Sadistic</i>
+<i>-And grotesquely optimistic</i>
+
+511
+00:42:09,235 --> 00:42:11,486
+<i>'Cause way down deep inside</i>
+<i>we've got a dream</i>
+
+512
+00:42:11,571 --> 00:42:14,406
+<i>-I've got a dream</i>
+<i>-I've got a dream</i>
+
+513
+00:42:17,744 --> 00:42:23,248
+<i>Yes, way down deep inside</i>
+<i>I've got a dream</i>
+
+514
+00:42:31,841 --> 00:42:33,175
+I found the guards!
+
+515
+00:42:35,928 --> 00:42:37,929
+Where's Rider? Where is he?
+
+516
+00:42:38,389 --> 00:42:40,515
+I know he's in here somewhere.
+Find him.
+
+517
+00:42:40,600 --> 00:42:42,642
+Turn the place upside down
+if you have to!
+
+518
+00:42:59,202 --> 00:43:01,286
+Go. Live your dream.
+
+519
+00:43:02,121 --> 00:43:04,206
+-I will.
+-Your dream stinks.
+
+520
+00:43:04,290 --> 00:43:06,083
+I was talking to her.
+
+521
+00:43:07,794 --> 00:43:09,711
+Thanks for everything.
+
+522
+00:43:13,216 --> 00:43:15,884
+I believe
+this is the man you're looking for.
+
+523
+00:43:15,968 --> 00:43:17,844
+You got me!
+
+524
+00:43:18,387 --> 00:43:20,597
+Sir, there's no sign of Rider.
+
+525
+00:43:24,602 --> 00:43:25,602
+Maximus!
+
+526
+00:43:33,653 --> 00:43:35,487
+What's he doing?
+
+527
+00:43:44,372 --> 00:43:46,957
+A passage! Come on, men. Let's go.
+
+528
+00:43:47,917 --> 00:43:50,752
+Conli ! Make sure those boys
+don't get away.
+
+529
+00:43:55,049 --> 00:43:56,508
+Play it safe
+
+530
+00:43:58,219 --> 00:44:00,011
+or go get the crown?
+
+531
+00:44:08,020 --> 00:44:11,940
+I got a dream
+<i>I got some dreams</i>
+
+532
+00:44:13,150 --> 00:44:16,528
+Oh ! Somebody get me a glass!
+
+533
+00:44:16,612 --> 00:44:20,365
+Because I just found me
+a tall drink of water.
+
+534
+00:44:21,033 --> 00:44:23,034
+Oh, stop it, you big lug.
+
+535
+00:44:25,037 --> 00:44:26,955
+Where does that tunnel let out?
+
+536
+00:44:27,039 --> 00:44:28,456
+Knife!
+
+537
+00:44:30,877 --> 00:44:35,797
+I didn't know you had that in you
+back there. That was pretty impressive.
+
+538
+00:44:35,882 --> 00:44:37,173
+I know!
+
+539
+00:44:38,885 --> 00:44:40,343
+I know.
+
+540
+00:44:43,347 --> 00:44:46,683
+So... Flynn? Where are you from?
+
+541
+00:44:46,767 --> 00:44:49,227
+Whoa! Sorry, blondie,
+I don't do back-story.
+
+542
+00:44:49,312 --> 00:44:51,897
+However, I am becoming
+very interested in yours.
+
+543
+00:44:51,981 --> 00:44:54,566
+I know I'm not supposed
+to mention the hair.
+
+544
+00:44:54,650 --> 00:44:56,192
+-Nope.
+-Or the mother.
+
+545
+00:44:56,277 --> 00:44:58,904
+-Uh-uh.
+-I'm too scared to ask about the frog.
+
+546
+00:44:59,071 --> 00:45:00,447
+-Chameleon.
+-Nuance.
+
+547
+00:45:00,740 --> 00:45:05,243
+Here's my question, though,
+if you want to see the lanterns so badly
+
+548
+00:45:05,328 --> 00:45:07,245
+why haven't you gone before?
+
+549
+00:45:07,538 --> 00:45:09,331
+Uh...
+
+550
+00:45:09,874 --> 00:45:11,082
+Well...
+
+551
+00:45:14,837 --> 00:45:16,046
+Uh, Flynn?
+
+552
+00:45:18,257 --> 00:45:19,382
+Flynn?
+
+553
+00:45:19,926 --> 00:45:21,134
+-Rider?
+
+554
+00:45:21,218 --> 00:45:23,178
+Run. Run !
+
+555
+00:45:41,489 --> 00:45:43,823
+-Who's that?
+-They don't like me.
+
+556
+00:45:44,367 --> 00:45:46,326
+-Who's that?
+-They don't like me either.
+
+557
+00:45:46,410 --> 00:45:48,328
+--Who's that?
+
+558
+00:45:48,412 --> 00:45:51,373
+Let's assume that everyone in here
+doesn't like me.
+
+559
+00:45:51,457 --> 00:45:52,624
+-Here.
+
+560
+00:46:01,634 --> 00:46:03,718
+I waited a long time for this.
+
+561
+00:46:13,145 --> 00:46:16,815
+Oh, mama!
+I have got to get me one of these!
+
+562
+00:46:16,941 --> 00:46:17,983
+Ha!
+
+563
+00:46:25,157 --> 00:46:29,494
+You should know that this
+is the strangest thing I've ever done!
+
+564
+00:46:34,750 --> 00:46:36,626
+How about two out of three?
+
+565
+00:46:36,711 --> 00:46:37,711
+Flynn !
+
+566
+00:46:43,300 --> 00:46:44,843
+Flynn, look out!
+
+567
+00:46:49,056 --> 00:46:52,183
+Ha! You should see your faces,
+because you look...
+
+568
+00:46:53,102 --> 00:46:54,686
+...ridiculous.
+
+569
+00:47:01,819 --> 00:47:04,529
+Come on, blondie! Jump!
+
+570
+00:48:33,494 --> 00:48:36,538
+It's no use. I can't see anything.
+
+571
+00:48:41,961 --> 00:48:45,130
+Hey, there's no point.
+It's pitch-black down there.
+
+572
+00:48:53,180 --> 00:48:55,014
+This is all my fault.
+
+573
+00:48:56,725 --> 00:48:59,811
+She was right.
+I never should have done this.
+
+574
+00:49:03,649 --> 00:49:04,816
+I'm so...
+
+575
+00:49:05,985 --> 00:49:08,069
+I'm so sorry, Flynn.
+
+576
+00:49:15,828 --> 00:49:17,036
+Eugene.
+
+577
+00:49:18,497 --> 00:49:19,622
+What?
+
+578
+00:49:20,666 --> 00:49:23,168
+My real name is Eugene Fitzherbert.
+
+579
+00:49:24,753 --> 00:49:26,838
+Someone might as well know.
+
+580
+00:49:29,675 --> 00:49:32,468
+I have magic hair
+that glows when I sing.
+
+581
+00:49:33,179 --> 00:49:34,345
+What?
+
+582
+00:49:36,223 --> 00:49:40,268
+I have magic hair that glows
+when I sing !
+
+583
+00:49:41,729 --> 00:49:44,564
+Flower gleam and glow
+<i>Let your power shine</i>
+
+584
+00:50:35,241 --> 00:50:36,824
+We made it.
+
+585
+00:50:36,909 --> 00:50:40,370
+-Her hair glows.
+-We're alive. I'm alive!
+
+586
+00:50:40,454 --> 00:50:42,080
+-I didn't see that coming.
+-Eugene?
+
+587
+00:50:42,164 --> 00:50:44,040
+The hair actually glows.
+
+588
+00:50:44,124 --> 00:50:45,750
+-Why does her hair glow?
+-Eugene!
+
+589
+00:50:45,834 --> 00:50:46,834
+What?
+
+590
+00:50:48,545 --> 00:50:50,838
+It doesn't just glow.
+
+591
+00:50:53,259 --> 00:50:55,301
+Why is he smiling at me?
+
+592
+00:51:19,451 --> 00:51:22,287
+I'll kill him. I'll kill that Rider!
+
+593
+00:51:23,789 --> 00:51:27,792
+We'll cut him off at the kingdom
+and get back the crown. Come on !
+
+594
+00:51:29,044 --> 00:51:30,461
+Or...
+
+595
+00:51:32,256 --> 00:51:35,174
+Perhaps you want to stop
+acting like wild dogs
+
+596
+00:51:35,259 --> 00:51:38,636
+chasing their tails
+and think for a moment.
+
+597
+00:51:40,848 --> 00:51:43,266
+Oh, please,
+there's no need for that.
+
+598
+00:51:48,897 --> 00:51:52,400
+Well, if that's all you desire,
+then be on your way.
+
+599
+00:51:52,484 --> 00:51:55,486
+I was going to offer you something
+worth 1 ,000 crowns.
+
+600
+00:51:55,571 --> 00:51:57,196
+Would have made you
+rich beyond belief,
+
+601
+00:51:57,281 --> 00:51:59,073
+and that wasn't even the best part.
+
+602
+00:51:59,158 --> 00:52:03,161
+Oh, well. C'est la vie. Enjoy your crown !
+
+603
+00:52:04,663 --> 00:52:06,331
+What's the best part?
+
+604
+00:52:06,832 --> 00:52:11,794
+It comes with revenge on Flynn Rider.
+
+605
+00:52:18,802 --> 00:52:20,636
+You're being strangely cryptic
+
+606
+00:52:20,721 --> 00:52:23,181
+as you wrap your magic hair
+around my injured hand.
+
+607
+00:52:24,683 --> 00:52:25,975
+Sorry.
+
+608
+00:52:27,186 --> 00:52:31,230
+Just don't... Don't freak out.
+
+609
+00:52:36,862 --> 00:52:40,531
+Flower, gleam and glow
+
+610
+00:52:41,200 --> 00:52:44,160
+<i>Let your power shine</i>
+
+611
+00:52:45,537 --> 00:52:48,915
+<i>Make the clock reverse</i>
+
+612
+00:52:48,999 --> 00:52:52,752
+<i>Bring back what once was mine</i>
+
+613
+00:52:54,171 --> 00:52:57,006
+<i>Heal what has been hurt</i>
+
+614
+00:52:58,050 --> 00:53:01,302
+<i>Change the Fates' design</i>
+
+615
+00:53:02,388 --> 00:53:05,640
+<i>Save what has been lost</i>
+
+616
+00:53:05,724 --> 00:53:08,893
+<i>Bring back what once was mine</i>
+
+617
+00:53:09,561 --> 00:53:14,315
+<i>What once was mine</i>
+
+618
+00:53:28,664 --> 00:53:30,665
+Please don't freak out!
+
+619
+00:53:33,752 --> 00:53:35,878
+I'm not freaking out.
+Are you freaking out?
+
+620
+00:53:35,963 --> 00:53:39,215
+I'm just interested in your hair
+and the magical qualities it possesses.
+
+621
+00:53:39,299 --> 00:53:42,093
+How long has it been
+doing that exactly?
+
+622
+00:53:43,345 --> 00:53:45,680
+Forever, I guess.
+
+623
+00:53:46,557 --> 00:53:49,851
+Mother says when I was a baby,
+people tried to cut it.
+
+624
+00:53:49,935 --> 00:53:51,853
+They wanted to take it for themselves.
+
+625
+00:53:52,438 --> 00:53:57,358
+But once it's cut,
+it turns brown and loses its power.
+
+626
+00:53:58,193 --> 00:54:01,320
+A gift like that, it has to be protected.
+
+627
+00:54:02,281 --> 00:54:04,699
+That's why Mother never let me...
+
+628
+00:54:08,120 --> 00:54:11,122
+That's why I never left and...
+
+629
+00:54:14,543 --> 00:54:16,586
+You never left that tower.
+
+630
+00:54:20,299 --> 00:54:22,467
+And you're still going to go back?
+
+631
+00:54:22,759 --> 00:54:25,011
+No! Yes.
+
+632
+00:54:27,181 --> 00:54:29,140
+It's complicated.
+
+633
+00:54:39,651 --> 00:54:42,653
+So, Eugene Fitzherbert, huh?
+
+634
+00:54:42,863 --> 00:54:44,780
+Ah, yeah. Well...
+
+635
+00:54:44,865 --> 00:54:48,201
+I'll spare you the sob story
+of poor orphan Eugene Fitzherbert.
+
+636
+00:54:48,285 --> 00:54:51,579
+It's a little bit of a downer.
+
+637
+00:54:57,836 --> 00:55:01,839
+There was this book I used to read
+every night to all the younger kids.
+
+638
+00:55:01,924 --> 00:55:03,591
+<i>The Tales of Flynnagan Rider.</i>
+
+639
+00:55:03,675 --> 00:55:08,262
+Swashbuckling rogue, richest man
+alive, not bad with the ladies either.
+
+640
+00:55:08,347 --> 00:55:10,598
+Not that he'd ever brag about it,
+of course.
+
+641
+00:55:10,682 --> 00:55:13,226
+Was he a thief, too?
+
+642
+00:55:13,310 --> 00:55:14,352
+Uh...
+
+643
+00:55:15,062 --> 00:55:16,521
+Well, no.
+
+644
+00:55:17,147 --> 00:55:20,024
+He had enough money to do anything
+that he wanted to do.
+
+645
+00:55:20,108 --> 00:55:21,692
+He could go anywhere
+that he wanted to go.
+
+646
+00:55:22,444 --> 00:55:26,447
+And for a kid with nothing,
+I don't know, I...
+
+647
+00:55:28,116 --> 00:55:29,659
+Just seemed like the better option.
+
+648
+00:55:31,036 --> 00:55:33,496
+You can't tell anyone about this, okay?
+
+649
+00:55:33,914 --> 00:55:36,040
+It could ruin my whole reputation.
+
+650
+00:55:36,166 --> 00:55:38,709
+Ah. We wouldn't want that.
+
+651
+00:55:38,794 --> 00:55:41,087
+A fake reputation is all a man has.
+
+652
+00:55:49,429 --> 00:55:51,180
+Well, I should...
+
+653
+00:55:52,391 --> 00:55:54,725
+I should get
+some more firewood.
+
+654
+00:55:55,686 --> 00:55:56,936
+Hey.
+
+655
+00:55:57,396 --> 00:56:03,067
+For the record, I like Eugene Fitzherbert
+much better than Flynn Rider.
+
+656
+00:56:04,903 --> 00:56:05,987
+Well.
+
+657
+00:56:06,238 --> 00:56:09,407
+Then you'd be the first. But thank you.
+
+658
+00:56:19,209 --> 00:56:22,503
+Well, I thought he'd never leave.
+
+659
+00:56:22,588 --> 00:56:23,963
+Mother?
+
+660
+00:56:24,047 --> 00:56:25,548
+Hello, dear.
+
+661
+00:56:28,677 --> 00:56:29,969
+How did you find me?
+
+662
+00:56:30,262 --> 00:56:32,138
+Oh, it was easy, really.
+
+663
+00:56:32,222 --> 00:56:36,601
+I just listened for the sound of complete
+and utter betrayal and followed that.
+
+664
+00:56:37,019 --> 00:56:39,103
+Mother...
+
+665
+00:56:39,313 --> 00:56:43,190
+-We're going home. Now.
+-You don't understand.
+
+666
+00:56:43,275 --> 00:56:47,695
+I've been on this incredible journey,
+and I've seen and learned so much.
+
+667
+00:56:48,614 --> 00:56:49,780
+I even met someone.
+
+668
+00:56:49,865 --> 00:56:52,950
+Yes, the wanted thief. I'm so proud.
+Come on.
+
+669
+00:56:53,285 --> 00:56:55,953
+Mother, wait. I think...
+
+670
+00:56:57,664 --> 00:56:59,165
+I think he likes me.
+
+671
+00:56:59,416 --> 00:57:02,126
+Likes you?
+Please, Rapunzel, that's demented !
+
+672
+00:57:03,420 --> 00:57:05,338
+This is why
+<i>you never should have left</i>
+
+673
+00:57:06,214 --> 00:57:09,383
+<i>Dear, this whole romance</i>
+<i>that you've invented</i>
+
+674
+00:57:09,468 --> 00:57:14,013
+<i>Just proves you're too naive to be here</i>
+
+675
+00:57:14,556 --> 00:57:17,433
+<i>Why would he like you?</i>
+<i>Come on now, really</i>
+
+676
+00:57:18,060 --> 00:57:21,145
+<i>Look at you!</i>
+<i>You think that he's impressed?</i>
+
+677
+00:57:21,688 --> 00:57:25,441
+<i>Don't be a dummy, come with Mummy</i>
+
+678
+00:57:26,109 --> 00:57:27,568
+<i>Mother...</i>
+
+679
+00:57:27,653 --> 00:57:28,986
+No!
+
+680
+00:57:29,821 --> 00:57:31,197
+No?
+
+681
+00:57:32,157 --> 00:57:35,826
+<i>Oh, I see how it is</i>
+
+682
+00:57:38,163 --> 00:57:41,916
+<i>Rapunzel knows best</i>
+<i>Rapunzel's so mature now</i>
+
+683
+00:57:42,000 --> 00:57:45,002
+<i>Such a clever grown-up miss</i>
+
+684
+00:57:45,504 --> 00:57:49,090
+<i>Rapunzel knows best</i>
+<i>Fine, if you're so sure now</i>
+
+685
+00:57:49,174 --> 00:57:52,551
+<i>-Go ahead, then give him this!</i>
+<i>-How did you...</i>
+
+686
+00:57:52,761 --> 00:57:56,138
+<i>This is why he's here</i>
+<i>Don't let him deceive you</i>
+
+687
+00:57:56,223 --> 00:57:58,432
+<i>Give it to him, watch, you'll see</i>
+
+688
+00:57:58,517 --> 00:57:59,475
+I will !
+
+689
+00:57:59,559 --> 00:58:02,812
+<i>Trust me, my dear</i>
+<i>That's how fast he'll leave you</i>
+
+690
+00:58:03,146 --> 00:58:06,565
+<i>I won't say I told you so</i>
+
+691
+00:58:06,650 --> 00:58:11,028
+<i>No, Rapunzel knows best</i>
+<i>So, if he's such a dreamboat</i>
+
+692
+00:58:11,113 --> 00:58:13,531
+<i>Go and put him to the test</i>
+
+693
+00:58:13,615 --> 00:58:14,615
+Mother, wait!
+
+694
+00:58:14,700 --> 00:58:20,287
+<i>If he's lying, don't come crying</i>
+
+695
+00:58:21,206 --> 00:58:26,085
+<i>Mother knows best</i>
+
+696
+00:58:31,800 --> 00:58:35,386
+So, can I ask you something?
+
+697
+00:58:36,388 --> 00:58:39,724
+Is there any chance that I'm going to get
+super strength in my hand?
+
+698
+00:58:39,808 --> 00:58:43,269
+Because I'm not going to lie.
+That would be stupendous.
+
+699
+00:58:44,312 --> 00:58:45,771
+Hey, you all right?
+
+700
+00:58:46,231 --> 00:58:52,027
+Oh ! Sorry, yes.
+Just lost in thought, I guess.
+
+701
+00:58:54,656 --> 00:58:55,823
+Here's the thing,
+
+702
+00:58:55,907 --> 00:58:59,201
+superhuman good looks,
+I've always had them. Born with it.
+
+703
+00:58:59,286 --> 00:59:03,497
+But superhuman strength. Can you
+imagine the possibilities of this?
+
+704
+00:59:07,753 --> 00:59:09,754
+Patience, boys.
+
+705
+00:59:10,380 --> 00:59:14,550
+All good things to those who wait.
+
+706
+00:59:29,232 --> 00:59:30,483
+Huh?
+
+707
+00:59:33,945 --> 00:59:36,447
+Well, I hope you're here to apologize.
+
+708
+00:59:39,451 --> 00:59:42,036
+No, put me down. Stop it! No!
+
+709
+00:59:42,120 --> 00:59:44,747
+-Let me go!
+
+710
+00:59:44,831 --> 00:59:46,624
+Give me him !
+
+711
+00:59:46,917 --> 00:59:48,709
+-Stop, stop, stop!
+
+712
+00:59:55,091 --> 00:59:58,719
+Whoa, whoa, whoa!
+
+713
+00:59:58,804 --> 01:00:00,805
+Easy, boy. Easy! Settle down.
+
+714
+01:00:03,016 --> 01:00:04,391
+Easy, boy. Easy.
+
+715
+01:00:04,684 --> 01:00:06,435
+Easy.
+
+716
+01:00:08,146 --> 01:00:09,772
+That's it.
+
+717
+01:00:13,109 --> 01:00:14,193
+Now sit.
+
+718
+01:00:15,987 --> 01:00:17,112
+Sit!
+
+719
+01:00:17,656 --> 01:00:19,657
+- What?
+-Now drop the boot.
+
+720
+01:00:20,200 --> 01:00:21,492
+Drop it.
+
+721
+01:00:22,994 --> 01:00:23,994
+Aw!
+
+722
+01:00:24,079 --> 01:00:28,457
+You're such a good boy! Yes, you are!
+
+723
+01:00:30,085 --> 01:00:33,671
+You all tired from chasing this bad man
+all over the place?
+
+724
+01:00:33,755 --> 01:00:37,633
+- Excuse me?
+-Nobody appreciates you, do they?
+
+725
+01:00:37,717 --> 01:00:38,884
+-Do they?
+
+726
+01:00:38,969 --> 01:00:41,011
+Oh, come on. He's a bad horse!
+
+727
+01:00:41,096 --> 01:00:43,722
+Oh, he's nothing but a big sweetheart.
+
+728
+01:00:44,891 --> 01:00:46,308
+Isn't that right...
+
+729
+01:00:46,852 --> 01:00:48,352
+Maximus?
+
+730
+01:00:49,020 --> 01:00:51,438
+You've got to be kidding me.
+
+731
+01:00:51,523 --> 01:00:56,235
+Look. Today is kind of
+the biggest day of my life,
+
+732
+01:00:56,820 --> 01:01:00,656
+and the thing is,
+I need you not to get him arrested.
+
+733
+01:01:00,740 --> 01:01:02,658
+--Just for 24 hours,
+
+734
+01:01:02,742 --> 01:01:05,953
+and then you can chase each other
+to your heart's content.
+
+735
+01:01:06,037 --> 01:01:07,162
+Okay?
+
+736
+01:01:11,293 --> 01:01:14,795
+And it's also my birthday.
+Just so you know.
+
+737
+01:02:05,972 --> 01:02:08,265
+--Excuse me. Sorry.
+
+738
+01:02:31,122 --> 01:02:33,040
+Thank you !
+
+739
+01:02:48,723 --> 01:02:50,557
+It's for the lost princess.
+
+740
+01:04:09,262 --> 01:04:10,763
+To the boats!
+
+741
+01:04:22,025 --> 01:04:23,067
+Hey, Max!
+
+742
+01:04:26,446 --> 01:04:29,323
+What? I bought them.
+
+743
+01:04:32,202 --> 01:04:33,994
+-Most of them.
+
+744
+01:04:35,371 --> 01:04:36,955
+Where are we going?
+
+745
+01:04:37,040 --> 01:04:40,918
+Best day of your life?
+I figured you should have a decent seat.
+
+746
+01:04:59,437 --> 01:05:00,813
+You okay?
+
+747
+01:05:01,648 --> 01:05:03,273
+I'm terrified.
+
+748
+01:05:04,150 --> 01:05:05,442
+Why?
+
+749
+01:05:06,236 --> 01:05:10,531
+I've been looking out a window
+for 1 8 years,
+
+750
+01:05:10,615 --> 01:05:15,452
+dreaming about what it might feel like
+when those lights rise in the sky.
+
+751
+01:05:16,913 --> 01:05:20,415
+What if it's not everything
+that I dreamed it would be?
+
+752
+01:05:22,961 --> 01:05:24,336
+It will be.
+
+753
+01:05:25,797 --> 01:05:30,425
+And what if it is? What do I do then?
+
+754
+01:05:30,885 --> 01:05:35,806
+That's the good part, I guess.
+You get to go find a new dream.
+
+755
+01:07:09,484 --> 01:07:14,529
+<i>All those days</i>
+<i>watching from the windows</i>
+
+756
+01:07:14,614 --> 01:07:18,242
+<i>All those years, outside looking in</i>
+
+757
+01:07:19,077 --> 01:07:23,872
+<i>All that time, never even knowing</i>
+
+758
+01:07:23,957 --> 01:07:28,752
+<i>Just how blind I've been</i>
+
+759
+01:07:29,379 --> 01:07:33,924
+<i>Now I'm here, blinking in the starlight</i>
+
+760
+01:07:34,425 --> 01:07:38,345
+<i>Now I'm here, suddenly I see</i>
+
+761
+01:07:38,721 --> 01:07:43,392
+<i>Standing here, it's, oh, so clear</i>
+
+762
+01:07:43,476 --> 01:07:48,063
+<i>I'm where I'm meant to be</i>
+
+763
+01:07:48,147 --> 01:07:52,442
+<i>And at last I see the light</i>
+
+764
+01:07:52,777 --> 01:07:56,780
+<i>And it's like the fog has lifted</i>
+
+765
+01:07:57,448 --> 01:08:02,035
+<i>And at last I see the light</i>
+
+766
+01:08:02,120 --> 01:08:05,914
+<i>And it's like the sky is new</i>
+
+767
+01:08:06,749 --> 01:08:11,378
+<i>And it's warm and real and bright</i>
+
+768
+01:08:11,462 --> 01:08:16,800
+<i>And the world has somehow shifted</i>
+
+769
+01:08:19,804 --> 01:08:24,725
+<i>All at once, everything looks different</i>
+
+770
+01:08:24,809 --> 01:08:29,104
+<i>Now that I see you</i>
+
+771
+01:08:35,903 --> 01:08:38,405
+I have something for you, too.
+
+772
+01:08:38,781 --> 01:08:41,992
+I should have given it to you before,
+but I was just scared.
+
+773
+01:08:42,327 --> 01:08:46,913
+And the thing is, I'm not scared
+anymore. You know what I mean?
+
+774
+01:08:48,791 --> 01:08:51,001
+I'm starting to.
+
+775
+01:08:55,048 --> 01:08:59,593
+<i>All those days</i>
+<i>chasing down a daydream</i>
+
+776
+01:09:00,011 --> 01:09:03,805
+<i>All those years, living in a blur</i>
+
+777
+01:09:04,349 --> 01:09:08,935
+<i>All that time, never truly seeing</i>
+
+778
+01:09:09,020 --> 01:09:12,689
+<i>Things the way they were</i>
+
+779
+01:09:13,775 --> 01:09:18,612
+<i>Now she's here, shining in the starlight</i>
+
+780
+01:09:18,696 --> 01:09:22,699
+<i>Now she's here, suddenly I know</i>
+
+781
+01:09:23,201 --> 01:09:27,788
+<i>If she's here, it's crystal clear</i>
+
+782
+01:09:27,872 --> 01:09:31,958
+<i>I'm where I'm meant to go</i>
+
+783
+01:09:32,043 --> 01:09:36,630
+<i>And at last I see the light</i>
+
+784
+01:09:36,714 --> 01:09:40,842
+<i>And it's like the fog has lifted</i>
+
+785
+01:09:40,927 --> 01:09:45,263
+<i>And at last I see the light</i>
+
+786
+01:09:45,348 --> 01:09:49,476
+<i>And it's like the sky is new</i>
+
+787
+01:09:49,727 --> 01:09:54,356
+<i>And it's warm and real and bright</i>
+
+788
+01:09:54,440 --> 01:09:59,903
+<i>And the world has somehow shifted</i>
+
+789
+01:10:02,949 --> 01:10:07,994
+<i>All at once, everything is different</i>
+
+790
+01:10:08,079 --> 01:10:13,583
+<i>Now that I see you</i>
+
+791
+01:10:17,046 --> 01:10:19,214
+<i>Now that I...</i>
+
+792
+01:10:20,258 --> 01:10:23,635
+<i>see you</i>
+
+793
+01:10:43,239 --> 01:10:45,907
+Is everything okay?
+
+794
+01:10:45,992 --> 01:10:47,033
+Huh?
+
+795
+01:10:47,910 --> 01:10:49,703
+Oh, yes.
+
+796
+01:10:50,037 --> 01:10:52,873
+Yes, of course. I just...
+
+797
+01:10:58,629 --> 01:11:00,964
+I'm sorry. Everything is fine.
+
+798
+01:11:01,507 --> 01:11:03,592
+There's just something
+I have to take care of.
+
+799
+01:11:06,471 --> 01:11:07,554
+Okay.
+
+800
+01:11:09,307 --> 01:11:11,099
+I'll be right back.
+
+801
+01:11:17,273 --> 01:11:19,149
+It's all right, Pascal.
+
+802
+01:11:26,532 --> 01:11:28,408
+Ah ! There you are!
+
+803
+01:11:28,493 --> 01:11:31,077
+I've been searching everywhere
+for you guys since we got separated.
+
+804
+01:11:31,162 --> 01:11:35,415
+The sideburns are coming in nice, huh?
+Got to be excited about that.
+
+805
+01:11:39,128 --> 01:11:41,880
+Anyhow, I just wanted to say
+I shouldn't have split.
+
+806
+01:11:41,964 --> 01:11:45,759
+The crown is all yours. I'll miss you,
+but I think it's for the
+
+807
+01:11:46,385 --> 01:11:47,427
+best.
+
+808
+01:11:49,096 --> 01:11:52,516
+Holding out on us again, eh, Rider?
+
+809
+01:11:52,975 --> 01:11:55,894
+-What?
+-We heard you found something.
+
+810
+01:11:55,978 --> 01:11:58,855
+Something much more valuable
+than a crown.
+
+811
+01:11:59,857 --> 01:12:02,692
+We want her instead.
+
+812
+01:12:12,954 --> 01:12:16,206
+I was starting to think you ran off
+with the crown and left me.
+
+813
+01:12:23,256 --> 01:12:24,881
+He did.
+
+814
+01:12:25,007 --> 01:12:28,218
+What? No. He wouldn't.
+
+815
+01:12:29,178 --> 01:12:30,845
+See for yourself.
+
+816
+01:12:35,726 --> 01:12:36,810
+Eugene?
+
+817
+01:12:39,522 --> 01:12:41,439
+Eugene!
+
+818
+01:12:43,693 --> 01:12:48,655
+A fair trade. A crown
+for the girl with the magic hair.
+
+819
+01:12:49,865 --> 01:12:53,660
+How much do you think someone would
+pay to stay young and healthy forever?
+
+820
+01:12:53,744 --> 01:12:56,663
+No. Please. No!
+
+821
+01:12:57,415 --> 01:12:58,456
+No!
+
+822
+01:13:06,257 --> 01:13:07,549
+Rapunzel !
+
+823
+01:13:09,260 --> 01:13:10,677
+Mother?
+
+824
+01:13:15,558 --> 01:13:18,059
+Oh, my precious girl !
+
+825
+01:13:18,936 --> 01:13:20,186
+Mother.
+
+826
+01:13:20,730 --> 01:13:23,106
+Are you all right? Are you hurt?
+
+827
+01:13:23,190 --> 01:13:26,735
+-How did you...
+-I was so worried about you, dear.
+
+828
+01:13:26,819 --> 01:13:30,363
+So I followed you.
+And I saw them attack you and...
+
+829
+01:13:30,448 --> 01:13:33,116
+Oh, my. Let's go before they come to!
+
+830
+01:14:03,314 --> 01:14:07,275
+You were right, Mother.
+You were right about everything.
+
+831
+01:14:08,444 --> 01:14:11,821
+I know, darling. I know.
+
+832
+01:14:25,670 --> 01:14:26,753
+Look!
+
+833
+01:14:27,338 --> 01:14:28,713
+The crown !
+
+834
+01:14:29,548 --> 01:14:30,840
+Rapunzel.
+
+835
+01:14:31,509 --> 01:14:32,926
+-Rapunzel !
+
+836
+01:14:35,012 --> 01:14:37,764
+- No! Wait, guys!
+
+837
+01:14:40,601 --> 01:14:42,352
+Rapunzel !
+
+838
+01:15:01,580 --> 01:15:03,707
+Let's get this over with, Rider.
+
+839
+01:15:05,793 --> 01:15:07,127
+Where are we going?
+
+840
+01:15:10,798 --> 01:15:11,840
+Oh.
+
+841
+01:15:14,969 --> 01:15:17,721
+There. It never happened.
+
+842
+01:15:19,974 --> 01:15:24,894
+Now, wash up for dinner.
+I'm making hazelnut soup.
+
+843
+01:15:28,691 --> 01:15:34,696
+I really did try, Rapunzel.
+I tried to warn you what was out there.
+
+844
+01:15:35,364 --> 01:15:39,826
+The world is dark and selfish and cruel.
+
+845
+01:15:39,910 --> 01:15:42,912
+If it finds
+even the slightest ray of sunshine,
+
+846
+01:15:43,831 --> 01:15:45,582
+it destroys it.
+
+847
+01:17:28,310 --> 01:17:30,478
+How did you know about her?
+Tell me, now!
+
+848
+01:17:30,563 --> 01:17:33,398
+It wasn't us! It was the old lady!
+
+849
+01:17:33,482 --> 01:17:34,732
+Old lady?
+
+850
+01:17:36,193 --> 01:17:38,361
+Wait. No! Wait!
+
+851
+01:17:38,445 --> 01:17:41,364
+You don't understand !
+She's in trouble! Wait!
+
+852
+01:17:41,699 --> 01:17:42,866
+Rapunzel?
+
+853
+01:17:44,577 --> 01:17:46,369
+What's going on up there?
+
+854
+01:17:50,541 --> 01:17:52,208
+Are you all right?
+
+855
+01:17:53,544 --> 01:17:55,086
+I'm the lost princess.
+
+856
+01:17:55,212 --> 01:17:58,965
+Please speak up, Rapunzel.
+You know how I hate the mumbling.
+
+857
+01:17:59,049 --> 01:18:01,885
+I am the lost princess.
+
+858
+01:18:01,969 --> 01:18:03,636
+Aren't I?
+
+859
+01:18:05,806 --> 01:18:08,057
+Did I mumble, Mother?
+
+860
+01:18:09,226 --> 01:18:11,728
+Or should I even call you that?
+
+861
+01:18:12,980 --> 01:18:15,815
+Oh, Rapunzel,
+do you even hear yourself?
+
+862
+01:18:15,900 --> 01:18:18,610
+Why would you ask
+such a ridiculous question?
+
+863
+01:18:18,694 --> 01:18:22,155
+It was you ! It was all you !
+
+864
+01:18:24,241 --> 01:18:27,744
+Everything I did was to protect you.
+
+865
+01:18:29,079 --> 01:18:30,330
+--Rapunzel !
+
+866
+01:18:30,414 --> 01:18:33,416
+I've spent my entire life
+hiding from people
+
+867
+01:18:33,500 --> 01:18:35,835
+-who would use me for my power...
+-Rapunzel !
+
+868
+01:18:35,920 --> 01:18:38,922
+...when I should have been hiding
+from you !
+
+869
+01:18:39,006 --> 01:18:42,300
+Where will you go?
+He won't be there for you.
+
+870
+01:18:42,384 --> 01:18:44,260
+<i>What did you do to him?</i>
+
+871
+01:18:44,762 --> 01:18:48,014
+<i>That criminal is to be hanged</i>
+<i>for his crimes.</i>
+
+872
+01:18:48,098 --> 01:18:51,517
+-No.
+-Now, now, it's all right.
+
+873
+01:18:51,602 --> 01:18:56,189
+Listen to me.
+All of this is as it should be.
+
+874
+01:18:56,607 --> 01:19:00,109
+No! You were wrong about the world.
+
+875
+01:19:00,653 --> 01:19:03,154
+And you were wrong about me!
+
+876
+01:19:03,238 --> 01:19:07,241
+And I will never
+let you use my hair again !
+
+877
+01:19:16,418 --> 01:19:18,878
+You want me
+to be the bad guy?
+
+878
+01:19:18,963 --> 01:19:22,799
+Fine, now I'm the bad guy.
+
+879
+01:19:36,981 --> 01:19:38,564
+What's this?
+
+880
+01:19:38,649 --> 01:19:40,483
+Open up!
+
+881
+01:19:41,527 --> 01:19:43,569
+-What's the password?
+-What?
+
+882
+01:19:43,654 --> 01:19:45,905
+-Nope.
+-Open this door!
+
+883
+01:19:45,990 --> 01:19:47,824
+Not even close!
+
+884
+01:19:47,992 --> 01:19:50,743
+You have three seconds! One...
+
+885
+01:19:51,662 --> 01:19:53,037
+Two...
+
+886
+01:19:54,957 --> 01:19:55,999
+Three.
+
+887
+01:19:57,876 --> 01:19:59,085
+Huh?
+
+888
+01:20:01,547 --> 01:20:03,715
+Frying pans! Who knew, right?
+
+889
+01:20:33,328 --> 01:20:34,620
+-Head down.
+-Head down.
+
+890
+01:20:34,705 --> 01:20:35,788
+-Arms in.
+-Arms in.
+
+891
+01:20:35,873 --> 01:20:37,540
+-Knees apart.
+-Knees apart. Knees apart?
+
+892
+01:20:38,709 --> 01:20:40,501
+Why do I need
+to keep my knees apart...
+
+893
+01:20:48,719 --> 01:20:51,929
+Max! You brought them here?
+
+894
+01:20:54,141 --> 01:20:55,183
+Thank you.
+
+895
+01:20:56,602 --> 01:20:59,228
+No, really. Thank you.
+
+896
+01:21:01,148 --> 01:21:02,482
+I feel maybe this whole time,
+
+897
+01:21:02,566 --> 01:21:04,484
+we've just been misunderstanding
+one another,
+
+898
+01:21:04,568 --> 01:21:06,277
+and we're really just...
+
+899
+01:21:06,653 --> 01:21:07,945
+You're right, we should go.
+
+900
+01:21:15,579 --> 01:21:16,621
+Max?
+
+901
+01:21:17,748 --> 01:21:18,831
+Max!
+
+902
+01:21:19,458 --> 01:21:20,917
+-Max!
+
+903
+01:21:30,385 --> 01:21:33,554
+Okay, Max.
+Let's see how fast you can run.
+
+904
+01:21:52,866 --> 01:21:54,033
+Rapunzel?
+
+905
+01:21:56,036 --> 01:21:57,620
+Rapunzel, let down your hair!
+
+906
+01:22:13,345 --> 01:22:15,721
+Rapunzel,
+I thought I'd never see you again.
+
+907
+01:22:15,806 --> 01:22:16,848
+Huh?
+
+908
+01:22:24,439 --> 01:22:27,358
+Now look what you've done, Rapunzel.
+
+909
+01:22:27,442 --> 01:22:31,779
+Oh, don't worry, dear.
+Our secret will die with him.
+
+910
+01:22:33,490 --> 01:22:35,116
+And as for us...
+
+911
+01:22:36,451 --> 01:22:41,080
+We are going where no one
+will ever find you again.
+
+912
+01:22:47,129 --> 01:22:48,796
+Rapunzel, really!
+
+913
+01:22:49,631 --> 01:22:53,259
+Enough already! Stop fighting me!
+
+914
+01:22:53,886 --> 01:22:55,928
+No! I won't stop!
+
+915
+01:22:56,013 --> 01:22:59,223
+For every minute of the rest of my life,
+I will fight!
+
+916
+01:22:59,308 --> 01:23:03,186
+I will never stop trying
+to get away from you !
+
+917
+01:23:05,606 --> 01:23:10,151
+But if you let me save him,
+I will go with you.
+
+918
+01:23:10,903 --> 01:23:13,863
+No! No, Rapunzel.
+
+919
+01:23:14,740 --> 01:23:17,992
+I'll never run. I'll never try to escape.
+
+920
+01:23:18,076 --> 01:23:21,662
+Just let me heal him
+and you and I will be together,
+
+921
+01:23:21,747 --> 01:23:23,789
+forever, just like you want.
+
+922
+01:23:23,874 --> 01:23:25,875
+Everything will be the way it was.
+
+923
+01:23:27,211 --> 01:23:28,336
+I promise.
+
+924
+01:23:29,254 --> 01:23:31,047
+Just like you want.
+
+925
+01:23:34,051 --> 01:23:37,386
+Just let me heal him.
+
+926
+01:23:42,935 --> 01:23:46,312
+In case you get any ideas
+about following us.
+
+927
+01:23:48,398 --> 01:23:49,607
+Eugene!
+
+928
+01:23:56,531 --> 01:23:58,950
+I'm so sorry.
+Everything is going to be okay, though.
+
+929
+01:23:59,034 --> 01:24:00,034
+No, Rapunzel.
+
+930
+01:24:00,118 --> 01:24:03,496
+I promise. You have to trust me.
+Come on. Just breathe.
+
+931
+01:24:03,580 --> 01:24:05,248
+I can't let you do this.
+
+932
+01:24:05,916 --> 01:24:08,042
+And I can't let you die.
+
+933
+01:24:08,585 --> 01:24:12,255
+But if you do then you will die.
+
+934
+01:24:12,339 --> 01:24:16,050
+Hey. It's going to be all right.
+
+935
+01:24:21,265 --> 01:24:22,431
+Rapunzel.
+
+936
+01:24:23,350 --> 01:24:24,475
+Wait.
+
+937
+01:24:33,402 --> 01:24:34,652
+Eugene...
+
+938
+01:24:35,612 --> 01:24:36,779
+No!
+
+939
+01:24:44,955 --> 01:24:48,582
+What have you done?
+What have you done?
+
+940
+01:24:49,835 --> 01:24:50,960
+No!
+
+941
+01:24:54,548 --> 01:24:56,799
+No! No. No!
+
+942
+01:25:27,497 --> 01:25:29,373
+No, no, no. Eugene.
+
+943
+01:25:32,127 --> 01:25:36,505
+No! Look at me. I'm right here.
+Don't go. Stay with me.
+
+944
+01:25:37,090 --> 01:25:40,176
+Flower, gleam and glow
+<i>Let your power shine</i>
+
+945
+01:25:40,260 --> 01:25:43,179
+<i>Make the clock reverse</i>
+<i>Bring back what once was mine</i>
+
+946
+01:25:43,263 --> 01:25:44,347
+Rapunzel.
+
+947
+01:25:44,765 --> 01:25:45,848
+What?
+
+948
+01:25:49,519 --> 01:25:51,395
+You were my new dream.
+
+949
+01:25:54,691 --> 01:25:56,442
+And you were mine.
+
+950
+01:26:22,803 --> 01:26:26,305
+Heal what has been hurt
+
+951
+01:26:27,724 --> 01:26:31,352
+<i>Change the Fates' design</i>
+
+952
+01:26:32,396 --> 01:26:35,481
+<i>Save what has been lost</i>
+
+953
+01:26:38,110 --> 01:26:40,945
+<i>Bring back what once was mine</i>
+
+954
+01:26:44,408 --> 01:26:46,367
+<i>What once was mine</i>
+
+955
+01:27:43,842 --> 01:27:45,301
+Rapunzel?
+
+956
+01:27:45,427 --> 01:27:47,678
+Eugene?
+
+957
+01:27:49,723 --> 01:27:52,683
+Did I ever tell you
+I've got a thing for brunettes?
+
+958
+01:27:54,895 --> 01:27:56,061
+Eugene!
+
+959
+01:29:35,620 --> 01:29:38,914
+<i>Well, you can imagine</i>
+<i>what happened next.</i>
+
+960
+01:29:41,376 --> 01:29:44,962
+<i>The kingdom rejoiced,</i>
+<i>for their lost princess had returned.</i>
+
+961
+01:29:45,046 --> 01:29:49,758
+<i>The party lasted an entire week, and</i>
+<i>honestly I don't remember most of it.</i>
+
+962
+01:29:50,594 --> 01:29:52,386
+<i>Dreams came true all over the place.</i>
+
+963
+01:29:52,470 --> 01:29:55,764
+<i>That guy went on to become the most</i>
+<i>famous concert pianist in the world,</i>
+
+964
+01:29:55,849 --> 01:29:57,516
+<i>if you can believe it!</i>
+
+965
+01:29:59,102 --> 01:30:02,479
+<i>And this guy?</i>
+<i>He eventually found true love.</i>
+
+966
+01:30:03,440 --> 01:30:07,610
+<i>As for this guy, I assume he's happy.</i>
+<i>He's never told me otherwise.</i>
+
+967
+01:30:09,821 --> 01:30:10,904
+<i>Thanks to Maximus,</i>
+
+968
+01:30:10,989 --> 01:30:14,074
+<i>crime in the kingdom</i>
+<i>disappeared almost overnight.</i>
+
+969
+01:30:15,619 --> 01:30:17,661
+<i>As did most of the apples.</i>
+
+970
+01:30:19,414 --> 01:30:22,291
+<i>Pascal never changed.</i>
+
+971
+01:30:26,379 --> 01:30:30,382
+<i>At last Rapunzel was home.</i>
+<i>And she finally had a real family.</i>
+
+972
+01:30:32,135 --> 01:30:34,720
+<i>She was a princess worth waiting for.</i>
+
+973
+01:30:34,804 --> 01:30:38,265
+<i>Beloved by all, she led her kingdom</i>
+<i>with all the grace and wisdom</i>
+
+974
+01:30:38,350 --> 01:30:39,808
+<i>that her parents did before her.</i>
+
+975
+01:30:41,144 --> 01:30:44,271
+<i>And, as for me,</i>
+<i>I started going by Eugene again,</i>
+
+976
+01:30:44,356 --> 01:30:46,482
+<i>stopped thieving</i>
+<i>and turned it all around.</i>
+
+977
+01:30:46,566 --> 01:30:49,109
+<i>But I know what the big question is.</i>
+
+978
+01:30:49,194 --> 01:30:51,362
+<i>Did Rapunzel and I ever get married?</i>
+
+979
+01:30:51,446 --> 01:30:52,571
+<i>I'm pleased to tell you</i>
+
+980
+01:30:52,656 --> 01:30:57,034
+<i>that after years and years</i>
+<i>of asking and asking and asking...</i>
+
+981
+01:30:59,162 --> 01:31:01,038
+<i>I finally said yes.</i>
+
+982
+01:31:01,122 --> 01:31:05,417
+- <i>Eugene.</i>
+- <i>All right, I asked her.</i>
+
+983
+01:31:05,502 --> 01:31:07,961
+<i>And we're living</i>
+<i>happily ever after.</i>
+
+984
+01:31:08,630 --> 01:31:22,059
+<i>Yes, we are.</i>
+
