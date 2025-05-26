@@ -1,0 +1,924 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+"The Beginning PONYO ON THE CLIFF BY THE SEA Producer Toshio Suzuki Animation Katsuya Kondo Backgrounds Noboru Yoshida Color design Michiyo Yasuda Imaging Atsushi Okui Music Joe Hisaishi Songs performed by FUJIOKA FUJIMAKI & Nozomi Ohashi Masako Hayashi Voices Tomoko Yamaguchi Kazushige Nagashima Yuki Amami George Tokoro Yuria Nara Rumi Hiiragi Hiroki Doi Akiko Yano Kazuko Yoshiyuki Tomoko Naraoka Written and Directed by Hayao Miyazaki Sosuke, come right back!",positive,0.4964,Empathy,0.0894,69
+Okay.,uncertain,0.396,Family,0.8657,1
+A goldfish...,uncertain,0.4351,Resilience,0.5561,2
+It's stuck.,negative,0.8103,Trauma,0.859,2
+That was weird.,negative,0.6899,Trauma,0.5469,3
+Ow!,negative,0.6303,Trauma,0.6086,1
+Is it dead?,negative,0.6798,Family,0.2398,3
+It licked me...it's alive.,positive,0.6708,Resilience,0.8764,4
+"Sosuke, we're leaving!",negative,0.5318,Personal Growth,0.8624,3
+"Lisa, I caught a goldfish!",positive,0.7706,Personal Growth,0.8088,5
+This wind feels strange...,negative,0.6401,Trauma,0.7088,4
+"Sosuke, I'm starting the car!",positive,0.6084,Personal Growth,0.4377,5
+Did you find her?,uncertain,0.396,Family,0.4771,4
+"What, captured by a human?",negative,0.4957,Personal Growth,0.102,5
+This is bad...very bad.,negative,0.5544,Family,0.7535,4
+Are you dead?,negative,0.6117,Trauma,0.1551,3
+You're alive!,positive,0.6948,Resilience,0.9222,2
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+I'm going to be late!,negative,0.8548,Family,0.6818,5
+Lisa!,positive,0.524,Family,0.9595,1
+I caught a goldfish.,positive,0.649,Personal Growth,0.3707,4
+A goldfish?,negative,0.4784,Resilience,0.1855,2
+Down by the rocks.,negative,0.4536,Resilience,0.7155,4
+"I'm sorry, but you can't use weed killer here.",negative,0.9368,Family,0.5733,9
+Heavens no!,negative,0.789,Family,0.8141,2
+This is pure sea water.,neutral,0.5724,Resilience,0.1072,5
+It keeps me humidified.,positive,0.5939,Personal Growth,0.5482,4
+As long as it's not weed killer.,neutral,0.4775,Resilience,0.1769,7
+Good day!,positive,0.7459,Family,0.8513,2
+This is very bad.,negative,0.5941,Trauma,0.7735,4
+What a creepy guy.,very negative,0.5412,Trauma,0.5468,4
+"But don't you say that about strangers, Sosuke.",negative,0.8416,Trauma,0.5911,8
+I won't.,negative,0.7859,Personal Growth,0.764,2
+Are you taking that to school?,uncertain,0.3317,Resilience,0.5056,6
+Won't the teacher complain?,negative,0.7984,Personal Growth,0.4966,4
+"Don't worry, I'll take care of you.",positive,0.7659,Family,0.9438,7
+She's cute!,positive,0.5118,Family,0.9091,2
+They're using the dry dock.,uncertain,0.2897,Resilience,0.639,5
+"Here, eat this before we get there.",positive,0.5937,Family,0.8,7
+Maybe she's hungry.,negative,0.5394,Family,0.7786,3
+Want some?,positive,0.5769,Family,0.7072,2
+"Hey, my cut is gone!",negative,0.4573,Personal Growth,0.6279,5
+I'm going to call her Ponyo.,positive,0.4886,Personal Growth,0.3334,6
+She's really special!,very positive,0.6441,Family,0.8909,3
+She can do magic.,positive,0.6188,Family,0.1005,4
+She fixed my cut.,positive,0.5934,Family,0.954,4
+Want some ham?,positive,0.668,Family,0.2086,3
+"Ponyo likes ham, Lisa!",positive,0.6604,Family,0.6002,4
+That makes two of us.,uncertain,0.4217,Family,0.9495,5
+Oh no...,negative,0.7947,Family,0.8917,2
+Disgusting!,negative,0.6503,Trauma,0.4456,1
+"Hurry, Lisa!",uncertain,0.3266,Family,0.866,2
+Such filth!,very negative,0.6847,Trauma,0.1734,2
+Intolerable!,negative,0.6,Family,0.5947,1
+Good morning!,positive,0.7081,Family,0.822,2
+"Look, Ponyo.",uncertain,0.3624,Friendship,0.8622,2
+There's our house.,uncertain,0.4227,Resilience,0.7735,3
+I'll drop you here.,uncertain,0.3776,Family,0.7748,4
+Okay.,uncertain,0.396,Family,0.8657,1
+Have fun.,positive,0.6925,Personal Growth,0.8722,2
+See you.,uncertain,0.4457,Family,0.8756,2
+Morning.,uncertain,0.3394,Family,0.8507,1
+Sorry I'm late.,negative,0.5174,Family,0.7686,3
+Could you get Noriko's wheelchair?,positive,0.464,Trauma,0.8391,5
+"Good morning, Sosuke.",positive,0.6111,Friendship,0.8715,3
+"I'm busy, Yoshie.",negative,0.6347,Personal Growth,0.8199,3
+Talk to you later.,uncertain,0.3135,Family,0.8711,4
+My!,uncertain,0.2945,Family,0.8766,1
+"Hello, Sosuke.",positive,0.464,Friendship,0.9364,2
+"Can't talk now, Toki.",negative,0.7204,Trauma,0.8913,4
+Maybe the teacher will get mad.,negative,0.7397,Resilience,0.53,6
+I know!,positive,0.5216,Family,0.7402,2
+Wait here.,uncertain,0.3165,Family,0.8895,2
+I'll be back soon.,uncertain,0.3057,Family,0.7041,4
+What if a cat comes?,uncertain,0.4363,Resilience,0.3902,5
+"Stay here, I'll be right back.",uncertain,0.3845,Family,0.9275,6
+See you later.,uncertain,0.4039,Family,0.8636,3
+It's all right.,positive,0.6038,Family,0.8957,3
+She'll be just fine.,positive,0.662,Family,0.9428,4
+"Okay, thanks.",positive,0.5302,Family,0.8901,2
+Bye-bye.,negative,0.8133,Family,0.644,1
+"Good morning, teacher.",positive,0.6458,Resilience,0.6499,3
+Hello Sosuke.,positive,0.4853,Friendship,0.9437,2
+How are you?,uncertain,0.3527,Personal Growth,0.5731,3
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Kumiko...,uncertain,0.4096,Family,0.8947,1
+Like my dress?,positive,0.625,Resilience,0.3127,3
+Mommy got it for me.,positive,0.4528,Family,0.9957,5
+Oh...,negative,0.6051,Family,0.7784,1
+"Let's play, Sosuke!",positive,0.7173,Friendship,0.6959,3
+Not now.,negative,0.8054,Family,0.694,2
+I'm busy.,negative,0.5904,Personal Growth,0.7407,2
+How come?,uncertain,0.3066,Family,0.3925,2
+"I told you, I'm busy.",negative,0.6376,Personal Growth,0.466,5
+You're no fun.,negative,0.7599,Loneliness,0.8079,3
+Yeah!,positive,0.7583,Family,0.8606,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Kumiko...,uncertain,0.4096,Family,0.8947,1
+What's that?,uncertain,0.3543,Family,0.166,2
+You're not supposed to bring stuff.,negative,0.6528,Family,0.6638,6
+But these trees aren't on school grounds.,uncertain,0.3384,Resilience,0.5562,7
+Show me.,uncertain,0.3617,Family,0.5213,2
+"Oh, a goldfish.",negative,0.5107,Resilience,0.2478,3
+It's not a goldfish.,negative,0.4754,Family,0.5358,4
+It's Ponyo.,positive,0.5321,Personal Growth,0.0286,2
+Ponyo?,uncertain,0.4184,Personal Growth,0.065,1
+I want to see!,positive,0.5444,Personal Growth,0.7234,4
+Promise not to tell?,negative,0.5023,Family,0.7236,4
+I promise.,positive,0.6579,Family,0.8114,2
+Isn't she cute?,positive,0.5606,Family,0.7859,3
+It looks fat.,negative,0.5662,Family,0.698,3
+My goldfish is lots cuter.,positive,0.4768,Personal Growth,0.6018,5
+It's Kumiko's fault.,negative,0.8884,Trauma,0.6558,3
+She was mean to you.,negative,0.6558,Trauma,0.9279,5
+I'll give you some more water.,positive,0.5444,Family,0.7561,6
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+You scared me.,negative,0.6515,Trauma,0.9746,3
+"Why, how odd.",negative,0.5605,Family,0.5944,3
+That was Sosuke's voice.,uncertain,0.4028,Personal Growth,0.6599,4
+But he's supposed to be in school.,negative,0.6737,Personal Growth,0.4421,7
+I must be hearing things.,uncertain,0.4485,Family,0.6786,5
+"Here I am, Yoshie.",uncertain,0.4084,Identity,0.9732,4
+I knew I heard your voice.,uncertain,0.4214,Family,0.7914,6
+Do I have a secret?,uncertain,0.3115,Family,0.3632,5
+Yes!,positive,0.8357,Family,0.8961,1
+Bingo!,positive,0.7318,Family,0.9005,1
+"Okay, what color is my secret?",uncertain,0.3194,Personal Growth,0.1598,6
+Red!,positive,0.4651,Family,0.8633,1
+Red!,positive,0.4651,Family,0.8633,1
+Good guess.,positive,0.6846,Family,0.7342,2
+How'd you know?,uncertain,0.2768,Family,0.6639,3
+Show us.,uncertain,0.365,Family,0.5652,2
+All right.,positive,0.4814,Family,0.828,2
+"Oh, how pretty!",very positive,0.6861,Family,0.9035,3
+Very cute!,very positive,0.6443,Family,0.9298,2
+Her name is Ponyo.,positive,0.4626,Friendship,0.2729,4
+She loves ham and she can do magic.,positive,0.6614,Family,0.1791,8
+"I cut my thumb, but she fixed it.",uncertain,0.4377,Resilience,0.9159,8
+I wonder if she'd fix our legs.,uncertain,0.3844,Family,0.5893,7
+We could run around just like you.,positive,0.578,Personal Growth,0.5646,7
+"Well, I'd have to ask Ponyo first.",uncertain,0.2681,Personal Growth,0.6956,7
+Can I take a look?,uncertain,0.3212,Family,0.7035,5
+"Sure, Toki.",positive,0.6613,Friendship,0.8315,2
+"Heavens, it has a face!",positive,0.5803,Resilience,0.5871,5
+Put it back before it brings a tsunami!,negative,0.657,Trauma,0.8446,8
+"You're so superstitious, Toki.",very negative,0.5481,Family,0.2096,4
+That's what the old stories say.,uncertain,0.4448,Family,0.3737,6
+Fish like that are bad luck.,negative,0.6049,Trauma,0.3347,6
+The tsunami!,negative,0.6618,Trauma,0.2173,2
+It's here!,positive,0.6185,Family,0.7408,2
+The tsunami is here!,negative,0.6152,Trauma,0.4108,4
+"What's wrong, Toki?",uncertain,0.4435,Empathy,0.5902,3
+Just look at my clothes!,uncertain,0.4265,Resilience,0.0585,5
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Come back here and apologize!,negative,0.8234,Family,0.8369,5
+"Don't worry, I'll protect you.",positive,0.7118,Family,0.9208,5
+Sosuke.,uncertain,0.4073,Friendship,0.4635,1
+Sosuke.,uncertain,0.4073,Friendship,0.4635,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Ponyo.,positive,0.459,Personal Growth,0.0317,1
+Sosuke.,uncertain,0.4073,Friendship,0.4635,1
+Ponyo...,uncertain,0.428,Personal Growth,0.0702,1
+loves...,positive,0.595,Family,0.9274,1
+...Sosuke!,positive,0.5885,Friendship,0.777,1
+I love you too.,positive,0.5765,Family,0.9727,4
+Ponyo loves Sosuke!,positive,0.5667,Family,0.9726,3
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+"Listen, Sosuke.",uncertain,0.2858,Empathy,0.9328,2
+Maybe it was fate.,uncertain,0.3482,Family,0.5278,4
+It just can't be helped.,negative,0.8046,Family,0.6698,5
+Ponyo was born in the sea.,uncertain,0.4361,Resilience,0.6979,6
+"She went back home, that's all.",uncertain,0.3688,Family,0.9586,6
+"Anyway, let's hope that creepy guy is gone.",negative,0.5572,Trauma,0.7567,8
+One lick?,negative,0.4604,Family,0.5885,2
+"Hurry, it's melting!",negative,0.5986,Family,0.3272,3
+Not bad!,positive,0.7615,Family,0.8364,2
+Cheer up.,positive,0.8256,Personal Growth,0.9091,2
+Koichi will be home tonight.,uncertain,0.4391,Family,0.9622,5
+He'll be disappointed if you're feeling down.,negative,0.8621,Family,0.7596,7
+"No more ocean today, okay?",negative,0.7501,Resilience,0.0566,5
+Sosuke?,uncertain,0.3501,Personal Growth,0.49,1
+Time to come inside.,uncertain,0.4273,Family,0.916,4
+Do you think this bucket will help Ponyo find us?,positive,0.5877,Resilience,0.5348,10
+There's only one way to find out.,uncertain,0.2896,Family,0.6468,7
+"Can you get that, Sosuke?",uncertain,0.3312,Family,0.8085,5
+It must be Koichi.,positive,0.4822,Personal Growth,0.0654,4
+Hello?,uncertain,0.2699,Personal Growth,0.4987,1
+"Yes, it's me.",positive,0.5371,Identity,0.9945,3
+"Yes, I'm fine.",positive,0.7032,Resilience,0.9382,3
+I can't get back tonight.,negative,0.7841,Trauma,0.8558,5
+I'll signal when I'm offshore.,uncertain,0.4239,Resilience,0.5033,5
+Okay.,uncertain,0.396,Family,0.8657,1
+Here's Lisa.,uncertain,0.367,Personal Growth,0.8843,2
+Koichi?,uncertain,0.3114,Personal Growth,0.3816,1
+Yes...,positive,0.8439,Family,0.9147,1
+What?!,negative,0.6793,Family,0.6258,1
+Can't you get out of it?,negative,0.7162,Trauma,0.6199,6
+Fine...leave your wife and son up on the cliff!,negative,0.6692,Family,0.9918,9
+I give up!,negative,0.8608,Grief,0.5402,3
+Why bother?,negative,0.7824,Family,0.5386,2
+"C'mon Sosuke, let's eat out!",positive,0.7117,Friendship,0.8169,5
+I want to eat here.,very positive,0.4654,Family,0.4505,5
+There he is!,positive,0.6319,Family,0.8195,3
+"Turn off the lights, Lisa.",negative,0.7495,Family,0.8288,5
+It's Sosuke!,positive,0.6536,Family,0.4744,2
+He's a genius.,positive,0.5643,Resilience,0.7564,3
+Only five years old.,uncertain,0.2913,Personal Growth,0.9263,4
+Your wife must be upset.,negative,0.8123,Family,0.9955,5
+He says he's sorry.,negative,0.7797,Family,0.7944,4
+J...,uncertain,0.3547,Friendship,0.7999,1
+JE...,uncertain,0.4076,Friendship,0.9765,1
+JER...,uncertain,0.4337,Friendship,0.9502,1
+JERK J...,negative,0.6133,Personal Growth,0.4114,2
+JE...,uncertain,0.4076,Friendship,0.9765,1
+JER...,uncertain,0.4337,Friendship,0.9502,1
+JERK JERK!,negative,0.6404,Trauma,0.0097,2
+JERK!!,negative,0.6659,Trauma,0.1905,1
+JERK!!!,negative,0.655,Personal Growth,0.1727,1
+JERK!!!!,negative,0.6489,Trauma,0.1601,1
+JERK!!!!!,negative,0.6557,Trauma,0.1614,1
+He says he loves you!,positive,0.7085,Family,0.9508,5
+Lots and lots!,uncertain,0.4481,Family,0.7824,3
+J...,uncertain,0.3547,Friendship,0.7999,1
+JE...,uncertain,0.4076,Friendship,0.9765,1
+JER...,uncertain,0.4337,Friendship,0.9502,1
+"JERK JERK JERK JERK Wow, that's cool!",very positive,0.6377,Resilience,0.4949,7
+G...,positive,0.5832,Family,0.9568,1
+GO...,positive,0.6362,Personal Growth,0.891,1
+GOO...,positive,0.5207,Identity,0.0132,1
+GOOD GOOD L...,positive,0.6896,Friendship,0.959,3
+GOOD LU...,positive,0.7506,Friendship,0.9725,2
+GOOD LUC...,positive,0.7277,Personal Growth,0.9207,2
+"GOOD LUCK THANKS LOVE AND KISSES Don't cry, Lisa.",positive,0.6467,Family,0.9748,9
+I won't cry.,uncertain,0.3789,Resilience,0.9556,3
+I promised Ponyo I'd take care of her.,positive,0.5492,Family,0.973,8
+I hope she isn't crying.,negative,0.6849,Family,0.8551,5
+"Okay, let's cheer up!",positive,0.812,Family,0.8699,4
+“I'm happy as can be...” Ow!,positive,0.668,Family,0.768,6
+"Don't worry, Sosuke.",positive,0.5921,Family,0.8655,3
+I'm sure Ponyo is fine too.,positive,0.684,Resilience,0.8472,6
+Now let's eat.,positive,0.6265,Family,0.927,3
+We'll eat Koichi's dinner too!,positive,0.675,Family,0.9909,5
+This is all my fault.,negative,0.6559,Trauma,0.691,5
+Bringing you along to watch me was a mistake.,negative,0.8893,Identity,0.643,9
+How often have I warned you about humans?,negative,0.7202,Trauma,0.2086,8
+Their very breath is polluted.,negative,0.5042,Trauma,0.7966,5
+"Come, you must eat.",uncertain,0.43,Family,0.9545,4
+"Can't you hear me, Brunhilde?",negative,0.6793,Family,0.8504,5
+I want ham!,positive,0.7427,Personal Growth,0.0533,3
+Ham?!,negative,0.7698,Trauma,0.0666,1
+What on earth have you been doing?,negative,0.5842,Family,0.1897,7
+"Answer me, Brunhilde!",uncertain,0.4331,Personal Growth,0.5528,3
+My name's not Brunhilde.,negative,0.5041,Identity,0.7644,4
+It's Ponyo.,positive,0.5321,Personal Growth,0.0286,2
+Ponyo?,uncertain,0.4184,Personal Growth,0.065,1
+Ponyo loves Sosuke.,positive,0.5312,Family,0.9698,3
+I want to be human!,uncertain,0.3707,Personal Growth,0.9778,5
+Human?,uncertain,0.4225,Personal Growth,0.36,1
+How could you love such disgusting creatures?,very negative,0.5359,Grief,0.2882,7
+They rob the sea of life.,negative,0.6937,Trauma,0.4347,6
+I was human myself...once.,uncertain,0.4139,Personal Growth,0.7325,4
+I finally escaped that awful heritage.,negative,0.4756,Family,0.8728,6
+I want hands!,negative,0.5082,Personal Growth,0.2838,3
+I don't like this!,negative,0.7957,Family,0.751,4
+I want legs like Sosuke!,positive,0.6806,Personal Growth,0.3112,5
+Of all the nonsense!,negative,0.536,Trauma,0.3598,4
+Look at me!,positive,0.5623,Personal Growth,0.9321,3
+Hands and feet!,positive,0.52,Resilience,0.4567,3
+No...don't tell me you tasted human blood!,negative,0.8239,Trauma,0.6993,7
+Wanna see Sosuke!,positive,0.6826,Personal Growth,0.407,3
+No!,negative,0.801,Family,0.9037,1
+His blood has deranged your DNA!,very negative,0.8056,Trauma,0.9259,6
+Revert.,uncertain,0.3729,Resilience,0.6797,1
+..revert...,negative,0.5387,Family,0.6412,1
+Go back...go back!,uncertain,0.3908,Family,0.5528,3
+It's not working.,negative,0.8994,Family,0.7376,3
+I need more power.,negative,0.4527,Personal Growth,0.832,4
+Let me out!,negative,0.5988,Personal Growth,0.8676,3
+"Be still, you evil blood.",negative,0.7102,Trauma,0.4409,5
+"Revert, revert!",uncertain,0.4304,Family,0.634,2
+Just like her mother...so strong.,positive,0.6541,Family,0.9972,5
+She should remain innocent and pure forever.,neutral,0.7614,Family,0.7387,7
+I can't hold her for long.,negative,0.6221,Family,0.7968,6
+I need her mother's help.,uncertain,0.4476,Family,0.9959,5
+No!,negative,0.801,Family,0.9037,1
+My elixir is too strong for you!,positive,0.5417,Personal Growth,0.561,7
+Shoo!,negative,0.7603,Family,0.492,1
+Go away!,negative,0.8208,Trauma,0.7229,2
+My crab shields were weakening.,negative,0.755,Trauma,0.8058,5
+I nearly upset Nature's balance.,negative,0.7806,Trauma,0.4248,5
+I must stay calm.,uncertain,0.3978,Resilience,0.8487,4
+When I think of meeting HER again...!,uncertain,0.3598,Family,0.516,7
+This batch should be ready.,positive,0.6312,Family,0.5204,5
+No leaks down here.,positive,0.5152,Resilience,0.8863,4
+This door is loose.,negative,0.6455,Trauma,0.3084,4
+I'll fix it later.,negative,0.4697,Family,0.7664,4
+If even one creature got in here...!,negative,0.4836,Trauma,0.5061,7
+Superb!,positive,0.579,Family,0.8983,1
+I feel the ocean's power in my very DNA.,positive,0.4946,Identity,0.8301,9
+"When this well is full, the Era of the Ocean will begin.",positive,0.6322,Family,0.0484,12
+An explosion of life to match the Cambrian Era!,positive,0.7072,Family,0.3841,9
+This revolting era of Man will be over.,very negative,0.5866,Identity,0.0451,8
+Better fix this door.,negative,0.6388,Trauma,0.4913,4
+Teeth!,negative,0.7654,Trauma,0.0167,1
+I'm going back to Sosuke!,uncertain,0.4458,Friendship,0.4036,5
+A waterspout?,negative,0.4559,Personal Growth,0.0343,2
+"Captain, look there!",uncertain,0.4338,Personal Growth,0.4868,3
+Tsunami!,uncertain,0.4089,Personal Growth,0.0066,1
+Turn her into the waves!,negative,0.7937,Trauma,0.7081,5
+What's that?,uncertain,0.3543,Family,0.166,2
+Captain!,positive,0.5702,Personal Growth,0.2249,1
+"Radio's out, the radar too!",negative,0.9241,Trauma,0.0592,5
+A little girl?,uncertain,0.3285,Personal Growth,0.6017,3
+She must be Sosuke's age!,uncertain,0.412,Family,0.9328,5
+Bye-bye.,negative,0.8133,Family,0.644,1
+See you tomorrow.,uncertain,0.3556,Family,0.8521,3
+Thanks.,positive,0.5905,Family,0.9123,1
+Take care.,uncertain,0.3527,Family,0.8408,2
+Do you want to wait here for Lisa?,uncertain,0.4059,Family,0.8733,8
+"It's okay, I'll take the shortcut.",positive,0.6323,Family,0.7517,6
+Goodbye.,negative,0.8183,Grief,0.7624,1
+Goodbye.,negative,0.8183,Grief,0.7624,1
+Be careful out there.,negative,0.7915,Trauma,0.5788,4
+"Sorry, Sosuke.",negative,0.8681,Trauma,0.7226,2
+The power's out.,negative,0.8927,Trauma,0.6072,3
+"The door wouldn't open, would it?",negative,0.8663,Trauma,0.5317,6
+Was the school okay?,uncertain,0.3001,Resilience,0.4312,4
+"Go home, Lisa.",negative,0.846,Trauma,0.7531,3
+We'll be fine.,positive,0.7147,Family,0.9519,3
+Are you sure?,uncertain,0.3497,Family,0.8406,3
+"Don't worry, we'll be just fine.",positive,0.7164,Family,0.9539,6
+We're spending the night anyway.,uncertain,0.4058,Family,0.8983,5
+You should go while you can.,uncertain,0.3817,Personal Growth,0.7628,6
+"Wait for me, Sosuke.",uncertain,0.4077,Friendship,0.9247,4
+Yoshie.,uncertain,0.4161,Personal Growth,0.2706,1
+"Why, Sosuke.",uncertain,0.3533,Personal Growth,0.7127,2
+"It's so dark, I didn't see you.",very negative,0.6045,Loneliness,0.7046,7
+This is for you.,positive,0.5322,Personal Growth,0.8597,4
+"My, what is it?",uncertain,0.2982,Family,0.176,4
+"One for you, Noriko.",uncertain,0.4056,Family,0.7064,4
+Thank you.,positive,0.6426,Family,0.8872,2
+Can't see a thing.,negative,0.7359,Trauma,0.6382,4
+This is such foolishness!,very negative,0.6572,Grief,0.1486,4
+I don't want to spend the night.,negative,0.8164,Family,0.6453,7
+"Oh good, the power's on.",positive,0.693,Family,0.8054,5
+It's a goldfish!,positive,0.7166,Resilience,0.1318,3
+Maybe Sosuke's magic made the lights go on?,positive,0.6375,Resilience,0.5681,8
+Extremely powerful...,uncertain,0.3629,Family,0.7463,2
+Micro-typhoon...,negative,0.5059,Trauma,0.0424,1
+Ships should exercise extreme caution...,negative,0.6559,Trauma,0.404,5
+This TV is useless.,negative,0.6256,Family,0.118,4
+Those idiots couldn't forecast their way out of a paper bag.,negative,0.6598,Trauma,0.4887,11
+"You should go home, Sosuke.",negative,0.8424,Trauma,0.7518,5
+Your goldfish will bring us luck.,positive,0.8256,Resilience,0.4068,6
+We're not afraid now.,positive,0.7252,Personal Growth,0.9393,4
+"Here's yours, Toki.",uncertain,0.3975,Personal Growth,0.7486,3
+It's all wrinkled.,negative,0.6189,Family,0.7862,3
+What is it?,uncertain,0.2737,Personal Growth,0.1153,3
+Like this.,positive,0.6377,Family,0.8196,2
+I know!,positive,0.5216,Family,0.7402,2
+It's a grasshopper.,uncertain,0.3724,Resilience,0.1277,3
+"No, the Koganei Maru.",negative,0.8999,Resilience,0.3065,4
+That's your father's ship.,uncertain,0.4325,Family,0.8916,4
+Still looks like a grasshopper.,negative,0.5494,Trauma,0.2611,5
+"We're leaving, Sosuke.",negative,0.471,Family,0.8533,3
+Say goodbye to everyone.,negative,0.8334,Family,0.9133,4
+"Goodbye, everybody.",negative,0.7431,Family,0.8477,2
+Goodbye.,negative,0.8183,Grief,0.7624,1
+Don't let the wind blow you away!,negative,0.5095,Resilience,0.8731,7
+Climb over.,uncertain,0.4145,Personal Growth,0.8805,2
+The phones are out too.,negative,0.7726,Personal Growth,0.2872,5
+The sea is puffed up!,positive,0.489,Resilience,0.1209,5
+Will the ships sink?,negative,0.4691,Trauma,0.1661,4
+They're safe out at sea.,positive,0.6631,Resilience,0.7177,5
+I'm sure that's where Koichi is.,uncertain,0.3901,Family,0.6285,6
+"I see fish, Lisa.",uncertain,0.4317,Personal Growth,0.2517,4
+Seat belt!,positive,0.5944,Resilience,0.0613,2
+You've got to turn back!,negative,0.7069,Trauma,0.7842,5
+People are going to the shelters.,negative,0.5781,Resilience,0.5338,6
+But there are people at the senior center!,positive,0.4775,Resilience,0.6681,8
+They'll be alright.,positive,0.7746,Family,0.9409,3
+They're on the leeward side.,uncertain,0.4212,Family,0.8792,5
+I've just got to get home.,uncertain,0.409,Family,0.3883,6
+You'd better go around the mountain.,negative,0.811,Personal Growth,0.6027,6
+"Here we go, Sosuke.",uncertain,0.422,Personal Growth,0.7571,4
+No!,negative,0.801,Family,0.9037,1
+Stop!,negative,0.8468,Family,0.771,1
+Look out for that wave!,positive,0.7869,Resilience,0.2491,5
+Here it comes!,positive,0.6617,Family,0.7561,3
+"Run for it, Lisa!",uncertain,0.396,Personal Growth,0.9109,4
+The fish are following us.,uncertain,0.4126,Resilience,0.7621,5
+"Seat belt, Sosuke!",positive,0.6035,Personal Growth,0.2821,3
+Hold on tight!,positive,0.5679,Family,0.9274,3
+That wave won't quit!,positive,0.6741,Resilience,0.898,4
+A little girl fell in.,negative,0.5371,Trauma,0.9286,5
+She was riding a fish.,uncertain,0.3465,Resilience,0.6123,5
+Where?,uncertain,0.2984,Personal Growth,0.2031,1
+The sea keeps rising.,negative,0.6448,Resilience,0.3841,4
+Where did you see her?,uncertain,0.3401,Family,0.3346,5
+Running on top of a fish.,uncertain,0.3228,Personal Growth,0.4678,6
+A fish!?,negative,0.7161,Resilience,0.1448,2
+"Come on, Sosuke.",uncertain,0.3728,Personal Growth,0.8992,3
+"Hang on, Sosuke!",uncertain,0.3233,Personal Growth,0.852,3
+We're almost home.,positive,0.6122,Family,0.6887,3
+A little girl!,positive,0.5865,Personal Growth,0.8651,3
+"Here, you'd better come with us.",positive,0.4582,Family,0.9695,6
+"Stay there, Sosuke.",uncertain,0.3264,Family,0.9576,3
+"Sosuke, do you know her?",uncertain,0.3993,Identity,0.8112,5
+Ponyo?,uncertain,0.4184,Personal Growth,0.065,1
+"Yes, it's me!",positive,0.7646,Identity,0.9927,3
+It's you!,positive,0.6994,Identity,0.9903,2
+"Ponyo's a little girl now, Lisa!",positive,0.692,Family,0.956,6
+I made it!,positive,0.7538,Personal Growth,0.9045,3
+"Now listen, children.",uncertain,0.2732,Family,0.9053,3
+No matter how strange everything seems...,uncertain,0.431,Resilience,0.8958,6
+...we have to stay calm.,uncertain,0.3638,Family,0.8902,5
+Now be good.,positive,0.8804,Family,0.8545,3
+"Take off your rain coat, Sosuke.",negative,0.5503,Personal Growth,0.8741,6
+"Here Ponyo, you hold the light.",positive,0.6472,Friendship,0.6861,6
+I'll bring you a towel.,positive,0.4975,Family,0.6525,5
+"C'mon, Ponyo!",uncertain,0.315,Personal Growth,0.6877,2
+It smells just like you!,positive,0.6344,Identity,0.8656,5
+Ouch!,negative,0.6087,Trauma,0.7805,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Gotcha!,positive,0.7971,Family,0.7503,1
+Let's get you dried off.,positive,0.5616,Family,0.9039,5
+Such pretty red hair!,positive,0.5206,Family,0.5695,4
+But your clothes are dry...,positive,0.5003,Resilience,0.7359,5
+Ponyo was a fish.,uncertain,0.3199,Resilience,0.105,4
+Water doesn't make her wet.,uncertain,0.3828,Resilience,0.9467,5
+I like this!,positive,0.5726,Family,0.8935,3
+All right!,positive,0.7094,Family,0.7845,2
+Who wants a hot drink?,positive,0.4642,Resilience,0.2458,5
+"Help me with the light, Ponyo.",positive,0.6556,Personal Growth,0.5854,6
+Coming!,positive,0.6387,Family,0.8198,1
+Think we'll have water?,uncertain,0.3675,Resilience,0.4732,4
+Sure!,positive,0.7955,Family,0.8747,1
+Sure!,positive,0.7955,Family,0.8747,1
+Water!,positive,0.6883,Resilience,0.1362,1
+Water!,positive,0.6883,Resilience,0.1362,1
+We have a tank outside.,uncertain,0.4146,Resilience,0.3648,5
+What about the gas?,negative,0.511,Resilience,0.0217,4
+Presto!,positive,0.7664,Family,0.7201,1
+All right!,positive,0.7094,Family,0.7845,2
+All right!,positive,0.7094,Family,0.7845,2
+It's propane.,uncertain,0.3237,Resilience,0.0101,2
+"Okay, take your seats.",uncertain,0.2718,Family,0.8896,4
+Okay!,positive,0.6918,Family,0.821,1
+"Over here, Ponyo.",uncertain,0.348,Friendship,0.8007,3
+"Sit down, like this.",uncertain,0.3723,Family,0.8593,4
+Put your stuff down.,negative,0.554,Family,0.7902,4
+You need your hands.,uncertain,0.4202,Personal Growth,0.5456,4
+I have feet!,positive,0.5976,Personal Growth,0.7905,3
+Wow!,positive,0.4617,Family,0.8282,1
+What are you two doing?,uncertain,0.2995,Personal Growth,0.4326,5
+Her feet are like hands.,uncertain,0.3864,Resilience,0.8918,5
+There you go.,uncertain,0.4089,Family,0.7529,3
+This is the best!,positive,0.5996,Family,0.8797,4
+That hit the spot.,positive,0.6137,Family,0.9007,4
+What shall we do now?,uncertain,0.3176,Family,0.7023,5
+I want ham!,positive,0.7427,Personal Growth,0.0533,3
+She's crazy about ham.,positive,0.4931,Family,0.4829,4
+Then let's eat.,positive,0.6423,Family,0.9211,3
+But first let's start the generator.,positive,0.4962,Resilience,0.6626,6
+We need electricity to talk to Koichi.,negative,0.4664,Resilience,0.223,7
+Koichi is my father.,uncertain,0.4153,Family,0.9951,4
+Is he a bad sorcerer?,negative,0.5433,Family,0.0405,5
+"No, silly.",negative,0.807,Family,0.5842,2
+He's a ship captain.,uncertain,0.3585,Resilience,0.3775,4
+"What about your father, Ponyo?",uncertain,0.3982,Family,0.99,5
+Fujimoto!,positive,0.6778,Personal Growth,0.4117,1
+He keeps me prisoner.,negative,0.6134,Trauma,0.651,4
+I ran away.,negative,0.6779,Personal Growth,0.8169,3
+What about your mother?,uncertain,0.399,Family,0.9903,4
+I love my mother!,positive,0.5342,Family,0.9943,4
+She's really scary.,very negative,0.5717,Trauma,0.698,3
+Sounds like Lisa.,uncertain,0.4231,Family,0.961,3
+"Can you help me, Ponyo?",uncertain,0.3552,Personal Growth,0.6576,5
+Maybe the fuel's too old?,negative,0.8101,Family,0.1438,5
+Is it clogged?,negative,0.5223,Family,0.3251,3
+Clogged.,negative,0.7846,Family,0.7274,1
+It's clogged there.,negative,0.7695,Trauma,0.6606,3
+Success!,positive,0.7127,Family,0.8839,1
+All bright!,positive,0.6087,Family,0.8702,2
+"Wow, Ponyo!",very positive,0.4856,Personal Growth,0.8815,2
+Antenna!,positive,0.6245,Personal Growth,0.0192,1
+Antenna!,positive,0.6245,Personal Growth,0.0192,1
+"Did all the ships sink, Lisa?",negative,0.677,Trauma,0.3243,6
+I can't see a single light.,very negative,0.4835,Loneliness,0.7774,6
+So loud!,negative,0.5323,Family,0.6606,2
+What's wrong?,uncertain,0.4233,Family,0.3095,2
+Even the radio is out of whack.,negative,0.7222,Trauma,0.1674,7
+This is JA4LL...JA4LL.,positive,0.6192,Personal Growth,0.5154,3
+"Come in, Koichi.",uncertain,0.3791,Family,0.9265,3
+"It's Lisa, Sosuke and Ponyo.",uncertain,0.4185,Family,0.9956,5
+We're all doing fine.,positive,0.6743,Family,0.9581,4
+We're going to have dinner.,positive,0.4808,Family,0.9217,5
+Ham!,negative,0.5379,Personal Growth,0.0413,1
+Ready?,uncertain,0.3196,Family,0.7586,1
+"Careful, it's hot.",negative,0.6441,Family,0.4204,3
+It's not ready yet.,negative,0.4805,Family,0.6909,4
+It takes three minutes.,uncertain,0.2916,Family,0.82,4
+Close your eyes!,negative,0.5064,Family,0.7529,3
+Not yet!,negative,0.8097,Family,0.7226,2
+"No peeking, Ponyo.",negative,0.7827,Personal Growth,0.7118,3
+"Okay, you can look now.",uncertain,0.3746,Family,0.7838,5
+And...presto!,positive,0.7496,Family,0.7486,1
+Ham!,negative,0.5379,Personal Growth,0.0413,1
+"Good for you, Ponyo.",positive,0.6546,Personal Growth,0.9708,4
+Ponyo went to sleep.,uncertain,0.3512,Resilience,0.3588,4
+Is her home far away?,negative,0.5013,Empathy,0.1876,5
+I think it must be.,positive,0.5214,Family,0.8942,5
+Look Sosuke.,uncertain,0.4302,Personal Growth,0.8866,2
+The sea is calmer.,positive,0.6165,Resilience,0.5328,4
+Because Ponyo's asleep?,negative,0.6936,Family,0.4511,3
+Look over there!,positive,0.4674,Family,0.7731,3
+It's moving.,positive,0.5697,Personal Growth,0.8493,2
+Someone's up there.,uncertain,0.3415,Resilience,0.5705,3
+People from the senior center?,uncertain,0.3952,Resilience,0.3732,5
+It's gone.,negative,0.7968,Family,0.6719,2
+That's the peak road.,positive,0.5657,Personal Growth,0.0056,4
+"Sosuke, stay there with Ponyo.",uncertain,0.3648,Family,0.9857,5
+Maybe I could get through on the mountain road.,positive,0.5395,Resilience,0.7811,9
+I'm going to the senior center.,uncertain,0.3396,Resilience,0.5491,6
+I'll go too.,positive,0.5306,Family,0.9265,3
+Stay here with Ponyo.,uncertain,0.3853,Friendship,0.9797,4
+I'm going too.,positive,0.4724,Family,0.8862,3
+Let's take Ponyo with us.,positive,0.6694,Friendship,0.8192,5
+I'm going with you!,positive,0.6247,Friendship,0.9668,4
+"Sosuke, our house is a lighthouse in the storm.",positive,0.5991,Resilience,0.9843,9
+Everyone out there is depending on us.,uncertain,0.3034,Resilience,0.4449,7
+Someone has to stay here.,negative,0.502,Family,0.7111,5
+Lots of things are happening that I don't understand.,uncertain,0.3824,Resilience,0.4786,9
+But right now I'm worried about the people at the senior center.,negative,0.7122,Empathy,0.8006,12
+Just knowing you're here will help me.,positive,0.7034,Empathy,0.8347,7
+Don't worry.,positive,0.5908,Resilience,0.7732,2
+I promise to come back.,uncertain,0.3977,Personal Growth,0.6621,5
+Promise?,positive,0.5156,Family,0.4733,1
+I promise.,positive,0.6579,Family,0.8114,2
+You promised!,positive,0.7065,Family,0.7974,2
+"I love you, Sosuke.",positive,0.5901,Family,0.9893,4
+I see the lights of the town!,positive,0.5505,Resilience,0.5516,7
+Finally...,uncertain,0.384,Family,0.7596,1
+Now we can navigate.,positive,0.6835,Family,0.6874,4
+I've never seen that town before.,uncertain,0.3737,Resilience,0.6555,6
+Did the storm blow us to America?,negative,0.623,Trauma,0.2076,7
+That's not a mountain.,uncertain,0.4244,Resilience,0.1723,4
+And that's no harbor...,negative,0.7862,Loneliness,0.2074,4
+Those are ships!,positive,0.5721,Resilience,0.073,3
+The sea is piled up into a mountain!,negative,0.5212,Trauma,0.5462,8
+It's a ship graveyard.,negative,0.6902,Trauma,0.0147,4
+What's going on?,uncertain,0.3741,Family,0.4452,3
+We lost power!,negative,0.8797,Trauma,0.5018,3
+Heave to!,positive,0.6549,Family,0.826,2
+Drop the sea anchor!,negative,0.6103,Trauma,0.3298,4
+Aye-aye!,positive,0.7437,Family,0.805,1
+Something is coming!,positive,0.6524,Personal Growth,0.3978,3
+A sea goddess!?,uncertain,0.4254,Resilience,0.269,3
+The engine!,positive,0.5994,Resilience,0.0141,2
+We're saved!,positive,0.7252,Family,0.9127,2
+The engine started again.,positive,0.4998,Resilience,0.9616,4
+It was Her!,positive,0.7136,Identity,0.9891,3
+Protect us from harm...,positive,0.5946,Family,0.7802,4
+"Come on, come on.",uncertain,0.4407,Family,0.8345,4
+A barrier spell!,uncertain,0.4334,Resilience,0.0666,3
+Where did she learn this?,uncertain,0.278,Resilience,0.5468,5
+Good heavens.,negative,0.4698,Family,0.754,2
+.,uncertain,0.2984,Family,0.7734,1
+.she's human!,uncertain,0.4463,Personal Growth,0.9514,2
+"Hey, watch out!",uncertain,0.4392,Personal Growth,0.7777,3
+What are you doing?,uncertain,0.2783,Personal Growth,0.5829,4
+Stop!,negative,0.8468,Family,0.771,1
+This is unsafe!,negative,0.5866,Trauma,0.4023,3
+Stop that at once!,negative,0.801,Family,0.723,4
+I'm simply trying to save your sister.,uncertain,0.3246,Family,0.9834,7
+She's here.,positive,0.5396,Family,0.9776,2
+She answered my call!,positive,0.6336,Family,0.9115,4
+Fujimoto...,positive,0.4688,Personal Growth,0.5236,1
+"You came, my beloved.",positive,0.6224,Family,0.9919,4
+Such a beautiful ocean.,positive,0.4616,Resilience,0.1079,4
+"So full of magic, like my ancient Devonian sea.",very positive,0.5471,Resilience,0.2989,9
+It's Ponyo!,positive,0.7136,Personal Growth,0.0669,2
+She tasted human blood...,negative,0.6287,Trauma,0.672,4
+...and plundered all of my elixir.,negative,0.794,Trauma,0.2079,6
+Ponyo...what a lovely name.,very positive,0.5801,Personal Growth,0.0031,4
+It's all my fault.,negative,0.7819,Trauma,0.78,4
+She's totally beyond my control.,negative,0.6589,Trauma,0.5374,5
+It's complete chaos.,very negative,0.5191,Trauma,0.4716,3
+She doesn't understand what she's done.,negative,0.6415,Trauma,0.8825,6
+"Now she's human, and she's up there with her boyfriend!",positive,0.5752,Personal Growth,0.9763,10
+"If we don't stop her, the planet is doomed!",negative,0.533,Trauma,0.3948,9
+No!,negative,0.801,Family,0.9037,1
+The satellites are falling.,negative,0.6016,Trauma,0.2767,4
+Earth's gravitational field...,uncertain,0.4138,Resilience,0.0172,3
+Be still...,neutral,0.6665,Family,0.8265,2
+"Sosuke...that is his name, yes?",positive,0.7042,Identity,0.6451,5
+"You love your sister, don't you?",positive,0.6703,Family,0.9931,6
+"Listen, dear...what if Ponyo really became human?",uncertain,0.2485,Personal Growth,0.9437,7
+Use the old magic.,uncertain,0.3822,Family,0.607,4
+"If Sosuke's love is real, she'll lose her powers forever.",negative,0.7712,Family,0.5313,10
+"But if it's not, she'll turn to sea foam!",negative,0.4688,Family,0.6145,9
+"That's where we all came from, dear.",uncertain,0.3547,Family,0.9894,7
+But he's only five!,uncertain,0.3825,Personal Growth,0.9665,4
+"Sleep well, little children.",uncertain,0.406,Family,0.9354,4
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Ow!,negative,0.6303,Trauma,0.6086,1
+"Good morning, Ponyo.",positive,0.6431,Friendship,0.8701,3
+"Morning, Sosuke.",uncertain,0.4251,Personal Growth,0.8847,2
+We almost got flooded.,negative,0.8049,Resilience,0.4655,4
+Where's Lisa?,negative,0.6652,Family,0.901,2
+She must be stuck someplace.,negative,0.6771,Trauma,0.7829,5
+I wish we had a boat.,negative,0.676,Personal Growth,0.2805,6
+There's a boat!,positive,0.6849,Resilience,0.4537,3
+We can't fit.,negative,0.8647,Family,0.8317,3
+Can so.,positive,0.5201,Family,0.8126,2
+Awesome!,positive,0.5462,Family,0.9061,1
+The candle's bigger too.,positive,0.6697,Personal Growth,0.7492,4
+We can fit.,positive,0.6287,Family,0.8973,3
+This is cool.,very positive,0.4964,Personal Growth,0.7849,3
+Cool!,positive,0.5011,Family,0.8732,1
+Grab that end.,uncertain,0.3232,Family,0.7611,3
+Ready?,uncertain,0.3196,Family,0.7586,1
+Ready!,positive,0.6204,Family,0.8438,1
+She's seaworthy!,positive,0.6575,Resilience,0.9771,2
+Awesome.,positive,0.5695,Family,0.9145,1
+No leaks!,positive,0.7127,Family,0.8637,2
+Now we fill the boiler.,uncertain,0.4165,Resilience,0.2916,5
+The water goes in here.,positive,0.4552,Resilience,0.6294,5
+It goes in the boiler.,uncertain,0.3889,Resilience,0.3676,5
+It's like a rocket!,positive,0.5073,Personal Growth,0.4178,4
+Everything's shipshape.,positive,0.7284,Family,0.8619,2
+Shipshape...,positive,0.7262,Resilience,0.793,1
+Shipshape?,positive,0.7342,Resilience,0.3755,1
+Shipshape!,positive,0.7009,Resilience,0.8142,1
+Shipshape!,positive,0.7009,Resilience,0.8142,1
+Shipshape!,positive,0.7009,Resilience,0.8142,1
+Is it hot?,uncertain,0.3413,Family,0.1329,3
+Hot!,positive,0.7586,Romantic Love,0.7394,1
+It's hot.,uncertain,0.4115,Personal Growth,0.5278,2
+The candle's burning.,positive,0.6078,Romantic Love,0.6447,3
+It's burning!,negative,0.5596,Family,0.4106,2
+Hot hot hot!,positive,0.6855,Family,0.818,3
+It's hot.,uncertain,0.4115,Personal Growth,0.5278,2
+Awesome!,positive,0.5462,Family,0.9061,1
+"We're shipshape, Sosuke!",positive,0.7009,Resilience,0.7857,3
+This is great.,positive,0.5568,Family,0.854,3
+This is so much fun.,very positive,0.6199,Family,0.8443,5
+"It's burning, Sosuke.",negative,0.5643,Trauma,0.3023,3
+It's really hot.,negative,0.5148,Family,0.4,3
+Keep a lookout in front.,uncertain,0.354,Family,0.7815,5
+I'll steer the boat.,uncertain,0.4188,Resilience,0.5857,4
+"Okay, I'm the lookout.",uncertain,0.2748,Family,0.4693,4
+There's a road.,uncertain,0.417,Resilience,0.0106,3
+That's the road Lisa took.,uncertain,0.3747,Personal Growth,0.7648,5
+I don't see her.,negative,0.5117,Loneliness,0.8577,4
+You will.,positive,0.5462,Personal Growth,0.8704,2
+She gave me her promise.,positive,0.6824,Family,0.9658,5
+Ancient fish...,uncertain,0.3804,Resilience,0.6783,2
+from the Devonian age!,uncertain,0.2693,Resilience,0.4922,4
+There's Bothriolepis.,positive,0.5558,Romantic Love,0.0385,2
+That one is...,uncertain,0.2789,Family,0.8811,3
+Dipnorhynchus.,negative,0.6571,Resilience,0.0116,1
+Dipnorhynchus!,negative,0.5986,Personal Growth,0.0097,1
+That one's really huge.,positive,0.4913,Family,0.7583,4
+That's Devonynchus.,negative,0.7767,Identity,0.001,2
+Devonynchus!,negative,0.6874,Personal Growth,0.1384,1
+Ahoy!,positive,0.6394,Family,0.71,1
+A boat!,positive,0.6121,Resilience,0.5229,2
+Ahoy!,positive,0.6394,Family,0.71,1
+They're calling us.,uncertain,0.2995,Family,0.8607,3
+Ahoy!,positive,0.6394,Family,0.71,1
+Ow!,negative,0.6303,Trauma,0.6086,1
+"Pretty good, huh?",positive,0.5859,Family,0.8656,3
+"Now, Ponyo.",positive,0.4685,Personal Growth,0.6517,2
+Hello.,positive,0.4739,Family,0.8371,1
+That's a wonderful boat you have.,very positive,0.5467,Resilience,0.3527,6
+"Why, you're Lisa's little boy.",positive,0.5227,Family,0.9974,5
+"He's not little, he's Sosuke.",uncertain,0.4402,Resilience,0.7898,5
+This is Ponyo.,uncertain,0.4405,Personal Growth,0.0174,3
+I was a fish before.,uncertain,0.442,Personal Growth,0.5092,5
+A fish?,negative,0.4681,Resilience,0.1438,2
+Ponyo...that's a nice name.,positive,0.5377,Personal Growth,0.0048,4
+Have you seen Lisa?,negative,0.4688,Family,0.8571,4
+Lisa?,uncertain,0.278,Family,0.7476,1
+She's not with you?,negative,0.7415,Identity,0.6723,4
+She's at the center.,uncertain,0.3715,Family,0.9257,4
+The senior center...?,negative,0.5223,Resilience,0.3436,3
+This is my baby.,positive,0.5784,Family,0.8924,4
+"Oh my, what happened?",uncertain,0.4363,Family,0.6514,4
+Is that for us?,uncertain,0.2624,Family,0.4587,4
+"Give me the cup, dear.",positive,0.5703,Friendship,0.9048,5
+Thank you.,positive,0.6426,Family,0.8872,2
+Let's try it.,positive,0.528,Family,0.7049,3
+It's delicious!,positive,0.5249,Family,0.7674,2
+Lisa made it.,positive,0.6851,Family,0.947,3
+It's for the baby.,positive,0.7037,Personal Growth,0.6887,4
+"Oh, I'm sorry.",negative,0.65,Family,0.6988,3
+He can't handle soup yet.,negative,0.7459,Personal Growth,0.9498,5
+But this will help me make milk for him.,positive,0.7078,Family,0.4887,9
+Lisa gave me her milk too.,positive,0.5124,Family,0.996,6
+"Ponyo, may I have this soup?",positive,0.7281,Friendship,0.1842,6
+Sure.,positive,0.5683,Family,0.8981,1
+Thank you.,positive,0.6426,Family,0.8872,2
+People from the town.,uncertain,0.3295,Resilience,0.7313,4
+It's like a festival.,positive,0.6004,Resilience,0.0135,4
+You there!,positive,0.5448,Identity,0.7889,2
+Do you need assistance?,uncertain,0.3532,Empathy,0.3849,4
+"Thanks, we're okay right now!",positive,0.6489,Family,0.9664,5
+Then please follow us.,positive,0.5107,Family,0.8448,4
+We're going to the hotel on the peak.,uncertain,0.4491,Resilience,0.4705,8
+Okay!,positive,0.6918,Family,0.821,1
+Will do.,positive,0.6101,Family,0.8749,2
+The whole town's here.,positive,0.4665,Resilience,0.7054,4
+I hope everyone's all right.,uncertain,0.4129,Family,0.7528,5
+"Let's go, Ponyo.",positive,0.6712,Friendship,0.8954,3
+Hold on a second.,uncertain,0.2721,Family,0.8192,4
+Milk!,positive,0.7733,Personal Growth,0.0289,1
+Oh my...,negative,0.5221,Family,0.8523,2
+Milk!,positive,0.7733,Personal Growth,0.0289,1
+She ate up all the ham.,negative,0.5812,Family,0.9141,6
+This will help me make good milk.,positive,0.791,Resilience,0.1524,7
+"Can you use another candle for your boat, Sosuke?",positive,0.5145,Resilience,0.5315,9
+Thanks.,positive,0.5905,Family,0.9123,1
+Ponyo will make it bigger.,positive,0.6978,Personal Growth,0.8728,5
+Be careful!,negative,0.7329,Family,0.6944,2
+Thank you both!,positive,0.5962,Personal Growth,0.7985,3
+"What is it, dear?",uncertain,0.3595,Family,0.3819,4
+Don't cry.,negative,0.5865,Family,0.9195,2
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Where's Lisa?,negative,0.6652,Family,0.901,2
+Isn't she with you?,negative,0.6288,Family,0.89,4
+I'm going to pick her up.,uncertain,0.4049,Family,0.8888,6
+So she survived that wave?,positive,0.4829,Resilience,0.9043,5
+"Sosuke, take me with you!",positive,0.6658,Friendship,0.9541,5
+"Later, Kumiko.",uncertain,0.3252,Personal Growth,0.552,2
+I'm busy now.,uncertain,0.447,Personal Growth,0.881,3
+Everyone from the center evacuated to the park.,uncertain,0.4483,Family,0.8825,8
+Keep safe!,uncertain,0.399,Family,0.8304,2
+You can do it!,positive,0.6665,Personal Growth,0.8498,4
+We'll send a boat for them later.,uncertain,0.3453,Family,0.8844,7
+"Good luck, captain!",positive,0.6747,Personal Growth,0.6534,3
+"Time for a new candle, Ponyo.",negative,0.5175,Personal Growth,0.5507,6
+We're okay.,positive,0.5624,Family,0.9372,2
+I have another one.,uncertain,0.3155,Family,0.5439,4
+Ow!,negative,0.6303,Trauma,0.6086,1
+It's still pretty hot.,negative,0.4745,Family,0.726,4
+Bye-bye.,negative,0.8133,Family,0.644,1
+Can you make this candle bigger?,positive,0.4625,Personal Growth,0.5788,6
+All right.,positive,0.4814,Family,0.828,2
+"Are you sleepy, Ponyo?",uncertain,0.4119,Empathy,0.5112,4
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Good...it's shallow enough to walk.,positive,0.5807,Family,0.7838,5
+A road!,positive,0.5961,Resilience,0.0051,2
+It's shrinking!,negative,0.5977,Family,0.797,2
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+"Ponyo, wake up!",negative,0.6278,Personal Growth,0.3156,3
+Sosuke...,uncertain,0.4252,Family,0.7212,1
+Don't scare me.,uncertain,0.348,Resilience,0.9228,3
+I thought you were turning into a fish.,negative,0.5678,Trauma,0.1966,8
+Lisa's car!,positive,0.475,Family,0.8148,2
+"Ponyo, that's her car!",positive,0.5345,Identity,0.2019,4
+Lisa!,positive,0.524,Family,0.9595,1
+Lisa!,positive,0.524,Family,0.9595,1
+Lisa!,positive,0.524,Family,0.9595,1
+Lisa!,positive,0.524,Family,0.9595,1
+Lisa!,positive,0.524,Family,0.9595,1
+Lisa!,positive,0.524,Family,0.9595,1
+Here's your boat.,positive,0.5473,Resilience,0.5749,3
+Your eyes are wet.,negative,0.4762,Family,0.8978,4
+Let's find Lisa.,positive,0.6054,Family,0.9344,3
+You forgot your wrap!,negative,0.8431,Trauma,0.3662,4
+Who needs it?,negative,0.5923,Family,0.2309,3
+"Look, it's a whale!",positive,0.6807,Resilience,0.0223,4
+My knees don't hurt anymore!,positive,0.7398,Resilience,0.7726,5
+What were we so afraid of?,negative,0.5054,Family,0.234,6
+Is this the Other Side?,uncertain,0.4327,Resilience,0.0187,5
+Who cares?,neutral,0.7174,Family,0.4059,2
+It's wonderful.,positive,0.572,Family,0.8916,2
+"Attention, please!",positive,0.5031,Family,0.6903,2
+Gather round.,uncertain,0.4308,Family,0.9529,2
+Coming!,positive,0.6387,Family,0.8198,1
+Shall we?,positive,0.4664,Family,0.7573,2
+It's so nice to run.,very positive,0.5645,Personal Growth,0.5335,5
+Meet you there!,positive,0.5633,Family,0.8493,3
+The winner!,positive,0.7576,Family,0.8638,2
+"You're so fast, Kayo.",positive,0.5757,Personal Growth,0.6831,4
+"Quiet, everyone!",negative,0.6314,Family,0.9691,2
+The moment of truth is at hand.,positive,0.4509,Family,0.5856,7
+Sosuke and Ponyo are almost here.,positive,0.5602,Friendship,0.7837,6
+It's so romantic.,very positive,0.6719,Romantic Love,0.9616,3
+Will love triumph?,positive,0.5416,Romantic Love,0.636,3
+I'm so excited!,very positive,0.5007,Personal Growth,0.8751,3
+Quiet!,negative,0.6076,Family,0.9006,1
+"Very soon, you will bear witness to a sacred trial of love.",uncertain,0.3211,Family,0.617,12
+Mr.,uncertain,0.3438,Family,0.6627,1
+"Fujimoto, you're not up to something, are you?",negative,0.7909,Personal Growth,0.748,8
+"Nonsense, he's her father.",negative,0.4713,Family,0.9956,4
+They'll be fine...,positive,0.7474,Family,0.958,3
+if she doesn't wake up.,negative,0.7502,Family,0.7365,5
+Now excuse me!,negative,0.6297,Personal Growth,0.6031,3
+I'd like to believe him...,uncertain,0.4115,Family,0.7816,5
+Where's Lisa gone to?,negative,0.6409,Family,0.8959,4
+She's been talking with Ponyo's mother for ages.,uncertain,0.3555,Family,0.9862,8
+I hope she's okay.,uncertain,0.3786,Family,0.8301,4
+What are they talking about?,uncertain,0.385,Family,0.1033,5
+Let's find out.,uncertain,0.391,Family,0.7859,3
+Lisa!,positive,0.524,Family,0.9595,1
+Lisa!,positive,0.524,Family,0.9595,1
+We're all rooting for Sosuke and Ponyo!,positive,0.498,Romantic Love,0.9554,7
+Lisa!,positive,0.524,Family,0.9595,1
+You must be worried.,negative,0.588,Family,0.7637,4
+Sosuke will be just fine.,positive,0.6599,Resilience,0.9283,5
+He's a strong little boy.,positive,0.5712,Resilience,0.9512,5
+"Thanks, everyone.",positive,0.5628,Family,0.9348,2
+He'll need your support.,positive,0.5125,Family,0.8747,4
+"Ponyo, it's a tunnel.",negative,0.6624,Trauma,0.0198,4
+“STOP” I've been here before.,negative,0.841,Trauma,0.7942,5
+Ponyo?,uncertain,0.4184,Personal Growth,0.065,1
+I don't like this place.,negative,0.6825,Trauma,0.5352,5
+Don't let go of my hand.,positive,0.5003,Family,0.7998,6
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Please don't die!,negative,0.6435,Grief,0.8706,3
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+"Wake up, Ponyo!",negative,0.5259,Personal Growth,0.9511,3
+Let her sleep.,uncertain,0.4264,Family,0.9074,3
+"I've been waiting for you, Sosuke.",positive,0.4961,Friendship,0.7394,6
+Lisa and the old ladies are waiting too.,uncertain,0.3216,Family,0.9818,8
+Lisa?!,negative,0.7278,Trauma,0.7189,1
+Won't you come with me?,positive,0.5816,Personal Growth,0.9077,5
+You and Ponyo.,uncertain,0.43,Friendship,0.9255,3
+Let's not wake her.,uncertain,0.3305,Family,0.9617,4
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Don't listen to him!,negative,0.7489,Family,0.7105,4
+He tricked everyone into going with him.,negative,0.6138,Family,0.8124,7
+Toki!,positive,0.6581,Personal Growth,0.4296,1
+But he couldn't fool me!,uncertain,0.4294,Family,0.6456,5
+"There's no time, I tell you.",negative,0.5954,Family,0.6864,6
+Don't you see what's happening?,uncertain,0.3569,Family,0.6476,5
+"If the Moon comes any closer, we're finished!",negative,0.8419,Trauma,0.3489,8
+Is that the best you can do?,uncertain,0.3529,Family,0.621,7
+"Sosuke, come here!",positive,0.5767,Family,0.9274,3
+"Listen to me, Sosuke.",uncertain,0.2421,Empathy,0.8974,4
+You're the planet's last hope.,uncertain,0.3881,Resilience,0.4185,5
+Don't make me use force.,negative,0.8117,Identity,0.2209,5
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Is this how you treat your father?,negative,0.5891,Family,0.9743,7
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+"Run, Sosuke!",positive,0.648,Personal Growth,0.9086,2
+You don't understand!,negative,0.633,Family,0.7441,3
+You can make it!,positive,0.7225,Personal Growth,0.9106,4
+Jump!,positive,0.6722,Personal Growth,0.8577,1
+Now what?,uncertain,0.2953,Family,0.7471,2
+Lisa!,positive,0.524,Family,0.9595,1
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+Ponyo!,positive,0.76,Personal Growth,0.1731,1
+Look over there.,uncertain,0.3243,Family,0.8416,3
+Where are we?,uncertain,0.3208,Personal Growth,0.2736,3
+"So, you are Sosuke.",positive,0.4902,Identity,0.9806,4
+Hello.,positive,0.4739,Family,0.8371,1
+Are you Ponyo's mother?,uncertain,0.3207,Family,0.9806,4
+Yes.,positive,0.748,Family,0.9347,1
+I want to thank you for bringing my daughter back to me.,positive,0.6377,Family,0.9693,12
+"Ponyo wanted to be like you, but she unleashed a terrible power.",negative,0.6873,Personal Growth,0.7183,12
+"To become human, she must be loved...",uncertain,0.3365,Personal Growth,0.9337,7
+...for who she really is.,uncertain,0.3412,Identity,0.9407,5
+Do you know that Ponyo was a fish?,uncertain,0.3395,Resilience,0.0266,8
+Yes.,positive,0.748,Family,0.9347,1
+Your blood made her human...almost.,positive,0.5901,Personal Growth,0.8853,5
+That's right!,positive,0.7165,Family,0.8305,2
+Ponyo licked my cut and made it better.,positive,0.7046,Personal Growth,0.8226,8
+So that's why she changed!,uncertain,0.4368,Personal Growth,0.9755,5
+Can you accept her as she is?,neutral,0.4934,Family,0.8721,7
+I'll always love Ponyo...,positive,0.589,Romantic Love,0.2202,4
+"...whether she's a fish, a human...",uncertain,0.2905,Identity,0.7174,6
+...or in between.,neutral,0.5997,Personal Growth,0.5685,3
+"Come, Ponyo.",positive,0.5286,Friendship,0.9637,2
+Sosuke has promised to accept you as you are.,positive,0.6531,Family,0.9373,9
+"But first, you must give up your powers.",negative,0.5757,Family,0.4839,8
+Can you do that?,uncertain,0.3114,Family,0.7652,4
+Kiss this bubble when you return to land...,positive,0.717,Personal Growth,0.7946,8
+...and Ponyo will be a little girl.,uncertain,0.4388,Family,0.8383,7
+"Way to go, Ponyo!",positive,0.5601,Personal Growth,0.9126,4
+"Thank you, Ponyo's mother!",positive,0.6291,Family,0.992,4
+Now the planet is safe again.,positive,0.7288,Resilience,0.515,6
+"Splendid, Sosuke!",positive,0.5318,Personal Growth,0.8564,2
+Sosuke!,positive,0.6376,Friendship,0.7695,1
+"I'm grateful, Lisa.",positive,0.6127,Family,0.962,3
+"Thank you, Gran Mamare.",positive,0.6233,Family,0.9962,4
+There you are!,positive,0.534,Family,0.7837,3
+Are you all right?,uncertain,0.329,Family,0.4713,4
+"Wait, I'll get the wheelchairs.",positive,0.459,Resilience,0.8871,5
+"Don't bother, we'll walk.",negative,0.7143,Personal Growth,0.8884,4
+It's all so exciting.,very positive,0.6406,Family,0.7234,4
+I believe this is yours.,positive,0.461,Identity,0.8984,5
+Thanks.,positive,0.5905,Family,0.9123,1
+I hope you'll forgive me...may I?,uncertain,0.339,Empathy,0.7839,6
+Take good care of her.,positive,0.7141,Family,0.972,5
+It's Koichi!,positive,0.6302,Personal Growth,0.3069,2
+Koichi!,positive,0.6686,Personal Growth,0.6397,1
+It's Lisa!,positive,0.6646,Family,0.9502,2
+And there's Sosuke!,positive,0.5857,Personal Growth,0.7455,3
+"Look,Ponyo.",positive,0.494,Friendship,0.4983,1
+It's Koichi!,positive,0.6302,Personal Growth,0.3069,2
+"{\an8}We made this movie Ponyo Ponyo Ponyo, tiny little fish She's a little fish from the deep blue sea Ponyo Ponyo Ponyo, she's a little girl She's a little girl with a round tummy Pitter-patter, hop-hop and jump Look, I have legs!",positive,0.5202,Personal Growth,0.0405,42
+I'm gonna run!,uncertain,0.4246,Personal Growth,0.9673,3
+"Squishy-squeeze, wave them around Look, I have hands!",positive,0.5091,Personal Growth,0.7952,8
+Let's hold them now!,positive,0.6888,Family,0.8104,4
+"When I'm skipping with him My heart does this dance Munch, munch!",positive,0.6867,Romantic Love,0.9578,12
+"Kiss, hug!",positive,0.7044,Family,0.9671,2
+"Oh he's my favorite little boy Rosy-rosy red-red Ponyo Ponyo Ponyo, tiny little fish She's a little fish from the deep blue sea Ponyo Ponyo Ponyo, she's a little girl She's a little girl with a round tummy Studio Ghibli The End English translation by Jim Hubbert and Rieko Izutsu-Vajirasarn English subtitles by Aura",positive,0.561,Family,0.1998,54
