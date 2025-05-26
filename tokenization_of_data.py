@@ -63,5 +63,5 @@ def combine_tokenized_files(input_folder, output_path):
     print(f"Combined {len(all_tokens)} tokens into: {output_path}")
 
 # run
-process_cleaned_folder('data_cleaned/ghibli', 'data_preprocessed/ghibli')
-combine_tokenized_files('data_preprocessed/ghibli', 'data_preprocessed/ghibli.txt')
+process_cleaned_folder('data_cleaned/disney', 'data_preprocessed/disney')
+combine_tokenized_files('data_preprocessed/disney', 'data_preprocessed/disney.txt')
