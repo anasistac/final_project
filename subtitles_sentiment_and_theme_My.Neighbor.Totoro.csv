@@ -1,0 +1,705 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+"MY NEIGHBOR TOTORO Dad, do you want some candy?",uncertain,0.3309,Family,0.9779,9
+Thanks.,uncertain,0.375,Family,0.9123,1
+Aren't you tired?,uncertain,0.3615,Family,0.5069,3
+No.,very negative,0.4577,Family,0.8406,1
+We're almost there.,uncertain,0.3897,Family,0.8778,3
+"Mei, hide!",uncertain,0.2992,Trauma,0.7469,2
+It wasn't a policeman.,uncertain,0.4385,Family,0.6495,4
+Hello!,very positive,0.6173,Friendship,0.7159,1
+Hello.,very positive,0.4517,Family,0.8371,1
+Are your parents around?,neutral,0.4656,Family,0.9432,4
+Thanks.,uncertain,0.375,Family,0.9123,1
+I'm Kusakabe!,very positive,0.6134,Identity,0.989,2
+We've just arrived!,very positive,0.6005,Personal Growth,0.7195,3
+A pleasure to meet you!,positive,0.5227,Friendship,0.9337,5
+Welcome!,very positive,0.5193,Friendship,0.9051,1
+Thank you.,positive,0.5047,Family,0.8872,2
+Here we are!,very positive,0.5505,Family,0.8085,3
+Wait!,uncertain,0.368,Family,0.5416,1
+"Mei, there's a bridge!",uncertain,0.4498,Resilience,0.197,4
+A bridge?,uncertain,0.3619,Resilience,0.0919,2
+See that flash?,uncertain,0.2892,Family,0.6012,3
+Fish too!,uncertain,0.289,Resilience,0.6265,2
+"So, you like it here?",very positive,0.5586,Family,0.7511,5
+"Dad, it's terrific!",very negative,0.6245,Family,0.9867,3
+"Look, a tunnel of trees!",uncertain,0.3765,Resilience,0.5401,5
+Is that our house?,uncertain,0.3322,Resilience,0.443,4
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+It's a wreck!,very negative,0.7863,Trauma,0.9042,3
+Wreck!,very negative,0.7148,Trauma,0.8142,1
+Looks like a haunted house!,very negative,0.6235,Trauma,0.2067,5
+Haunted?,uncertain,0.3957,Trauma,0.4479,1
+And it's all rotten!,very negative,0.5584,Family,0.7003,4
+It's gonna fall down!,uncertain,0.4067,Family,0.5025,4
+Fall down!,very negative,0.45,Trauma,0.6995,2
+"Look, Mei!",very positive,0.6503,Family,0.8509,2
+See?,uncertain,0.3472,Family,0.7879,1
+It's huge.,very positive,0.5266,Family,0.8417,2
+"Dad, there's a huge tree!",very positive,0.4845,Resilience,0.517,5
+It's a camphor tree.,uncertain,0.3217,Resilience,0.0435,4
+Camphor tree!,very positive,0.5481,Resilience,0.0967,2
+Camphor tree!,very positive,0.5481,Resilience,0.0967,2
+Oops!,very positive,0.5739,Trauma,0.6453,1
+An acorn!,very positive,0.5301,Personal Growth,0.6854,2
+Show me.,uncertain,0.3773,Family,0.5213,2
+Another one!,uncertain,0.2915,Personal Growth,0.3761,2
+It's mine.,uncertain,0.3995,Identity,0.9008,2
+Out of the way.,uncertain,0.425,Family,0.7693,4
+I can't open the screens.,very negative,0.5222,Family,0.7669,5
+Acorns!,very positive,0.5027,Personal Growth,0.5292,1
+There are acorns in the house.,uncertain,0.4242,Resilience,0.3306,6
+They fell from up there!,uncertain,0.4345,Trauma,0.8889,5
+Maybe there are squirrels in here.,uncertain,0.3065,Resilience,0.7437,6
+"Squirrels, really?",uncertain,0.3176,Resilience,0.0538,2
+Or rats; they like acorns too.,uncertain,0.347,Resilience,0.6316,6
+I'd rather have squirrels!,uncertain,0.3794,Resilience,0.7204,4
+Where shall I put this?,uncertain,0.4184,Family,0.6214,5
+"Here, I'll get the door for you.",uncertain,0.3455,Resilience,0.7384,7
+"Satsuki, open up the kitchen.",uncertain,0.4016,Family,0.849,5
+Okay.,neutral,0.7094,Family,0.8657,1
+It's just round the back.,uncertain,0.4103,Family,0.7342,5
+"Mei, come on!",very positive,0.7208,Personal Growth,0.7204,3
+Wait for me!,very positive,0.4627,Personal Growth,0.8405,3
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Ready?,uncertain,0.3487,Family,0.7586,1
+Bathtubs.,uncertain,0.3604,Resilience,0.0178,1
+There's nothing here.,very negative,0.4839,Loneliness,0.6746,3
+That's the bathroom.,uncertain,0.3022,Resilience,0.1314,3
+"Dad, there's something in here.",neutral,0.451,Family,0.9249,5
+A squirrel?,very negative,0.7166,Resilience,0.3775,2
+Dunno.,uncertain,0.3857,Personal Growth,0.251,1
+"A bunch of black things, but not roaches or mice.",neutral,0.7164,Resilience,0.3602,10
+Really?,uncertain,0.3086,Family,0.6704,1
+Can you see them?,uncertain,0.415,Family,0.7261,4
+I think they were dust bunnies.,very negative,0.5521,Trauma,0.0292,6
+Dust bunnies?,uncertain,0.3668,Resilience,0.0066,2
+Like in my picture book?,neutral,0.4697,Romantic Love,0.3062,5
+That's right.,neutral,0.5056,Family,0.8355,2
+Ghosts don't come out on days like this.,uncertain,0.4365,Resilience,0.2875,8
+"When you walk into a dark room from outside, your eyes dim and the dust bunnies come out.",uncertain,0.4342,Trauma,0.5486,18
+"Oh, I see.",uncertain,0.3866,Family,0.8514,3
+"Come here, dust bunnies.",uncertain,0.2846,Personal Growth,0.3425,4
+"Come out, come out, wherever you are!",very positive,0.4764,Family,0.8161,7
+Let's get to work!,uncertain,0.2896,Personal Growth,0.7666,4
+See if you can find how to get upstairs.,uncertain,0.4353,Family,0.7516,9
+Get up there and open all the windows.,uncertain,0.3457,Family,0.8568,8
+Sure!,very positive,0.5042,Family,0.8747,1
+"I'm coming, too!",very positive,0.4862,Family,0.9497,3
+Toilet!,very positive,0.5787,Personal Growth,0.0007,1
+Not here!,uncertain,0.4491,Trauma,0.3244,2
+Not here!,uncertain,0.4491,Trauma,0.3244,2
+Not here!,uncertain,0.4491,Trauma,0.3244,2
+Not here!,uncertain,0.4491,Trauma,0.3244,2
+Not here!,uncertain,0.4491,Trauma,0.3244,2
+Not here!,uncertain,0.4491,Trauma,0.3244,2
+Nothing here!,very negative,0.5647,Loneliness,0.2249,2
+Nothing!,very negative,0.558,Loneliness,0.362,1
+"Mei, it's here!",very positive,0.6378,Family,0.7577,3
+It's pitch black!,uncertain,0.2307,Trauma,0.3106,3
+Dust bunnies...,uncertain,0.3669,Resilience,0.0101,2
+Another acorn.,very negative,0.5811,Personal Growth,0.3811,2
+"Come out, dust bunnies!",uncertain,0.27,Personal Growth,0.5637,4
+"Are you there, Mr.",uncertain,0.3847,Personal Growth,0.6617,4
+Dust Bunny?,uncertain,0.3685,Personal Growth,0.029,2
+"One, two...",neutral,0.7328,Family,0.8719,2
+"One, two...",neutral,0.7328,Family,0.8719,2
+"Dad, there's definitely something here!",uncertain,0.3629,Family,0.9539,5
+That's exciting!,uncertain,0.3317,Personal Growth,0.8016,2
+I've always wanted to live in a haunted house.,uncertain,0.4462,Trauma,0.1058,9
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+I'm coming!,very positive,0.5034,Personal Growth,0.9731,2
+I got it.,uncertain,0.4078,Family,0.8017,3
+Satsuki!,very positive,0.61,Friendship,0.7702,1
+Mei.,uncertain,0.3352,Identity,0.8335,1
+You're full of energy!,uncertain,0.3742,Family,0.8434,4
+This is Nanny.,very positive,0.5024,Family,0.0052,3
+She has come to look after the house.,positive,0.5625,Resilience,0.7932,8
+"I'm Satsuki and this is my sister, Mei.",very positive,0.7217,Family,0.9943,8
+Nice to meet you both.,neutral,0.4659,Friendship,0.9183,5
+I'd have cleaned up if I'd known you'd be this quick.,neutral,0.5013,Family,0.8118,11
+"No, you've done plenty.",uncertain,0.4273,Family,0.8266,4
+"I've been so busy in the rice paddies, I only did a bit of dusting...",uncertain,0.4373,Resilience,0.4984,15
+What have you done to your hands?,neutral,0.533,Personal Growth,0.3706,7
+The dust bunny got away.,uncertain,0.3982,Trauma,0.3148,5
+"Your feet, too!",uncertain,0.423,Resilience,0.7251,3
+"Mine are black, too!",uncertain,0.2839,Family,0.9467,4
+"Well, well, well.",uncertain,0.4017,Family,0.8425,3
+That must be the soot spreaders.,very positive,0.467,Trauma,0.0056,6
+"Those little, black, fuzzy things that fly?",uncertain,0.4069,Resilience,0.0436,7
+That's right.,neutral,0.5056,Family,0.8355,2
+"They breed in empty old houses, and cover them with soot and dust.",uncertain,0.2959,Family,0.6518,13
+I could see them when I was little.,uncertain,0.375,Family,0.9247,8
+"Now you can too, huh?",uncertain,0.2858,Personal Growth,0.6976,5
+Are they like goblins?,uncertain,0.2896,Trauma,0.0078,4
+"No, nothing so scary.",neutral,0.5466,Family,0.7274,4
+"If you keep smiling, they'll soon leave the house.",uncertain,0.3598,Family,0.7925,9
+"They're probably deciding where to go next, right now.",uncertain,0.3292,Family,0.8676,9
+"Mei, they're going away.",uncertain,0.3944,Family,0.7876,4
+That's no fun.,very negative,0.6035,Trauma,0.6138,3
+"What happens if a huge one comes out, like this?",neutral,0.6144,Family,0.454,10
+I wouldn't be scared.,uncertain,0.424,Resilience,0.8531,4
+"Okay then, I won't walk you to the bathroom at night.",uncertain,0.3619,Family,0.8594,11
+"Okay, cleaning time.",neutral,0.5178,Family,0.5288,3
+Could you get some water from the stream?,uncertain,0.3436,Resilience,0.1962,8
+From the stream?,very negative,0.4978,Resilience,0.2418,3
+"I'm coming, too!",very positive,0.4862,Family,0.9497,3
+"Mei, wait there.",uncertain,0.3489,Friendship,0.7427,3
+Did you get a fish?,uncertain,0.3856,Personal Growth,0.1522,5
+"Nanny, it's coming out!",very positive,0.6058,Family,0.6277,4
+"Good, keep pumping 'til the water gets cold.",uncertain,0.4282,Resilience,0.8481,8
+Okay!,positive,0.4737,Family,0.821,1
+May I help you?,uncertain,0.3049,Resilience,0.5352,4
+Huh...,neutral,0.4922,Family,0.7613,1
+my mom...,very positive,0.4531,Family,0.9967,2
+for Granny.,uncertain,0.3517,Family,0.9927,2
+Yes?,uncertain,0.4134,Family,0.849,1
+"Wait, what is it?",neutral,0.5708,Family,0.1217,4
+"Is that you, Kanta?",uncertain,0.3343,Identity,0.8296,4
+You live in a haunted house!,very negative,0.5164,Trauma,0.6284,6
+"Kanta, stop it!",uncertain,0.3388,Trauma,0.3872,3
+I did the same kind of thing when I was his age.,neutral,0.7542,Family,0.8533,12
+I hate boys.,uncertain,0.368,Personal Growth,0.2858,3
+But I really love Nanny's rice cakes!,uncertain,0.4289,Family,0.7069,7
+Eat as much as you want.,uncertain,0.3014,Family,0.7177,6
+Thank you!,uncertain,0.4458,Family,0.8679,2
+Thank you so much for your help.,uncertain,0.4444,Family,0.8685,7
+Goodbye!,very positive,0.5516,Grief,0.7932,1
+"Dad, the house is going to fall down.",uncertain,0.4284,Family,0.862,8
+I hope not; we've only just moved in.,uncertain,0.425,Personal Growth,0.9215,8
+"Come on, let's laugh to keep the bogeymen away!",uncertain,0.2673,Family,0.7324,9
+I'm not scared.,uncertain,0.4231,Resilience,0.969,3
+I mean it.,neutral,0.5965,Family,0.8572,3
+I'm not scared!,uncertain,0.3111,Resilience,0.977,3
+"One, two...",neutral,0.7328,Family,0.8719,2
+"Come on, keep up the good work.",uncertain,0.4315,Personal Growth,0.824,7
+Okay!,positive,0.4737,Family,0.821,1
+"Washing, finished!",uncertain,0.4041,Family,0.5267,2
+Here we go!,very positive,0.56,Personal Growth,0.7011,3
+Nanny!,very positive,0.6842,Family,0.2644,1
+Hello!,very positive,0.6173,Friendship,0.7159,1
+Hard at work?,uncertain,0.3307,Personal Growth,0.6773,3
+Where are you all heading?,neutral,0.4789,Personal Growth,0.4206,5
+To visit Mommy in the hospital!,very positive,0.4568,Family,0.9676,6
+That's nice.,uncertain,0.4407,Family,0.8447,2
+Give her my regards!,very positive,0.519,Friendship,0.942,4
+Okay!,positive,0.4737,Family,0.821,1
+This way.,uncertain,0.2852,Family,0.5775,2
+Hello.,very positive,0.4517,Family,0.8371,1
+Hello there.,neutral,0.5899,Family,0.8416,2
+Mommy!,very positive,0.5775,Family,0.9923,1
+"So glad you came, my dear.",very positive,0.6024,Family,0.9812,6
+Daddy took the wrong road.,very negative,0.4779,Family,0.9722,5
+Really?,uncertain,0.3086,Family,0.6704,1
+"Hello, Satsuki.",very positive,0.5898,Friendship,0.9446,2
+"It's a school holiday, today.",neutral,0.5009,Resilience,0.4674,5
+How nice.,very positive,0.567,Family,0.895,2
+Daddy is talking to the doctor.,uncertain,0.284,Trauma,0.2073,6
+It's so good to see you all.,very positive,0.7096,Family,0.9754,7
+Have you settled into the new house?,neutral,0.5953,Empathy,0.2864,7
+A haunted house?,very negative,0.7618,Trauma,0.0272,3
+"Mom, do you like ghosts?",uncertain,0.3288,Family,0.3359,5
+Of course I do!,very positive,0.5237,Family,0.8369,4
+I can't wait to see them.,very negative,0.5432,Family,0.8353,6
+"See, I told you, Mei.",uncertain,0.3141,Family,0.8997,5
+Mei was worried that you wouldn't like ghosts.,uncertain,0.3561,Empathy,0.0213,8
+What about you two?,uncertain,0.4391,Personal Growth,0.5539,4
+I love them!,very positive,0.5321,Family,0.9532,3
+I'm not scared of them!,uncertain,0.3444,Resilience,0.9455,5
+"Are you fixing Mei's hair, Satsuki?",uncertain,0.2686,Family,0.9592,6
+It's really good.,very positive,0.6092,Family,0.844,3
+"Lucky girl, Mei.",uncertain,0.3368,Family,0.9404,3
+But she always gets mad at me.,uncertain,0.3946,Family,0.819,7
+'Cause you won't stay still.,very negative,0.5186,Personal Growth,0.7691,5
+"Come here, Satsuki.",very positive,0.4956,Friendship,0.9697,3
+Isn't yours too short?,uncertain,0.3709,Family,0.2865,4
+"No, I like it like this.",uncertain,0.3304,Family,0.8793,6
+"Do mine, Mommy.",uncertain,0.3821,Family,0.983,3
+"Mine, too.",uncertain,0.3079,Family,0.9496,2
+Wait your turn!,uncertain,0.3217,Family,0.874,3
+"Wavy hair, just like mine when I was your age.",uncertain,0.2712,Family,0.9024,10
+Will it be like yours when I grow up?,uncertain,0.2494,Personal Growth,0.9222,9
+Probably.,very negative,0.4741,Family,0.8551,1
+You take after your mom.,uncertain,0.3436,Family,0.9984,5
+Mom looked really well.,uncertain,0.407,Family,0.9882,4
+You're right.,neutral,0.5339,Family,0.7645,2
+The doctor says she'll be home soon.,uncertain,0.2573,Resilience,0.8455,7
+Soon?,uncertain,0.3469,Family,0.5629,1
+Like tomorrow?,uncertain,0.3092,Personal Growth,0.4429,2
+You always say that.,uncertain,0.4131,Family,0.6463,4
+Tomorrow is a little too soon.,negative,0.4608,Family,0.7033,6
+Mom said she'll sleep with me in my bed.,uncertain,0.2524,Family,0.9856,9
+Weren't you saying you're big enough to sleep alone?,uncertain,0.2587,Personal Growth,0.5459,9
+Mom is special!,uncertain,0.3557,Family,0.9531,3
+"Dad, time to get up!",uncertain,0.4123,Family,0.9939,5
+Wake up!,uncertain,0.3782,Personal Growth,0.9036,2
+"Sorry, I overslept again.",uncertain,0.3928,Family,0.6777,4
+I've got to bring a box lunch today.,uncertain,0.3793,Family,0.829,8
+I totally forgot about it.,very negative,0.5802,Family,0.7274,5
+It's all right.,neutral,0.5232,Family,0.8957,3
+I've made something for all of us.,uncertain,0.3946,Family,0.9228,7
+It's burning.,very negative,0.6078,Trauma,0.2138,2
+Let me do it.,uncertain,0.3786,Family,0.8117,4
+"Here, this is yours, Mei.",very positive,0.592,Personal Growth,0.7611,5
+It's for me!,very positive,0.488,Personal Growth,0.964,3
+"Mei, sit down and eat!",very positive,0.5594,Family,0.9152,5
+Okay.,neutral,0.7094,Family,0.8657,1
+"Here, wrap yours.",uncertain,0.2944,Family,0.7801,3
+Satsuki!,very positive,0.61,Friendship,0.7702,1
+Uh-oh.,neutral,0.6121,Family,0.8157,1
+I'm coming!,very positive,0.5034,Personal Growth,0.9731,2
+You made a friend already?,uncertain,0.4179,Friendship,0.9275,5
+She's calling you!,very positive,0.5054,Family,0.959,3
+"Yeah, that's Michiko.",uncertain,0.2951,Family,0.8898,3
+Gotta go!,very positive,0.533,Personal Growth,0.8321,2
+See you!,very positive,0.5342,Family,0.8538,2
+Have a good day!,positive,0.5288,Family,0.8948,4
+Morning!,uncertain,0.3318,Family,0.8072,1
+"Hi, let's go.",neutral,0.4818,Family,0.8632,3
+Hi!,very positive,0.4551,Family,0.853,1
+Good morning!,uncertain,0.4102,Family,0.822,2
+Daddy!,very positive,0.4864,Family,0.9957,1
+Do I look all grown up?,uncertain,0.3434,Personal Growth,0.8466,6
+"Yes, dear.",very negative,0.6276,Family,0.9637,2
+Where are you going?,uncertain,0.4469,Personal Growth,0.5944,4
+I'm just going out.,uncertain,0.4226,Personal Growth,0.7402,4
+"Daddy, is it lunch yet?",uncertain,0.3543,Family,0.993,5
+Already?,uncertain,0.3234,Family,0.5251,1
+"You be the flower shop, Daddy.",very positive,0.4706,Family,0.8276,6
+Pole-tads!,very positive,0.5407,Personal Growth,0.0765,1
+Got no bottom.,uncertain,0.3769,Family,0.6729,3
+Gotcha!,uncertain,0.4331,Family,0.7503,1
+Who are you?,uncertain,0.3426,Identity,0.9213,3
+A big dust bunny?,very negative,0.6229,Personal Growth,0.0696,4
+To-to-ro?,uncertain,0.3639,Romantic Love,0.727,1
+You're Totoro!,very positive,0.6905,Identity,0.9514,2
+I bet you're Totoro.,uncertain,0.2623,Identity,0.7854,4
+Totoro.,very negative,0.4662,Family,0.736,1
+See you!,very positive,0.5342,Family,0.8538,2
+"Okay, catch you later!",positive,0.53,Family,0.8714,4
+I'm home!,very positive,0.5582,Identity,0.8412,2
+Hey there.,neutral,0.572,Family,0.8383,2
+Is it that late already?,uncertain,0.3311,Family,0.5366,5
+Where's Mei?,uncertain,0.3327,Family,0.6677,2
+I'm off to Michiko's.,uncertain,0.4025,Friendship,0.6503,4
+We haven't eaten yet.,uncertain,0.3066,Family,0.8075,4
+Is Mei in the garden?,neutral,0.4538,Resilience,0.4664,5
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+"Dad, I found her hat!",very positive,0.5575,Family,0.9965,5
+Mei?,uncertain,0.358,Identity,0.6009,1
+"Wake up, Mei!",very positive,0.5746,Personal Growth,0.9236,3
+You shouldn't sleep here!,uncertain,0.2874,Family,0.7177,4
+Where's Totoro?,uncertain,0.3703,Personal Growth,0.0061,2
+Totoro?,uncertain,0.371,Family,0.5506,1
+Where?,uncertain,0.3606,Personal Growth,0.2031,1
+Were you dreaming?,uncertain,0.2727,Family,0.7,3
+Totoro was here.,uncertain,0.2875,Family,0.8732,3
+You mean that troll in your picture book?,uncertain,0.2957,Trauma,0.0547,8
+Yeah.,uncertain,0.3646,Family,0.8922,1
+He was all hairy with a big mouth like this.,uncertain,0.2306,Family,0.5675,10
+There's a tiny one and a little one and a huge one like this.,neutral,0.5519,Family,0.8394,14
+There you are.,neutral,0.7154,Family,0.7782,3
+What a great hiding place.,uncertain,0.433,Resilience,0.4008,5
+"Dad, Mei said she saw a Totoro here.",uncertain,0.2825,Family,0.8529,8
+A Totoro?,very negative,0.4869,Personal Growth,0.0046,2
+It's this way.,neutral,0.4802,Family,0.7497,3
+"Hey, wait for me!",uncertain,0.2774,Personal Growth,0.8922,4
+It's here.,neutral,0.5363,Family,0.797,2
+Is it?,uncertain,0.3906,Family,0.6648,2
+No.,very negative,0.4577,Family,0.8406,1
+It went to a big tree.,uncertain,0.2804,Resilience,0.733,6
+But there wasn't any other path.,neutral,0.5191,Family,0.663,6
+"Come back, Mei!",very positive,0.6929,Family,0.9222,3
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Come back!,very positive,0.5622,Personal Growth,0.8167,2
+But it's true!,very positive,0.521,Family,0.8352,3
+Totoro was here.,uncertain,0.2875,Family,0.8732,3
+I'm not lying.,negative,0.51,Family,0.8055,3
+"I know, Mei.",uncertain,0.4414,Family,0.9012,3
+I didn't lie.,neutral,0.5251,Family,0.7507,3
+Neither of us think you're lying.,uncertain,0.371,Family,0.8529,6
+You probably met the king of this forest.,positive,0.4694,Resilience,0.2127,8
+You were very lucky.,uncertain,0.3547,Family,0.8586,4
+He doesn't come out very often.,negative,0.4946,Family,0.707,6
+We should go to the shrine to pay our respects.,uncertain,0.3386,Grief,0.5514,10
+Pay our respects?,uncertain,0.339,Family,0.8048,3
+To this forest.,uncertain,0.4487,Resilience,0.7731,3
+"Mei, you're getting heavy.",uncertain,0.3098,Trauma,0.4589,4
+"Dad, look!",very positive,0.4509,Family,0.9941,2
+The camphor tree!,very positive,0.5863,Resilience,0.4581,3
+What a big tree.,very positive,0.4878,Resilience,0.7654,4
+It's here!,very positive,0.4531,Family,0.7408,2
+Is that the tree?,uncertain,0.3938,Resilience,0.2878,4
+"Dad, hurry up.",uncertain,0.3639,Family,0.9965,3
+The hole has gone.,uncertain,0.4351,Family,0.6183,4
+Are you sure it was here?,uncertain,0.353,Family,0.7796,6
+The hole disappeared.,very negative,0.5741,Trauma,0.5666,3
+I told you that he doesn't come to see us often.,uncertain,0.3487,Family,0.9506,11
+But will he come again?,uncertain,0.3036,Personal Growth,0.7005,5
+"I want to meet him, too.",uncertain,0.3616,Personal Growth,0.7986,6
+"If you're lucky, sure.",neutral,0.4936,Family,0.6009,4
+What a beautiful tree.,very positive,0.5667,Resilience,0.5224,4
+This tree must have stood here for years and years.,uncertain,0.3228,Resilience,0.9533,10
+Trees and people used to be good friends.,neutral,0.4528,Friendship,0.5877,8
+I saw that tree and decided to buy the house.,uncertain,0.2763,Personal Growth,0.729,10
+I hope Mom likes it too.,very positive,0.4918,Family,0.9718,6
+"Okay, let's pay our respects, then get home for lunch.",neutral,0.5,Family,0.9656,10
+"Oh yeah, I promised to go see Michiko!",very positive,0.5096,Friendship,0.7446,8
+"I want to go, too!",uncertain,0.3303,Personal Growth,0.8907,5
+Attention!,very positive,0.5272,Family,0.6095,1
+Thank you for looking after Mei.,positive,0.5177,Family,0.9346,6
+Thank you very much!,uncertain,0.4356,Family,0.8787,4
+Last one home's a rotten egg!,very negative,0.7324,Family,0.6655,6
+That's not fair!,uncertain,0.4401,Grief,0.709,3
+Dad!,uncertain,0.4203,Family,0.9946,1
+Wait!,uncertain,0.368,Family,0.5416,1
+Hurry up!,uncertain,0.3775,Family,0.8087,2
+Wait for me!,very positive,0.4627,Personal Growth,0.8405,3
+"Dear Mother, something amazing happened today.",very positive,0.6515,Family,0.8923,6
+Mei met a giant Totoro.,uncertain,0.355,Friendship,0.3173,5
+"And I'm hoping to see him myself soon, too.",uncertain,0.3059,Family,0.9314,9
+"Kanta, hurry up!",uncertain,0.2971,Personal Growth,0.4789,3
+You'll be late!,uncertain,0.4116,Family,0.7189,3
+Coming...,uncertain,0.362,Family,0.8108,1
+"WAIT, RIVER, PINE TREE Well, well!",uncertain,0.3444,Resilience,0.2751,6
+Mei?,uncertain,0.358,Identity,0.6009,1
+Excuse me!,very positive,0.556,Personal Growth,0.5264,2
+"Yes, Satsuki?",uncertain,0.4221,Family,0.8315,2
+It's my sister...,uncertain,0.3363,Family,0.9985,3
+Sister?,uncertain,0.3572,Family,0.9397,1
+Where?,uncertain,0.3606,Personal Growth,0.2031,1
+"What happened, Nanny?",very negative,0.4606,Family,0.7621,3
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+She insisted that she be with you.,uncertain,0.3342,Family,0.9567,7
+It's Dad's day at the university.,uncertain,0.3701,Family,0.9076,6
+You promised to be a good girl at Nanny's.,uncertain,0.3034,Personal Growth,0.5343,9
+I still have two more classes and Nanny's too busy for this.,uncertain,0.3951,Family,0.7289,12
+"She was good up 'til now, weren't you?",uncertain,0.4372,Family,0.8567,8
+I'll go talk to my teacher.,neutral,0.5456,Resilience,0.782,6
+"Since Satsuki's mother is in the hospital, I want you all to be nice to her.",uncertain,0.2601,Family,0.9735,16
+"Yes, Miss!",very positive,0.6306,Family,0.7709,2
+What's that?,uncertain,0.3998,Family,0.166,2
+It's Totoro.,uncertain,0.2912,Identity,0.0022,2
+"Mei, you should keep quiet.",uncertain,0.2983,Personal Growth,0.7249,5
+Okay.,neutral,0.7094,Family,0.8657,1
+See you!,very positive,0.5342,Family,0.8538,2
+"Bye-bye, Mei!",very positive,0.682,Family,0.6805,2
+I can't stay after class today.,very negative,0.4713,Resilience,0.6884,6
+We'll let teacher know.,uncertain,0.3546,Resilience,0.5996,4
+See you!,very positive,0.5342,Family,0.8538,2
+"Hurry up, it's going to rain!",uncertain,0.3539,Family,0.035,6
+Okay.,neutral,0.7094,Family,0.8657,1
+Here it comes!,very positive,0.5561,Family,0.7561,3
+Here.,uncertain,0.4147,Family,0.8075,1
+I won't cry.,uncertain,0.2949,Resilience,0.9556,3
+Aren't I good?,uncertain,0.3092,Personal Growth,0.7312,3
+It's getting worse.,negative,0.5461,Family,0.7937,3
+"Dear Guardian Spirit, let us stay until the rain stops.",very positive,0.5607,Empathy,0.8039,10
+But...,uncertain,0.3872,Family,0.8111,1
+That was lucky.,very negative,0.4569,Family,0.644,3
+It's got holes in it.,negative,0.4666,Trauma,0.6083,5
+Daddy forgot his umbrella.,uncertain,0.4436,Family,0.9918,4
+"I'm going, too.",neutral,0.4996,Family,0.8797,3
+I said I forgot it!,uncertain,0.3835,Family,0.5828,5
+What idiot forgets his umbrella on a rainy day?,uncertain,0.3722,Family,0.138,9
+Ouch!,very positive,0.4547,Trauma,0.7805,1
+"You broke it playing, I bet.",very negative,0.5516,Trauma,0.7871,6
+I did not!,negative,0.4758,Personal Growth,0.7239,3
+Excuse me.,very negative,0.4911,Family,0.5672,2
+"Hello, Satsuki.",very positive,0.5898,Friendship,0.9446,2
+"Hi, Mei.",uncertain,0.3788,Friendship,0.9366,2
+Grandma!,very positive,0.6213,Family,0.9952,1
+I'm sorry about Mei today.,neutral,0.4813,Family,0.7282,5
+Not at all.,very negative,0.5828,Family,0.6201,3
+Sorry we couldn't do more.,uncertain,0.2681,Family,0.822,5
+Kanta lent us this umbrella.,uncertain,0.4032,Friendship,0.8161,5
+He did?,uncertain,0.4402,Family,0.706,2
+A broken old thing like that!,very negative,0.6974,Trauma,0.4225,6
+"Mei was with me, so I was glad.",very positive,0.5376,Family,0.9773,8
+But I'm so sorry that Kanta got wet.,very positive,0.476,Empathy,0.926,8
+Not at all.,very negative,0.5828,Family,0.6201,3
+It probably cleaned him up a little.,uncertain,0.4184,Personal Growth,0.9245,7
+Are you off to meet your father?,uncertain,0.3853,Family,0.9808,7
+Yes.,uncertain,0.3673,Family,0.9347,1
+What good girls you are.,uncertain,0.4322,Family,0.8521,5
+"Bye-bye, Mei.",uncertain,0.3484,Friendship,0.4815,2
+Bye-bye.,uncertain,0.3837,Family,0.644,1
+Who was that?,uncertain,0.3995,Identity,0.1971,3
+I don't know.,uncertain,0.4149,Personal Growth,0.5138,3
+Just in time!,very positive,0.5931,Family,0.867,3
+"DESTINATION MAEZAWA, INARIMAE STATION TOKYO ELECTRIC RAILWAY BUS Getting on?",uncertain,0.3362,Resilience,0.2124,10
+"All right, drive on.",uncertain,0.4046,Personal Growth,0.5651,4
+TOKYO BUS COMPANY Daddy wasn't on it.,negative,0.5558,Loneliness,0.3875,7
+He'll be on the next one.,uncertain,0.3791,Family,0.6412,6
+Why don't you wait at Nanny's?,uncertain,0.3352,Empathy,0.5805,6
+Are you okay?,neutral,0.5205,Empathy,0.7858,3
+Are you sleepy?,uncertain,0.3419,Family,0.4883,3
+I told you.,uncertain,0.3562,Family,0.8053,3
+Wanna go to Nanny's?,uncertain,0.2823,Empathy,0.0104,4
+Not much longer.,negative,0.4764,Family,0.8363,3
+Hang on.,uncertain,0.3281,Family,0.8286,2
+It's late...,negative,0.5061,Family,0.6573,2
+Come on.,uncertain,0.4016,Family,0.8255,2
+Are you Totoro?,uncertain,0.2885,Identity,0.4796,3
+Wait a minute.,neutral,0.5314,Family,0.7425,3
+You can use this.,uncertain,0.3018,Family,0.6524,4
+"Take it, Mei's slipping off.",uncertain,0.2783,Trauma,0.7141,5
+Hold it like this.,uncertain,0.4302,Family,0.7978,4
+Here's the bus!,very positive,0.4588,Resilience,0.583,3
+TSUKAMORI INARIMAE He took Daddy's umbrella.,uncertain,0.2779,Family,0.9847,6
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+Drive on.,uncertain,0.4063,Personal Growth,0.6231,2
+The train was late and I missed the bus.,negative,0.6738,Trauma,0.6278,9
+Were you worried?,uncertain,0.3913,Family,0.7315,3
+"We met him, Dad!",uncertain,0.4438,Family,0.9928,4
+He was here!,very positive,0.5745,Family,0.9024,3
+And the cat bus!,uncertain,0.2828,Resilience,0.5517,4
+What?,uncertain,0.396,Family,0.3908,1
+It was huge!,very positive,0.4933,Family,0.8453,3
+With big eyes like this!,very positive,0.5079,Family,0.6314,5
+We met him!,uncertain,0.4244,Friendship,0.7591,3
+We met Totoro!,very positive,0.5905,Friendship,0.3402,3
+How wonderful!,very positive,0.7439,Family,0.8849,2
+"Come on, Daddy.",uncertain,0.4428,Family,0.9955,3
+"Dear Mother, I can't tell you how excited I was today.",uncertain,0.3479,Family,0.9674,11
+"It was the scariest, funniest day I've ever had.",very negative,0.5267,Family,0.8074,9
+Totoro gave us a lovely present wrapped in bamboo leaves and tied with dragon whiskers.,positive,0.5082,Resilience,0.6865,15
+"When we opened it, it was full of magic nuts and seeds!",uncertain,0.4459,Family,0.8569,12
+"""We decided to plant them in the garden to make a lovely forest."" But they haven't sprouted yet.",neutral,0.4576,Family,0.7281,18
+"Mei sits there all day, waiting for them.",neutral,0.4533,Resilience,0.5612,8
+She looks like a little crab.,negative,0.4586,Trauma,0.5089,6
+CRAB MEI It's nearly summer vacation.,uncertain,0.3881,Trauma,0.216,6
+"Dearest, dear Mom, get well soon.",uncertain,0.3419,Family,0.9962,6
+"Love, Satsuki.",very positive,0.5066,Family,0.9792,2
+Come on.,uncertain,0.4016,Family,0.8255,2
+Bed time.,uncertain,0.3643,Family,0.5839,2
+Lights off!,uncertain,0.3932,Family,0.7136,2
+"Wait, Dad.",neutral,0.4627,Family,0.9946,2
+"Daddy, do you think they will come out tomorrow?",very positive,0.5039,Family,0.9851,9
+"Well, I'm sure Totoro would know.",uncertain,0.366,Resilience,0.505,6
+Night night.,neutral,0.5389,Family,0.8394,2
+"Wake up, Mei!",very positive,0.5746,Personal Growth,0.9236,3
+That's where we planted the seeds.,uncertain,0.3717,Personal Growth,0.7329,6
+"Wow, we did it!",very positive,0.472,Family,0.8618,4
+We're the wind!,very positive,0.59,Identity,0.3112,3
+There are no trees!,very negative,0.7288,Loneliness,0.1958,4
+Yes!,uncertain,0.4402,Family,0.8961,1
+It was a dream.,very positive,0.6531,Family,0.504,4
+But it wasn't a dream.,uncertain,0.4115,Family,0.8109,5
+We did it!,uncertain,0.4147,Family,0.8869,3
+Mr.,uncertain,0.3299,Family,0.6627,1
+Kusakabe!,uncertain,0.4257,Friendship,0.8375,1
+Telegram!,very positive,0.4553,Personal Growth,0.1822,1
+Mr.,uncertain,0.3299,Family,0.6627,1
+Kusakabe!,uncertain,0.4257,Friendship,0.8375,1
+Anyone home?,very negative,0.4726,Personal Growth,0.4735,2
+Nanny?,uncertain,0.4094,Family,0.025,1
+I'm here.,uncertain,0.4092,Identity,0.8841,2
+This one is ripe.,very negative,0.62,Personal Growth,0.8086,4
+What about this one?,very negative,0.4627,Family,0.5196,4
+"That's good, too.",uncertain,0.4044,Family,0.8439,3
+Your garden is a treasure trove.,very positive,0.5718,Resilience,0.2328,6
+Let's take a little break.,uncertain,0.3944,Family,0.7267,5
+These should be cold now.,uncertain,0.443,Family,0.8032,5
+Looks delicious.,positive,0.5542,Family,0.8319,2
+So good.,very positive,0.7086,Family,0.872,2
+"The sun blessed these, so they're really good for you.",very positive,0.4918,Resilience,0.6943,10
+Would they help my mom?,uncertain,0.2892,Family,0.8845,5
+Of course.,uncertain,0.37,Family,0.9305,2
+"If she eats my vegetables, she'll get better right away.",negative,0.5148,Personal Growth,0.9503,10
+She's supposed to be back next Saturday.,negative,0.4973,Family,0.8865,7
+She'll sleep in my bed!,very positive,0.5991,Family,0.96,5
+At last.,uncertain,0.3177,Family,0.7331,2
+That's wonderful.,very positive,0.6224,Family,0.8712,2
+But it's only for a couple of days.,neutral,0.4701,Family,0.8367,8
+To get used to the new house.,uncertain,0.3995,Personal Growth,0.8091,7
+I see.,neutral,0.4752,Family,0.8388,2
+"We'll feed her lots of vegetables, then.",neutral,0.5382,Family,0.9414,7
+I'll give her this corn I picked.,uncertain,0.4285,Family,0.733,7
+I'm sure she'll be very pleased.,uncertain,0.4371,Family,0.9385,6
+I know.,neutral,0.5486,Family,0.7759,2
+There was a telegram for you.,uncertain,0.3565,Resilience,0.3521,6
+For us?,uncertain,0.2799,Family,0.7878,2
+"Dad won't be back till late, what shall I do?",uncertain,0.2808,Family,0.9931,10
+"Open it, it might be important.",neutral,0.7042,Resilience,0.6886,6
+"Please contact, hospital...",uncertain,0.4041,Trauma,0.6154,3
+It's from Mom's hospital!,very positive,0.508,Trauma,0.2347,4
+Something's happened to her!,uncertain,0.3321,Trauma,0.8153,4
+Nanny!,very positive,0.6842,Family,0.2644,1
+What shall I do?,uncertain,0.4427,Personal Growth,0.547,4
+Calm down.,negative,0.4728,Family,0.8607,2
+Do you know where your dad is?,uncertain,0.4122,Family,0.9797,7
+"I know his office number, but we don't have a telephone.",neutral,0.6229,Resilience,0.6467,11
+"Kanta, take her to use the phone in the main house!",uncertain,0.3757,Family,0.9632,11
+"Mei, stay here with me!",very positive,0.6901,Family,0.991,5
+"Stay with Nanny, Mei!",very positive,0.7532,Family,0.9906,4
+"Hello, I'd like to make a long-distance call.",uncertain,0.3432,Family,0.6129,8
+It's Tokyo 31 1382.,uncertain,0.3874,Resilience,0.1624,4
+"A cute girl, Kanta.",positive,0.4849,Friendship,0.1968,4
+Hello?,uncertain,0.2903,Personal Growth,0.4987,1
+Yes?,uncertain,0.4134,Family,0.849,1
+"Hello, may I speak to Dad...",uncertain,0.3875,Family,0.9912,6
+Mr.,uncertain,0.3299,Family,0.6627,1
+Kusakabe?,uncertain,0.3774,Friendship,0.4426,1
+"It's his daughter, Satsuki.",uncertain,0.3272,Family,0.9952,4
+Daddy?,uncertain,0.3682,Family,0.9913,1
+"It's me, Satsuki!",very positive,0.6452,Identity,0.9891,3
+"Hello, what's wrong?",uncertain,0.3489,Empathy,0.6692,3
+From the hospital?,uncertain,0.439,Trauma,0.5725,3
+"Okay, I'll call them right away.",neutral,0.4533,Family,0.921,6
+Is there anything wrong with Mom?,uncertain,0.3619,Family,0.9586,6
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+I'll check up and call you right back.,uncertain,0.3566,Family,0.8129,8
+"I'll hang up now, stay there.",uncertain,0.3165,Family,0.8077,6
+May I stay here until he calls back?,uncertain,0.3227,Resilience,0.8413,8
+Stay as long as you like.,uncertain,0.3068,Personal Growth,0.8526,6
+Satsuki!,very positive,0.61,Friendship,0.7702,1
+"No, this corn is for my mommy!",very positive,0.5077,Family,0.9543,7
+"No, it's my mom's!",uncertain,0.2372,Family,0.9974,4
+"Listen, Mei.",uncertain,0.3044,Empathy,0.9554,2
+"Mom's not well, so she's not coming home this time.",negative,0.5953,Family,0.9899,10
+No!,very negative,0.5534,Family,0.9037,1
+There's nothing we can do.,uncertain,0.4268,Family,0.8237,5
+"You don't want her to get worse, do you?",uncertain,0.361,Family,0.9043,9
+No!,very negative,0.5534,Family,0.9037,1
+It's just for a few more days.,negative,0.5075,Family,0.8292,7
+No!,very negative,0.5534,Family,0.9037,1
+So you don't care if she dies?,uncertain,0.2585,Family,0.8336,7
+No!,very negative,0.5534,Family,0.9037,1
+Stop being silly!,uncertain,0.4389,Family,0.4953,3
+I'm going.,neutral,0.5202,Personal Growth,0.8843,2
+"Let's go, Mei.",uncertain,0.3453,Family,0.9211,3
+"I hate you, Satsuki!",very positive,0.4756,Trauma,0.566,4
+We should bring the washing in.,uncertain,0.398,Family,0.9157,6
+"Don't worry too much, Satsuki.",uncertain,0.3254,Friendship,0.6073,5
+"Nanny's here to help, so cheer up.",uncertain,0.3716,Family,0.8011,7
+Your dad said he'll stop by the hospital to check on her.,uncertain,0.3628,Family,0.9909,12
+"Besides, it's just a cold; she'll be back next week.",very negative,0.4647,Family,0.9204,10
+They said it was just a cold when she went into hospital.,uncertain,0.4417,Family,0.8816,12
+But what if she dies!,uncertain,0.3655,Trauma,0.8105,5
+"Don't be silly, Satsuki.",uncertain,0.3739,Personal Growth,0.5536,4
+Maybe Mom will...,uncertain,0.4248,Family,0.9806,3
+Stop it.,uncertain,0.4166,Family,0.7198,2
+Nobody would leave two pretty little girls like you.,uncertain,0.4319,Family,0.9063,9
+"There, there.",neutral,0.7319,Family,0.7697,2
+Don't cry.,uncertain,0.3868,Family,0.9195,2
+"I'll be here until Daddy comes back, okay?",uncertain,0.4245,Family,0.9871,8
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Did she come back?,uncertain,0.3576,Resilience,0.5457,4
+Wasn't she at the bus stop?,uncertain,0.4069,Identity,0.5887,6
+That's strange.,neutral,0.5388,Trauma,0.4527,2
+Where has she gone?,uncertain,0.4025,Trauma,0.5738,4
+"I was nasty to her, 'cause she was being silly...",very negative,0.5227,Family,0.5727,10
+Maybe she's heading for the hospital!,uncertain,0.2396,Trauma,0.6546,6
+The hospital?,uncertain,0.3656,Resilience,0.4737,2
+It would take a grown-up three hours!,uncertain,0.3541,Family,0.7291,7
+I'll go look!,uncertain,0.3762,Family,0.6024,3
+"Kanta, hurry!",very negative,0.4602,Personal Growth,0.4635,2
+Tell your dad that Mei is missing!,uncertain,0.2626,Family,0.9709,7
+Stupid Mei.,uncertain,0.3136,Trauma,0.0447,2
+Always getting lost.,very positive,0.4704,Family,0.4238,3
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Excuse me.,very negative,0.4911,Family,0.5672,2
+Have you seen a little girl pass by?,uncertain,0.4277,Family,0.6754,8
+She's my sister.,uncertain,0.3431,Family,0.9984,3
+"No, I don't think so.",uncertain,0.378,Family,0.9329,5
+I'm sure I would've noticed.,neutral,0.6743,Family,0.7718,5
+Maybe she wasn't here.,uncertain,0.2997,Family,0.805,4
+Are you sure she came this way?,uncertain,0.335,Family,0.8691,7
+I don't know.,uncertain,0.4149,Personal Growth,0.5138,3
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+"Please, stop!",uncertain,0.2802,Trauma,0.8104,2
+Idiot!,uncertain,0.4137,Identity,0.6692,1
+What are you doing?,neutral,0.5407,Personal Growth,0.5829,4
+I'm looking for my sister.,neutral,0.4875,Family,0.9936,5
+Have you seen a little girl?,uncertain,0.3636,Family,0.5803,6
+Your little sister?,very negative,0.4883,Family,0.9904,3
+She's four.,neutral,0.4693,Family,0.974,2
+I think she's heading to the hospital.,uncertain,0.3628,Trauma,0.6666,7
+Did you see anyone?,uncertain,0.3227,Personal Growth,0.2893,4
+No.,very negative,0.4577,Family,0.8406,1
+"We just came from there, but we didn't see anyone.",uncertain,0.3768,Loneliness,0.8018,10
+Thanks anyway.,neutral,0.5117,Family,0.866,2
+Where have you come from?,uncertain,0.3674,Personal Growth,0.5414,5
+From Matsugo.,uncertain,0.2589,Friendship,0.2247,2
+Matsugo?,uncertain,0.2655,Romantic Love,0.589,1
+Really?,uncertain,0.3086,Family,0.6704,1
+Good luck.,very negative,0.5839,Personal Growth,0.8221,2
+Satsuki!,very positive,0.61,Friendship,0.7702,1
+Kanta!,uncertain,0.3888,Personal Growth,0.5575,1
+Find her?,uncertain,0.297,Identity,0.7888,2
+No.,very negative,0.4577,Family,0.8406,1
+And you?,uncertain,0.2781,Personal Growth,0.737,2
+Dad and the others are looking for her.,neutral,0.4604,Family,0.9966,8
+"I'll go to the hospital, you go back home.",uncertain,0.3182,Trauma,0.705,9
+I guess she got lost on the way to the hospital.,uncertain,0.4075,Trauma,0.6408,11
+They found a sandal by the pond.,uncertain,0.3308,Personal Growth,0.3976,7
+We're not sure if it's hers or not!,likely_emotive,0.5782,Identity,0.9025,8
+Did you find her?,uncertain,0.2949,Family,0.4771,4
+"Dear Lord, please protect her and...",very positive,0.4543,Family,0.8896,6
+"It's too deep here, better search further away!",negative,0.4697,Trauma,0.7007,8
+"Hey, are there any poles left?",uncertain,0.4069,Resilience,0.0906,6
+"Grandma, Satsuki's here!",very positive,0.6278,Family,0.9964,3
+Nanny!,very positive,0.6842,Family,0.2644,1
+"Look, is it hers?",uncertain,0.3779,Family,0.7411,4
+"No, it isn't.",uncertain,0.3831,Family,0.7794,3
+"Thank heavens, I was sure it was hers.",very positive,0.6542,Family,0.9724,8
+Nanny was jumping to conclusions.,uncertain,0.3194,Family,0.7641,5
+It's not hers!,negative,0.456,Identity,0.5024,3
+Where did she go then?,uncertain,0.3542,Personal Growth,0.479,5
+Let's start from scratch.,uncertain,0.3731,Personal Growth,0.7007,4
+"Hurry, before it gets dark.",neutral,0.5288,Family,0.3991,5
+"I really appreciate your help, everyone.",uncertain,0.3558,Family,0.7865,6
+It could've been any of us.,uncertain,0.4121,Personal Growth,0.7761,6
+Someone should contact the police.,neutral,0.5036,Trauma,0.48,5
+"Please, help me, Totoro!",very positive,0.5917,Empathy,0.6669,4
+Mei is lost.,uncertain,0.2422,Loneliness,0.9323,3
+It'll be dark soon.,uncertain,0.372,Family,0.601,4
+I'm sure she's scared somewhere.,uncertain,0.3526,Trauma,0.7744,5
+Totoro!,very positive,0.6114,Romantic Love,0.7762,1
+Mei is lost and we can't find her!,uncertain,0.3974,Trauma,0.8355,8
+"She must be scared, please help me find her.",uncertain,0.3328,Empathy,0.9191,9
+I don't know what to do.,uncertain,0.343,Trauma,0.6607,6
+They can't see the bus.,uncertain,0.3995,Trauma,0.8121,5
+FOREST SWAMP CEMETERY SHRINE SANCTUARY LAKE MEI Mei!,very positive,0.5512,Resilience,0.1649,8
+The trees are moving out of the way!,uncertain,0.3503,Resilience,0.8078,8
+MEI Mei!,very positive,0.8004,Identity,0.9586,2
+Satsuki!,very positive,0.61,Friendship,0.7702,1
+Satsuki!,very positive,0.61,Friendship,0.7702,1
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Mei!,very positive,0.6518,Personal Growth,0.8368,1
+Satsuki!,very positive,0.61,Friendship,0.7702,1
+You silly girl.,very positive,0.497,Personal Growth,0.5324,3
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+You wanted to take the corn to Mom?,uncertain,0.3029,Family,0.978,8
+SHICHIKOKUYAMA HOSPITAL Will you take us there?,uncertain,0.4019,Trauma,0.5181,7
+Thank you so much.,uncertain,0.4449,Family,0.8915,4
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+They didn't need to send a telegram just for a cold.,very negative,0.4685,Family,0.5987,11
+The girls must be worried.,uncertain,0.336,Family,0.8875,5
+I'm sorry to upset them.,uncertain,0.4183,Family,0.8692,5
+They'll be fine.,neutral,0.7012,Family,0.9447,3
+As long as you're okay.,neutral,0.5143,Family,0.8077,5
+We've all learned to cope.,uncertain,0.3588,Resilience,0.8814,5
+This will just postpone the enjoyment.,uncertain,0.3611,Family,0.7495,6
+They've put up with it so well.,uncertain,0.3864,Family,0.9728,7
+"I'm especially sorry for Satsuki, she's so sensitive.",very positive,0.4753,Empathy,0.894,8
+You're right.,neutral,0.5339,Family,0.7645,2
+I'm going to spoil them for a while when I come home.,uncertain,0.3738,Family,0.9573,12
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+She's laughing!,very positive,0.4696,Family,0.9646,2
+Looks like she's fine.,uncertain,0.4026,Family,0.9321,4
+I can't wait to get back on my feet.,uncertain,0.4022,Personal Growth,0.9433,9
+Me too!,uncertain,0.373,Empathy,0.9053,2
+Look.,uncertain,0.3684,Family,0.8535,1
+Where did that come from?,uncertain,0.3573,Family,0.2448,5
+What?,uncertain,0.396,Family,0.3908,1
+I could swear I just saw Satsuki and Mei laughing up in that tree.,very positive,0.4954,Family,0.9423,14
+Maybe they were.,neutral,0.4947,Family,0.8429,3
+Look.,uncertain,0.3684,Family,0.8535,1
+TO MOM THE END,uncertain,0.2701,Family,0.9573,4
