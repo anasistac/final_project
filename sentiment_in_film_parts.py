@@ -9,8 +9,8 @@ from tqdm import tqdm
 # --- Configuration ---
 model_name = "cardiffnlp/twitter-roberta-base-sentiment"
 input_folder = "data_in_sentences/ghibli"  # or ghibli
-output_dir = "output_sentiment_curves/ghibli"
-n_parts = 10  # Number of parts to divide the movie
+output_dir = "output_sentiment_curves/1100_parts/ghibli"
+n_parts = 100  # Number of parts to divide the movie
 
 # --- Load model & tokenizer ---
 tokenizer = AutoTokenizer.from_pretrained(model_name)
