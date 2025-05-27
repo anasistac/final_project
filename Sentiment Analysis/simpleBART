@@ -1,6 +1,4 @@
-import torch
-import torch.nn.functional as F
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
+from transformers import pipeline
 import pandas as pd
 from tqdm import tqdm
 import re
@@ -8,29 +6,17 @@ import re
 # -------------------------------------------
 # Configuration of the models
 # -------------------------------------------
-# Sentiment model
-sentiment_model_name = "tabularisai/multilingual-sentiment-analysis"
-sentiment_tokenizer = AutoTokenizer.from_pretrained(sentiment_model_name)
-sentiment_model = AutoModelForSequenceClassification.from_pretrained(sentiment_model_name)
-sentiment_model.eval()
-
-# Zero-shot theme classifier
+# Zero-shot classifier for both sentiment and themes
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+
+# Sentiment labels
+sentiment_labels = ["very negative", "negative", "neutral", "positive", "very positive"]
 
 # Temas a clasificar
 themes = [
     "Resilience", "Grief", "Trauma", "Personal Growth", "Empathy",
     "Romantic Love", "Friendship", "Family", "Loneliness", "Identity"
 ]
-
-# Sentiment label mapping
-label_map = {
-    "LABEL_0": "very negative",
-    "LABEL_1": "negative",
-    "LABEL_2": "neutral",
-    "LABEL_3": "positive",
-    "LABEL_4": "very positive"
-}
 
 # Heuristics for commands and phrases 
 def is_command_or_alert(text):
@@ -39,7 +25,7 @@ def is_command_or_alert(text):
 # -------------------------------------------
 # Script phrases 
 # -------------------------------------------
-with open("data_in_sentences/ghibli/Kiki's.Delivery.Service_cleaned_sentences.txt", "r", encoding="utf-8") as f:
+with open("data_in_sentences/ghibli/Ponyo_cleaned_sentences.txt", "r", encoding="utf-8") as f:
     lines = [line.strip() for line in f if line.strip()]
 
 results = []
@@ -48,20 +34,16 @@ results = []
 # Classification line by line
 # -------------------------------------------
 for line in tqdm(lines, desc="Classifying sentiment and themes"):
-    # Sentiment analysis
-    encoded = sentiment_tokenizer(line, truncation=True, max_length=514, return_tensors="pt")
-    with torch.no_grad():
-        output = sentiment_model(**encoded)
-        probs = F.softmax(output.logits, dim=1)
-        pred_id = torch.argmax(probs, dim=1).item()
-        score = probs[0][pred_id].item()
-        label_key = f"LABEL_{pred_id}"
-        sentiment = label_map[label_key]
-        
-        if score < 0.45:
-            sentiment = "uncertain"
-        elif sentiment == "neutral" and is_command_or_alert(line):
-            sentiment = "likely_emotive"
+    # Sentiment analysis using zero-shot classification
+    sentiment_pred = classifier(line, sentiment_labels)
+    sentiment = sentiment_pred["labels"][0]
+    sentiment_score = sentiment_pred["scores"][0]
+    
+    # Apply heuristics
+    if sentiment_score < 0.45:
+        sentiment = "uncertain"
+    elif sentiment == "neutral" and is_command_or_alert(line):
+        sentiment = "likely_emotive"
 
     # Theme classification
     theme_pred = classifier(line, themes, multi_label=True)
@@ -71,7 +53,7 @@ for line in tqdm(lines, desc="Classifying sentiment and themes"):
     results.append({
         "text": line,
         "sentiment": sentiment,
-        "sentiment_score": round(score, 4),
+        "sentiment_score": round(sentiment_score, 4),
         "theme": top_theme,
         "theme_score": round(theme_score, 4),
         "length": len(line.split())
@@ -81,5 +63,5 @@ for line in tqdm(lines, desc="Classifying sentiment and themes"):
 # Export CSV
 # -------------------------------------------
 df = pd.DataFrame(results)
-df.to_csv("KIKI.deliverservice.csv", index=False)
+df.to_csv("subtitles_sentiment_and_theme_Ponyo.csv", index=False)
 print(df.head())

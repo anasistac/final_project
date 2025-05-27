@@ -1,0 +1,1096 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+"Once upon a time, in a faraway land, a young prince lived in a shining castle.",uncertain,0.4078,Romantic Love,0.4287,16
+"Although he had everything his heart desired, the prince was spoiled, selfish and unkind.",very positive,0.6308,Family,0.715,14
+"But then, one winter's night, an old beggar woman came to the castle and offered him a single rose in return for shelter from the bitter cold.",uncertain,0.3437,Empathy,0.836,27
+"Repulsed by her haggard appearance, the prince sneered at the gift and turned the old woman away.",very negative,0.5108,Trauma,0.9122,17
+"But she warned him not to be deceived by appearances, for beauty is found within.",uncertain,0.3248,Family,0.8506,15
+"And when he dismissed her again, the old woman's ugliness melted away to reveal a beautiful enchantress.",uncertain,0.297,Resilience,0.8715,17
+"The prince tried to apologize, but it was too late, for she had seen that there was no love in his heart.",negative,0.5213,Family,0.8284,22
+"And as punishment, she transformed him into a hideous beast and placed a powerful spell on the castle and all who lived there.",very positive,0.4762,Trauma,0.76,23
+"Ashamed of his monstrous form, the Beast concealed himself inside his castle with a magic mirror as his only window to the outside world.",uncertain,0.43,Resilience,0.4564,24
+"The rose she had offered was truly an enchanted rose, which would bloom until his 21st year.",very positive,0.5146,Personal Growth,0.8329,17
+"If he could learn to love another and earn her love in return by the time the last petal fell, then the spell would be broken.",uncertain,0.3257,Personal Growth,0.8523,26
+"If not, he would be doomed to remain a beast for all time.",uncertain,0.2817,Trauma,0.6703,13
+"As the years passed, he fell into despair and lost all hope, for who could ever learn to love a beast?",very negative,0.7097,Trauma,0.8946,21
+"Little town, it's a quiet village Every day like the one before Little town, full of little people Waking up to say...",neutral,0.4946,Resilience,0.6917,22
+"There goes the baker with his tray, like always The same old bread and rolls to sell Every morning just the same Since the morning that we came To this poor provincial town Good morning, Belle.",uncertain,0.2984,Resilience,0.8663,36
+"Morning, monsieur.",uncertain,0.3219,Personal Growth,0.7433,2
+Where you off to?,uncertain,0.4148,Personal Growth,0.5996,4
+The bookshop.,uncertain,0.3495,Resilience,0.1289,2
+I just finished the most wonderful story about a beanstalk and an ogre and...,very positive,0.4959,Resilience,0.016,14
+That's nice.,uncertain,0.4407,Family,0.8447,2
+"Marie, the baguettes!",very positive,0.6663,Family,0.0987,3
+Hurry up!,uncertain,0.3775,Family,0.8087,2
+"Look, there she goes The girl is strange, no question Dazed and distracted, can't you tell?",uncertain,0.4166,Trauma,0.7917,16
+Never part of any crowd 'Cause her head's up on some cloud No denying she's a funny girl that Belle -Bonjour -Good day How is your family?,uncertain,0.2729,Family,0.9159,27
+-Bonjour -Good day How is your wife?,uncertain,0.341,Family,0.9699,7
+I need six eggs That's too expensive There must be more than this provincial life Belle.,uncertain,0.3114,Family,0.7557,16
+Good morning.,neutral,0.5165,Family,0.8532,2
+I've come to return the book I borrowed.,uncertain,0.3709,Trauma,0.5667,8
+Finished already?,uncertain,0.3035,Family,0.4767,2
+I couldn't put it down.,uncertain,0.3357,Family,0.7624,5
+Have you got anything new?,uncertain,0.4163,Family,0.3976,5
+Not since yesterday.,negative,0.5346,Personal Growth,0.7695,3
+That's all right.,neutral,0.4734,Family,0.8165,3
+I'll borrow this one.,very negative,0.6267,Family,0.6616,4
+That one?,uncertain,0.3335,Family,0.7049,2
+But you've read it twice.,uncertain,0.3716,Family,0.7632,5
+"Well, it's my favorite.",uncertain,0.4,Family,0.8342,4
+"Far-off places, daring sword fights, magic spells, a prince in disguise.",neutral,0.6534,Resilience,0.0557,11
+"If you like it all that much, it's yours.",neutral,0.5439,Family,0.639,9
+"But, sir...",uncertain,0.2878,Personal Growth,0.5893,2
+I insist.,uncertain,0.323,Family,0.8548,2
+"Well, thank you.",uncertain,0.3315,Family,0.8278,3
+Thank you very much.,uncertain,0.4422,Family,0.8661,4
+"Look, there she goes That girl is so peculiar I wonder if she's feeling well With a dreamy, far-off look And her nose stuck in a book What a puzzle to the rest of us is Belle Isn't this amazing?",uncertain,0.2903,Family,0.3264,40
+"It's my favorite part Because you'll see Here's where she meets Prince Charming But she won't discover that it's him Till chapter three Hey, hey!",uncertain,0.3575,Romantic Love,0.9272,25
+"Hey, hey, hey!",uncertain,0.3787,Family,0.7728,3
+"Now it's no wonder that her name means beauty Her looks have got no parallel But behind that fair facade I'm afraid she's rather odd Very different from the rest of us She's nothing like the rest of us Yes, different from the rest of us is Belle Wow!",very positive,0.6327,Personal Growth,0.6295,49
+"You didn't miss a shot, Gaston.",uncertain,0.3193,Resilience,0.5231,6
+You're the greatest hunter in the whole world!,very positive,0.8093,Identity,0.1906,8
+I know.,neutral,0.5486,Family,0.7759,2
+No beast alive stands a chance against you.,uncertain,0.2963,Resilience,0.8536,8
+"And no girl, for that matter.",very negative,0.5576,Loneliness,0.7041,6
+"It's true, LeFou.",very positive,0.4826,Personal Growth,0.689,3
+And I've got my sights set on that one.,uncertain,0.3849,Family,0.7657,9
+The inventor's daughter?,uncertain,0.3847,Family,0.95,3
+She's the one.,uncertain,0.4064,Identity,0.9717,3
+The lucky girl I'm going to marry.,uncertain,0.2859,Romantic Love,0.7609,7
+But she...,uncertain,0.3139,Family,0.9255,2
+The most beautiful girl in town.,very positive,0.6759,Romantic Love,0.2841,6
+"I know, but...",neutral,0.4698,Family,0.6957,3
+That makes her the best.,very positive,0.5405,Resilience,0.7763,5
+And don't I deserve the best?,uncertain,0.2495,Personal Growth,0.7465,6
+"Well, of course.",neutral,0.4931,Family,0.9007,3
+"I mean, you do.",uncertain,0.3745,Family,0.6917,4
+"Right from the moment when I met her, saw her I said she's gorgeous, and I fell Here in town there's only she Who is beautiful as me So I'm making plans to woo and marry Belle Look, there he goes Isn't he dreamy?",very positive,0.6331,Romantic Love,0.9498,44
+"Monsieur Gaston Oh, he's so cute Be still, my heart I'm hardly breathing He's such a tall, dark, strong and handsome brute -Bonjour -Good day -You call this bacon?",very positive,0.828,Romantic Love,0.289,29
+"-What lovely grapes -Some cheese -Ten yards -Excuse me -I'll get the knife -Please let me through -This bread, it's stale -Those fish, they smell -Madame's mistaken There must be more than this provincial life Just watch, I'm going to make Belle my wife Look, there she goes a girl who's strange but special A most peculiar mademoiselle It's a pity and a sin She doesn't quite fit in 'Cause she really is a funny girl A beauty but a funny girl She really is a funny girl That Belle Hello, Belle.",neutral,0.4802,Personal Growth,0.9445,92
+"Bonjour, Gaston.",uncertain,0.3304,Friendship,0.9623,2
+"Gaston, may I have my book, please?",uncertain,0.3314,Resilience,0.5997,7
+How can you read this?,uncertain,0.2902,Family,0.6224,5
+There's no pictures.,very negative,0.6429,Family,0.7836,3
+"Well, some people use their imagination.",neutral,0.4664,Personal Growth,0.3209,6
+"Belle, it's about time you got your head out of those books and paid attention to more important things.",uncertain,0.3994,Personal Growth,0.6697,19
+Like me.,uncertain,0.3727,Identity,0.9552,2
+The whole town's talking about it.,uncertain,0.3913,Family,0.8073,6
+It's not right for a woman to read.,negative,0.4544,Trauma,0.5983,8
+Soon she starts getting ideas and thinking.,uncertain,0.3874,Personal Growth,0.9472,7
+"Gaston, you are positively primeval.",very positive,0.4956,Personal Growth,0.2255,5
+"Why, thank you, Belle.",uncertain,0.3977,Family,0.9466,4
+What do you say you and me take a walk over to the tavern and take a look at my trophies?,neutral,0.5143,Personal Growth,0.7622,21
+Maybe some other time.,uncertain,0.4356,Family,0.4543,4
+What's wrong with her?,uncertain,0.436,Family,0.4243,4
+She's crazy.,uncertain,0.3193,Family,0.6004,2
+He's gorgeous.,very positive,0.5762,Family,0.8574,2
+"Please, Gaston, I can't.",uncertain,0.2467,Family,0.8872,4
+I have to get home to help my father.,uncertain,0.3686,Family,0.9922,9
+Goodbye.,uncertain,0.3694,Grief,0.7624,1
+That crazy old loon.,uncertain,0.2632,Trauma,0.1222,4
+He needs all the help he can get.,uncertain,0.2841,Personal Growth,0.7877,8
+Don't talk about my father that way.,uncertain,0.4122,Family,0.9282,7
+Yeah!,uncertain,0.3534,Family,0.8606,1
+Don't talk about her father that way.,uncertain,0.4249,Family,0.9438,7
+My father is not crazy.,uncertain,0.3776,Family,0.9861,5
+He's a genius.,very positive,0.6158,Resilience,0.7564,3
+Papa?,uncertain,0.2659,Family,0.8813,1
+How on earth did that happen?,uncertain,0.3401,Family,0.7123,6
+Doggone it!,uncertain,0.3564,Trauma,0.3681,2
+"Are you all right, Papa?",uncertain,0.3648,Family,0.9702,5
+I'm...,uncertain,0.4284,Identity,0.9587,1
+I'm about ready to give up on this hunk of junk.,very negative,0.4714,Trauma,0.4632,11
+You always say that.,uncertain,0.4131,Family,0.6463,4
+I mean it this time!,very positive,0.5889,Personal Growth,0.8723,5
+I'll never get this boneheaded contraption to work!,very negative,0.7601,Trauma,0.4962,8
+"Yes, you will.",uncertain,0.4441,Family,0.9029,3
+And you'll win first prize at the fair tomorrow.,uncertain,0.4005,Personal Growth,0.6243,9
+And become a world-famous inventor.,very positive,0.6994,Resilience,0.4697,5
+You really believe that?,uncertain,0.2859,Family,0.6691,4
+I always have.,very positive,0.4787,Family,0.8776,3
+"Well, what are we waiting for?",uncertain,0.4459,Family,0.6481,6
+I'll have this thing fixed in no time.,neutral,0.5353,Resilience,0.814,8
+Hand me that...,uncertain,0.3262,Family,0.8248,3
+The dog-legged clincher there.,uncertain,0.322,Trauma,0.5397,4
+"So, did you have a good time in town today?",uncertain,0.3806,Empathy,0.4791,10
+I got a new book.,uncertain,0.4478,Resilience,0.7251,5
+"Papa, do you think I'm odd?",uncertain,0.3256,Family,0.9563,6
+My daughter?,very negative,0.5318,Family,0.9916,2
+Odd?,uncertain,0.3682,Personal Growth,0.3658,1
+Where would you get an idea like that?,uncertain,0.3238,Resilience,0.2772,8
+I don't know.,uncertain,0.4149,Personal Growth,0.5138,3
+It's just that I'm not sure I fit in here.,uncertain,0.4054,Family,0.7706,10
+There's no one I can really talk to.,uncertain,0.3756,Loneliness,0.9628,8
+What about that Gaston?,uncertain,0.3933,Empathy,0.4287,4
+He's a handsome fella.,uncertain,0.3905,Resilience,0.6224,4
+"He's handsome, all right, and rude and conceited and...",uncertain,0.3917,Identity,0.5964,9
+"Papa, he's not for me.",negative,0.5081,Personal Growth,0.3255,5
+"Well, don't you worry.",uncertain,0.3499,Family,0.7101,4
+'Cause this invention's gonna be the start of a new life for us.,uncertain,0.273,Personal Growth,0.8756,13
+I think that's done it.,uncertain,0.3905,Family,0.8163,5
+"Now, let's give it a try.",uncertain,0.434,Personal Growth,0.6776,6
+It works!,uncertain,0.3919,Family,0.8394,2
+It does?,neutral,0.636,Family,0.7456,2
+It does!,likely_emotive,0.5031,Family,0.8105,2
+You did it.,uncertain,0.4099,Family,0.8007,3
+You really did it!,positive,0.471,Family,0.8013,4
+"Hitch up Philippe, girl.",uncertain,0.3392,Romantic Love,0.7736,4
+I'm off to the fair!,uncertain,0.3651,Resilience,0.4642,5
+"Goodbye, Papa.",uncertain,0.3412,Family,0.9765,2
+Good luck.,very negative,0.5839,Personal Growth,0.8221,2
+"Goodbye, Belle.",very positive,0.5994,Family,0.8145,2
+Take care while I'm gone.,uncertain,0.2993,Personal Growth,0.7295,5
+We should be there by now.,neutral,0.466,Family,0.7645,6
+Maybe we missed a turn.,uncertain,0.3024,Family,0.7297,5
+I guess I should've taken...,neutral,0.4944,Family,0.5378,5
+Wait a minute.,neutral,0.5314,Family,0.7425,3
+No.,very negative,0.4577,Family,0.8406,1
+Let's go this way.,neutral,0.4622,Family,0.8142,4
+"Come on, Philippe, it's a shortcut.",uncertain,0.2843,Personal Growth,0.4767,6
+We'll be there in no time.,very negative,0.4965,Family,0.8343,6
+This can't be right.,uncertain,0.4488,Family,0.8194,4
+"Where have you taken us, Philippe?",uncertain,0.3713,Personal Growth,0.398,6
+We better turn around.,uncertain,0.2914,Family,0.8189,4
+Whoa.,uncertain,0.4024,Family,0.7479,1
+"Whoa, boy.",uncertain,0.3524,Personal Growth,0.7524,2
+"Whoa, now, whoa, Philippe.",uncertain,0.3463,Personal Growth,0.892,4
+Look out!,uncertain,0.3944,Family,0.6713,2
+No!,very negative,0.5534,Family,0.9037,1
+Whoa!,very positive,0.5642,Family,0.7385,1
+"Whoa, boy!",very positive,0.6286,Personal Growth,0.8247,2
+"Back up, back up, back up!",likely_emotive,0.4705,Family,0.6846,6
+Good boy.,very positive,0.5385,Family,0.9179,2
+Good boy.,very positive,0.5385,Family,0.9179,2
+"That's good, that's...",uncertain,0.3956,Family,0.75,3
+Back up!,uncertain,0.4112,Family,0.7821,2
+"Steady, steady, now.",neutral,0.5726,Family,0.8545,3
+Steady.,uncertain,0.4072,Resilience,0.908,1
+Steady.,uncertain,0.4072,Resilience,0.908,1
+"No, Philippe!",very negative,0.5449,Trauma,0.6972,2
+Philippe?,uncertain,0.2822,Personal Growth,0.7554,1
+Help!,uncertain,0.4477,Family,0.7238,1
+Is...,neutral,0.5624,Family,0.4241,1
+Is someone there?,neutral,0.5448,Resilience,0.192,3
+Help!,uncertain,0.4477,Family,0.7238,1
+Hello?,uncertain,0.2903,Personal Growth,0.4987,1
+Hello!,very positive,0.6173,Friendship,0.7159,1
+Poor fellow must have lost his way in the woods.,uncertain,0.4049,Empathy,0.8523,10
+Keep quiet.,uncertain,0.3738,Family,0.9165,2
+Maybe he'll go away.,uncertain,0.2774,Trauma,0.6204,4
+Is someone there?,neutral,0.5448,Resilience,0.192,3
+"Not a word, Lumiere.",very negative,0.6323,Loneliness,0.0362,4
+Not one word.,very negative,0.5438,Family,0.421,3
+"I don't mean to intrude, but I've lost my horse and I need a place to stay for the night.",uncertain,0.3136,Empathy,0.783,20
+"Cogsworth, have a heart.",uncertain,0.4408,Empathy,0.8497,4
+"Of course, monsieur, you are welcome here.",uncertain,0.4375,Friendship,0.9076,7
+Who said that?,uncertain,0.3734,Family,0.3709,3
+Over here.,uncertain,0.3076,Family,0.8209,2
+Where?,uncertain,0.3606,Personal Growth,0.2031,1
+Hello.,very positive,0.4517,Family,0.8371,1
+Incredible!,very positive,0.7005,Family,0.8318,1
+"Well, now you've done it, Lumiere.",uncertain,0.3329,Personal Growth,0.7311,6
+Splendid.,very positive,0.5695,Family,0.8917,1
+Just peachy.,uncertain,0.4242,Family,0.9248,2
+How is this accomplished?,uncertain,0.4213,Resilience,0.2422,4
+Put me down at once.,uncertain,0.2761,Trauma,0.5758,5
+Stop that!,uncertain,0.448,Trauma,0.7472,2
+"Stop that, I say!",uncertain,0.2667,Family,0.6099,4
+"Sir, close that at once!",very positive,0.4827,Trauma,0.6326,5
+Do you mind?,uncertain,0.2897,Family,0.8103,3
+I beg your pardon.,uncertain,0.4485,Trauma,0.5594,4
+It's...,neutral,0.5018,Family,0.8861,1
+It's just that I've never seen a clock that...,very negative,0.5543,Resilience,0.0497,9
+"You are soaked to the bone, monsieur.",uncertain,0.4336,Trauma,0.7555,7
+Come.,very positive,0.4658,Family,0.9248,1
+Warm yourself by the fire.,uncertain,0.4417,Personal Growth,0.5947,5
+Thank you.,positive,0.5047,Family,0.8872,2
+"No, no, no!",very negative,0.5215,Family,0.9186,3
+You know what the master will do if he finds him here.,uncertain,0.4378,Identity,0.479,12
+I demand that you stop right there.,uncertain,0.3148,Family,0.8251,7
+"No, no.",uncertain,0.4292,Family,0.8691,2
+Not the master's chair.,negative,0.4788,Personal Growth,0.2598,4
+I'm not seeing this.,negative,0.4686,Personal Growth,0.5439,4
+I'm not seeing this.,negative,0.4686,Personal Growth,0.5439,4
+"Well, hello there, boy.",uncertain,0.383,Personal Growth,0.8016,4
+What service.,neutral,0.6594,Resilience,0.2603,2
+All right.,uncertain,0.4407,Family,0.828,2
+This has gone far enough.,negative,0.4695,Family,0.6738,5
+I'm in charge here...,uncertain,0.4043,Identity,0.7929,4
+"How would you like a nice spot of tea, sir?",uncertain,0.3324,Empathy,0.5717,10
+It'll warm you up in no time.,very positive,0.4968,Family,0.7857,7
+No.,very negative,0.4577,Family,0.8406,1
+No tea.,very negative,0.7483,Personal Growth,0.5419,2
+No tea!,very negative,0.7364,Personal Growth,0.573,2
+"His mustache tickles, Mama.",uncertain,0.3201,Family,0.9732,4
+Hello.,very positive,0.4517,Family,0.8371,1
+There's a stranger here.,uncertain,0.4089,Trauma,0.4447,4
+"Master, allow me to explain.",very positive,0.4794,Resilience,0.7728,5
+The gentleman was lost in the woods.,uncertain,0.4274,Trauma,0.64,7
+"He was cold and wet, so...",uncertain,0.434,Resilience,0.8442,6
+"Master, I'd like to take this moment to say I was against this from the start.",very positive,0.4849,Family,0.8019,16
+It was all his fault.,very negative,0.5873,Trauma,0.7794,5
+I tried to stop them.,uncertain,0.3463,Family,0.7185,5
+Would they listen to me?,uncertain,0.4202,Family,0.7016,5
+"No, no...",uncertain,0.4048,Family,0.8869,2
+Who are you?,uncertain,0.3426,Identity,0.9213,3
+What are you doing here?,neutral,0.5323,Identity,0.3317,5
+I...,uncertain,0.4219,Identity,0.9149,1
+I...,uncertain,0.4219,Identity,0.9149,1
+I was lost in the woods and...,uncertain,0.3099,Trauma,0.842,7
+You are not welcome here!,very negative,0.5366,Loneliness,0.8222,5
+I...,uncertain,0.4219,Identity,0.9149,1
+I'm...,uncertain,0.4284,Identity,0.9587,1
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+What are you staring at?,uncertain,0.3411,Personal Growth,0.1817,5
+Nothing.,very negative,0.5949,Loneliness,0.5474,1
+"So, you've come to stare at the Beast, have you?",uncertain,0.3599,Trauma,0.0247,10
+"Please, I meant no harm!",uncertain,0.3879,Family,0.6519,5
+I just needed a place to stay.,negative,0.4771,Resilience,0.305,7
+I'll give you a place to stay!,positive,0.4534,Friendship,0.685,7
+"No, no, please!",uncertain,0.3675,Family,0.8873,3
+No!,very negative,0.5534,Family,0.9037,1
+No!,very negative,0.5534,Family,0.9037,1
+"Oh, boy.",very positive,0.5203,Family,0.8109,2
+"Belle's gonna get the surprise of her life, huh, Gaston?",uncertain,0.3329,Romantic Love,0.7704,10
+"Yep, this is her lucky day.",uncertain,0.3875,Family,0.8881,6
+I'd like to thank you all for coming to my wedding.,uncertain,0.3763,Family,0.8652,11
+"First, I better go in there and propose to the girl.",uncertain,0.4273,Romantic Love,0.8738,11
+"And you, LeFou, now, when Belle and I come out that door...",very positive,0.5278,Family,0.9179,12
+I know.,neutral,0.5486,Family,0.7759,2
+I know.,neutral,0.5486,Family,0.7759,2
+I strike up the band!,uncertain,0.379,Resilience,0.5632,5
+Not yet.,uncertain,0.3419,Family,0.6732,2
+Sorry.,uncertain,0.3377,Family,0.7528,1
+"Gaston, what a pleasant surprise.",positive,0.5304,Personal Growth,0.7523,5
+"Isn't it, though?",neutral,0.4533,Family,0.7463,3
+I'm just full of surprises.,neutral,0.5644,Personal Growth,0.6927,5
+"You know, Belle, there's not a girl in town who wouldn't love to be in your shoes.",uncertain,0.3906,Empathy,0.866,17
+This is the day...,uncertain,0.2875,Resilience,0.5146,4
+This is the day your dreams come true.,very positive,0.7644,Family,0.761,8
+"What do you know about my dreams, Gaston?",uncertain,0.4457,Personal Growth,0.675,8
+Plenty!,uncertain,0.3687,Family,0.799,1
+Here.,uncertain,0.4147,Family,0.8075,1
+Picture this.,uncertain,0.385,Family,0.8252,2
+"A rustic hunting lodge, my latest kill roasting on the fire and my little wife massaging my feet while the little ones play on the floor with the dogs.",uncertain,0.4408,Family,0.6135,29
+We'll have six or seven.,neutral,0.6385,Family,0.9287,5
+Dogs?,uncertain,0.3398,Resilience,0.0553,1
+"No, Belle.",uncertain,0.3777,Family,0.8018,2
+Strapping boys like me.,uncertain,0.3771,Resilience,0.6172,4
+Imagine that.,neutral,0.5005,Personal Growth,0.7313,2
+Do you know who that little wife will be?,uncertain,0.3645,Family,0.9476,9
+Let me think.,uncertain,0.3595,Personal Growth,0.7331,3
+"You, Belle.",very positive,0.6184,Family,0.9867,2
+"Gaston, I'm...",uncertain,0.3147,Identity,0.9708,2
+I'm speechless.,very negative,0.713,Family,0.8976,2
+I really don't know what to say.,uncertain,0.4161,Family,0.6444,7
+Say you'll marry me.,uncertain,0.2842,Romantic Love,0.8908,4
+"I'm very sorry, Gaston, but...",very positive,0.6309,Empathy,0.8541,5
+But I just don't deserve you!,uncertain,0.3713,Grief,0.7485,6
+"So, how'd it go?",neutral,0.4778,Family,0.503,4
+I'll have Belle for my wife.,uncertain,0.3159,Family,0.9895,6
+Make no mistake about that.,uncertain,0.3412,Family,0.7868,5
+Touchy.,uncertain,0.374,Family,0.807,1
+Is he gone?,very negative,0.5281,Trauma,0.4736,3
+Can you imagine?,uncertain,0.4216,Family,0.5596,3
+He asked me to marry him.,uncertain,0.3121,Family,0.8219,6
+"Me, the wife of that boorish, brainless...",very negative,0.7527,Family,0.9863,7
+Madame Gaston Can't you just see it?,uncertain,0.3566,Resilience,0.4584,7
+"Madame Gaston His little wife No, sir, not me, I guarantee it I want much more than this provincial life I want adventure in the great wide somewhere I want it more than I can tell And for once it might be grand To have someone understand I want so much more than they've got planned Philippe!",very positive,0.6726,Family,0.993,57
+What are you doing here?,neutral,0.5323,Identity,0.3317,5
+Where's...,uncertain,0.3754,Family,0.3905,1
+Where's Papa?,uncertain,0.3807,Family,0.9809,2
+"Where is he, Philippe?",uncertain,0.3574,Personal Growth,0.6647,4
+What happened?,very negative,0.489,Family,0.3208,2
+We have to find him.,uncertain,0.3968,Family,0.7193,5
+You have to take me to him.,uncertain,0.3334,Identity,0.6257,7
+What is this place?,uncertain,0.3949,Resilience,0.0176,4
+"Philippe, please, steady.",uncertain,0.4036,Family,0.7775,3
+Steady.,uncertain,0.4072,Resilience,0.908,1
+Papa!,very positive,0.5612,Family,0.9686,1
+"Couldn't keep quiet, could we?",uncertain,0.3025,Family,0.8771,5
+"Just had to invite him to stay, didn't we?",uncertain,0.3975,Family,0.9738,9
+"Serve him tea, sit in the master's chair.",uncertain,0.3937,Friendship,0.8035,8
+Pet the pooch.,uncertain,0.3044,Empathy,0.552,3
+I was trying to be hospitable.,negative,0.4546,Empathy,0.8349,6
+Hello?,uncertain,0.2903,Personal Growth,0.4987,1
+Is anyone here?,uncertain,0.3774,Personal Growth,0.4869,3
+Hello?,uncertain,0.2903,Personal Growth,0.4987,1
+Papa?,uncertain,0.2659,Family,0.8813,1
+Papa?,uncertain,0.2659,Family,0.8813,1
+Are you here?,uncertain,0.3833,Family,0.6745,3
+"Mama, there's a girl in the castle.",uncertain,0.423,Family,0.9197,7
+"Now, Chip, I'll not have you making up such wild stories.",uncertain,0.2946,Family,0.5077,11
+"Really, Mama.",uncertain,0.4114,Family,0.9675,2
+I saw her.,uncertain,0.4056,Family,0.8384,3
+Not another word.,uncertain,0.4101,Family,0.3543,3
+Into the tub.,uncertain,0.2989,Personal Growth,0.6795,3
+But...,uncertain,0.3872,Family,0.8111,1
+What?,uncertain,0.396,Family,0.3908,1
+A girl.,uncertain,0.294,Personal Growth,0.7938,2
+I saw a girl in the castle.,uncertain,0.4021,Resilience,0.4965,7
+"See, I told you.",uncertain,0.3645,Family,0.8122,4
+"Irresponsible, devil-may-care, waxy-eared, slack-jawed...",neutral,0.5504,Family,0.5488,4
+Papa?,uncertain,0.2659,Family,0.8813,1
+Did you see that?,uncertain,0.2802,Family,0.7226,4
+It's a girl!,very positive,0.4784,Family,0.9477,3
+I know it's a girl.,uncertain,0.3794,Family,0.9521,5
+Don't you see?,uncertain,0.3948,Family,0.7576,3
+She's the one.,uncertain,0.4064,Identity,0.9717,3
+The girl we have been waiting for.,uncertain,0.3158,Romantic Love,0.5706,7
+-She has come to break the spell.,uncertain,0.3498,Family,0.6996,7
+-Wait a minute.,neutral,0.5315,Family,0.7678,3
+Wait a minute.,neutral,0.5314,Family,0.7425,3
+Papa?,uncertain,0.2659,Family,0.8813,1
+Papa?,uncertain,0.2659,Family,0.8813,1
+Hello?,uncertain,0.2903,Personal Growth,0.4987,1
+Is someone here?,neutral,0.45,Personal Growth,0.3807,3
+Wait!,uncertain,0.368,Family,0.5416,1
+I'm looking for my father.,neutral,0.5038,Family,0.9938,5
+I...,uncertain,0.4219,Identity,0.9149,1
+That's funny.,uncertain,0.4022,Family,0.6706,2
+I'm sure there was someone.,neutral,0.6383,Personal Growth,0.4367,5
+Is anyone here?,uncertain,0.3774,Personal Growth,0.4869,3
+Belle?,very positive,0.506,Romantic Love,0.7402,1
+Papa!,very positive,0.5612,Family,0.9686,1
+How did you find me?,neutral,0.4593,Identity,0.7205,5
+Your hands are like ice.,very negative,0.5255,Family,0.4893,5
+We have to get you out of there.,uncertain,0.2958,Trauma,0.6901,8
+"Belle, I want you to leave this place.",very positive,0.463,Trauma,0.6987,8
+Who's done this to you?,uncertain,0.4051,Trauma,0.6351,5
+No time to explain.,very negative,0.6689,Family,0.4845,4
+You must go.,uncertain,0.3105,Family,0.7908,3
+Now!,very positive,0.572,Family,0.6186,1
+I won't leave you.,very negative,0.4675,Resilience,0.9456,4
+What are you doing here?,neutral,0.5323,Identity,0.3317,5
+"Run, Belle!",very positive,0.6131,Family,0.9284,2
+Who's there?,uncertain,0.4243,Resilience,0.1936,2
+Who are you?,uncertain,0.3426,Identity,0.9213,3
+The master of this castle.,very positive,0.6585,Resilience,0.7516,5
+I've come for my father.,very positive,0.5485,Family,0.9956,5
+Please let him out.,uncertain,0.4344,Family,0.767,4
+Can't you see he's sick?,uncertain,0.3345,Trauma,0.8067,5
+Then he shouldn't have trespassed here!,uncertain,0.218,Identity,0.4856,6
+But he could die.,uncertain,0.3057,Trauma,0.8296,4
+"Please, I'll do anything.",uncertain,0.3169,Family,0.8345,4
+There's nothing you can do.,uncertain,0.4155,Family,0.8055,5
+He's my prisoner.,very negative,0.6652,Trauma,0.5794,3
+There must be some way I can...,neutral,0.5556,Family,0.777,7
+Wait!,uncertain,0.368,Family,0.5416,1
+Take me instead.,very negative,0.4715,Personal Growth,0.8595,3
+You?,uncertain,0.3278,Personal Growth,0.7431,1
+You would take his place?,uncertain,0.3542,Identity,0.8223,5
+"Belle, no!",uncertain,0.3001,Personal Growth,0.3223,2
+You don't know what you're doing!,uncertain,0.4109,Family,0.5499,6
+"If I did, would you let him go?",uncertain,0.4149,Family,0.5608,8
+Yes.,uncertain,0.3673,Family,0.9347,1
+But you must promise to stay here forever.,uncertain,0.2493,Family,0.9295,8
+Come into the light.,very positive,0.4566,Personal Growth,0.9048,4
+"No, Belle!",uncertain,0.3652,Family,0.8716,2
+I won't let you do this!,very negative,0.4671,Family,0.8607,6
+You have my word.,uncertain,0.4179,Family,0.7859,4
+Done.,neutral,0.4739,Family,0.8657,1
+"No, Belle, listen to me.",uncertain,0.305,Family,0.9569,5
+I'm old.,neutral,0.4716,Identity,0.5197,2
+I've lived my life.,uncertain,0.4322,Identity,0.7911,4
+Wait.,neutral,0.4999,Family,0.5777,1
+-Belle!,very positive,0.5276,Romantic Love,0.8012,1
+-Wait.,neutral,0.5318,Family,0.5888,1
+No!,very negative,0.5534,Family,0.9037,1
+Please spare my daughter.,very negative,0.5871,Family,0.9903,4
+Please!,uncertain,0.248,Family,0.8072,1
+She's no longer your concern.,uncertain,0.2945,Trauma,0.2565,5
+Take him to the village.,positive,0.4533,Personal Growth,0.8372,5
+Let me out.,uncertain,0.2959,Personal Growth,0.8398,3
+Please let me out!,uncertain,0.3396,Personal Growth,0.7373,4
+Let me out!,uncertain,0.4257,Personal Growth,0.8676,3
+Please!,uncertain,0.248,Family,0.8072,1
+Please!,uncertain,0.248,Family,0.8072,1
+Master?,uncertain,0.2606,Personal Growth,0.1258,1
+What?,uncertain,0.396,Family,0.3908,1
+"Since the girl is going to be with us for quite some time, I was thinking that you might want to offer her a more comfortable room.",negative,0.6183,Family,0.8744,27
+"Then again, maybe not.",neutral,0.4816,Family,0.6567,4
+You didn't even let me say goodbye.,uncertain,0.4377,Trauma,0.8523,7
+I'll never see him again.,very negative,0.7544,Grief,0.9376,5
+I didn't get to say goodbye.,uncertain,0.4117,Grief,0.9032,6
+I'll show you to your room.,uncertain,0.439,Resilience,0.6464,6
+My room?,uncertain,0.3756,Resilience,0.2919,2
+But I thought...,uncertain,0.4275,Family,0.8079,3
+You wanna...,uncertain,0.2742,Family,0.6811,2
+You wanna stay in the tower?,uncertain,0.264,Resilience,0.8644,6
+-No.,uncertain,0.4462,Family,0.8558,1
+-Then follow me.,uncertain,0.4133,Family,0.766,3
+Say something to her.,uncertain,0.3551,Family,0.8818,4
+I hope you like it here.,uncertain,0.3512,Family,0.8391,6
+"The castle is your home now, so you can go anywhere you like, except the west wing.",neutral,0.4585,Resilience,0.3516,17
+What's in the west...,neutral,0.5096,Resilience,0.3911,4
+It's forbidden!,very negative,0.5797,Family,0.3618,2
+"Now, if you need anything, my servants will attend you.",uncertain,0.344,Family,0.8338,10
+Dinner.,neutral,0.516,Family,0.8909,1
+Invite her to dinner.,uncertain,0.3876,Family,0.9637,4
+You will join me for dinner.,neutral,0.457,Family,0.9476,6
+That's not a request!,very negative,0.4959,Family,0.3741,4
+Who does she think she is?,uncertain,0.4248,Identity,0.7956,6
+That girl has tangled with the wrong man.,very negative,0.5689,Trauma,0.8507,8
+No one says no to Gaston.,very negative,0.4697,Romantic Love,0.8744,6
+Darn right.,uncertain,0.3241,Family,0.832,2
+Dismissed.,very negative,0.5215,Family,0.7269,1
+Rejected.,uncertain,0.424,Family,0.8355,1
+Publicly humiliated.,uncertain,0.2292,Trauma,0.9224,2
+"Why, it's more than I can bear.",uncertain,0.3119,Trauma,0.7661,7
+More beer?,uncertain,0.321,Personal Growth,0.0542,2
+What for?,uncertain,0.4458,Family,0.193,2
+Nothing helps.,uncertain,0.3948,Trauma,0.6676,2
+-I'm disgraced.,very negative,0.5082,Trauma,0.807,2
+"-Who, you?",uncertain,0.3513,Identity,0.6813,2
+Never.,uncertain,0.3827,Family,0.5442,1
+"Gaston, you've got to pull yourself together.",uncertain,0.4195,Trauma,0.7358,7
+"Gosh, it disturbs me to see you, Gaston Looking so down in the dumps Every guy here'd love to be you, Gaston Even when taking your lumps There's no man in town as admired as you You're everyone's favorite guy Everyone's awed and inspired by you And it's not very hard To see why No one's slick as Gaston No one's quick as Gaston No one's neck's as incredibly thick as Gaston For there's no man in town half as manly Perfect, a pure paragon You can ask any Tom, Dick or Stanley And they'll tell you whose team they prefer to be on No one's been like Gaston A kingpin like Gaston No one's got a swell cleft in his chin like Gaston As a specimen, yes, I'm intimidating My, what a guy, that Gaston Give five hurrahs Give 12 hip-hips Gaston is the best and the rest is all drips No one fights like Gaston Douses lights like Gaston In a wrestling match nobody bites like Gaston For there's no one as burly and brawny As you see, I've got biceps to spare -Not a bit of him scraggly or scrawny -That's right And every last inch of me's covered with hair -No one hits like Gaston -Matches wits like Gaston In a spitting match nobody spits like Gaston I'm especially good at expectorating Ten points for Gaston When I was a lad I ate four dozen eggs Every morning to help me get large And now that I'm grown I eat five dozen eggs So I'm roughly the size of a barge No one shoots like Gaston Makes those beauts like Gaston Then goes tromping around wearing boots like Gaston I use antlers in all of my decorating My, what a guy Gaston Help!",uncertain,0.3864,Personal Growth,0.9147,297
+Someone help me!,uncertain,0.4117,Personal Growth,0.5943,3
+Maurice?,uncertain,0.2407,Personal Growth,0.641,1
+Please!,uncertain,0.248,Family,0.8072,1
+"Please, I need your help.",uncertain,0.4068,Family,0.8792,5
+He's got her...,uncertain,0.2964,Family,0.9661,3
+He's got her locked in the dungeon.,uncertain,0.4136,Trauma,0.6116,7
+Who?,uncertain,0.3988,Resilience,0.2135,1
+Belle.,uncertain,0.3775,Romantic Love,0.9099,1
+We must go.,uncertain,0.3285,Family,0.7572,3
+Not...,uncertain,0.414,Loneliness,0.2564,1
+Not a minute to lose.,uncertain,0.4211,Family,0.8466,5
+Whoa!,very positive,0.5642,Family,0.7385,1
+"Slow down, Maurice.",uncertain,0.3487,Trauma,0.6213,3
+Who's got Belle locked in a dungeon?,very negative,0.539,Trauma,0.4565,7
+A beast!,very positive,0.6502,Trauma,0.1159,2
+"A horrible, monstrous beast!",very negative,0.826,Trauma,0.3622,4
+Is it a big beast?,uncertain,0.2331,Resilience,0.0371,5
+Huge.,uncertain,0.3366,Family,0.8149,1
+"With a long, ugly snout?",uncertain,0.3597,Family,0.3762,5
+Hideously ugly.,very negative,0.6814,Family,0.7303,2
+"And sharp, cruel fangs?",uncertain,0.3377,Trauma,0.3699,4
+"Yes, yes!",uncertain,0.37,Family,0.8705,2
+Will you help me?,uncertain,0.3063,Personal Growth,0.7673,4
+"All right, old man.",uncertain,0.2733,Resilience,0.5193,4
+We'll help you out.,uncertain,0.3998,Family,0.8501,4
+You will?,uncertain,0.3384,Personal Growth,0.7226,2
+"Thank you, thank you, thank you.",uncertain,0.4469,Family,0.8337,6
+Crazy old Maurice.,uncertain,0.2729,Family,0.0854,3
+He's always good for a laugh.,positive,0.4967,Family,0.7192,6
+Crazy old Maurice?,uncertain,0.2492,Trauma,0.0716,3
+Crazy old Maurice.,uncertain,0.2729,Family,0.0854,3
+"LeFou, I'm afraid I've been thinking A dangerous pastime I know But that wacky old coot is Belle's father And his sanity's only so-so Now, the wheels in my head have been turning Since I looked at that loony old man See, I promised myself I'd be married to Belle And right now, I'm evolving a plan If I...",very positive,0.816,Family,0.9886,59
+Yes?,uncertain,0.4134,Family,0.849,1
+Then we...,neutral,0.4623,Family,0.7766,2
+"No, would she?",uncertain,0.3224,Family,0.7991,3
+Guess.,uncertain,0.4107,Personal Growth,0.1975,1
+Now I get it!,very positive,0.625,Family,0.7915,4
+Let's go!,very positive,0.4721,Personal Growth,0.855,2
+Let's go!,very positive,0.4721,Personal Growth,0.855,2
+"No one plots like Gaston Takes cheap shots like Gaston Plans to persecute harmless crackpots like Gaston So, his marriage we soon will be celebrating My, what a guy Gaston Will no one help me?",uncertain,0.273,Grief,0.5139,35
+Who is it?,uncertain,0.3351,Identity,0.5019,3
+Mrs.,uncertain,0.3755,Family,0.9431,1
+"Potts, dear.",very negative,0.6677,Family,0.8604,2
+I thought you might like a spot of tea.,uncertain,0.4113,Personal Growth,0.1718,9
+But you're...,uncertain,0.4055,Identity,0.8752,2
+You're a...,neutral,0.4655,Identity,0.9574,2
+Careful.,uncertain,0.4173,Family,0.8258,1
+This is impossible.,very negative,0.6788,Trauma,0.426,3
+"I know it is, but here we are.",neutral,0.692,Family,0.7584,8
+"I told you she was pretty, Mama, didn't I?",uncertain,0.3432,Family,0.9684,9
+"All right, Chip, now, that'll do.",uncertain,0.4038,Resilience,0.6808,6
+Slowly now.,uncertain,0.3308,Personal Growth,0.9223,2
+Don't spill.,very negative,0.5133,Family,0.912,2
+Thank you.,positive,0.5047,Family,0.8872,2
+Wanna see me do a trick?,uncertain,0.4029,Resilience,0.0648,6
+Chip!,uncertain,0.4301,Personal Growth,0.6973,1
+Sorry.,uncertain,0.3377,Family,0.7528,1
+"That was a very brave thing you did, my dear.",very positive,0.6741,Family,0.8438,10
+We all think so.,uncertain,0.4283,Family,0.8751,4
+"But I've lost my father, my dreams, everything.",very positive,0.6346,Family,0.9935,8
+"Cheer up, child.",uncertain,0.316,Personal Growth,0.9719,3
+It'll turn out all right in the end.,uncertain,0.3991,Family,0.8854,8
+You'll see.,uncertain,0.3607,Family,0.8345,2
+Listen to me jabbering on while there's a supper to get on the table.,uncertain,0.3496,Family,0.734,14
+Chip?,uncertain,0.3523,Personal Growth,0.3071,1
+Bye.,uncertain,0.2816,Family,0.7605,1
+"Well, now, what shall we dress you in for dinner?",uncertain,0.4096,Family,0.8869,10
+Let's see what I got in my drawers.,neutral,0.486,Personal Growth,0.5109,8
+How embarrassing!,uncertain,0.3205,Family,0.6401,2
+Here we are.,neutral,0.6945,Family,0.8435,3
+You'll look ravishing in this one.,uncertain,0.2866,Family,0.6071,6
+"That's very kind of you, but I'm not going to dinner.",uncertain,0.3975,Personal Growth,0.7569,11
+But you must.,uncertain,0.3251,Family,0.8415,3
+Dinner is served.,neutral,0.7121,Family,0.907,3
+What's taking so long?,uncertain,0.3502,Family,0.5421,4
+I told her to come down.,uncertain,0.2986,Family,0.9388,6
+Why isn't she here yet?,uncertain,0.297,Family,0.6221,5
+"Try to be patient, sir.",uncertain,0.3252,Personal Growth,0.8449,5
+The girl has lost her father and her freedom all in one day.,uncertain,0.2848,Trauma,0.9861,13
+"Master, have you thought that perhaps this girl could be the one to break the spell?",uncertain,0.2965,Personal Growth,0.609,16
+Of course I have!,very positive,0.5255,Family,0.7981,4
+I'm not a fool.,uncertain,0.4122,Personal Growth,0.7022,4
+Good!,uncertain,0.44,Family,0.8811,1
+"So, you fall in love with her, she falls in love with you, and poof!",very positive,0.61,Romantic Love,0.9255,15
+The spell is broken.,very negative,0.6846,Family,0.7732,4
+We'll be human again by midnight.,uncertain,0.3056,Personal Growth,0.7343,6
+"It's not that easy, Lumiere.",negative,0.5125,Personal Growth,0.6882,5
+These things take time.,uncertain,0.3004,Personal Growth,0.8245,4
+But the rose has already begun to wilt.,uncertain,0.4091,Romantic Love,0.4971,8
+It's no use.,very negative,0.7899,Family,0.605,3
+She's so beautiful and I'm...,very positive,0.7868,Family,0.7923,5
+"Well, look at me!",uncertain,0.3489,Personal Growth,0.8903,4
+You must help her to see past all that.,uncertain,0.4021,Personal Growth,0.85,9
+I don't know how.,uncertain,0.3535,Family,0.3588,4
+"Well, you can start by making yourself more presentable.",uncertain,0.3649,Personal Growth,0.8539,9
+Straighten up.,uncertain,0.3714,Personal Growth,0.8743,2
+Try to act like a gentleman.,uncertain,0.3039,Family,0.7133,6
+Yes.,uncertain,0.3673,Family,0.9347,1
+"When she comes in, give her a dashing, debonair smile.",uncertain,0.2821,Personal Growth,0.774,10
+"Come, come, show me the smile.",very positive,0.5668,Romantic Love,0.7714,6
+But don't frighten the poor girl.,uncertain,0.3265,Family,0.7686,6
+Impress her with your rapier wit.,very positive,0.4725,Personal Growth,0.6669,6
+But be gentle.,uncertain,0.3883,Family,0.9033,3
+Shower her with compliments.,uncertain,0.4212,Family,0.8571,4
+But be sincere.,uncertain,0.3469,Family,0.8118,3
+"And above all, you must control your temper!",very positive,0.6184,Family,0.7224,8
+You must control your temper!,very positive,0.6184,Family,0.673,5
+Here she is!,very positive,0.5015,Family,0.88,3
+Good evening.,neutral,0.4778,Family,0.8737,2
+"Well, where is she?",neutral,0.5158,Family,0.7226,4
+Who?,uncertain,0.3988,Resilience,0.2135,1
+"The girl, yes.",uncertain,0.341,Personal Growth,0.7769,3
+The girl.,uncertain,0.4361,Personal Growth,0.7958,2
+"Well, actually, she's in the process of...",uncertain,0.3148,Personal Growth,0.8784,7
+Circumstances being what they are...,neutral,0.6393,Trauma,0.1013,5
+She's not coming.,negative,0.5165,Family,0.9121,3
+What?,uncertain,0.396,Family,0.3908,1
+"Oh, dear.",very negative,0.7451,Grief,0.8569,2
+Your Grace!,very positive,0.6297,Family,0.9388,2
+Your Eminence!,very positive,0.7138,Resilience,0.2953,2
+Let's not be hasty!,uncertain,0.3427,Family,0.8451,4
+I thought I told you to come down to dinner!,uncertain,0.364,Family,0.6376,10
+I'm not hungry.,neutral,0.4737,Family,0.7503,3
+You'll come out or I'll...,neutral,0.7071,Personal Growth,0.7262,5
+I'll...,uncertain,0.4222,Family,0.7355,1
+I'll break down the door!,uncertain,0.3528,Family,0.5986,5
+"Master, I could be wrong, but that may not be the best way to win the girl's affections.",uncertain,0.3567,Family,0.3837,18
+Please attempt to be a gentleman.,uncertain,0.3341,Personal Growth,0.843,6
+But she is being so difficult.,uncertain,0.3402,Family,0.7719,6
+"Gently, gently.",uncertain,0.3921,Family,0.909,2
+Will you come down to dinner?,uncertain,0.2829,Family,0.9632,6
+No!,very negative,0.5534,Family,0.9037,1
+"Suave, genteel.",uncertain,0.4422,Family,0.8878,2
+It would give me great pleasure if you would join me for dinner.,positive,0.483,Family,0.9065,13
+"And we say ""please."" Please.",uncertain,0.3808,Family,0.933,5
+"No, thank you.",very negative,0.583,Family,0.8418,3
+You can't stay in there forever!,very negative,0.4578,Personal Growth,0.7296,6
+"Yes, I can.",neutral,0.4898,Resilience,0.9103,3
+Fine!,uncertain,0.3565,Family,0.8696,1
+Then go ahead and starve!,very positive,0.5212,Loneliness,0.7361,5
+"If she doesn't eat with me, then she doesn't eat at all!",uncertain,0.4291,Family,0.856,12
+"Oh, dear.",very negative,0.7451,Grief,0.8569,2
+"That didn't go very well at all, did it?",uncertain,0.403,Trauma,0.8796,9
+"Lumiere, stand watch at the door and inform me at once if there is the slightest change.",uncertain,0.3253,Resilience,0.7884,17
+"You can count on me, mon capitaine.",very positive,0.5155,Friendship,0.7132,7
+"Well, we might as well go downstairs and start cleaning up.",uncertain,0.3193,Family,0.9306,11
+"I ask nicely, but she refuses.",uncertain,0.4447,Family,0.9272,6
+"What does she want me to do, beg?",neutral,0.5295,Family,0.7376,8
+Show me the girl.,positive,0.4685,Romantic Love,0.6874,4
+"But the master's really not so bad, once you get to know him.",positive,0.4644,Personal Growth,0.825,13
+Why don't you give him a chance?,uncertain,0.4137,Personal Growth,0.8064,7
+I don't want to get to know him.,uncertain,0.3889,Loneliness,0.8025,8
+I don't want to have anything to do with him.,uncertain,0.3772,Family,0.8921,10
+I'm just fooling myself.,very negative,0.5155,Personal Growth,0.6754,4
+She'll never see me as anything but a monster.,very negative,0.7854,Trauma,0.7641,9
+It's hopeless.,very negative,0.6361,Trauma,0.6892,2
+"Oh, no.",uncertain,0.4435,Family,0.826,2
+"Oh, yes.",uncertain,0.4069,Family,0.8729,2
+"Oh, no.",uncertain,0.4435,Family,0.826,2
+"Oh, yes, yes, yes.",neutral,0.5005,Family,0.8766,4
+I've been burned by you before.,very negative,0.8123,Trauma,0.8306,6
+Zut alors!,very positive,0.5393,Loneliness,0.9663,2
+She has emerged!,very positive,0.5213,Personal Growth,0.9812,3
+"Come on, Chip.",uncertain,0.3166,Personal Growth,0.9143,3
+Into the cupboard with your brothers and sisters.,uncertain,0.4182,Family,0.9922,8
+But I'm not sleepy.,uncertain,0.3707,Family,0.8172,4
+"Yes, you are.",neutral,0.5443,Identity,0.9694,3
+"No, I'm not.",uncertain,0.3342,Identity,0.9593,3
+"I work and I slave all day long, and for what?",very positive,0.5082,Identity,0.1763,11
+A culinary masterpiece gone to waste!,very negative,0.6775,Grief,0.654,6
+Stop your grousing.,very negative,0.5464,Family,0.8417,3
+It's been a long night for all of us.,uncertain,0.3162,Family,0.933,9
+"Well, if you ask me, she was just being stubborn.",uncertain,0.3297,Family,0.9181,10
+"After all, he did say ""please."" But if the master doesn't learn to control that temper, he'll never break the...",uncertain,0.3605,Family,0.7022,20
+"Splendid to see you out and about, mademoiselle.",very positive,0.4742,Personal Growth,0.7653,8
+"I am Cogsworth, head of the household.",uncertain,0.4365,Family,0.8995,7
+This is Lumiere.,very negative,0.6273,Romantic Love,0.1031,3
+"Enchanté, chérie.",very positive,0.6172,Romantic Love,0.9515,2
+"If there's, stop that, anything we, please, can do to make your stay more comfortable...",uncertain,0.4107,Empathy,0.5379,15
+I am a little hungry.,uncertain,0.3548,Family,0.5138,5
+You are?,neutral,0.486,Identity,0.9797,2
+Hear that?,uncertain,0.343,Family,0.8645,2
+She's hungry.,uncertain,0.4092,Family,0.7488,2
+Stoke the fire.,uncertain,0.2281,Personal Growth,0.8995,3
+Break out the silver.,uncertain,0.2834,Family,0.779,4
+Wake the china.,uncertain,0.382,Family,0.9476,3
+Remember what the master said.,uncertain,0.2836,Resilience,0.7724,5
+Pish tosh.,uncertain,0.4255,Family,0.0854,2
+I'm not about to let the poor child go hungry.,uncertain,0.3693,Family,0.9318,10
+"All right, fine.",neutral,0.6366,Family,0.7791,3
+"Glass of water, crust of bread and then...",neutral,0.6025,Resilience,0.6721,8
+"Cogsworth, I am surprised at you.",uncertain,0.3798,Personal Growth,0.6679,6
+She's not a prisoner.,very negative,0.4757,Resilience,0.8135,4
+She's our guest.,uncertain,0.3852,Friendship,0.9231,3
+We must make her feel welcome here.,uncertain,0.4081,Family,0.9139,7
+"Right this way, mademoiselle.",very positive,0.5025,Family,0.6888,4
+"Well, keep it down.",uncertain,0.3277,Family,0.8079,4
+"If the master finds out about this, it will be our necks.",uncertain,0.3418,Family,0.4689,12
+"Of course, of course.",neutral,0.4849,Family,0.8904,4
+But what is dinner without a little music?,uncertain,0.4424,Family,0.3473,8
+Music?,uncertain,0.3316,Romantic Love,0.0038,1
+It is with deepest pride and greatest pleasure that we welcome you tonight.,very positive,0.6506,Family,0.9859,13
+"And now, we invite you to relax.",uncertain,0.3613,Family,0.865,7
+"Let us pull up a chair, as the dining room proudly presents your dinner.",uncertain,0.4027,Family,0.9657,14
+"Be our guest, be our guest Put our service to the test Tie your napkin 'round your neck, chérie And we provide the rest Soup du jour, hot hors d'oeuvres Why, we only live to serve Try the gray stuff, it's delicious Don't believe me?",uncertain,0.3944,Friendship,0.8951,45
+"Ask the dishes They can sing, they can dance After all, miss, this is France And a dinner here is never second best Go on, unfold your menu Take a glance and then you'll be our guest Oui, our guest Be our guest Beef ragout, cheese soufflé Pie and pudding, en flambé We'll prepare and serve with flair A culinary cabaret You're alone and you're scared But the banquet's all prepared No one's gloomy or complaining While the flatware's entertaining We tell jokes, I do tricks With my fellow candlesticks Und it's all in perfect taste That you can bet Come on and lift your glass You've won your own free pass To be our guest If you're stressed it's fine dining we suggest Be our guest, be our guest Be our guest Life is so unnerving For a servant who's not serving He's not whole without a soul to wait upon Get off!",very positive,0.637,Loneliness,0.9705,154
+"Those good old days When we were useful Suddenly, those good old days are gone Ten years we've been rusting Needing so much more than dusting Needing exercise A chance to use our skills Most days we just lay around the castle Flabby, fat and lazy You walked in and oops-a-daisy It's a guest, it's a guest Sakes alive, well, I'll be blessed Wine's been poured and thank the Lord I've had the napkins freshly pressed With dessert, she'll want tea And, my dear, that's fine with me While the cups do their soft-shoeing I'll be bubbling, I'll be brewing I'll get warm, piping hot Heaven sakes, is that a spot?",very positive,0.5611,Personal Growth,0.7104,111
+Clean it up We want the company impressed We've got a lot to do Is it one lump or two?,uncertain,0.4391,Family,0.2667,20
+"For you, our guest -She's our guest -She's our guest Be our guest Be our guest, be our guest Our command is your request Let's go, people.",uncertain,0.3893,Family,0.7827,27
+Fun's over.,negative,0.4547,Family,0.352,2
+Over here.,uncertain,0.3076,Family,0.8209,2
+Line up.,uncertain,0.3779,Family,0.7637,2
+"It's 10 years since we've had anybody here And we're obsessed With your meal, with your ease Yes, indeed, we aim to please While the candlelight's still glowing Let us help you, we'll keep going Course by course One by one Till you shout, ""Enough, I'm done!"" Then we'll sing you off to sleep as you digest Tonight, you'll prop your feet up But for now, let's eat up Be our guest Be our guest Be our guest Please be our Guest Bravo!",very positive,0.6508,Empathy,0.929,83
+That was wonderful.,very positive,0.5874,Family,0.8826,3
+Thank you.,positive,0.5047,Family,0.8872,2
+"Thank you, mademoiselle.",positive,0.4538,Friendship,0.7763,3
+"Good show, wasn't it?",positive,0.4615,Family,0.8413,4
+Everyone!,very positive,0.5428,Family,0.9462,1
+"My goodness, look at the time.",uncertain,0.3817,Resilience,0.183,6
+"Now it's off to bed, off to bed.",uncertain,0.3671,Family,0.6472,8
+I couldn't possibly go to bed now.,uncertain,0.3274,Family,0.7425,7
+It's my first time in an enchanted castle.,very positive,0.5587,Personal Growth,0.1461,8
+Enchanted!,very positive,0.6286,Romantic Love,0.9259,1
+Who said anything about the castle being enchanted?,uncertain,0.4018,Family,0.0471,8
+"It was you, wasn't it?",neutral,0.4594,Identity,0.9592,5
+I figured it out for myself.,uncertain,0.3681,Personal Growth,0.8844,6
+"I'd like to look around, if that's all right.",neutral,0.4789,Personal Growth,0.7689,9
+Would you like a tour?,uncertain,0.3609,Resilience,0.4339,5
+Wait a second.,uncertain,0.4053,Family,0.7694,3
+Wait a second.,uncertain,0.4053,Family,0.7694,3
+I'm not sure that's such a good idea.,neutral,0.5437,Family,0.7996,8
+"We can't let her go poking around in certain places, if you know what I mean.",uncertain,0.4111,Family,0.8189,16
+Perhaps you'd like to take me.,uncertain,0.3991,Personal Growth,0.787,6
+I'm sure you know everything there is to know about the castle.,neutral,0.5217,Resilience,0.1164,12
+Well.,uncertain,0.327,Family,0.8364,1
+"Actually, I...",neutral,0.6077,Family,0.7385,2
+"Yes, I do.",uncertain,0.4202,Family,0.8784,3
+"As you can see, the pseudo-facade was stripped away to reveal the minimalist Rococo design.",negative,0.4611,Family,0.4752,15
+Note the unusual inverted vaulted ceilings.,uncertain,0.3702,Resilience,0.4549,6
+This is yet another example of the late-neoclassic Baroque period.,neutral,0.5629,Family,0.5428,10
+"And, as I always say, if it's not Baroque, don't fix it.",uncertain,0.311,Loneliness,0.0103,12
+Where was I?,uncertain,0.3312,Family,0.4197,3
+As you were!,very positive,0.5754,Family,0.9259,3
+"Now, then, if I may draw your attention to the flying buttresses above the...",neutral,0.4769,Resilience,0.6543,14
+Mademoiselle?,uncertain,0.3467,Personal Growth,0.5278,1
+What's up there?,neutral,0.4965,Personal Growth,0.2236,3
+Where?,uncertain,0.3606,Personal Growth,0.2031,1
+There?,neutral,0.4779,Family,0.597,1
+Nothing.,very negative,0.5949,Loneliness,0.5474,1
+Absolutely nothing of interest at all in the west wing.,very negative,0.7018,Loneliness,0.384,10
+"Dusty, dull, very boring.",very negative,0.4584,Family,0.6369,4
+"So, that's the west wing!",uncertain,0.366,Resilience,0.5179,5
+Nice going.,uncertain,0.4228,Personal Growth,0.8944,2
+I wonder what he's hiding up there.,neutral,0.472,Personal Growth,0.4428,7
+Hiding?,uncertain,0.3462,Trauma,0.2444,1
+The master is hiding nothing.,very negative,0.6971,Identity,0.6092,5
+Then it wouldn't be forbidden.,uncertain,0.3267,Family,0.5547,5
+Perhaps mademoiselle would like to see something else?,uncertain,0.3495,Personal Growth,0.196,8
+We have exquisite tapestries dating all the way back to...,uncertain,0.332,Family,0.6558,10
+Maybe later.,uncertain,0.4274,Family,0.493,2
+The gardens.,uncertain,0.3567,Resilience,0.1968,2
+Or...,neutral,0.5529,Family,0.5821,1
+Or the...,neutral,0.587,Resilience,0.5056,2
+"The library, perhaps?",uncertain,0.3345,Resilience,0.0236,3
+You have a library?,neutral,0.4621,Resilience,0.0274,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+Indeed.,neutral,0.5945,Family,0.8407,1
+With books.,uncertain,0.3482,Resilience,0.1661,2
+Scads of books.,uncertain,0.3598,Resilience,0.1982,3
+Mountains of books.,uncertain,0.3977,Resilience,0.0128,3
+Forests of books.,uncertain,0.299,Resilience,0.0062,3
+Cascades.,uncertain,0.3914,Personal Growth,0.0181,1
+Cloudbursts.,uncertain,0.3531,Trauma,0.0267,1
+Swamps of books.,uncertain,0.4356,Resilience,0.0082,3
+More books than you'll ever be able to read in a lifetime.,uncertain,0.3383,Resilience,0.2662,12
+Books on every subject ever studied by every author who ever set pen to paper.,very positive,0.5182,Resilience,0.3193,15
+Why did you come here?,uncertain,0.3374,Personal Growth,0.4824,5
+I'm...,uncertain,0.4284,Identity,0.9587,1
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+I warned you never to come here!,very positive,0.6583,Family,0.6713,7
+I didn't mean any harm.,uncertain,0.3866,Family,0.4718,5
+Do you realize what you could have done?,uncertain,0.4355,Family,0.6339,8
+Please!,uncertain,0.248,Family,0.8072,1
+Stop!,uncertain,0.2849,Family,0.771,1
+Get out!,uncertain,0.3259,Trauma,0.6298,2
+No!,very negative,0.5534,Family,0.9037,1
+Get out!,uncertain,0.3259,Trauma,0.6298,2
+Where are you going?,uncertain,0.4469,Personal Growth,0.5944,4
+"Promise or no promise, I can't stay here another minute.",very negative,0.5431,Family,0.6953,10
+"No, wait, please!",uncertain,0.2463,Family,0.832,3
+"Please, wait!",uncertain,0.3241,Family,0.8514,2
+No!,very negative,0.5534,Family,0.9037,1
+"Here, now.",neutral,0.5139,Family,0.6909,2
+Don't do that.,very negative,0.5671,Family,0.8175,3
+Just hold still.,uncertain,0.3603,Family,0.8031,3
+That hurts!,uncertain,0.3056,Trauma,0.9475,2
+"If you'd hold still, it wouldn't hurt as much!",uncertain,0.3415,Trauma,0.6893,9
+"Well, if you hadn't have run away, this wouldn't have happened.",uncertain,0.4426,Trauma,0.7848,11
+"If you hadn't frightened me, I wouldn't have run away.",uncertain,0.3333,Trauma,0.9265,10
+"Well, you shouldn't have been in the west wing!",uncertain,0.3326,Trauma,0.7191,9
+"Well, you should learn to control your temper.",uncertain,0.3951,Personal Growth,0.8501,8
+"Now, hold still.",uncertain,0.4453,Family,0.8145,3
+This might sting a little.,uncertain,0.4394,Trauma,0.7122,5
+"By the way, thank you for saving my life.",uncertain,0.4181,Resilience,0.639,9
+You're welcome.,positive,0.4571,Family,0.8921,2
+"I don't usually leave the asylum in the middle of the night, but he said you'd make it worth my while.",uncertain,0.4418,Personal Growth,0.6104,21
+I'm listening.,neutral,0.5608,Family,0.8504,2
+It's like this.,neutral,0.4857,Family,0.7992,3
+"I've got my heart set on marrying Belle, but she needs a little persuasion.",uncertain,0.3448,Romantic Love,0.8732,14
+Turned him down flat.,negative,0.5644,Family,0.9286,4
+Everyone knows her father's a lunatic.,uncertain,0.2606,Family,0.9869,6
+He was in here tonight raving about a beast in a castle.,very positive,0.5097,Trauma,0.2991,12
+Maurice is harmless.,very negative,0.631,Friendship,0.5039,3
+"The point is, Belle would do anything to keep him from being locked up.",uncertain,0.2712,Family,0.9709,14
+"Yeah, even marry him.",very positive,0.56,Family,0.7672,4
+"So, you want me to throw her father into the asylum, unless she agrees to marry you.",uncertain,0.3127,Family,0.9375,17
+That is despicable.,very negative,0.4828,Trauma,0.7279,3
+I love it.,uncertain,0.4238,Family,0.9052,3
+"If no one will help me, then I'll go back alone.",uncertain,0.4001,Personal Growth,0.7465,11
+"Yes, is that everything?",uncertain,0.4412,Family,0.7186,4
+I don't care what it takes.,uncertain,0.3703,Family,0.6445,6
+"I'll find that castle and somehow, I...",uncertain,0.3649,Resilience,0.8373,7
+I'll get her out of there.,uncertain,0.3636,Family,0.8212,6
+Belle!,very positive,0.5123,Romantic Love,0.9437,1
+Maurice!,very positive,0.5574,Personal Growth,0.7109,1
+"Oh, well.",neutral,0.4763,Family,0.7985,2
+"Guess it's not gonna work, after all.",uncertain,0.3464,Family,0.8408,7
+They have to come back sometime.,neutral,0.4702,Family,0.77,6
+"And when they do, we'll be ready for them.",uncertain,0.3431,Family,0.8445,9
+"LeFou, don't move from that spot until Belle and her father come home.",uncertain,0.3671,Family,0.9579,13
+But...,uncertain,0.3872,Family,0.8111,1
+But I...,uncertain,0.3512,Family,0.7368,2
+Nuts.,very negative,0.4934,Trauma,0.2566,1
+I've never felt this way about anyone.,very negative,0.837,Empathy,0.5654,7
+I want to do something for her.,neutral,0.5249,Empathy,0.7948,7
+But what?,uncertain,0.4359,Family,0.0657,2
+"Well, there's the usual things.",neutral,0.676,Family,0.0369,5
+"Flowers, chocolates, promises you don't intend to keep.",uncertain,0.4111,Family,0.2427,8
+"No, no.",uncertain,0.4292,Family,0.8691,2
+It has to be something very special.,uncertain,0.3127,Resilience,0.3747,7
+Something that sparks her interest.,very positive,0.4733,Personal Growth,0.6411,5
+Wait a minute.,neutral,0.5314,Family,0.7425,3
+Belle?,very positive,0.506,Romantic Love,0.7402,1
+There's something I want to show you.,neutral,0.659,Resilience,0.6903,7
+"But first, you have to close your eyes.",uncertain,0.2982,Family,0.7138,8
+It's a surprise.,neutral,0.4564,Family,0.7334,3
+Can I open them?,uncertain,0.3436,Family,0.6439,4
+"No, no.",uncertain,0.4292,Family,0.8691,2
+Not yet.,uncertain,0.3419,Family,0.6732,2
+Wait here.,neutral,0.4906,Family,0.8895,2
+Now can I open them?,uncertain,0.2899,Family,0.6453,5
+All right.,uncertain,0.4407,Family,0.828,2
+Now.,uncertain,0.4149,Family,0.7029,1
+I can't believe it.,very negative,0.6069,Family,0.7768,4
+I've never seen so many books in all my life.,very negative,0.5163,Resilience,0.486,10
+You...,uncertain,0.3754,Personal Growth,0.7494,1
+You like it?,uncertain,0.2783,Family,0.8223,3
+It's wonderful.,very positive,0.626,Family,0.8916,2
+Then it's yours.,uncertain,0.3043,Family,0.7228,3
+Thank you so much.,uncertain,0.4449,Family,0.8915,4
+Would you look at that!,uncertain,0.3376,Family,0.7564,5
+I knew it would work.,uncertain,0.423,Family,0.8485,5
+What?,uncertain,0.396,Family,0.3908,1
+What works?,neutral,0.5753,Personal Growth,0.4591,2
+It's very encouraging.,very positive,0.5376,Family,0.8692,3
+Isn't this exciting?,uncertain,0.3916,Family,0.6611,3
+I didn't see anything.,uncertain,0.4376,Loneliness,0.4135,4
+"Come along, Chip.",uncertain,0.3674,Personal Growth,0.9203,3
+There's chores to be done in the kitchen.,neutral,0.5177,Resilience,0.1324,8
+But what are they talking about?,uncertain,0.3939,Family,0.1155,6
+What's going on?,neutral,0.4787,Family,0.4452,3
+"Come on, Mom.",uncertain,0.3378,Family,0.9902,3
+"There's something sweet and almost kind But he was mean and he was coarse and unrefined And now he's dear and so unsure I wonder why I didn't see it there before She glanced this way I thought I saw And when we touched she didn't shudder at my paw No, it can't be I'll just ignore But then she's never looked at me that way before New and a bit alarming Who'd have ever thought That this could be True That he's no Prince Charming But there's something in him That I simply didn't see -Well, who'd have thought -Well, bless my soul -Well, who'd have known -Well, who, indeed And who'd have guessed they'd come together on their own -It's so peculiar.",very positive,0.4962,Personal Growth,0.9495,124
+"Wait and see -We'll wait and see A few days more There may be something there that wasn't there before You know, perhaps there is something there that wasn't there before What?",neutral,0.6971,Resilience,0.783,32
+"There may be something there that wasn't there before What's there, Mama?",uncertain,0.4351,Family,0.5574,12
+I'll tell you when you're older.,neutral,0.4727,Family,0.5364,6
+Tonight is the night.,neutral,0.5673,Family,0.8192,4
+I'm not sure I can do this.,neutral,0.4948,Personal Growth,0.7735,7
+You don't have time to be timid.,uncertain,0.3789,Family,0.6744,7
+"You must be bold, daring.",very positive,0.4668,Personal Growth,0.7844,5
+Bold.,uncertain,0.4243,Family,0.8758,1
+Daring.,uncertain,0.3733,Personal Growth,0.8185,1
+"There will be music, romantic candlelight provided by myself.",neutral,0.486,Romantic Love,0.8927,9
+"And when the moment is right, you confess your love.",uncertain,0.372,Romantic Love,0.8017,10
+"Yes, I...",neutral,0.4735,Family,0.8589,2
+I...,uncertain,0.4219,Identity,0.9149,1
+I...,uncertain,0.4219,Identity,0.9149,1
+"No, I can't.",uncertain,0.4297,Family,0.9301,3
+"You care for the girl, don't you?",uncertain,0.2981,Empathy,0.9347,7
+More than anything.,uncertain,0.2799,Family,0.8864,3
+"Well, then, you must tell her.",neutral,0.5033,Family,0.8942,6
+Voilà!,very positive,0.5353,Family,0.6863,1
+"You look so, so...",neutral,0.6614,Personal Growth,0.8145,4
+Stupid.,very negative,0.4736,Identity,0.0546,1
+Not quite the word I was looking for.,negative,0.5401,Trauma,0.1473,8
+Perhaps a little more off the top.,uncertain,0.4034,Personal Growth,0.4073,7
+Your lady awaits.,uncertain,0.3826,Romantic Love,0.8627,3
+"Tale as old as time True as it can be Barely even friends Then somebody bends Unexpectedly Just a little change Small to say the least Both a little scared Neither one prepared Beauty and the Beast Ever just the same Ever a surprise Ever as before Ever just as sure As the sun will rise Tale as old as time Tune as old as song Bittersweet and strange Finding you can change Learning you were wrong Certain as the sun Rising in the east Tale as old as time Song as old as rhyme Beauty and the Beast Tale as old as time Song as old as rhyme Beauty and the Beast Off to the cupboard with you now, Chip.",neutral,0.487,Personal Growth,0.4525,121
+It's past your bedtime.,uncertain,0.3988,Family,0.3994,4
+"Good night, love.",uncertain,0.4033,Family,0.9646,3
+Belle?,very positive,0.506,Romantic Love,0.7402,1
+Are you happy here with me?,uncertain,0.3473,Family,0.7449,6
+Yes.,uncertain,0.3673,Family,0.9347,1
+What is it?,neutral,0.4969,Personal Growth,0.1153,3
+"If only I could see my father again, just for a moment.",uncertain,0.327,Family,0.9831,12
+I miss him so much.,very negative,0.5389,Grief,0.9665,5
+There is a way.,neutral,0.6921,Resilience,0.7166,4
+This mirror will show you anything.,uncertain,0.3138,Personal Growth,0.2478,6
+Anything you wish to see.,neutral,0.5347,Resilience,0.4058,5
+"I'd like to see my father, please.",uncertain,0.4271,Family,0.9947,7
+Papa.,uncertain,0.4419,Family,0.8266,1
+"Oh, no.",uncertain,0.4435,Family,0.826,2
+He's sick.,uncertain,0.3681,Trauma,0.9007,2
+"He may be dying, and he's all alone.",uncertain,0.3077,Loneliness,0.9377,8
+Then you must go to him.,uncertain,0.2988,Personal Growth,0.4863,6
+What did you say?,neutral,0.5752,Family,0.4548,4
+I release you.,uncertain,0.374,Family,0.7676,3
+You're no longer my prisoner.,very negative,0.6631,Identity,0.5677,5
+You mean I'm free?,uncertain,0.4053,Personal Growth,0.7421,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+Thank you.,positive,0.5047,Family,0.8872,2
+"Hold on, Papa.",very positive,0.4613,Family,0.9788,3
+I'm on my way.,uncertain,0.407,Personal Growth,0.8843,4
+Take it with you so you'll always have a way to look back and remember me.,uncertain,0.4277,Family,0.6802,16
+Thank you for understanding how much he needs me.,uncertain,0.3618,Empathy,0.9291,9
+"Well, Your Highness, I must say everything is going just swimmingly.",very positive,0.5553,Family,0.8621,11
+I knew you had it in you.,uncertain,0.3953,Personal Growth,0.8442,7
+I let her go.,uncertain,0.3066,Family,0.8588,4
+"Yes, yes...",neutral,0.5729,Family,0.8823,2
+You what?,uncertain,0.3904,Trauma,0.4539,2
+How could you do that?,uncertain,0.3496,Family,0.2326,5
+I had to.,uncertain,0.3668,Family,0.8168,3
+"Yes, but...",neutral,0.5298,Family,0.7695,2
+But why?,uncertain,0.4241,Family,0.3864,2
+Because I love her.,very positive,0.6342,Family,0.9683,4
+He did what?,uncertain,0.4469,Personal Growth,0.2955,3
+"Yes, I'm afraid it's true.",uncertain,0.2658,Family,0.8491,5
+She's going away?,uncertain,0.2827,Personal Growth,0.761,3
+But he was so close.,uncertain,0.3604,Family,0.8626,5
+"After all this time, he's finally learned to love.",uncertain,0.4399,Personal Growth,0.9743,9
+That's it then.,neutral,0.5426,Family,0.7375,3
+That should break the spell.,uncertain,0.3562,Family,0.7657,5
+But it's not enough.,uncertain,0.3943,Family,0.722,4
+She has to love him in return.,very positive,0.4505,Family,0.9269,7
+Now it's too late.,negative,0.4948,Family,0.8849,4
+Papa?,uncertain,0.2659,Family,0.8813,1
+Papa?,uncertain,0.2659,Family,0.8813,1
+They're back.,uncertain,0.2544,Resilience,0.9125,2
+Belle.,uncertain,0.3775,Romantic Love,0.9099,1
+"It's all right, Papa.",uncertain,0.3579,Family,0.9804,4
+I'm home.,very positive,0.4911,Family,0.8719,2
+I thought I'd never see you again.,very negative,0.7292,Grief,0.805,7
+I missed you so much!,uncertain,0.3349,Loneliness,0.9528,5
+But the Beast...,uncertain,0.4409,Trauma,0.0294,3
+Did you...,uncertain,0.2857,Family,0.8221,2
+How did you escape?,uncertain,0.3882,Resilience,0.1551,4
+"I didn't escape, Papa.",uncertain,0.3019,Family,0.9516,4
+He...,uncertain,0.3069,Family,0.8651,1
+He let me go.,uncertain,0.2773,Personal Growth,0.8279,4
+That horrible beast?,very negative,0.717,Trauma,0.4357,3
+"But he's different now, Papa.",uncertain,0.3287,Personal Growth,0.953,5
+He's changed somehow.,uncertain,0.3745,Personal Growth,0.9755,3
+Hi!,very positive,0.4551,Family,0.853,1
+A stowaway.,uncertain,0.363,Trauma,0.0447,2
+"Why, hello there, little fella.",uncertain,0.4325,Empathy,0.8198,5
+Didn't think I'd see you again.,uncertain,0.3648,Family,0.7644,6
+"Belle, why'd you go away?",very positive,0.4675,Trauma,0.6365,5
+Don't you like us anymore?,very negative,0.4809,Family,0.8485,5
+"Chip, of course I do.",uncertain,0.3955,Family,0.836,5
+It's just that...,uncertain,0.3903,Family,0.6644,3
+May I help you?,uncertain,0.3049,Resilience,0.5352,4
+I've come to collect your father.,uncertain,0.3971,Family,0.9925,6
+My father?,very negative,0.5636,Family,0.9954,2
+"Don't worry, mademoiselle.",very negative,0.4732,Resilience,0.6649,3
+We'll take good care of him.,uncertain,0.3549,Family,0.9887,6
+My father's not crazy!,positive,0.4549,Family,0.9919,4
+He was raving like a lunatic!,very positive,0.5582,Trauma,0.7062,6
+"We all heard him, didn't we?",uncertain,0.3526,Family,0.8055,6
+Yes!,uncertain,0.4402,Family,0.8961,1
+"No, I won't let you!",very negative,0.6109,Family,0.9166,5
+Belle?,very positive,0.506,Romantic Love,0.7402,1
+"Maurice, tell us again, old man.",uncertain,0.366,Family,0.5882,6
+Just how big was the beast?,uncertain,0.2691,Trauma,0.0574,6
+He was...,uncertain,0.4413,Family,0.9096,2
+"I mean, he was...",neutral,0.4835,Family,0.712,4
+He was enormous!,very positive,0.6191,Personal Growth,0.7177,3
+I'd...,uncertain,0.4093,Family,0.8085,1
+"I'd say at least eight, no, more like 10 feet!",uncertain,0.3527,Family,0.8354,10
+"Well, you don't get much crazier than that.",uncertain,0.3331,Family,0.6169,8
+"It's true, I tell you.",very positive,0.5636,Family,0.7905,5
+Get him out of here!,uncertain,0.2889,Trauma,0.7326,5
+Let go of me!,very positive,0.551,Trauma,0.722,4
+No!,very negative,0.5534,Family,0.9037,1
+You can't do this!,very negative,0.7301,Family,0.7163,4
+Poor Belle.,uncertain,0.2965,Family,0.9604,2
+It's a shame about your father.,uncertain,0.4391,Family,0.9885,6
+"You know he's not crazy, Gaston.",uncertain,0.3774,Resilience,0.735,6
+I might be able to clear up this little misunderstanding if...,uncertain,0.2934,Family,0.6913,11
+If what?,uncertain,0.4421,Family,0.1801,2
+If you marry me.,uncertain,0.3514,Romantic Love,0.7952,4
+What?,uncertain,0.396,Family,0.3908,1
+"One little word, Belle.",uncertain,0.4474,Romantic Love,0.0939,4
+That's all it takes.,neutral,0.5709,Family,0.7385,4
+Never!,uncertain,0.36,Family,0.5854,1
+Have it your way.,uncertain,0.3744,Family,0.7884,4
+Belle?,very positive,0.506,Romantic Love,0.7402,1
+Let go of me!,very positive,0.551,Trauma,0.722,4
+My father's not crazy and I can prove it.,uncertain,0.4011,Family,0.9722,9
+Show me the Beast.,uncertain,0.3321,Trauma,0.0088,4
+Is it dangerous?,very negative,0.5751,Family,0.2263,3
+"No, no, he'd never hurt anyone.",very negative,0.6334,Family,0.8556,6
+"Please, I know he looks vicious, but he's really kind and gentle.",very positive,0.619,Empathy,0.614,12
+He's my friend.,uncertain,0.3749,Friendship,0.9941,3
+"If I didn't know better, I'd think you had feelings for this monster.",uncertain,0.3627,Trauma,0.3531,13
+"He's no monster, Gaston.",very negative,0.4959,Resilience,0.5613,4
+You are!,very positive,0.5622,Identity,0.9915,2
+She's as crazy as the old man.,uncertain,0.3639,Family,0.9221,7
+The Beast will make off with your children.,uncertain,0.3891,Family,0.6033,8
+He'll come after them in the night.,uncertain,0.3598,Family,0.7716,7
+No.,very negative,0.4577,Family,0.8406,1
+We're not safe till his head is mounted on my wall!,very negative,0.4992,Trauma,0.77,11
+I say we kill the Beast!,uncertain,0.3806,Trauma,0.0404,6
+"We're not safe until he's dead He'll come stalking us at night Set to sacrifice our children To his monstrous appetite He'll wreak havoc on our village If we let him wander free So, it's time to take some action, boys It's time to follow me Through the mist, through the woods through the darkness and the shadows It's a nightmare but it's one exciting ride Say a prayer, then we're there at the drawbridge of a castle And there's something truly terrible inside It's a beast He's got fangs, razor-sharp ones Massive paws, killer claws for the feast Hear him roar, see him foam But we're not coming home Till he's dead, good and dead Kill the Beast!",very negative,0.5708,Family,0.9281,119
+"No, I won't let you do this.",very negative,0.5101,Family,0.9195,7
+"If you're not with us, you're against us.",uncertain,0.3452,Identity,0.8135,8
+Bring the old man!,very positive,0.6257,Family,0.6775,4
+Get your hands off me!,very positive,0.5161,Trauma,0.6878,5
+We can't have them running off to warn the creature.,very negative,0.5204,Family,0.8495,10
+Let us out!,very positive,0.4663,Personal Growth,0.6145,3
+We'll rid the village of this beast!,uncertain,0.3348,Trauma,0.171,7
+Who's with me?,uncertain,0.3453,Personal Growth,0.8385,3
+I am!,very positive,0.6666,Identity,0.994,2
+I am!,very positive,0.6666,Identity,0.994,2
+I am!,very positive,0.6666,Identity,0.994,2
+"Light your torch, mount your horse Screw your courage to the sticking place We're counting on Gaston to lead the way Through a mist, to a wood where within a haunted castle Something's lurking that you don't see every day It's a beast One as tall as a mountain We won't rest till he's good and deceased Sally forth, tally-ho Grab your sword and your bow Praise the Lord and here we go We'll lay siege to the castle and bring back his head!",very positive,0.6571,Personal Growth,0.9432,84
+I have to warn the Beast.,uncertain,0.2792,Trauma,0.0537,6
+This is all my fault.,very negative,0.5737,Trauma,0.691,5
+"Papa, what are we going to do?",uncertain,0.2853,Family,0.9822,7
+"Now, now.",neutral,0.5059,Family,0.6435,2
+We'll think of something.,neutral,0.6759,Family,0.5901,4
+"We don't like what we don't understand In fact, it scares us And this monster is mysterious at least Bring your guns, bring your knives Save your children and your wives We'll save our village and our lives We'll kill the Beast I knew it.",uncertain,0.3431,Family,0.9657,45
+I knew it was foolish to get our hopes up.,uncertain,0.2864,Family,0.8528,10
+Maybe it would have been better if she'd never come at all.,uncertain,0.2313,Family,0.9536,12
+Could it be...,uncertain,0.3862,Family,0.7213,3
+Is it she?,uncertain,0.3729,Identity,0.9038,3
+Sacrebleu!,very positive,0.7209,Romantic Love,0.392,1
+Invaders!,very positive,0.6357,Trauma,0.0108,1
+Encroachers.,uncertain,0.276,Trauma,0.1072,1
+And they have the mirror.,uncertain,0.3724,Personal Growth,0.6668,5
+Warn the master.,very positive,0.5779,Resilience,0.4043,3
+"If it's a fight they want, we'll be ready for them.",uncertain,0.4233,Resilience,0.8781,11
+Who's with me?,uncertain,0.3453,Personal Growth,0.8385,3
+Take whatever booty you can find.,uncertain,0.379,Personal Growth,0.1397,6
+"But remember, the Beast is mine!",uncertain,0.4446,Resilience,0.0069,6
+"Hearts ablaze, banners high We go marching into battle Unafraid, although the danger just increased Raise the flag, sing the song Here we come, we're 50 strong And 50 Frenchmen can't be wrong Let's kill the Beast Pardon me, Master.",uncertain,0.3307,Resilience,0.8976,40
+Leave me in peace.,very positive,0.5794,Loneliness,0.8043,4
+"But, sir, the castle is under attack.",uncertain,0.3214,Resilience,0.392,7
+Kill the Beast!,very positive,0.4808,Trauma,0.0085,3
+Kill the Beast!,very positive,0.4808,Trauma,0.0085,3
+This isn't working.,uncertain,0.4278,Family,0.7791,3
+"Lumiere, we must do something!",very positive,0.5131,Personal Growth,0.6145,5
+Wait!,uncertain,0.368,Family,0.5416,1
+I know!,uncertain,0.3962,Family,0.7402,2
+Kill the Beast!,very positive,0.4808,Trauma,0.0085,3
+Kill the Beast!,very positive,0.4808,Trauma,0.0085,3
+"What shall we do, Master?",uncertain,0.2696,Personal Growth,0.3836,5
+It doesn't matter now.,uncertain,0.4211,Family,0.6674,4
+Just let them come.,very negative,0.4583,Family,0.8514,4
+Kill the Beast!,very positive,0.4808,Trauma,0.0085,3
+Kill the Beast!,very positive,0.4808,Trauma,0.0085,3
+Kill the Beast!,very positive,0.4808,Trauma,0.0085,3
+Now!,very positive,0.572,Family,0.6186,1
+Yes!,uncertain,0.4402,Family,0.8961,1
+Here we go!,very positive,0.56,Personal Growth,0.7011,3
+What the devil?,uncertain,0.3323,Trauma,0.2206,3
+"Belle, look out!",uncertain,0.4417,Personal Growth,0.4909,3
+You guys gotta try this thing.,uncertain,0.335,Personal Growth,0.6183,6
+"Up here, you scurvy scum.",uncertain,0.2677,Trauma,0.3535,5
+Now!,very positive,0.572,Family,0.6186,1
+And stay out.,uncertain,0.3382,Family,0.6157,3
+Get up.,uncertain,0.3873,Personal Growth,0.9835,2
+Get up.,uncertain,0.3873,Personal Growth,0.9835,2
+"What's the matter, Beast?",uncertain,0.3843,Trauma,0.3,4
+Too kind and gentle to fight back?,uncertain,0.2877,Family,0.8916,7
+No!,very negative,0.5534,Family,0.9037,1
+Belle.,uncertain,0.3775,Romantic Love,0.9099,1
+"No, Gaston, don't.",uncertain,0.3402,Personal Growth,0.7536,3
+"Let's go, Philippe.",uncertain,0.3797,Personal Growth,0.8604,3
+Come on out and fight!,very positive,0.5978,Resilience,0.4353,5
+"Were you in love with her, Beast?",uncertain,0.2561,Romantic Love,0.0921,7
+Did you honestly think she'd want you when she had someone like me?,uncertain,0.39,Family,0.8683,13
+"It's over, Beast!",uncertain,0.2728,Trauma,0.0083,3
+Belle is mine!,very positive,0.6262,Family,0.9842,3
+Let me go.,uncertain,0.3033,Personal Growth,0.8509,3
+Let me go.,uncertain,0.3033,Personal Growth,0.8509,3
+"Please, don't hurt me.",uncertain,0.3264,Empathy,0.8616,4
+I'll do anything.,uncertain,0.3513,Family,0.6646,3
+Anything!,very positive,0.467,Resilience,0.5668,1
+Get out.,uncertain,0.384,Trauma,0.6216,2
+Beast!,very positive,0.496,Trauma,0.0164,1
+Belle.,uncertain,0.3775,Romantic Love,0.9099,1
+Belle?,very positive,0.506,Romantic Love,0.7402,1
+You came back.,very positive,0.5203,Resilience,0.9766,3
+You...,uncertain,0.3754,Personal Growth,0.7494,1
+You came back.,very positive,0.5203,Resilience,0.9766,3
+Of course I came back.,uncertain,0.3885,Resilience,0.938,5
+I couldn't let them...,uncertain,0.2768,Family,0.9468,4
+This is all my fault.,very negative,0.5737,Trauma,0.691,5
+If only I'd gotten here sooner.,uncertain,0.3036,Personal Growth,0.9478,6
+Maybe it's better...,uncertain,0.2364,Family,0.8103,3
+It's better this way.,uncertain,0.3821,Family,0.8525,4
+Don't talk like that.,very negative,0.4573,Family,0.7087,4
+You'll be all right.,neutral,0.4894,Family,0.8932,4
+We're together now.,uncertain,0.3275,Family,0.9604,3
+"Everything's going to be fine, you'll see.",neutral,0.5839,Family,0.9035,7
+At least I got to see you one last time.,uncertain,0.3167,Family,0.9038,10
+No.,very negative,0.4577,Family,0.8406,1
+No.,very negative,0.4577,Family,0.8406,1
+Please.,uncertain,0.3244,Family,0.8544,1
+Please.,uncertain,0.3244,Family,0.8544,1
+Please don't leave me.,very negative,0.5653,Family,0.8799,4
+I love you.,very positive,0.4616,Family,0.9732,3
+"Belle, it's me.",very positive,0.4675,Identity,0.9905,3
+It is you.,uncertain,0.4195,Identity,0.9896,3
+Lumiere.,very negative,0.5315,Romantic Love,0.5126,1
+Cogsworth.,uncertain,0.3422,Personal Growth,0.0257,1
+Mrs.,uncertain,0.3755,Family,0.9431,1
+Potts!,very positive,0.5115,Personal Growth,0.737,1
+Look at us.,uncertain,0.3222,Family,0.9134,3
+Mama.,uncertain,0.3054,Family,0.9902,1
+Mama.,uncertain,0.3054,Family,0.9902,1
+"Oh, my goodness.",very positive,0.5371,Family,0.8355,3
+It is a miracle.,very positive,0.579,Resilience,0.6084,4
+L'amour.,very positive,0.5362,Friendship,0.9782,1
+"Well, Lumiere, old friend.",uncertain,0.2907,Friendship,0.9897,4
+Shall we let bygones be bygones?,uncertain,0.3315,Family,0.6578,6
+"Of course, mon ami.",very positive,0.5889,Friendship,0.9857,4
+I told you she would break the spell.,uncertain,0.3001,Family,0.7213,8
+"I beg your pardon, old friend, but I believe I told you.",uncertain,0.3113,Friendship,0.9322,12
+"No, you didn't.",uncertain,0.4112,Family,0.9129,3
+I told you.,uncertain,0.3562,Family,0.8053,3
+"You most certainly did not, you pompous, paraffin-headed pea-brain!",uncertain,0.4299,Trauma,0.76,9
+"En garde, you overgrown pocket watch!",very positive,0.5581,Personal Growth,0.8434,6
+Take that.,uncertain,0.4387,Family,0.762,2
+Stop shoving.,uncertain,0.3956,Trauma,0.462,2
+"Are they gonna live happily ever after, Mama?",uncertain,0.3186,Family,0.9132,8
+"Of course, my dear.",uncertain,0.3578,Family,0.9641,4
+Of course.,uncertain,0.37,Family,0.9305,2
+Do I still have to sleep in the cupboard?,uncertain,0.3076,Trauma,0.5559,9
+Certain as the sun Rising in the east Tale as old as time Song as old as rhyme Beauty and the Beast Tale as old as time Song as old as rhyme Beauty and the Beast,neutral,0.6521,Resilience,0.0125,36
