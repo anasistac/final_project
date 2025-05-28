@@ -43,8 +43,8 @@ disney_folder = "data_preprocessed/disney"
 ghibli_folder = "data_preprocessed/ghibli"
 
 # NEW target folders for split scripts
-split_disney_folder = "data_split/disney"
-split_ghibli_folder = "data_split/ghibli"
+split_disney_folder = "Topic_Modelling/data_split/disney"
+split_ghibli_folder = "Topic_Modelling/data_split/ghibli"
 
 # Run the split
 process_folder(disney_folder, split_disney_folder)
