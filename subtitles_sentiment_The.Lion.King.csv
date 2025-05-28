@@ -1,0 +1,1137 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+"Hi, I'm Don Hahn, I'm the producer of Lion King.",very positive,0.5925,Identity,0.0336,10
+"I'm Rob Minkoff, director of The Lion King.",very positive,0.4763,Empathy,0.0636,8
+"And Roger Allers, director of Lion King.",very positive,0.4809,Resilience,0.2447,7
+And we're here to perform the top 40 hits for you.,uncertain,0.44,Family,0.3881,11
+"No, we're here to comment for you on the making of The Lion King.",neutral,0.5332,Empathy,0.0876,14
+"Kind of share some of our experiences with you, right here in your own living room.",uncertain,0.4356,Family,0.7666,16
+"The project started, actually, as King of the Jungle.",very positive,0.4527,Resilience,0.0009,9
+"And the original concept was to do a picture in Africa about lions, but no one at the time knew what the story was gonna be.",neutral,0.4705,Trauma,0.0289,26
+"Then it kind of evolved from there into being an original story, which is unique for us.",neutral,0.5653,Family,0.5702,17
+Usually we do stories based on fairytales or novels or bits of literature.,neutral,0.7741,Romantic Love,0.11,13
+But Lion King was unique in that it was completely out of thin air.,uncertain,0.3087,Resilience,0.0031,14
+"Even though it was informed by a little bit of Hamlet, little bit of Old Testament Bible stories like Joseph or Moses, that kind of thing.",uncertain,0.3194,Resilience,0.0469,26
+"Originally, in the opening of the picture we were going to have a dialog scene to introduce the characters, to introduce baby Simba, introduce Rafiki as the shaman coming to bless the child.",positive,0.5186,Family,0.1427,33
+Right.,uncertain,0.4358,Family,0.8802,1
+"Actually, we had scenes of animals walking to Pride Rock.",neutral,0.4858,Resilience,0.081,10
+"And then we had Zazu talking about, ""Everybody, get in the line.",uncertain,0.3483,Family,0.6421,12
+"Get in the line."" There was so much chatter, and at that time also, Rafiki, no one knew who Rafiki was.",uncertain,0.3767,Family,0.789,21
+"But when we heard Hans' version of how he Africanized Circle of Life, we all just went crazy.",very positive,0.4656,Family,0.5238,18
+"In four minutes of music, Elton John and Tim Rice, God bless them, created this beautiful… What became an anthem for the movie that defined the spirit of the movie and the theme of the movie.",very positive,0.5608,Family,0.5982,36
+"In the shot where we rack focus from the ants in the foreground to the zebras in the background, that was the concept from the storyboard, where we were literally trying to do something that's very common in a live action picture but is very rarely seen or never seen in an animated picture, which is literally to use the focal length of the camera.",neutral,0.5725,Family,0.221,65
+But in our case we have to replicate what that might look like under these circumstances where it's artificially done.,uncertain,0.3595,Family,0.6435,20
+And yet gives you that sort of sense that you're really looking at a real world.,uncertain,0.3525,Resilience,0.6215,16
+"The whole fly-in scene where you reveal the African savanna and you see Pride Rock for the first time, Pride Rock is kind of like the castle for the lions, is all done in one continuous shot.",uncertain,0.3282,Resilience,0.2307,37
+It's all done in one.,neutral,0.6461,Family,0.7648,5
+You go from this vast overview of the savanna into a close-up of Mufasa without cutting.,uncertain,0.3386,Resilience,0.21,16
+"Now, the great thing with this shot of Rafiki coming up, it gives you the feeling of sunlight filtering through the characters.",positive,0.5136,Personal Growth,0.5838,22
+"And it's all the great CAPS magical tricks that you can do with special effects, animation and graphics.",very positive,0.6033,Family,0.404,18
+Or the clouds which are actually a flat two-dimensional painting which is skewed by the computer.,uncertain,0.3299,Family,0.0462,16
+"""Skewing"" means it kind of stretches it out.",uncertain,0.3732,Family,0.6553,8
+"And always when we previewed the film, I remember going to the Pasadena theater for the first time where we previewed it, and little Simba turns around for the first time, -always was a surefire ""aw."" It's an ""aw shucks"" moment.",neutral,0.4768,Family,0.4176,41
+"And the funny thing about Circle of Life, it's a great stand-alone piece because without giving anything about the movie away, it kind of gives you a sense of epic scale in Africa and all that stuff.",uncertain,0.368,Empathy,0.0013,37
+And it went out in November.,uncertain,0.3214,Family,0.877,6
+Six months before the movie was released.,uncertain,0.3822,Family,0.6007,7
+"That's right, exactly, and the thing that we were all so worried about was that nobody would know what the title of this movie was, because they hadn't heard it before.",neutral,0.4501,Family,0.315,31
+That was a big concern.,uncertain,0.4228,Trauma,0.7401,5
+"""Do you think people are gonna go?"" Here's something that the folks in the theater probably would never care about.",uncertain,0.3529,Family,0.4458,20
+But we really cared about trying to get all the clouds in the background to match speed.,uncertain,0.2969,Family,0.304,17
+There are several different paintings of Pride Rock that we had to match from one to the next.,neutral,0.5343,Personal Growth,0.0004,18
+"The cliff he stands on, because you get so close to it, was painted really large so that when you got close the detail was clear for the large movie screen.",uncertain,0.3699,Resilience,0.6072,31
+"But had to be shrunk down to fit onto Pride Rock, so all those things.",uncertain,0.2904,Resilience,0.2816,15
+How many levels do you think we had?,neutral,0.4934,Resilience,0.4122,8
+How many background levels?,neutral,0.5027,Resilience,0.1392,4
+Too numerous to mention at this point.,uncertain,0.401,Family,0.1731,7
+Those are the sort of things people like to hear -but we don't remember them.,neutral,0.4537,Family,0.6965,15
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"That's one of the great things about the CAP system, which is our fancy computerized animation production system, where you can put together seemingly endless levels of animation and backgrounds, and clouds and effects and things, and sandwich them together without being limited by reality because it's all done in a digital universe.",very positive,0.4554,Family,0.3882,53
+"Right, it is the ultimate multi-plane camera.",uncertain,0.3369,Family,0.045,7
+Yeah.,uncertain,0.3646,Family,0.8922,1
+We're rarely limited by reality.,uncertain,0.3623,Resilience,0.8833,5
+"Well, yes, especially you guys.",uncertain,0.3669,Family,0.9657,5
+Okay.,neutral,0.7094,Family,0.8657,1
+Reality unlimited.,uncertain,0.4119,Family,0.5632,2
+"Ah, the mouse.",neutral,0.4754,Resilience,0.5778,3
+Great scene by Brian Ferguson.,uncertain,0.3941,Resilience,0.6131,5
+"-I think it's interesting… No, he gave us… Sorry.",uncertain,0.417,Family,0.8401,9
+"I was just gonna say that it's interesting that the very first line of dialog you hear in the movie is, ""Life's not fair."" Yeah, 'cause there was no dialog in the opening song at all.",uncertain,0.3895,Family,0.548,36
+"You see, I… Well, I shall never be king.",uncertain,0.3661,Personal Growth,0.6896,9
+"So in that introductory scene, where we've got all the characters talking for the first time, we've got Scar, who was animated by Andreas Deja.",uncertain,0.2957,Personal Growth,0.0336,25
+"And Zazu, who was animated by Ellen Woodbury.",uncertain,0.298,Resilience,0.0267,8
+What's amazing about Ellen is I've never seen anybody get into a character as much as she would.,very positive,0.6647,Family,0.598,18
+She would flap around the studio and pretend she was a bird.,negative,0.4675,Personal Growth,0.4319,12
+She'd do all the research you could possibly imagine on a hornbill bird.,neutral,0.5002,Resilience,0.5915,13
+You'll lose more than that when the king gets through with you.,uncertain,0.4119,Trauma,0.7715,12
+He's as mad as a hippo with a hernia.,very negative,0.4592,Trauma,0.7908,9
+"And Jeremy Irons, what a guy he was, huh?",very positive,0.4754,Personal Growth,0.7527,9
+Sure was.,neutral,0.6104,Family,0.9142,2
+"It's funny, 'cause I think both Jeremy and Rowan Atkinson who plays Zazu here, they were really reluctant about lending their voices to an animated character, because a lot of who they are is their persona and their personality and their appearance.",uncertain,0.4134,Personal Growth,0.286,42
+"And so we had to record a test and animate something so they could see how their characters started to come to life, and then they were seduced by it.",neutral,0.5223,Family,0.5301,30
+"Actually, I heard an interesting story from Jeremy's agent, who said that they were having dinner together at Morton's restaurant, and a seven-year-old boy walks up to the agent and says, ""Is that Scar?"" And of course it was.",neutral,0.4878,Trauma,0.5559,39
+This is one of the biggest pieces of background artwork we have.,uncertain,0.3512,Family,0.6287,12
+It's a huge 20-field pan.,uncertain,0.339,Resilience,0.4063,5
+You'd never know.,very negative,0.7034,Family,0.7304,3
+"It's interesting about art direction, things like lighting that you never notice or think of as an audience perhaps, but there's a real light direction in the mouth of the cave that comes in, and our effects animators put tone mattes on the characters so that there's a sense of light and dark on the character to create a light direction.",neutral,0.6543,Family,0.3453,61
+Contact shadows under the characters.,uncertain,0.3264,Family,0.7063,5
+Nice growl.,uncertain,0.3724,Family,0.8075,2
+"That was always tough, trying to get the lion growl to sort of interface with James's dialog.",uncertain,0.4012,Trauma,0.3044,17
+"Because I remember in some of the sessions, he would do these… ""Is that a challenge?"" Well, Mark Mangini, again, who did some of the growls for the Beast in Beauty and the Beast, had put together real tiger and animal growls with dialog in Beauty, and he used a little bit of that same technique here, where he could play a little animal growl underneath James Earl's voice and get a sense of animal.",uncertain,0.3163,Family,0.2315,75
+What am I going to do with him?,neutral,0.4921,Family,0.5812,8
+He'd make a very handsome throw rug.,uncertain,0.4388,Personal Growth,0.6188,7
+Zazu!,uncertain,0.4115,Personal Growth,0.3293,1
+"And just think, whenever he gets dirty, you could take him out and beat him.",uncertain,0.3298,Family,0.547,15
+"Now, the scenes coming up really were inspired by our trip to Africa.",uncertain,0.4078,Resilience,0.4728,13
+"I mean, these are practically photographs that we brought back with us.",very positive,0.482,Family,0.4325,12
+I remember standing out in this field.,neutral,0.4734,Resilience,0.3157,7
+"I was standing in this field, watching the rain drifting across.",uncertain,0.3875,Resilience,0.6815,11
+It's a great place.,positive,0.5178,Resilience,0.6954,4
+"Huge expanses where the weather can be so separate in different parts… Originally, this scene, the lightning scene -was done without this tree.",uncertain,0.3767,Resilience,0.2836,23
+That's right.,neutral,0.5056,Family,0.8355,2
+We had to add this tree when we came back to add Rafiki into the sequence.,uncertain,0.3816,Resilience,0.4981,16
+"We did a preview where Rafiki wasn't as present in the movie as we would like, and so we put him into this sequence at a later date.",neutral,0.5056,Resilience,0.4935,28
+And added the idea of the icon as well.,positive,0.4741,Family,0.5352,9
+"The Simba icon that he was drawing, which actually carries through thematically through the whole piece.",uncertain,0.401,Resilience,0.1801,16
+Of course he does have… What was the thing about this?,uncertain,0.3764,Family,0.8022,11
+The pink?,uncertain,0.3485,Personal Growth,0.5218,2
+The pink chalk?,uncertain,0.396,Personal Growth,0.239,3
+"Is it pink in his… Yeah, if you look, the color is different in the bowl than it is on what he paints on the thing.",uncertain,0.3565,Family,0.6707,26
+Another little mistake.,uncertain,0.4194,Family,0.4016,3
+Dad!,uncertain,0.4203,Family,0.9946,1
+Dad!,uncertain,0.4203,Family,0.9946,1
+One thing we found out about lions really early is they just sleep all the time.,uncertain,0.3759,Resilience,0.3186,16
+And this is our sleeping lion scene.,uncertain,0.3676,Resilience,0.2444,7
+"They sleep together, too.",uncertain,0.3625,Family,0.9263,4
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"It's interesting how they, in the king and queen's throne room we've got basically everyone else.",uncertain,0.4096,Family,0.9374,16
+It's a commune.,neutral,0.5707,Resilience,0.6539,3
+Because in nature it's usually one lion and many lionesses.,uncertain,0.2567,Resilience,0.2634,10
+"Or occasionally, brothers rule a pride, which is what this story is about.",neutral,0.5086,Family,0.7036,13
+Right.,uncertain,0.4358,Family,0.8802,1
+Interesting.,uncertain,0.3853,Family,0.7637,1
+You promised.,uncertain,0.3618,Family,0.8113,2
+"And Jonathan was really incredible, too.",very positive,0.7528,Personal Growth,0.8752,6
+We went through so many audition tapes of child actors to find Jonathan who had such a great natural ability to act and had such an interesting quirky voice.,uncertain,0.4424,Family,0.8327,29
+"Yeah, he was terrific.",very negative,0.5455,Personal Growth,0.7942,4
+And he's also on the cover of Tiger Beat magazine.,uncertain,0.3206,Resilience,0.3755,10
+-I think that's important to note.,neutral,0.533,Family,0.7931,6
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"Look, Simba.",uncertain,0.4177,Empathy,0.7122,2
+Everything the light touches is our kingdom.,very positive,0.6981,Resilience,0.541,7
+Wow.,very positive,0.4733,Family,0.8643,1
+"A king's time… This shot is amazing because it's a camera dolly around the character, which is very unconventional in animation.",very positive,0.5454,Family,0.4284,21
+"And to do it, we actually started with kind of a computer framework to show how the camera might move around these characters.",uncertain,0.3641,Family,0.5754,23
+"Yeah, we built a very simple model of Mufasa and Simba on the cliff and rotated around so that the animator would have an underpinning, an understructure to put his animation on.",uncertain,0.2896,Resilience,0.586,32
+"It was Chris Wahl, wasn't it?",uncertain,0.3401,Identity,0.7007,6
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"And Chris followed that computer guideline so you get, in that final scene, a feeling that the camera's actually moving around the characters, which is great.",positive,0.4572,Family,0.596,26
+It helps that sense of reality and mood and place.,neutral,0.456,Family,0.6267,10
+"That's the kind of thing we are trying to do throughout the whole picture, was take you into the image.",neutral,0.4663,Family,0.6444,20
+"Yeah, have more of a sense of cinematography.",uncertain,0.377,Family,0.2146,8
+Exactly.,uncertain,0.3869,Family,0.894,1
+I always loved this shot.,very positive,0.5226,Family,0.6948,5
+"The idea of sound effects, you hear a little grass with the antelope running through, and you get the huge perspective of antelope in the foreground and then middle ground, and then they show up way in the distance towards the end of the shot.",uncertain,0.4446,Resilience,0.2464,45
+"I was just gonna say not in an animation way, but just in terms of a scripting way, the idea of having Mufasa talk about that they eat other animals was really important to me.",uncertain,0.3867,Trauma,0.2241,35
+I always thought this is a really great idea.,uncertain,0.3565,Family,0.7818,9
+"I thought it would be great to ennoble the whole idea of the balance of life, the prey-predator and how it's all connected.",uncertain,0.3408,Empathy,0.0058,23
+"Remember the joke we had at one point where he was saying, ""And we're all connected in the great circle of life."" And we had an antelope off in the distance.",uncertain,0.3206,Family,0.2768,31
+"""Isn't that right, Joe?"" ""Right you are, Mufasa."" ""Catch you later, Joe."" ""Not if I can help it."" Then he takes off in the distance.",uncertain,0.4384,Family,0.7983,25
+There was a song here at one time.,uncertain,0.3579,Romantic Love,0.3242,8
+There was a big… Oh.,uncertain,0.3174,Trauma,0.6754,5
+To Be King.,uncertain,0.4011,Identity,0.0492,3
+"To Be King, which was Dad's day out.",uncertain,0.3469,Family,0.0187,8
+"In the storyboard, and in the original outline, it always said, ""Dad's day out."" And it was a male-bonding day between dad and son.",neutral,0.5606,Family,0.6352,24
+But it just never quite fired up.,uncertain,0.3564,Personal Growth,0.6704,7
+"You never believed Mufasa out there in the woods, singing and dancing.",uncertain,0.329,Resilience,0.3797,12
+Here comes my favorite character in the film.,uncertain,0.4244,Resilience,0.5217,8
+This little sweet groundhog who always in previews got the biggest laugh.,uncertain,0.3885,Resilience,0.5655,12
+"He was going to be a naked mole rat, but we couldn't get the thing to look right.",uncertain,0.4366,Trauma,0.4905,18
+But we couldn't get the rights.,uncertain,0.2918,Family,0.8333,6
+-He had a tough agent.,uncertain,0.3978,Resilience,0.5157,5
+It's true.,uncertain,0.3693,Family,0.869,2
+"We would have lost our ""G"" rating.",uncertain,0.3778,Family,0.6849,7
+But it's funny underground humor.,neutral,0.4828,Family,0.6247,5
+It is.,neutral,0.709,Family,0.9153,2
+-It's a throwback to World War II.,uncertain,0.396,Trauma,0.0948,7
+Yeah.,uncertain,0.3646,Family,0.8922,1
+And Hogan's Heroes.,very positive,0.5209,Resilience,0.0236,3
+"Yes, and this line.",uncertain,0.3269,Family,0.7782,4
+Setting up the hyenas.,uncertain,0.3063,Trauma,0.0542,4
+Remember?,uncertain,0.255,Family,0.8961,1
+We had a different line there.,neutral,0.5871,Resilience,0.4772,6
+"It was a transitional scene trying to not only set up the hyenas, but get you led back to Scar and what he's doing.",neutral,0.518,Trauma,0.165,24
+Right.,uncertain,0.4358,Family,0.8802,1
+This was also one of the very earliest scenes done.,uncertain,0.3618,Family,0.6522,10
+"That's the first scene, wasn't it, of Scar by Andreas?",uncertain,0.3251,Trauma,0.0063,10
+Yeah.,uncertain,0.3646,Family,0.8922,1
+First scene animated.,uncertain,0.381,Family,0.7424,3
+"There's a neat lighting thing going on here, too, because whenever you see young Simba, he's out in the sunlight and looking out over the vast Pride Lands.",uncertain,0.3373,Personal Growth,0.5321,28
+"And then whenever you see Scar, he's under the overhang of the cliff, in the shadows, symbolically being the nasty one.",uncertain,0.2835,Trauma,0.0296,21
+Gary Trousdale storyboarded this scene.,positive,0.4788,Family,0.8019,5
+"It's funny because you never see the storyboard drawings, but it's always the point of departure for what the scene ultimately looks like.",uncertain,0.3918,Family,0.5139,23
+And so Gary's attitudes and the way this whole scene was boarded out started long before the animation.,uncertain,0.3263,Trauma,0.6698,18
+"That's Simba, who was animated by Mark Henn.",uncertain,0.2856,Resilience,0.0035,8
+And Scar animated by Andreas Deja.,uncertain,0.4493,Trauma,0.0052,6
+It's really great to see two great animators acting with each other.,uncertain,0.4279,Family,0.488,12
+This is one of the purest scenes where you can see that.,very positive,0.529,Romantic Love,0.7526,12
+"Two great guys who know what they're doing, with great voices to work with, just acting like crazy.",uncertain,0.3787,Family,0.6944,18
+"What's interesting is that Andreas was animating Scar in I., and Mark was animating Simba in Florida.",neutral,0.4597,Identity,0.8258,17
+And all these things were zapping back and forth across the coast.,uncertain,0.2934,Resilience,0.5158,12
+And we recorded Jeremy in London.,uncertain,0.3531,Personal Growth,0.8309,6
+And Jonathan in Zimbabwe.,uncertain,0.3311,Personal Growth,0.8524,4
+-No.,uncertain,0.4462,Family,0.8558,1
+That's not true.,negative,0.4547,Family,0.6274,3
+In the design process we usually start with a conception of the character from the imagination.,neutral,0.572,Family,0.5322,16
+"And once we actually attach a voice to it and hire the actor and start recording that actor, then the lead animator of that character takes on that character and literally starts to work with it and define it and refocus it.",uncertain,0.4433,Family,0.3647,42
+And a lot of times they are so influenced by the look of the actor that it can't help but manifest itself in the final design.,neutral,0.5585,Family,0.4571,26
+I love this shot where Simba is running down the hill past the lionesses basking in the dapple light.,uncertain,0.4164,Resilience,0.4312,19
+"It seems simple, but I remember everybody trying to get the dapple light right because sunlight filtering through trees in animation ain't so easy.",neutral,0.5136,Family,0.3914,24
+"So, getting the effects animators to work together with the art director and get that feeling, and they did a lovely job.",positive,0.5294,Family,0.4687,22
+This all came from a pre-production sketch by Andy Gaskill.,uncertain,0.2945,Family,0.4463,10
+"He was just exploring different environments of where the lions would live, and he did this beautiful thing of the lions sleeping on a dappled ledge.",uncertain,0.3708,Personal Growth,0.5987,26
+And we pretty much just lifted it right off and stuck it right in the film.,uncertain,0.2997,Family,0.579,16
+We should talk about Niketa a little bit.,neutral,0.4971,Resilience,0.0995,8
+We never mentioned her.,very negative,0.5171,Personal Growth,0.3627,4
+-Niketa Calame.,uncertain,0.2631,Personal Growth,0.2963,2
+Yes.,uncertain,0.3673,Family,0.9347,1
+Sweet little girl who came in and read along with every little girl in Hollywood to do the voice of Nala.,very positive,0.4594,Family,0.7057,21
+"And we ended up with Niketa, who was really natural.",uncertain,0.3192,Family,0.9372,10
+I think that was her forte.,uncertain,0.4189,Resilience,0.8708,6
+She was just herself and brought so much edge and character to Nala.,very positive,0.5277,Personal Growth,0.7862,13
+It was great.,very positive,0.4827,Family,0.9137,3
+"It's actually interesting… I was gonna say that it's interesting because one of the issues we had to deal with in this film was it was taking place in Africa, and although it was animated, how are we gonna cast the characters in terms of their ethnic background?",uncertain,0.3425,Family,0.4464,48
+"So, we had James Earl Jones, who's obviously African-American, and we have him with a son who is Matthew Broderick, who is obviously not African-American.",uncertain,0.43,Family,0.9677,25
+"And yet we have Niketa Calame who is African-American, growing up to be Moira Kelly who is not.",uncertain,0.3747,Personal Growth,0.9546,18
+"So, we had this big jumble and big mix-up of characters and things.",neutral,0.5112,Family,0.6799,13
+And what was interesting about this film is that we could really literally be color blind as far as it not mattering at all.,uncertain,0.3533,Family,0.5567,24
+"It was really about who the character was, who the performer was and what they brought to the character.",uncertain,0.4269,Family,0.6098,19
+It's almost a nice commentary on how everyone's voice blended together to create this piece of theater.,uncertain,0.4065,Family,0.6909,17
+"Also we have Jonathan Taylor Thomas as the voice actor for Simba, and when we go into the song he becomes Jason Weaver.",uncertain,0.4372,Resilience,0.407,23
+Right.,uncertain,0.4358,Family,0.8802,1
+"Yeah, who played Michael Jackson.",uncertain,0.3353,Resilience,0.0443,5
+"The other thing going into Can't Wait to Be King, it was one of the first songs that came in.",uncertain,0.3221,Romantic Love,0.0123,20
+And it was meant to be kind of a peppy upbeat kids' point of view of Africa.,uncertain,0.3567,Resilience,0.1045,17
+But the challenge was always to try to reflect that in the art direction.,uncertain,0.3928,Family,0.6711,14
+And our production designer Chris Sanders took that challenge on and created a look for this song that was pretty unique to the rest of the film.,positive,0.5266,Family,0.6762,27
+"Right, it was supposed to be really literally from Simba's point of view, so the idea was to evoke brighter colors and bolder patterns and shapes so that it would feel more childlike.",uncertain,0.3191,Personal Growth,0.0192,33
+"And interestingly, because we knew we had this departure to make, in terms of going from reality to fantasy, we decided to bring the audience there by a very, very abrupt change so that they would be aware, literally, of the change of tempo and tone and idea.",uncertain,0.2266,Family,0.4392,48
+"The idea during the kind of the trees going by is you got Simba and Nala chasing in one direction, and you have all these palm trees panning by in the other direction.",uncertain,0.4378,Resilience,0.0978,33
+And the idea was to try to make them strobe by and subconsciously do this little hula thing.,very negative,0.4747,Family,0.4607,18
+Like a zoetrope.,very negative,0.5264,Resilience,0.0203,3
+"Yeah, Zazu and the rhino butt, a guaranteed laugh.",positive,0.5138,Resilience,0.012,9
+"The log in the river, actually they gave us a little template.",positive,0.4805,Resilience,0.2746,12
+"CGI worked out a little template for the log in the river, again to help us move the characters through a moving camera point of view.",positive,0.5896,Resilience,0.2307,26
+"I love that transition between the ripples in the water into zebra stripes, too, those kinds of things that you can do in a song and maybe not get by with at other places.",neutral,0.5504,Family,0.2643,34
+"One of the problems, too, is if we had taken the animals from The Circle of Life and started having them dance around on their hind feet… Singing and dancing.",uncertain,0.4347,Trauma,0.6147,30
+…it would look really terrible.,very negative,0.5854,Family,0.6812,5
+So we had to go more stylized to allow the animals more free reign to be silly and comic.,uncertain,0.3298,Resilience,0.5029,19
+"Chris really used African artwork and textiles and patterns and fabrics, and was really inspired by those shapes to put into Can't Wait to Be King.",positive,0.4879,Family,0.0095,26
+The end of this song was storyboarded in a whole different way at one point.,neutral,0.485,Family,0.7056,15
+Where were we before?,uncertain,0.3884,Family,0.385,4
+How did this thing end?,uncertain,0.2819,Family,0.3928,5
+Simba and Nala ran away off in the hills and we saw them from a distance finishing up the song.,uncertain,0.244,Family,0.6273,20
+"Not much of a punchy ending, so to go really all out, Busby Berkeley, we wanted to put them in the middle of it.",uncertain,0.3622,Personal Growth,0.2084,24
+And it turned out to be a laugh riot.,uncertain,0.4167,Family,0.8365,9
+The ending shot of this song is really interesting 'cause you basically have a hornbill trapped under a rhino's butt.,uncertain,0.3859,Trauma,0.5147,20
+And you would think maybe there's something funny about this.,uncertain,0.3689,Family,0.4886,10
+And we had a recording session with Rowan Atkinson.,uncertain,0.4209,Family,0.6875,9
+The poor guy.,uncertain,0.4341,Trauma,0.8864,3
+"And we gave him 17, no less than 17 different things to say under a rhino's butt.",uncertain,0.3909,Trauma,0.4549,17
+"Things like, ""Haven't we met before?"" Or, ""I'll never tango again."" All right!",uncertain,0.4106,Trauma,0.0445,13
+It worked!,positive,0.4648,Family,0.8734,2
+We lost him.,very negative,0.6779,Grief,0.9677,3
+I am a genius.,very positive,0.7411,Personal Growth,0.6279,4
+"Hey, genius, it was my idea.",very positive,0.4797,Personal Growth,0.7831,6
+"This was setting up a very important point for our movie later on, which is that Nala is gonna pin Simba later on.",positive,0.579,Family,0.2747,23
+And he has to recognize her.,uncertain,0.4278,Identity,0.9081,6
+"Yes, he has to recognize her.",uncertain,0.3879,Family,0.9274,6
+So we thought she should do something physically that he would remember.,neutral,0.4624,Personal Growth,0.3594,12
+So that was what we ended up on.,neutral,0.5208,Family,0.7875,8
+The Nala flip.,uncertain,0.2898,Personal Growth,0.0459,3
+The Nala flip.,uncertain,0.2898,Personal Growth,0.0459,3
+"Notice how the art direction changed, too.",neutral,0.5675,Family,0.7113,7
+"It was kind of bright sunny day above, and once they roll down the cliff, it's all elephant graveyard, moody and mysterious.",uncertain,0.3264,Trauma,0.6985,22
+"You see all that dust moving in the foreground, which is actually done by a computer program.",uncertain,0.2628,Resilience,0.4,17
+"There's a brilliant man who worked on our movie named Randy Fullmer, who kind of corralled all this.",positive,0.49,Family,0.5212,18
+"His job is artistic coordinator, and he along with Ann Tucker in our scene planning department came up with this idea of turbulence, which you see here in the mist and moving through the elephant graveyard.",uncertain,0.3858,Trauma,0.2002,36
+"Scott Santoro was the head of our special effects department, and normally with special effects you think of rocket ships and laser guns and big explosions, which is absolutely true.",uncertain,0.3886,Family,0.1184,30
+But also in animation you have the kind of side of it that's lighting and shadow and subtlety.,neutral,0.4741,Resilience,0.5839,18
+"And in almost every shot in Lion King, there's some form of special effect, so in a sequence like this which seems fairly simple, it's loaded with shadows and tone mattes and lighting effects that make the character really feel like it's in its environment.",positive,0.4815,Empathy,0.0461,45
+"What tone mattes are, are the shadowed areas on the characters that define the character as a three-dimensional form.",neutral,0.5591,Family,0.5607,19
+Especially in this film where we had lions who were all one color.,uncertain,0.2508,Resilience,0.4996,13
+"If we had not had the tone mattes which gave the internal shadows on their bodies, they would have come out looking so flat.",negative,0.5097,Family,0.6246,24
+"Yellow-gold-orange, yellow-yellow, yellow-brown, yellow-orange.",neutral,0.5219,Family,0.8906,4
+Yeah.,uncertain,0.3646,Family,0.8922,1
+So our effects department pretty much drew shadows on all these characters throughout the whole movie.,uncertain,0.4078,Family,0.514,16
+"Not a fun task, but, boy, it really made everybody become very three-dimensional.",uncertain,0.3433,Personal Growth,0.7888,13
+"You can also see in terms of like what the CAP system does, when Zazu's bill goes from yellow to orange, there's a blend happening between those two colors which was something that we're able to do with a computer.",neutral,0.7515,Resilience,0.1086,40
+That you couldn't have done five years ago.,uncertain,0.3249,Personal Growth,0.8462,8
+"If this were Fantasia back in the '40s, you would have airbrushed all that, and it would have crawled around and been very fragile.",uncertain,0.4331,Trauma,0.0067,24
+Now you can get a lovely blended look.,uncertain,0.4102,Family,0.7564,8
+This is great.,very positive,0.5076,Family,0.854,3
+"I remember one day we were working on the movie, trying to figure out who to cast for several of the parts, and Peter Schneider walks in and goes, ""Whoopi Goldberg wants to be in your movie."" We hadn't cast the hyenas, in fact, we had read auditions for the hyenas, including Nathan Lane and Ernie Sabella, who came in to audition for the hyenas, and ultimately were cast as Pumbaa and Timon.",neutral,0.5739,Family,0.4006,73
+We hadn't quite landed on who would play these characters.,negative,0.6186,Family,0.5193,10
+Gary Trousdale had come up with a Cheech and Chong idea.,uncertain,0.3711,Personal Growth,0.002,11
+"But we found out that they wouldn't work together anymore, -so we… We kept Cheech.",uncertain,0.2688,Trauma,0.532,15
+-Ended up with Cheech and Whoopi.,uncertain,0.372,Resilience,0.135,6
+There you go.,neutral,0.5173,Family,0.7529,3
+"And Ed, who was loosely based on Ed McMahon and Harpo Marx, all mixed together, who could just laugh at their jokes.",neutral,0.5862,Family,0.5323,22
+"And he was played by Jim Cummings, who we had the most amazing recording session with, 'cause he came in for four hours and basically laughed.",uncertain,0.29,Family,0.7515,26
+Every kind of laugh.,uncertain,0.3423,Family,0.5676,4
+"""Laugh apprehensively."" ""Laugh like Ricky Ricardo."" ""Laugh like Lucy."" As the chase starts, the art direction heats up again, so you really get a lot of reds and stuff on the screen.",neutral,0.4597,Family,0.1521,32
+That's the great thing about animation is you can light and do whatever you want to so that the art direction can support what's going on emotionally on the screen.,uncertain,0.4392,Empathy,0.6281,30
+"This was funny, pounding on Jonathan's back, so he could do the uh-uh-uh-uh Going down the spinal cord.",uncertain,0.3742,Trauma,0.7553,18
+"These got to be really complex scenes in here 'cause you had six characters on the screen, on and off, and their shadows and tone mattes.",uncertain,0.2361,Family,0.5472,26
+"This is a great shot, as the cubs round the corner and go past all those foreground cliffs and reveal this big elephant carcass, for lack of a better word.",uncertain,0.376,Family,0.5063,30
+And it's got a little skin on it and they crawl up to the top.,positive,0.4915,Resilience,0.6746,15
+There's a little color pop here.,uncertain,0.373,Family,0.7365,6
+It's not much to look at.,negative,0.5287,Family,0.3804,6
+We couldn't fix it because we ran out of time.,uncertain,0.3933,Family,0.8916,10
+Yeah.,uncertain,0.3646,Family,0.8922,1
+-Who did those growls for Simba?,uncertain,0.33,Trauma,0.5322,6
+That was Jonathan.,uncertain,0.3449,Personal Growth,0.8631,3
+I remember we experimented with real animal growls and young cubs sound like kittens almost.,neutral,0.5494,Resilience,0.2586,15
+"This is like a grizzly bear, mixed with a tiger, mixed with a F-16 fly by.",uncertain,0.4257,Trauma,0.7806,16
+One of the big challenges of doing The Lion King was the fact that it was an all-animal story as opposed to many of the other pictures we've done recently which were primarily human based.,negative,0.4917,Resilience,0.0075,35
+So the entire staff of animators had to learn how to do four-legged animals.,uncertain,0.4003,Resilience,0.3054,14
+"They went to the zoo, they went to Africa.",uncertain,0.3897,Resilience,0.0533,9
+They really lived with these animals.,uncertain,0.4216,Resilience,0.7322,6
+"We had Jim Fowler, who you remember from the old Wild Kingdom show, came into the studio with… ""That's Jim wrestling the anaconda ""while I'm sitting here in the tent."" ""We'll be right back."" Jim came in one day and brought seven lions and lionesses in.",uncertain,0.3135,Trauma,0.0055,46
+"Cubs, females, males.",neutral,0.7045,Family,0.9422,3
+Beautiful creatures.,very positive,0.5266,Family,0.4379,2
+And you really get a sense for what their power is and majesty and the feeling of those creatures when you're about three feet away from them with nothing between you but a piece of paper and a pencil.,very positive,0.4888,Family,0.4937,39
+There was lots of research done.,neutral,0.5394,Family,0.7267,6
+We studied films.,uncertain,0.3794,Romantic Love,0.4446,3
+"We went to Africa, watched them in the wild, brought back photographs.",uncertain,0.3594,Resilience,0.3463,12
+We ate a whole caribou one night.,uncertain,0.2593,Family,0.5532,7
+That was good.,uncertain,0.4214,Family,0.863,3
+I remember that.,neutral,0.5033,Family,0.8788,3
+"When we showed the film in Japan for the first time, we got absolutely no response.",very negative,0.4857,Family,0.704,16
+"I mean, no laughter to any of the jokes up until this joke when Zazu says, ""Good luck."" And it gets a huge laugh.",uncertain,0.4083,Personal Growth,0.5249,24
+It brought down the house.,uncertain,0.3876,Family,0.943,5
+"We all asked afterwards why it happened, and apparently it's a cultural thing.",neutral,0.5671,Family,0.5809,13
+"When you get in trouble in Japan and you go off to be reprimanded, people will tell you, ""Good luck."" Simba!",uncertain,0.3965,Trauma,0.0651,21
+An important symbol in the film is when Simba puts his foot in the footprint.,uncertain,0.3478,Personal Growth,0.6962,15
+"It tells you about the whole film, that someday we'll have to fill our fathers' footsteps.",uncertain,0.4232,Family,0.8141,16
+-It's a visual metaphor.,uncertain,0.2844,Resilience,0.6133,4
+It is.,neutral,0.709,Family,0.9153,2
+The audience related to this scene perhaps more than any other because we've all been in Simba's position here.,uncertain,0.3239,Empathy,0.9576,19
+"Actually, here's an interesting one is that we really were trying to actually do a sunset during the whole course of this sequence so that every single background had to transition from this pink sunset setting to a starry night.",uncertain,0.3521,Family,0.4077,40
+Do you know how we did it actually?,uncertain,0.3416,Family,0.6498,8
+"For a lot of it, it was just two backgrounds.",neutral,0.5331,Resilience,0.1854,10
+A dark one and a light one.,neutral,0.4558,Resilience,0.4124,7
+And then you just added… We would literally transition pinkness or blueness to it.,uncertain,0.2957,Family,0.7094,14
+It was a percentage.,neutral,0.5932,Resilience,0.133,4
+We would have it mostly on the pink and then we would increase the percentage on the starry night as we decreased on the pink sky.,neutral,0.5335,Family,0.7242,26
+"It's also the point in the movie where we start to introduce the star metaphor, which then became very important later in the film.",positive,0.5495,Family,0.3726,24
+"Yes, that was actually an invention of Jim Capobianco.",uncertain,0.2548,Resilience,0.6265,9
+Yeah.,uncertain,0.3646,Family,0.8922,1
+It was nice.,positive,0.5089,Family,0.9215,3
+"There needed to be a way to express the idea of forefathers, generations gone by, in a way that was somewhat spiritual and had a link somehow to the generations gone by.",uncertain,0.3525,Family,0.7404,32
+And the stars became that metaphor.,very positive,0.5021,Resilience,0.0066,6
+And of course this piece of scoring was not the original piece.,uncertain,0.4263,Family,0.3917,12
+"Yeah, Hans had written a piece of score for this whole area.",positive,0.4917,Resilience,0.7346,12
+"-It was quite lovely, but… We changed it.",uncertain,0.3876,Family,0.8071,8
+We changed it.,very positive,0.5386,Family,0.8595,3
+We used it in another place.,uncertain,0.3414,Resilience,0.3795,6
+You're talking about the theme where we used it for his ascension to Pride Rock.,neutral,0.5384,Personal Growth,0.0417,15
+Yeah.,uncertain,0.3646,Family,0.8922,1
+That's where we slipped it.,uncertain,0.3488,Family,0.7579,5
+"Now, if you look at the stars closely, they form the constellation Leo.",uncertain,0.3838,Resilience,0.3261,13
+Is that true?,uncertain,0.3676,Family,0.7097,3
+It is true.,uncertain,0.4369,Family,0.8536,3
+Yeah.,uncertain,0.3646,Family,0.8922,1
+Yes.,uncertain,0.3673,Family,0.9347,1
+"if any of you listening are astronomers, you can please call us.",neutral,0.5905,Resilience,0.1103,12
+Although you're not supposed to be able to see the constellation Leo -from East Africa.,uncertain,0.3708,Resilience,0.2029,15
+From the Equator?,uncertain,0.3216,Resilience,0.2707,3
+Apparently.,uncertain,0.4249,Family,0.8535,1
+Really?,uncertain,0.3086,Family,0.6704,1
+That's what somebody told me.,neutral,0.5498,Family,0.5649,5
+I bet you could.,uncertain,0.3819,Family,0.7738,4
+-Anyway.,uncertain,0.426,Family,0.7956,1
+I'm no astronomer.,very negative,0.4856,Resilience,0.0675,3
+"Man, that lousy Mufasa.",uncertain,0.3986,Trauma,0.1038,4
+I won't be able to sit for a week.,uncertain,0.3546,Trauma,0.6536,9
+"It's not funny, Ed.",uncertain,0.3862,Family,0.4857,4
+Jim Cummings' laugh.,uncertain,0.3441,Family,0.8874,3
+"Jim Cummings' laugh, a little more turbulence mist coming up from the… But no tone mattes because we had to cut back.",neutral,0.5017,Family,0.6009,22
+That's right.,neutral,0.5056,Family,0.8355,2
+We ran out of money.,uncertain,0.4469,Family,0.1882,5
+"No, there were places throughout the movie where you have to cut back.",uncertain,0.4011,Family,0.5674,13
+And so you have to pick those moments where it's not going to conflict.,neutral,0.5654,Family,0.7015,14
+"But interestingly we used that shadowing process so that at the bottoms of the characters, it falls off into shadow, so it does give it a dimensional effect.",neutral,0.4541,Family,0.5887,28
+"One of the things I think Andy Gaskill wanted to do with this sequence was make it kind of a geothermically unstable place, so you get really theatrical curtains of steam rising up from cracks in the Earth.",uncertain,0.3789,Family,0.3784,38
+"And because, as you know, when we were making this film we went through the Northridge earthquake.",uncertain,0.2795,Trauma,0.926,17
+"The big Northridge earthquake, which is incorporated into this song.",very negative,0.6243,Trauma,0.8262,10
+"We survived floods, fires, a riot.",uncertain,0.3731,Resilience,0.9431,6
+A plague of locusts.,very negative,0.7557,Trauma,0.0541,4
+"And commissary food, all during the making of this film.",uncertain,0.3746,Resilience,0.4161,10
+"Now, you, Scar, I mean, you're one of us.",very positive,0.5661,Identity,0.9892,9
+"I mean, you're our pal.",uncertain,0.381,Friendship,0.9889,5
+Here comes a meat gag.,uncertain,0.2868,Trauma,0.0115,5
+"Yes, very controversial meat gag.",very negative,0.4735,Trauma,0.1271,5
+We weren't sure whether we could actually show meat on screen.,uncertain,0.3667,Family,0.3181,11
+Can you show meat?,uncertain,0.3394,Personal Growth,0.0117,4
+Can you show zebra meat on screen?,uncertain,0.3191,Trauma,0.163,7
+"We decided that if it was striped… It was funny, then.",uncertain,0.3572,Family,0.5634,11
+Somehow it was funny.,uncertain,0.4255,Family,0.7242,4
+Although it had to look like a ham.,uncertain,0.4377,Personal Growth,0.172,8
+Like a cartoon ham.,very negative,0.5723,Personal Growth,0.0377,4
+-It's the Tom and Jerry cartoon ham.,uncertain,0.3893,Family,0.0018,7
+"Yeah, it's kind of a Tex Avery ham.",uncertain,0.4246,Family,0.0092,8
+"And here they're like eating neck ties, so you don't really feel like they are eating meat.",uncertain,0.3664,Family,0.511,17
+"See, there goes a necktie.",uncertain,0.4307,Trauma,0.3525,5
+And the meat used to be pinker.,negative,0.4694,Family,0.4166,7
+-We grayed it down.,uncertain,0.3349,Family,0.7697,4
+We had to gray it down.,negative,0.4673,Family,0.8063,6
+Which of course made it look rancid.,very negative,0.4752,Family,0.5726,7
+Like rotten meat.,very negative,0.6811,Trauma,0.2977,3
+Which was even worse.,very negative,0.588,Family,0.7577,4
+Which was much more appealing and PC.,uncertain,0.424,Personal Growth,0.838,7
+Be Prepared is the big villain song.,uncertain,0.4397,Resilience,0.0021,7
+"And Jeremy Irons, boy, he went through lots of rehearsal, and an eight-hour session at a studio one day to come up with the vocals for this song.",uncertain,0.3543,Resilience,0.6072,28
+-He did great.,positive,0.4683,Family,0.8712,3
+He did great.,uncertain,0.4452,Personal Growth,0.8933,3
+"But by the end of the day, he had blown out his voice.",uncertain,0.3193,Trauma,0.7827,13
+"Most people don't think of Jeremy Irons as a singer, but he was.",neutral,0.4915,Resilience,0.298,13
+"He, early in his career, played John the Baptist in Godspell, in the West End in London.",uncertain,0.3905,Resilience,0.1234,17
+So he really did start out as a singer and performs well in this one.,positive,0.4911,Family,0.6848,15
+"When this song came in from Elton and Tim, it was called Thanks to Me.",positive,0.472,Personal Growth,0.0128,15
+"And the lyrics were, ""Thanks to me it's goodbye Mufasa.",uncertain,0.4125,Grief,0.0118,10
+"""Thanks to me little Simba's gone bad,"" or something like that.",uncertain,0.3867,Trauma,0.7666,11
+"""Little Simba needs prayers."" Needs prayers, yeah, and it was great, but as the story evolved, we wanted the notion that Scar was plotting behind… It was actually in a different place.",uncertain,0.3751,Trauma,0.2978,32
+Right.,uncertain,0.4358,Family,0.8802,1
+"Originally, it was much longer after the hyenas were waiting to take over, and Scar was putting them off.",negative,0.6163,Trauma,0.5946,19
+It was also after Mufasa was killed.,uncertain,0.2574,Trauma,0.8983,7
+"Right, it was long after Mufasa was killed, and we were feeling like, ""What?",uncertain,0.352,Trauma,0.8253,14
+"It's so late."" It makes much more sense to have a plotting song and really get the juices going for this takeover, -so we moved it up earlier.",uncertain,0.2977,Resilience,0.3681,28
+The melody stuck.,negative,0.5053,Family,0.6563,3
+This is a track that Hans Zimmer did in a weekend.,uncertain,0.4086,Trauma,0.5467,11
+"""We left his studio on a Friday night and said, ""Hans, give us a kind of ""fun, sinister, Cirque Du Soleil thing."" In fact, I don't think we even said that.",uncertain,0.3466,Trauma,0.0367,31
+I think we just left him alone.,very negative,0.6923,Family,0.8389,7
+"And he came back with, basically, what you hear today.",uncertain,0.3275,Family,0.711,10
+Carnival in hell was one of our… Carnival in hell was the brief..,uncertain,0.4316,Trauma,0.0377,13
+"He came back on Monday morning and played this for us, and we were pretty amazed.",positive,0.4785,Family,0.8399,16
+"And then one of our great storyboard artists, Jorgen Klubien, took the material, and he and Andy Gaskill, our art director, were inspired by Leni Riefenstahl.",uncertain,0.3779,Family,0.3497,26
+Kind of fascist documentary stuff.,uncertain,0.4456,Identity,0.0785,5
+And thought maybe we could layer the idea of Scar as the fascist dictator on this whole dynamic of the movie here.,uncertain,0.2882,Trauma,0.0141,22
+"Well, the idea is when we introduced the yellow lights, was to give you the colors of, like, an old news reel.",uncertain,0.3637,Family,0.1631,22
+So that we colored everything in kind of these old browny yellows.,uncertain,0.2945,Family,0.8347,12
+"Like dirty old yellows and black, like an old news reel.",uncertain,0.3035,Trauma,0.1982,11
+Especially for mud.,uncertain,0.3355,Resilience,0.1708,3
+"This scene, in the director's cut, we should replace this.",uncertain,0.3583,Family,0.5931,10
+"Yeah, a lot of debate about this scene in previews, whether it was appropriate, and how much we would lean in the direction of this kind of fascist, fascism-on-parade kind of thing.",neutral,0.6414,Family,0.1852,32
+"And here it kind of turns into that bacchanal in hell, carnival, Mardi Gras in a graveyard feeling.",uncertain,0.3901,Family,0.2262,18
+And the earthquake.,very negative,0.4748,Resilience,0.4564,3
+"This was based on Rob's backyard during the earthquake, actually.",uncertain,0.2846,Resilience,0.586,10
+"It's funny, on the early demos of this song, both Rob and Roger and I, all of us sing.",positive,0.5015,Family,0.6136,19
+"And so for a long time when we were workshopping and trying to get through these songs, -we were the hyenas.",uncertain,0.2994,Family,0.6243,21
+That's right.,neutral,0.5056,Family,0.8355,2
+-Tim Rice sang Scar's part.,uncertain,0.4256,Trauma,0.3212,5
+Beautifully.,very positive,0.6096,Family,0.8949,1
+And the three of us were the hyenas.,uncertain,0.2563,Family,0.7613,8
+That's right.,neutral,0.5056,Family,0.8355,2
+"In fact, I think we've survived as hyenas.",uncertain,0.3424,Family,0.7215,8
+There's some of our laughing.,neutral,0.5055,Family,0.8954,5
+Some of our laughing is still on the soundtrack.,neutral,0.4974,Family,0.8607,9
+And this is all samples.,uncertain,0.4489,Personal Growth,0.151,5
+"Hans Zimmer sitting at the keyboard in his studio with sample sounds, playing this whole thing.",neutral,0.5657,Resilience,0.5834,16
+This shot.,uncertain,0.4062,Family,0.5273,2
+Those moving shadows over the cliffs.,uncertain,0.3152,Resilience,0.5104,6
+Cloud shadows moving across the Serengeti.,uncertain,0.356,Resilience,0.4155,6
+This is another Mark Henn and Andreas Deja scene.,uncertain,0.323,Romantic Love,0.179,9
+"Mark animating Simba, and Andreas animating Scar.",uncertain,0.3188,Resilience,0.1577,7
+And it just shows you what you can do with a great vocal performance.,uncertain,0.4157,Personal Growth,0.6876,14
+"And no props, these characters have no props.",very negative,0.4848,Family,0.6206,8
+"They can't hold things in their hands, they're standing on their hands.",uncertain,0.2868,Family,0.6981,12
+They have no opposable thumb.,neutral,0.4604,Family,0.5638,5
+"The other thing, I think, that's interesting to note is some of the very long scenes.",neutral,0.4662,Family,0.4844,16
+"What we tried to do is stay on the characters and stay on a shot, rather than over-cutting things to really give you a chance to be with the characters, to let them perform and get across what they were doing.",neutral,0.5825,Resilience,0.5348,41
+"Another tip of the hat to Jeremy Irons, I think.",uncertain,0.3663,Personal Growth,0.7192,10
+"In a recording session, he would give us 10 and 15 and 20 takes on a different color of the line every time.",neutral,0.7288,Family,0.5356,23
+"And then our editor, Tom Finan, would work with the directors and put a performance together that sounded very cohesive.",positive,0.4623,Family,0.5381,20
+But Jeremy was terrific.,very negative,0.5045,Personal Growth,0.935,4
+"Hey, Uncle Scar, will I like this surprise?",uncertain,0.3245,Family,0.9946,8
+"Simba, it's to die for.",neutral,0.5741,Romantic Love,0.6416,5
+"Actually, the thing we're really trying to do in this sequence is, we've got several storylines going on, we have to set different things up.",uncertain,0.4289,Family,0.5727,25
+"And it was important to actually keep the thread moving throughout each, so that, again, you were carried through sort of in a seamless way.",uncertain,0.3693,Family,0.6852,25
+"And this leads us into probably the centerpiece of the movie, certainly the turning point of the movie, the wildebeest stampede, which was originally storyboarded by Thom Enriquez, in a career-long move.",very positive,0.4531,Trauma,0.0652,32
+"Thom took probably a year and a half, almost his whole career on the movie, to do the stampede, and then we turned it over to the CG department, the computer graphics department, with their animators and technical directors, and they were the ones responsible for bringing the wildebeest stampede to life on the screen.",uncertain,0.4383,Trauma,0.2703,55
+"In this movie, they did the wildebeests, they did the turning Pride Rock, and they also did the water from Can't Wait to Be King.",uncertain,0.4487,Resilience,0.0075,25
+"It's the same kind of effects you would see in the ballroom of Beauty and the Beast or the flying carpet in Aladdin, that kind of unique character situation that can only be handled with the help of a computer.",neutral,0.8492,Resilience,0.0074,40
+"Scott Johnston was our CGI supervisor, and he wrangled this whole thing, and it really was a project that took the full three years of production for what amounts to about six or seven minutes on the screen.",positive,0.4543,Resilience,0.3677,38
+What's really amazing is that all of those beasts are really based on a singular run cycle that was created by the CGI department.,very positive,0.6316,Resilience,0.2217,24
+"Then they added on different behaviors like bucks -and kicks, and different things.",neutral,0.5472,Personal Growth,0.5192,13
+Head shakes.,uncertain,0.3588,Trauma,0.7467,2
+Changing leads.,uncertain,0.4301,Personal Growth,0.8322,2
+"Yeah, but the program that they invented was something called an avoidance program where they would send the wildebeest, literally moving towards each other, but they would always turn away at the last minute.",uncertain,0.2896,Family,0.0491,34
+So they really replicated what a real stampede would do.,uncertain,0.3461,Family,0.421,10
+"Which is, you've got thousands of beasts running, and they're going to constantly try to avoid each other, so you're getting a complete sense of what it would look like.",uncertain,0.39,Trauma,0.1076,30
+It's interesting because the reason they did that is because the computer does not recognize what is three-dimensional objects.,neutral,0.562,Family,0.537,19
+The computer would have the actual beast crossing in and out of each other like ghosts if they didn't do this.,very negative,0.5288,Trauma,0.3524,21
+"So, in order to have them not occupy the same space, they did that program, which again, underlines the natural behavior of these beasts.",uncertain,0.3497,Family,0.3654,24
+It's odd.,neutral,0.521,Family,0.6075,2
+It's the first time for us we really tackled flesh and blood characters being animated by the computer.,uncertain,0.4218,Family,0.5735,18
+And the reason the computer graphics guys did it this way is it would be impossible to actually sit down and draw tens of thousands of wildebeest storming through a gorge.,uncertain,0.2804,Resilience,0.2822,31
+"And for Jonathan Taylor Thomas, when we were doing all of this, him falling this way and that way, we actually had to pick him up and fling him around the recording studio so we could get These screams and yells out of him.",uncertain,0.2552,Trauma,0.8117,44
+"That was the very first scene that was put in color, Zazu hitting the wall.",very negative,0.4572,Trauma,0.734,15
+"That's a really interesting little scene, it just goes by so fast, but the camera dollies from left to right on the sea of wildebeests.",neutral,0.4749,Resilience,0.3137,25
+"And it goes by really fast, but it's actually a very sophisticated scene because what you're seeing is the entire herd is running at you and changing perspective as the camera dollies to follow Mufasa, as Mufasa doubles back to save Simba.",very positive,0.5924,Resilience,0.7669,42
+"Again, that's something that would be very simple to do in live action, but in animation you really have to go out of your way to replicate it.",uncertain,0.2812,Resilience,0.6089,28
+"The combination of the computer-generated wildebeest, and the hand-drawn animation, all the Simba, Mufasa and Scar artwork, of course, would have been drawn by hand.",uncertain,0.3761,Resilience,0.2629,25
+"And then the effects animators putting in shadows, the turbulence dust on top of it, put together with a hand-painted background, created a pretty amazing effect.",uncertain,0.372,Resilience,0.5557,26
+"And then Hans Zimmer wrote a piece of score for here that was… I remember the night we went over to his studio and heard it for the first time, it was probably one of the most powerful pieces of music -I had ever experienced.",uncertain,0.391,Resilience,0.4069,45
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"Musically here, Hans went to South Africa and London, and a lot of the voices you're hearing on the track here are a combination of London choral group singing with the South African singers, to give you a really panicked kind of soundtrack.",positive,0.4812,Trauma,0.7253,43
+"This was a big debate here, trying to figure out how Simba should or shouldn't see the death of his father, -to try to sidetrack Simba enough.",uncertain,0.3662,Family,0.9621,27
+"That's why we had him climbing the cliffs so there was rocks, so he didn't see it during all of this.",uncertain,0.3978,Trauma,0.5196,21
+It was crucially… These scenes coming up here.,uncertain,0.3358,Family,0.546,8
+-…important that he not see it.,uncertain,0.3641,Family,0.7364,6
+Right.,uncertain,0.4358,Family,0.8802,1
+'Cause then the guilt trip wouldn't work.,uncertain,0.424,Family,0.7724,7
+"And this scene, which we decided was one of our longer scenes, we decided we really wanted to hold on this shot and allow Simba to move through this whole sense of three-dimensional space to really believe in.",uncertain,0.3008,Personal Growth,0.4092,38
+"That's really the way you convey space in animation is, you have to allow the character to move within the three dimensions that exist.",uncertain,0.4042,Resilience,0.4005,24
+"Scene coming up, where Simba confronts the body of his father.",neutral,0.5228,Family,0.9767,11
+We spent a lot of time in story and previewing and discussion.,neutral,0.5069,Family,0.6229,12
+And we animated several versions of it.,neutral,0.4527,Family,0.5373,7
+"Mark Henn went through anguish trying to get this to be the right mixture of pathos and emotion, to make this moment work.",uncertain,0.4226,Family,0.8069,23
+"It's a tribute to all the craftsmen coming together, 'cause you have the staging that the layout people did so beautifully, and certainly the direction that makes it a very poignant moment.",uncertain,0.348,Resilience,0.5801,32
+And Jonathan's acting in this part.,uncertain,0.3218,Family,0.7652,6
+"For a while we thought, ""Should we try real animal sounds?"" Oh, God, that's right.",uncertain,0.3812,Resilience,0.037,15
+We recorded the whimperings of lion cubs.,uncertain,0.3198,Resilience,0.4873,7
+"'Cause we thought, ""That will be really sad."" You know how you feel when there's an animal… And the whimperings of Frank Welker.",uncertain,0.3088,Empathy,0.6587,23
+"Frank Welker is a very talented voice artist in town, and came in and whimpered for a half hour.",very positive,0.4728,Trauma,0.5845,19
+"We thought, this is going to be really sad, and we cut it in and it wasn't.",very negative,0.4783,Family,0.6465,17
+It was weird.,uncertain,0.4418,Trauma,0.4588,3
+"Because even though these are lions, it's a very human story.",very positive,0.6117,Empathy,0.8164,11
+"And then Rob came in one day, he saw a Rescue 911 or something, I remember, and you were talking about the woman whose daughter fell into a swimming pool or something, and was running around going, ""Help, please, somebody help me!"" And that kind of panicked attitude you have when you don't know where to turn, and you're just shouting for help, but there maybe isn't any help, and that kind of spawned the idea of Simba running around.",neutral,0.5419,Trauma,0.6812,80
+"He knows it's hopeless, but he's still looking for maybe that last chance that his father could be alive.",very positive,0.5484,Family,0.9754,19
+"It's one of the most sensitive issues in the film is, literally, dealing with the death.",uncertain,0.2516,Family,0.4572,16
+"Whether or not to deal with it off screen, which is a choice they made in Bambi.",uncertain,0.4097,Trauma,0.2385,17
+"And we decided to go purposefully the opposite direction, for the specific reason to allow Simba to confront the issue of death in a very real, personal and immediate way.",uncertain,0.3189,Trauma,0.4882,30
+Especially because this is going to be his issue that he has to deal with for the rest of the picture.,uncertain,0.358,Trauma,0.6618,21
+The whole idea of Simba's guilt materialized a little later in the game.,negative,0.456,Trauma,0.6002,13
+-It wasn't an original notion.,uncertain,0.4266,Family,0.3296,5
+No.,very negative,0.4577,Family,0.8406,1
+That Scar would actually wind Simba up to make Simba believe that his father's death was actually somehow his fault.,very positive,0.4801,Family,0.8735,20
+"But as the story developed, that became pretty central.",uncertain,0.4332,Family,0.7316,9
+"It was really necessary because we always had a problem with, ""Why doesn't Simba go back home?"" When he ran away, and was gone for a while, we were always up against the problem of what motivates him to stay away?",uncertain,0.2963,Family,0.735,41
+"Simba's just having a bad day, you know.",uncertain,0.389,Empathy,0.8576,8
+If it's not one thing it's another.,neutral,0.62,Resilience,0.5357,7
+It's also interesting to think how these stories track in terms of time.,neutral,0.5931,Family,0.5152,13
+-Because it's very condensed.,very positive,0.5325,Family,0.6714,4
+Yeah.,uncertain,0.3646,Family,0.8922,1
+This is all two days.,uncertain,0.4052,Family,0.4853,5
+The beginning of this movie takes place in two days.,neutral,0.551,Family,0.5418,10
+"This is interesting, this whole area of the movie was actually animated -flopped or reversed.",neutral,0.4858,Family,0.6061,15
+From right to left.,uncertain,0.3443,Family,0.8276,4
+Simba was escaping from the right to the left.,uncertain,0.299,Resilience,0.809,9
+"And then as the movie was up on reels, pretty deep in the process, ""the guys looked at each other one day and said, ""You know, ""we've established the Pumbaa and Timon jungle"" ""is always off on screen right."" ""But here Simba's escaping to the left."" So this whole chunk was flopped.",uncertain,0.369,Trauma,0.5234,52
+-All this.,uncertain,0.3404,Family,0.5151,2
+But actually it really isn't.,uncertain,0.3103,Family,0.458,5
+I think it was completely unnecessary.,very negative,0.7241,Family,0.8583,6
+"In fact, now that I think about it, I think -we should go back the other way.",uncertain,0.3849,Family,0.7853,17
+"Well, okay.",neutral,0.6381,Family,0.7371,2
+Whoopi's so interesting.,uncertain,0.3452,Personal Growth,0.3075,3
+"We recorded her separately from Cheech, and the one time we got them together, they were great together, but most of the time we record them separately, yet it still sounds like they're in the same room together.",neutral,0.6271,Resilience,0.5071,38
+-I don't know how that works.,neutral,0.4764,Family,0.5362,6
+Yeah.,uncertain,0.3646,Family,0.8922,1
+I think that's actually something people aren't aware of as much is that we do almost all the actors separately.,uncertain,0.4415,Family,0.6362,20
+And we have to basically bring it all together in the editing room.,uncertain,0.373,Resilience,0.6517,13
+"Now we see Simba clearly escaping to screen right, where later we'll find Pumbaa and Timon.",uncertain,0.3683,Resilience,0.6423,16
+But are they on the right?,uncertain,0.3951,Family,0.8039,6
+There was a song here once.,uncertain,0.3151,Romantic Love,0.443,6
+Yes.,uncertain,0.3673,Family,0.9347,1
+It was a reprise of Be Prepared.,uncertain,0.437,Family,0.0027,7
+"Which we do use musically, don't we?",neutral,0.4717,Romantic Love,0.3136,7
+"No, we don't use it even.",very negative,0.5814,Family,0.8173,6
+Not at all?,very negative,0.5812,Family,0.6159,3
+No.,very negative,0.4577,Family,0.8406,1
+"There was once imagined a reprise of Scar's song Be Prepared here, as Scar ushers the hyenas in, seemed to be a bit too much of a stage wait or something.",negative,0.5066,Resilience,0.0016,31
+It was too lively to the mood.,negative,0.6223,Family,0.5939,7
+"You needed to come down from the death, from all that activity, you needed to have that low point.",uncertain,0.2609,Trauma,0.8211,19
+It was also rubbing the audience's nose in the death.,negative,0.4629,Trauma,0.5654,10
+"We showed the movie at the AMC in Burbank, and it was a preview for Michael and Roy Disney.",neutral,0.4648,Family,0.6013,19
+"""Michael's big thing after seeing the movie is, ""I love Rafiki, ""he's a great character, and you get what he is in the movie,"" ""but you just don't see him enough, you don't see his character"" ""threaded through the movie enough."" So, a lot of moments, particularly this one where he's mourning over the loss of Simba, kind of come out of rebuilding from that preview.",uncertain,0.4469,Grief,0.9623,66
+"There used to be a sequence in here, if I could just ruminate, where Simba was lost and alone in the inhospitable waste.",very negative,0.4674,Loneliness,0.1981,23
+"There was a little sequence where he was out on the sand dunes, and he was walking in the desert.",negative,0.5075,Personal Growth,0.473,20
+Kind of a Lawrence of Arabia thing.,uncertain,0.3169,Resilience,0.0177,7
+"And we simplified it by using the icon of Simba as a transition to the apparently dead Simba, so you don't know, so you think, ""Boy, this hasn't just been a bad day."" -I mean, this has been… This has been a bad day.",uncertain,0.3842,Trauma,0.5339,44
+"Now, interestingly enough, these vultures used to be characters.",uncertain,0.4299,Trauma,0.7006,9
+That's right.,neutral,0.5056,Family,0.8355,2
+Yeah.,uncertain,0.3646,Family,0.8922,1
+Long ago.,uncertain,0.3682,Family,0.6167,2
+But we tried a bunch of different kinds of vultures.,uncertain,0.4254,Resilience,0.0827,10
+We tried vultures as newscasters.,uncertain,0.2838,Resilience,0.0585,5
+We had the old Yiddish vultures.,uncertain,0.3327,Trauma,0.0696,6
+We had the radio announcer vultures.,uncertain,0.2858,Trauma,0.1123,6
+"It was all black humor, they were all talking about, ""Hey, kid, you might as well give up."" ""We're ready for you.",uncertain,0.3815,Family,0.452,22
+"We're going to eat you."" ""It's not looking so good for you, is it?"" Yeah.",uncertain,0.4173,Family,0.9089,15
+"And it was, like, a scene played out with these vultures as characters.",uncertain,0.3102,Trauma,0.5702,13
+"And it was very funny, really funny.",very positive,0.5331,Family,0.792,7
+"It was too funny, and it kind of stole the thunder from Pumbaa and Timon.",negative,0.6025,Resilience,0.1108,15
+"And so, we knew the audience had to be rooting for Pumbaa and Timon, and we introduced these vultures which we would never pay off later, so we ended up just making them real vultures.",uncertain,0.4492,Family,0.0271,35
+Make them sinister.,very negative,0.5499,Trauma,0.5756,3
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"Now, the funny story is that Nathan Lane and Ernie Sabella came in to audition in New York as hyenas.",uncertain,0.363,Family,0.0694,20
+I think Nathan also came in and auditioned for Zazu's role.,positive,0.5092,Resilience,0.5527,11
+"So, when we were in Los Angeles listening through all the tapes, we were trying to figure out who Timon and Pumbaa should be, and we listened to Nathan and Ernie's hyena audition, and it was so funny.",uncertain,0.3976,Personal Growth,0.0645,38
+They were so funny together.,very positive,0.4977,Family,0.8952,5
+"They played together so well and seemed so familiar with each other and so friendly, that we said, ""Wouldn't it be great if they were Timon and Pumbaa?"" Even the lines they were reading as hyenas were perfect.",very positive,0.4542,Friendship,0.379,38
+They were talking about whether they should attack and eat the wildebeest.,neutral,0.638,Family,0.4872,12
+"And one of the hyenas as the voice of Nathan Lane said, ""What'll it be?",uncertain,0.4286,Trauma,0.3123,15
+"One meal now, or years of feasting in the future?"" And Ernie replied, ""One meal now, definitely one meal now."" And we thought, ""That's Timon and Pumbaa."" Mike Surrey and Tony Bancroft, the two animators that animated Timon and Pumbaa, were Timon and Pumbaa, they embraced them in every way.",uncertain,0.4064,Family,0.4983,50
+"Originally, actually, in the earlier version of the story, Timon and Pumbaa used to be children who grew up with Simba in the Pride Lands.",uncertain,0.3238,Family,0.7213,25
+"One of the things we decided to change was to make them outcasts, so that when Simba was exiled, he'd have some friends who could take him under their wing.",negative,0.4558,Trauma,0.4376,30
+"And actually Gary Trousdale, who boarded the earliest version of these two characters, came up with the idea of Pumbaa's delicate condition.",uncertain,0.2766,Family,0.4797,22
+"Because he came up with the joke, ""Hey, kid, pull my horn."" And that's what led us off on that whole… ""Pull my tusk!"" And that's what led us off on this idea that he has a little problem.",very negative,0.4751,Family,0.7887,39
+He has an occasional indiscretion.,neutral,0.6216,Trauma,0.2438,5
+"It's, ""You got to put your past behind you."" Look, kid, bad things happen, and you can't do anything about it, right?",uncertain,0.3096,Trauma,0.4227,22
+"Of course, this gets into our issue about guilt and responsibility.",uncertain,0.3116,Family,0.2796,11
+"And which led us to the idea of the song Hakuna Matata, which originally was called The Warthog Rhapsody and covered a whole different idea.",uncertain,0.424,Personal Growth,0.0338,25
+It was just about their fun life and how you get bugs.,uncertain,0.4283,Family,0.3955,12
+It was sort of the way Pumbaa lives.,uncertain,0.3745,Resilience,0.0863,8
+"You know, live according to Pumbaa.",neutral,0.4558,Personal Growth,0.011,6
+Pumbaa's philosophy.,uncertain,0.2565,Personal Growth,0.1596,2
+And what we did is we needed a way to express the idea of Simba turning his back on his responsibility and yet doing it in a way that seemed fun and actually kind of a good thing.,uncertain,0.3764,Family,0.1455,38
+"It was Roger one day, as we were sitting around a table, who came up with, ""You know, when we were in Kenya, they have this phrase over here ""that they use all the time.",uncertain,0.3019,Family,0.4907,35
+"It's something like, 'Hakuna matata.""' And we all said, ""No, that'll never work."" It was a ridiculous idea.",very negative,0.4694,Family,0.0137,18
+"But it has, it has such a great rhythm to it.",uncertain,0.3514,Family,0.8224,11
+"Just automatically the whole expression, ""Hakuna matata."" Tim said, ""Well, I'll see what I can do with it."" It's like Zip-a-Dee-Doo-Dah and Bibbidi-Bobbidi-Boo, and Supercalifragilisticexpialidocious.",uncertain,0.4404,Personal Growth,0.1014,25
+All those songs wrapped into one.,uncertain,0.4049,Romantic Love,0.3178,6
+It's a Disney tradition to come up with words that mean absolutely nothing.,neutral,0.5195,Family,0.1193,13
+But this does mean something.,neutral,0.5535,Resilience,0.714,5
+It does.,neutral,0.6977,Resilience,0.8583,2
+"This means ""No problem, no worries."" So it is a real phrase.",neutral,0.4775,Family,0.0231,12
+So it's a departure.,uncertain,0.3812,Personal Growth,0.5862,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+"It's like Que Sera, Sera, kind of thing.",neutral,0.5324,Friendship,0.5647,8
+"Yeah, that's right.",neutral,0.499,Family,0.8485,3
+It's true.,uncertain,0.3693,Family,0.869,2
+"Actually, when we started off, the thing used to start with Timon's verse, where he sang about how he didn't fit into the meerkat colony.",uncertain,0.3606,Personal Growth,0.0762,25
+Meerkats are really social animals.,uncertain,0.2635,Family,0.8071,5
+"They were very social animals, they all lived in big groups, and they were all supposed to work hard, and he just refused to work.",uncertain,0.4436,Family,0.7125,25
+And so did that verse because we just really couldn't get it to work and we decided to cut it out and start with the chorus which was a little radical.,uncertain,0.3606,Family,0.6469,31
+But The Beatles did it.,uncertain,0.3953,Resilience,0.1884,5
+"""Can't Buy Me Love."" ""Can't Buy Me Love,"" exactly.",uncertain,0.4167,Family,0.8873,9
+"Yeah, and it worked great for them.",positive,0.544,Family,0.9394,7
+"You know, hey.",uncertain,0.3459,Family,0.7151,3
+For all you guys at home… That's right.,uncertain,0.3983,Family,0.8003,8
+"Every time Pumbaa and Timon swing through… It goes by so fast in the movie, I don't think the audience ever enjoyed it.",very positive,0.4942,Trauma,0.103,23
+They can use their slow button thing.,uncertain,0.3898,Family,0.7346,7
+"Yeah, they swing through, and they're in a funny pose every time.",positive,0.4848,Family,0.7725,12
+This is Jason Weaver again singing for Simba.,uncertain,0.3683,Resilience,0.1051,8
+And the next task that this song had to serve was to help Simba grow up.,uncertain,0.3243,Personal Growth,0.9717,16
+And how do you show that?,neutral,0.5181,Family,0.3696,6
+-In one scene.,neutral,0.6842,Family,0.4631,3
+Through dissolves.,uncertain,0.3138,Family,0.578,2
+"But first we'd go to bugs, which was one of the original concepts for the song.",uncertain,0.4119,Trauma,0.0044,16
+We wanted the whole song to be about eating bugs.,uncertain,0.4317,Family,0.078,10
+The old warthog song that used to be in this place was all about fun eating bugs in the jungle.,uncertain,0.4116,Family,0.0054,20
+I don't think we ever got our absolute 100% complete bug song.,very negative,0.6856,Family,0.4475,12
+-Never did that.,very negative,0.5312,Family,0.7155,3
+"No, that's okay.",neutral,0.5484,Family,0.7173,3
+This works.,uncertain,0.3107,Family,0.8706,2
+This is kind of a rites of passage thing in a funny way.,uncertain,0.4066,Personal Growth,0.217,13
+"Timon says, ""If you're going to live like us, you gotta eat like us."" Back to the eating theme.",neutral,0.4601,Family,0.9156,19
+"Join our society, eat a bug.",uncertain,0.3174,Identity,0.3852,6
+"So, metaphorically speaking… I was going to say, there's a really cool African masked beetle in the corner of that last scene.",uncertain,0.3651,Resilience,0.0982,22
+"Well, that was one that was interesting.",neutral,0.5591,Family,0.6038,7
+"We looked at a lot of reference pictures of the beetles, and they really looked like the inspiration for African masks.",positive,0.464,Resilience,0.1482,21
+"It was very, very interesting.",uncertain,0.3831,Family,0.7573,5
+It's kind of like jungle sushi.,negative,0.5013,Resilience,0.0045,6
+"-I love this scene, Mark Henn again.",uncertain,0.381,Family,0.6727,7
+I love this scene.,positive,0.4624,Romantic Love,0.9481,4
+There were audible sighs of disgust in the audience when we previewed this.,uncertain,0.4173,Family,0.6545,13
+-Here we go.,neutral,0.5297,Family,0.748,3
+Simba grows up.,uncertain,0.4029,Personal Growth,0.9884,3
+Here is the longest log.,uncertain,0.2567,Resilience,0.0374,5
+The world's longest log.,uncertain,0.3374,Resilience,0.0376,4
+There's about two seconds in there where you see teenage Simba.,uncertain,0.4024,Personal Growth,0.2343,11
+"And it's the only time you see him, but there he is.",neutral,0.5225,Family,0.7229,12
+It's interesting because we demoed that a couple of ways where the background and the characters dissolve at the same time.,neutral,0.5497,Family,0.4109,21
+-Remember that?,uncertain,0.3541,Family,0.8158,2
+"Yeah, and you didn't pick up on his transitions.",uncertain,0.3744,Family,0.6473,9
+"You never got him growing up, so now in the film the character changes and then the background changes.",uncertain,0.4087,Personal Growth,0.8218,19
+"And the character and the background, and you really feel a big passage of time.",uncertain,0.4294,Family,0.5715,15
+"Also, Simba's singing voice here is Joe Williams, who's the son of John Williams, the Star Wars composer and he was lead singer of Toto.",positive,0.5605,Family,0.223,25
+"And who knew that Ernie Sabella has a huge gift for scat singing, but in this little walk up here, he and Nathan, we just let the tape run one day, and they gave us about four hours of scat singing, of which you hear a little bit of it here.",uncertain,0.4224,Family,0.3316,51
+That little trumpet sound is Ernie doing his little mouth trumpet thing.,uncertain,0.2661,Family,0.6327,12
+"Kenya, two years later.",uncertain,0.3501,Resilience,0.8017,4
+Two years.,uncertain,0.3815,Family,0.7595,2
+"We were going to have a title card thrown in there, but we thought, ""It's a little retro."" I love this scene, Zazu's trapped for the amusement of Scar.",uncertain,0.3821,Resilience,0.0442,29
+Right.,uncertain,0.4358,Family,0.8802,1
+And it's funny.,uncertain,0.3806,Family,0.8058,3
+Rowan Atkinson had never learned It's a Small World.,very negative,0.4598,Family,0.0048,9
+"So we had to have them bring the music along 'cause he hadn't been to Disneyland a million times like we all had, growing up in southern California.",uncertain,0.2434,Personal Growth,0.8601,28
+I had to sing it for him a few times to sort of get the melody happening.,negative,0.4759,Family,0.7626,17
+"And it's funny, he got it right away.",uncertain,0.3983,Family,0.8753,8
+It's the kind of song that sticks to you like glue.,uncertain,0.4404,Family,0.7078,11
+"There's nothing like that feeling of walking into a recording session with Jeremy Irons and saying, ""Do you know Lovely Bunch of Coconuts?"" Originally, actually, we had a gag in there, which I was sorry to lose, which was Scar was looking at the skull of the wildebeest, and he says, ""Alas, poor wildebeest, I chewed him well."" There used to be a longer interaction where Zazu said, ""Only you can rule the pride, as only you do."" Trying to say nice things about him.",uncertain,0.3811,Trauma,0.2624,85
+"Of course, this was also to show how the Pride Lands have become degenerated.",uncertain,0.2964,Trauma,0.0535,14
+"The hyenas have overgrazed, shall we say?",uncertain,0.3351,Trauma,0.0599,7
+That the balance of nature had been thrown akinder.,uncertain,0.3624,Trauma,0.7026,9
+And Scar… Excuse me?,very negative,0.4811,Trauma,0.0516,4
+"""Akinder""?",uncertain,0.3555,Personal Growth,0.3021,1
+I just made that word up.,positive,0.4961,Personal Growth,0.0729,6
+My daughter's an akinder.,very positive,0.574,Family,0.934,4
+"For some reason they translated that ""qué pasa"" into some other phrase -in Spain.",uncertain,0.3461,Family,0.4247,14
+I don't know why.,uncertain,0.4056,Family,0.3002,4
+Go figure.,uncertain,0.377,Family,0.7821,2
+"I remember that, yeah.",uncertain,0.4188,Family,0.8258,4
+I don't know why.,uncertain,0.4056,Family,0.3002,4
+"Ah, the under-the-stars sequence.",neutral,0.5359,Resilience,0.0466,4
+"Well, it's nice, it's male bonding.",uncertain,0.4472,Friendship,0.3784,6
+-Can we say that?,uncertain,0.3858,Family,0.4783,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+It is.,neutral,0.709,Family,0.9153,2
+It's three guys.,neutral,0.5349,Personal Growth,0.6213,3
+-They have a great life together.,positive,0.4848,Family,0.9868,6
+Buddies out camping.,negative,0.4635,Friendship,0.9862,3
+They've had this… I always thought of this as a Peter Pan scene.,uncertain,0.3101,Trauma,0.0021,13
+Don't ask me why.,uncertain,0.3115,Family,0.4332,4
+Lost Boys bonding together on their own little oasis.,uncertain,0.4126,Friendship,0.9197,9
+I always thought a little bit of Stand by Me.,uncertain,0.4258,Friendship,0.1963,10
+"Yeah, same kind of thing.",neutral,0.6879,Family,0.6452,5
+Under the stars.,uncertain,0.2825,Resilience,0.5382,3
+Timon?,uncertain,0.2757,Personal Growth,0.2227,1
+Yeah?,uncertain,0.3705,Family,0.7449,1
+Ever wonder what those sparkling… Here we get the chance to revisit our thematic star idea.,uncertain,0.3589,Resilience,0.4445,16
+Which was established earlier with Mufasa and Simba.,uncertain,0.3155,Family,0.5514,8
+Exactly.,uncertain,0.3869,Family,0.894,1
+Only this time Timon and Pumbaa get to make fun of Simba for believing in it.,uncertain,0.2986,Family,0.6506,16
+"There's the ""great balls of gas"" line, which was -probably the… Great balls of gas!",very positive,0.4509,Family,0.058,15
+Probably the biggest laugh in the movie.,uncertain,0.3449,Family,0.63,7
+That and the Small World thing that Zazu just sang was really big and funny.,uncertain,0.4158,Personal Growth,0.0049,15
+"Where'd that come… Was that a Jonathan Roberts, Irene Mecchi line?",uncertain,0.3293,Family,0.9912,11
+Exactly.,uncertain,0.3869,Family,0.894,1
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"Actually… How do you remember it, Roger?",uncertain,0.4171,Family,0.7249,7
+"Well, I think I came up with the balls of gas, because I don't know what the thing was with Pumbaa, I was saying, ""I thought maybe Pumbaa should go"" ""a little closer to the truth,"" ""that actually you think he's way off, but actually he's right on."" You think he's stupid, but he's really Carl Sagan.",uncertain,0.3119,Personal Growth,0.4328,57
+"Yeah, he's Carl Sagan.",uncertain,0.3351,Identity,0.8803,4
+Right.,uncertain,0.4358,Family,0.8802,1
+You mean a bunch of royal dead guys are watching us?,uncertain,0.318,Family,0.7295,11
+Pffff!,uncertain,0.3423,Family,0.5731,1
+"So, then they kind of coax out of Simba this bittersweet response.",uncertain,0.3463,Empathy,0.8252,12
+"Of course, the stars remind him of Dad.",uncertain,0.4145,Family,0.9647,8
+Right.,uncertain,0.4358,Family,0.8802,1
+Then they ridicule him for it.,uncertain,0.316,Trauma,0.5682,6
+"Yeah, like any good friend would.",neutral,0.55,Friendship,0.9763,6
+"This was a little problem area, because leading into this, you're trying to communicate Simba's forlorn feeling and ultimately lead you to Rafiki.",uncertain,0.4401,Loneliness,0.9108,23
+"So, this transitional device of the pollen.",uncertain,0.3564,Personal Growth,0.0117,7
+Pollen blowing in the breeze.,uncertain,0.41,Resilience,0.0427,5
+"Literally, Simba touched it, so it would carry some of his… Also his exhalation of his woe and sadness carry it along.",positive,0.5471,Empathy,0.6489,22
+"You know, we should talk about Robert Guillaume because when he first came in to test for this character, it was a completely different character.",uncertain,0.4188,Personal Growth,0.5895,25
+"It was a much more serious, profound baboon that would impart wisdom and be a friend to Mufasa.",very positive,0.5947,Friendship,0.9274,18
+-And so he came in.,uncertain,0.3896,Personal Growth,0.7746,5
+A politician.,uncertain,0.3273,Resilience,0.1854,2
+"Yes, a politician.",uncertain,0.3256,Resilience,0.313,3
+"""Sire, I have grave news about the Pride Lands."" Robert Guillaume was brilliant doing that.",very positive,0.5211,Trauma,0.4468,15
+"And then through a variety of story changes we came back, probably three or four months later, and said, ""Robert, we still love you, but there's been a few changes made."" Suddenly, we have this whacky Jerry Lewis witch doctor character.",neutral,0.5357,Family,0.5485,41
+Now you're a madman.,very positive,0.5163,Trauma,0.6619,4
+We spent almost the whole first recording session with him finding that laugh.,uncertain,0.4189,Personal Growth,0.9176,13
+We worked him so hard in all these recording sessions.,uncertain,0.3176,Personal Growth,0.7149,10
+He would be leaping up and down and cackling and laughing and he brought so much to this character.,uncertain,0.3427,Family,0.595,19
+He's my favorite.,uncertain,0.3312,Family,0.9034,3
+"He was a man of few words, not Robert but Rafiki.",uncertain,0.3574,Family,0.744,11
+"It seemed like the less he said, the more interesting he was.",uncertain,0.3136,Family,0.7675,12
+If he just spoke in little bits of wisdom and riddles and things that he was a much more interesting character.,uncertain,0.3712,Family,0.6721,21
+"Singing the song Lion Sleeps Tonight was an idea, originally, that we thought was just kind of a funny joke amongst ourselves and when we finally really thought about it, we said, ""Well, gee, why not?",uncertain,0.3186,Personal Growth,0.0042,36
+"Why don't we use it?"" -And we did.",uncertain,0.3488,Family,0.8122,8
+"I always wish we had a full recording on the album of them doing that whole song, -'cause I love that song.",uncertain,0.3948,Family,0.6239,22
+They were amazing.,very positive,0.6443,Family,0.8937,3
+"I can't hear you, buddy.",uncertain,0.3492,Loneliness,0.8931,5
+Back me up.,uncertain,0.4017,Family,0.9103,3
+A-wiiiiii iiiiii-iiiiii-iiii A-Pumbaa-bum-baa-weh Pumbaa?,uncertain,0.4025,Family,0.0974,4
+Pumbaa?,very negative,0.4593,Personal Growth,0.0335,1
+Hmm?,uncertain,0.3405,Family,0.5722,1
+"A little… Oh, Carmen there, I think… I love that little musical section of him sneaking up.",uncertain,0.3869,Personal Growth,0.3357,17
+Timon?,uncertain,0.2757,Personal Growth,0.2227,1
+Here's a little rack focus.,uncertain,0.4365,Personal Growth,0.2414,5
+"Digitally, in the CAP system, you're able to have a soft, diffused distant ground and a very sharp foreground, and at one point in the scene you just change those perspectives, and the foreground goes soft, and the background goes crisp, and you get the feeling that you actually moved the camera lens into focus.",positive,0.4934,Resilience,0.5929,55
+I think it's interesting at this point also in just what kinds of techniques we're using.,uncertain,0.4476,Family,0.6358,16
+"That we're trying not to be limited by the vocabulary of animation of what we've typically been able to do, but try to go beyond that to do things that maybe you've seen in live action, but have never seen done in animation.",neutral,0.5794,Resilience,0.658,43
+"Don't worry, buddy.",uncertain,0.4053,Friendship,0.952,3
+I'm here for you.,uncertain,0.3549,Empathy,0.9486,4
+I love all of this fighting stuff.,very positive,0.4713,Resilience,0.3366,7
+-Ruben Aquino… Tony de Rosa.,uncertain,0.2903,Family,0.7094,5
+…and Tony de Rosa did these great fighting lions.,uncertain,0.4086,Resilience,0.3145,9
+Just gorgeous.,very positive,0.668,Family,0.8749,2
+"See, I told you he'd come in handy.",uncertain,0.3694,Resilience,0.7554,8
+"The flip, the Nala flip.",uncertain,0.3558,Personal Growth,0.0369,5
+"Of course, here is the Nala flip.",uncertain,0.364,Personal Growth,0.0053,7
+The flip which we saw earlier in the movie returns again.,uncertain,0.4493,Family,0.626,11
+"This is the lovely Moira Kelly, and she is lovely, too.",very positive,0.4836,Family,0.9532,11
+"Actually, it's interesting, I remember the first time we had written this scene, the very first pass of the scene was written in New York, in that hotel, up on the top floor.",uncertain,0.3928,Family,0.7039,33
+"Yeah, at the beautiful Royalton Hotel in New York City.",uncertain,0.3481,Resilience,0.7676,10
+"Yeah, we had booked a recording session with Nathan and Ernie, and we had some script pages that were written well before the recording session, and on the plane on the way out, we got to thinking, and then the night before over drinks, we got to talking.",uncertain,0.4296,Family,0.6117,48
+"And then I found myself about 3:00 in the morning on the telephone to all these typewriter rental places saying, ""Can you get a computer up to room 336, please?"" And the next morning we had a 10:00 recording session.",uncertain,0.3955,Resilience,0.5764,40
+"We were together having breakfast at 8:00, pounding out script pages 'cause we had some new ideas.",uncertain,0.2795,Family,0.6579,17
+"And we ran them over to the stage, and it ended up eventually being this scene.",uncertain,0.2279,Family,0.6945,16
+"That was a very early session, too.",uncertain,0.3244,Resilience,0.7156,7
+That was very early on.,uncertain,0.2433,Family,0.8096,5
+"I also think, this was one of the most difficult writing moments to arrive at.",very negative,0.6032,Family,0.7889,15
+"Because we wrote this scene many, many times.",uncertain,0.2859,Family,0.7383,8
+And boarded it many times because so many things had to happen in this little three-minute scene.,uncertain,0.3916,Family,0.6078,17
+"Simba and Nala meet, Pumbaa and Timon don't know who she is.",uncertain,0.353,Family,0.9757,12
+Their lives together as bachelors are threatened by her.,uncertain,0.3019,Family,0.9144,9
+"She punches Simba's buttons and says, ""Why haven't you gone home?"" And yet they can't completely break up because there's a love song coming up.",neutral,0.4761,Resilience,0.7875,25
+There's all these masters that scene had to serve.,uncertain,0.2856,Resilience,0.0914,9
+"And it was one of the toughest, just in terms of storytelling and writing, to do it in a compact, clear way for the audience to understand.",uncertain,0.3715,Family,0.7007,27
+"During this whole confrontational scene with Nala, where she's saying, ""What about your family back home?"" And all this sort of thing, and the comic characters saying, ""You're the king!"" We decided we wanted to ease from the afternoon colors, the golden light to a pinker light, to introduce… Because we wanted to do the love song against the last afternoon light so we can start off brilliant and go into sunset colors.",uncertain,0.3427,Romantic Love,0.5429,73
+"So, behind the background, again, we did a step by step warm pinkyfying of the backgrounds.",uncertain,0.3565,Family,0.4836,16
+That had to be planned out extensively.,uncertain,0.4256,Family,0.667,7
+"Here's Pumbaa and Timon, the buddies are going to break up.",uncertain,0.3389,Trauma,0.048,11
+"Actually, I remember their walk off.",uncertain,0.3918,Trauma,0.6063,6
+We had another line when they were walking off.,uncertain,0.4139,Resilience,0.4319,9
+Timon and Pumbaa?,uncertain,0.3616,Friendship,0.0289,3
+"Yeah, Timon and Pumbaa.",uncertain,0.2921,Family,0.0055,4
+What was the line that led into it?,neutral,0.5015,Family,0.4326,8
+"Something about… Pumbaa said, ""After all, he's the king!"" Timon said, ""What are we, the short subjects?"" -Anyway… Which got left behind -for obvious reasons.",uncertain,0.444,Family,0.1609,25
+For obvious reasons.,uncertain,0.3373,Family,0.6951,3
+I get it.,uncertain,0.3185,Empathy,0.8286,3
+I've really missed you.,uncertain,0.3896,Family,0.8881,4
+"I've missed you, too.",uncertain,0.3743,Empathy,0.9313,4
+"I tell you, Pumbaa.",uncertain,0.246,Personal Growth,0.0863,4
+This stinks.,very negative,0.5569,Family,0.7074,2
+"Oh, sorry.",very negative,0.4912,Family,0.7051,2
+Not you!,very negative,0.5518,Identity,0.72,2
+Them!,very positive,0.5761,Family,0.9611,1
+This is Jamie Lopez's animation of these two guys.,uncertain,0.3511,Resilience,0.5527,9
+Great.,very negative,0.5395,Family,0.9319,1
+"This song has an interesting, perhaps, the most diverse history in the film.",very positive,0.4713,Family,0.687,13
+"Poor Tim Rice, 18 times, I would bet you, no joke, he wrote the lyrics to this song, trying a bunch of different ways.",uncertain,0.439,Family,0.6834,24
+"At times we had Simba and Nala sing the whole thing, with their mouths open onscreen.",uncertain,0.3709,Resilience,0.5069,16
+"At times we had Pumbaa and Timon sing the whole song, which was really funny, in fact, we took that version to screen it for Elton and Tim at one point, and everybody sat around scratching their heads, ""and Elton said,"" Well, wait a minute.",uncertain,0.3489,Personal Growth,0.128,45
+"You don't understand."" ""I always loved the point in Disney movies"" ""when the prince and the princess"" ""got to sing about how they feel about each other."" ""I always wrote this song, thinking"" ""it was gonna be a classic Disney love song."" And so, we ended up with this kind of hybrid moment that it is in the movie now, where Pumbaa and Timon get you into and out of the song, and then you get a wonderful lyric from Tim Rice about how the two of them are getting together.",uncertain,0.3509,Family,0.4794,91
+"One of the things about doing a love song is you've got to put in some comic moments, or else a lot of kids start getting really squirmy.",neutral,0.6153,Romantic Love,0.7108,28
+"So, it was a good thing that we held on to Timon and Pumbaa.",positive,0.4918,Resilience,0.3938,14
+I love this.,uncertain,0.4258,Family,0.9156,3
+"This is one of my favorite scenes in the movie, I just love the way it looks.",uncertain,0.4466,Family,0.6535,17
+The reflections and everything.,very positive,0.4889,Personal Growth,0.6274,4
+I'm so happy with that.,very positive,0.5273,Family,0.906,5
+"Yeah, it's really great.",uncertain,0.4116,Family,0.8263,4
+"Without having to have a big, action-adventure sequence, you can use the artistry of the CAP system, the animators, the effects animators, the art directors, all come together to create a nice little moment.",uncertain,0.3829,Resilience,0.4712,34
+"Now, a lot of this also came from Andy Gaskill's storyboarding, the whole ideas of pulling Nala in the water, all this sort of thing.",uncertain,0.3641,Resilience,0.3729,25
+Simba soaked to the skin.,uncertain,0.2823,Resilience,0.209,5
+Coming up is perhaps the most steamy love scene -in any Disney film ever.,very positive,0.6157,Romantic Love,0.8865,14
+"Well, it's funny, in context of these lions in Africa, in an animated film, you actually, you know, feel the moment very much, right here, where they roll down the hill.",uncertain,0.4006,Empathy,0.7509,31
+"And then she has her ""come hither"" look in a minute.",uncertain,0.3835,Personal Growth,0.6401,11
+There she is.,neutral,0.7452,Family,0.9328,3
+"Wow, what a cat.",uncertain,0.3015,Resilience,0.4426,4
+Yeah.,uncertain,0.3646,Family,0.8922,1
+That's actually another classic animation scene.,uncertain,0.2937,Family,0.4977,6
+-The girl with the stars in her eyes.,very positive,0.5218,Romantic Love,0.8557,8
+Very sweet.,uncertain,0.4352,Family,0.9488,2
+"And I love this 'cause it's all one shot, and it ends up with these big, funny, cartoon elephant tears.",uncertain,0.4345,Family,0.678,20
+But the funniest thing about this is that the animators animated the crying to each other… -Each other's character's voice.,uncertain,0.3507,Family,0.6919,20
+Yeah.,uncertain,0.3646,Family,0.8922,1
+Cartoon trivia there.,uncertain,0.4195,Family,0.106,3
+"His carefree days With us are history In short, our pal ls doomed We originally designed… You could see water underneath the log, and the reflections, and we had to cut back, so what Andy suggested is just drop the water out and make it a long waterfall -that falls off, which was even better.",uncertain,0.232,Family,0.4384,55
+"It's beautiful, and this is a real tribute to the effects animators, too, to be able to create this whole mood in this little glen here.",uncertain,0.4447,Resilience,0.4231,26
+"This is the big continuation of that idea of the scene where Nala and Simba are… They're having their big confrontation about whether or not he is the king, and whether he should take responsibility for it, which of course we had to interrupt with the love song.",neutral,0.4506,Romantic Love,0.625,48
+Right.,uncertain,0.4358,Family,0.8802,1
+That's right.,neutral,0.5056,Family,0.8355,2
+"That was what was difficult actually about the love song, because some ways, it was hard to hold off this moment from early on, because it took them a long time to get down to talking about this.",uncertain,0.4398,Romantic Love,0.7983,38
+This is a great scene that portrays what great actors can do.,uncertain,0.4473,Resilience,0.6587,12
+"Matthew Broderick of course, playing adult Simba, and Moira Kelly playing adult Nala here.",positive,0.5815,Family,0.3734,14
+"And also, in our process they probably recorded these scenes at different times, on different coasts, and it's a tribute, too, to the film editor who has to sit down, in this case Tom Finan, and make this performance sound like it's one cohesive scene.",uncertain,0.3765,Resilience,0.5755,45
+"A lot of times when you'll be recording with another actor, one of us would have to go in, like either Rob or me, or Brenda, our story person.",neutral,0.567,Family,0.4773,29
+"We'd have to remember how the other actor had read the lines, and would play the scene opposite the person, so that you could keep them responding to the way the other actor had performed.",neutral,0.7798,Resilience,0.5816,35
+"Matthew brought a lot to the role of Simba because I think in the casting process, we were trying to find somebody who could bring a comedic side to the character so he wasn't just a boring hero that was going on this journey, and he was kind of one-note.",positive,0.4773,Personal Growth,0.2594,50
+"And Matthew could bring that kind of wry sense of humor that he has, that kind of Ferris Bueller side of him, to the role and still carry the dramatic parts, because he is such a great actor.",positive,0.461,Family,0.6277,38
+This is the star metaphor coming back.,very positive,0.6202,Personal Growth,0.0363,7
+Ruben Aquino did some great animation here.,positive,0.6095,Family,0.7357,7
+Ruben was the lead animator on the Simba character and was one of the earliest animators on the film and kind of set the style for how these lions would look.,positive,0.5803,Resilience,0.3647,31
+And this is kind of Simba's dark day of the soul.,uncertain,0.2875,Trauma,0.952,11
+"And an interesting anecdote here, the sobbing you hear at the end of here is actually director Rob Minkoff sobbing.",uncertain,0.3929,Family,0.4045,20
+"Asante Sana, squash banana We we nugu, imi mi apana Asante Sana, squash banana We we nugu, imi mi apana Asante Sana, squash banana One of my favorite scenes is the down-shot of Rafiki's point of view, with Simba walking away through the grassy field, and he leaves this really subtle little trail through the grass.",positive,0.5623,Personal Growth,0.5253,56
+And it's so nice.,very positive,0.546,Family,0.8826,4
+"It's a special effect that the audience would never know, but you would feel it if it wasn't there and it's really tastefully handled.",uncertain,0.4055,Family,0.5055,24
+"And then when you get to this section where he walks out on the log and kind of looks at his reflection in the water, you get all that great moiré pattern of the water playing underneath the log, and it's really a wonderful moment.",positive,0.4731,Personal Growth,0.8089,45
+"This ""Asante Sana"" thing came from our guide in Africa.",uncertain,0.3041,Personal Growth,0.0877,10
+It's kind of a little schoolyard chant.,uncertain,0.3819,Resilience,0.0831,7
+It actually means something.,uncertain,0.3839,Resilience,0.8108,4
+"""It means,"" Thank you very much, squashed banana.",uncertain,0.4283,Family,0.0076,8
+"""You're a baboon and I'm not."" Which, of course, Rafiki does explain in the movie.",neutral,0.5129,Identity,0.6808,15
+A little bit.,uncertain,0.3676,Family,0.7553,3
+"It's interesting actually, because we took that ""Asante Sana"" idea, that was one of the very first things that we talked about, once we knew we wanted to make Rafiki this crazy shaman character.",uncertain,0.4136,Personal Growth,0.0395,34
+"And originally we had him using that in the blessing of Simba at the beginning of the movie, as a sort of quasi-chant.",uncertain,0.3808,Empathy,0.0806,23
+Asante Sana Squash banana And it sounded a little goofy.,uncertain,0.3839,Personal Growth,0.1265,10
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"So, we said, ""You know, that's not gonna work."" But we ended up using it in this location, which made a lot more sense to do it to literally be annoying.",uncertain,0.3919,Family,0.5969,31
+I think these scenes of Rafiki are great.,very positive,0.5192,Resilience,0.1659,8
+James Baxter is the animator of Rafiki and one of the great animators at the studio.,uncertain,0.4356,Personal Growth,0.0059,16
+He really is.,uncertain,0.3116,Identity,0.9628,3
+"It's interesting 'cause James animated Belle, in Beauty and the Beast, and he animated Roger Rabbit.",uncertain,0.4148,Resilience,0.021,16
+"It's interesting because animators can crawl into the skin of so many different characters, so for somebody to animate Belle and to turn around and animate Rafiki, it shows you the kind of vast range that animators can have, and certainly James is amongst the best.",uncertain,0.4179,Resilience,0.3483,46
+"Okay, so this is Simba going into… It's interesting 'cause what we talked about is this whole twisted, gnarled vine area was sort of to reflect Simba's unconscious mind that he was literally going back, peeling through the layers, weaving through to go back, to get to, sort of, -the center of his problem.",uncertain,0.2824,Trauma,0.6775,54
+Right.,uncertain,0.4358,Family,0.8802,1
+Where he had buried and suppressed that whole thing about his father.,very negative,0.6243,Family,0.9799,12
+So he's going through therapy.,uncertain,0.3716,Personal Growth,0.6735,5
+"To counterpoint to the scene earlier when he was cub, when he was actually escaping from his homeland through the thorns and the thicket, this is the beginning of his journey back.",uncertain,0.3497,Personal Growth,0.8446,32
+"In fact, we actually… I had Ruben Aquino and Tom Bancroft, they had to mimic each other's scene, so it is literally this… One of the scenes is exactly the same.",uncertain,0.3002,Family,0.6796,31
+"-That there's a vine… The crawling under… Yeah, there's a crawling under one big vine, -which is exactly the same.",uncertain,0.4455,Family,0.6668,20
+Very interesting.,uncertain,0.3756,Family,0.7707,2
+But done in different directions.,neutral,0.6872,Personal Growth,0.635,5
+"Leading into this wonderful Mufasa's ghost sequence, which was one of the first storyboard on the film.",uncertain,0.4175,Resilience,0.0264,17
+I remember looking at Andy Gaskill and Chris Sanders and Brenda Chapman kind of collaborate on this whole area and found a piece of music that kind of expressed the emotion here.,neutral,0.462,Empathy,0.6885,32
+I love this scene.,positive,0.4624,Romantic Love,0.9481,4
+That is based right on one of Chris Sanders' story sketches.,neutral,0.653,Family,0.417,11
+I like the moiré patterns of the water reflecting up… It's very poetic stuff.,very positive,0.5058,Family,0.6164,14
+"""Look down there."" You see?",uncertain,0.4085,Family,0.6222,5
+"And again it's great special effects animation, in a very subtle way, from Scott Santoro and the gang.",uncertain,0.4041,Family,0.4014,18
+Simba.,neutral,0.5821,Personal Growth,0.1166,1
+"The Mufasa's ghost scene started with Tony Fucile, the lead animator on Mufasa, drawing the performance to James Earl Jones's voice in a really rough manner, and then that went to the effects guys, and Scott Santoro and Ed Coffey and a lot of the effects animators then took those roughs and turned them into cloud shapes and negative shapes and elements that were combined together to create that effect.",uncertain,0.3727,Trauma,0.0144,70
+"Yeah, also, what we were trying to do with the ghost scene was to bring Mufasa in as a negative shape and then slowly transition, so that the lighting effects would come around to the front, and eventually describe him as a three-dimensional form, up until the sort of climactic scene where you finally see Mufasa in a more dimensional, real state.",uncertain,0.3757,Trauma,0.3825,62
+"You know, we recorded James Earl Jones in a really interesting way for this scene.",uncertain,0.4186,Resilience,0.6775,15
+"Because his voice is such an instrument, a musical instrument.",uncertain,0.3178,Family,0.296,10
+And our sound designer got an idea to actually put microphones around his head.,uncertain,0.2347,Resilience,0.5554,14
+We had about six microphones.,uncertain,0.2682,Family,0.6575,5
+"So, in a theater environment where you get a left-center-right surround kind of environment, we actually recorded him with five microphones around his head, which was quite a shot.",uncertain,0.3676,Family,0.4589,29
+It was supposed to make it sound like his voice was coming -from inside of your head.,very negative,0.464,Personal Growth,0.3961,17
+Right.,uncertain,0.4358,Family,0.8802,1
+"I remember sitting around in my office, late one night with a box of cold pizza, trying to figure out how to physicalize this scene, and how to turn it into a moment that wasn't just talking heads.",uncertain,0.41,Family,0.6601,38
+And that's where the idea of bopping Simba on the head with a stick came out of There you go.,very negative,0.4673,Trauma,0.2756,20
+That's the whole movie.,uncertain,0.3241,Romantic Love,0.0557,4
+"""It doesn't matter."" Right, in those two lines.",neutral,0.5113,Family,0.725,8
+"""It's in the past."" And it's funny, after previewing it, we actually opened up a little after that line, because the audiences would just roar with… Particularly the adults.",uncertain,0.3237,Family,0.6708,29
+It was just a real knowing laugh.,uncertain,0.3926,Family,0.8388,7
+"It's like, ""Yeah, that's how life is."" And so, we ended up adding more animation there because it stepped on all the rest of the lines.",uncertain,0.3464,Family,0.5046,26
+"And even as much as we added in a lot of the earlier test screenings, you still missed a lot of lines after there.",uncertain,0.3083,Family,0.5666,24
+Big African chorus.,uncertain,0.3316,Resilience,0.2725,3
+"And great twinkling stars, just little subtle twinkling stars, and these little comets, these little shooting stars coming in.",neutral,0.4611,Family,0.5316,19
+This is another one of my favorite scenes.,uncertain,0.3568,Family,0.7512,8
+"It's just a fun… ""Who's the monkey?"" scene.",uncertain,0.3478,Personal Growth,0.0378,8
+"""Who's the monkey?"" scene.",uncertain,0.4011,Trauma,0.0315,4
+"Really fun, kind of fast-talking, Howard Hawks-y, '40s detective movie dialog.",uncertain,0.3605,Identity,0.4829,11
+"Well, it's an old style of the comedy of errors.",uncertain,0.4007,Family,0.5008,10
+"-It's a mix-up… Yes, exactly.",neutral,0.6512,Family,0.6699,5
+It's like Who's on First?,uncertain,0.3383,Personal Growth,0.0021,5
+Who's on First?,uncertain,0.3108,Personal Growth,0.5339,3
+With warthogs.,uncertain,0.3935,Resilience,0.2476,2
+"Actually, Simba was in this scene in the beginning.",uncertain,0.4073,Resilience,0.5827,9
+"In earlier stages, then we took him out, we had him leave.",uncertain,0.427,Family,0.6141,12
+"So, in the ""Who's the monkey?"" scene, originally, it ended with Pumbaa giving a speech.",uncertain,0.3358,Resilience,0.1018,15
+"Timon was left behind, Simba had gone off, Nala had gone off, and Pumbaa was gonna go off and Timon was aghast.",uncertain,0.3228,Trauma,0.9339,22
+"And we had Pumbaa deliver this wonderful, patriotic speech.",very positive,0.5775,Family,0.6102,9
+"""Timon, it's about responsibility."" And he went into this rousing Winston Churchill speech, and we played a little patriotic music behind it, and it was a wonderful little scene, but it's not there anymore.",uncertain,0.409,Personal Growth,0.0439,34
+Oh.,uncertain,0.3785,Family,0.8249,1
+"You know, David Lean made movies that had scale to them.",uncertain,0.3473,Family,0.4728,11
+"And I think we wanted to have that big African viewpoint be part of these movies, and you see that here in a few very simple shots.",uncertain,0.2795,Family,0.3578,27
+"The great imagery of Simba's heroic journey back without a bit of dialog, just a wonderful feeling of Africa and music.",very positive,0.4712,Resilience,0.2803,21
+"Originally, there were several traveling shots we just combined, we eliminated a lot and just combined two into that one scene.",neutral,0.4625,Resilience,0.4573,21
+"This is kind of like the… Simba coming back to his hometown, but all the buildings are burned out, the old house where he grew up is all derelict now.",uncertain,0.3682,Trauma,0.1691,30
+It's kind of an apocalyptic vision is basically what this is.,neutral,0.7397,Trauma,0.0201,11
+"Well, it's post-apocalyptic.",uncertain,0.4137,Trauma,0.0015,3
+And again in a scene like this the music carries a lot of the emotional message.,uncertain,0.4239,Family,0.7304,16
+"Of course, we had to explain how the hyenas caused the drought, you know.",uncertain,0.3604,Family,0.0835,14
+"Well, metaphorically speaking… It's a symbolic thing.",uncertain,0.3873,Resilience,0.8172,7
+"A King Arthur type metaphor, you might say.",uncertain,0.3039,Resilience,0.0045,8
+Precisely.,uncertain,0.4052,Family,0.8223,1
+"With the good king, comes the good weather.",positive,0.5254,Resilience,0.0649,8
+With the bad king… What is it?,uncertain,0.4158,Trauma,0.0817,7
+That the king restoreth the land.,uncertain,0.285,Resilience,0.3733,6
+Yeah.,uncertain,0.3646,Family,0.8922,1
+Absolutely.,uncertain,0.2942,Family,0.8971,1
+"When the king is removed from the land, the land dies, it withers.",uncertain,0.4105,Trauma,0.7302,13
+"I remember these layouts were problematic because, early on, they didn't have many burned-out trees, and yet there's this huge fire sequence at the end of the film.",uncertain,0.3795,Family,0.5549,28
+"We were wondering, ""What the heck is burning here?"" ""Is Pride Rock made out of coal or something?"" I see nothing funny about this.",very negative,0.5467,Trauma,0.4283,24
+Timon!,very positive,0.6034,Personal Growth,0.3196,1
+Pumbaa!,very negative,0.5256,Personal Growth,0.1026,1
+What are you doing here?,neutral,0.5323,Identity,0.3317,5
+"At your service, my liege.",uncertain,0.2775,Resilience,0.5664,5
+Aww!,very positive,0.7099,Family,0.9183,1
+We're gonna fight your uncle for this?,uncertain,0.2297,Family,0.9909,7
+"Yes, Timon.",uncertain,0.3541,Personal Growth,0.5725,2
+It's a good sort of colloquial gag.,uncertain,0.4488,Family,0.6345,7
+-A fixer-upper.,uncertain,0.3262,Resilience,0.0245,2
+"Real estate gag, yeah.",uncertain,0.4317,Grief,0.0232,4
+"We generally try to keep it a little bit timeless and non-specific to the contemporary life, but we couldn't resist that joke.",uncertain,0.3593,Family,0.5848,22
+We've got some more moving clouds.,uncertain,0.3536,Resilience,0.1282,6
+"Oh, yeah, the clouds are moving from here on.",very positive,0.5857,Personal Growth,0.5241,9
+"Well, this, originally, what's coming up, was just a little soft shoe, ""and we thought,"" No, it's too tame.",uncertain,0.2925,Family,0.1702,19
+"""What can we come up with that's funnier than a soft shoe?"" Basically, we sat in a room… This was also another late-at-night meeting.",neutral,0.5115,Family,0.1314,24
+"But we sat in a room and I think Don said, ""Hey, let's do a luau."" ""What a great idea."" We used the Hawaiian war chant, and we got together with the writers, Irene wrote a pass of lyrics to that song, and then when we got ready to pitch the song, that was the best part.",positive,0.4541,Family,0.2584,57
+We were really worried about it… I brought in my ukulele.,uncertain,0.328,Family,0.8842,11
+'Cause I have a ukulele.,uncertain,0.3478,Personal Growth,0.2787,5
+"Which is, you know, not normal.",neutral,0.5769,Trauma,0.446,6
+"But I have a ukulele, I brought it in to work, and found a guy who knew how to play it and knew the Hawaiian war chant, so we brought him into the pitch, and at the appropriate moment, he was supposed to leap up with the ukulele in hand and started strumming, as Don Hahn leapt over to the Sparkletts water bottle to begin tapping out the rhythm of the song.",positive,0.5251,Personal Growth,0.2673,72
+"I was gonna do the Timon part, and Roger was gonna do Pumbaa's part… And we did this pitch and by the end of it, they were rolling.",positive,0.4951,Resilience,0.3477,28
+They were busting a gut.,very negative,0.4764,Family,0.9009,5
+This is kind of Sarabi walking the gauntlet.,uncertain,0.3895,Trauma,0.2594,8
+He sees Mom.,neutral,0.4599,Family,0.9974,3
+Russ Edmonds did Sarabi.,uncertain,0.3968,Resilience,0.0097,4
+Andreas did Scar.,uncertain,0.2895,Trauma,0.6351,3
+"We constructed an interesting beat in the story to sort of convey a lot of information, to allow us to have Simba come in to the scene as an aggressor, which he wouldn't do normally because there's no reason for him to necessarily attack Scar immediately.",neutral,0.4845,Trauma,0.5082,46
+He's only heard hearsay from Nala that Scar's done wrong.,uncertain,0.4178,Trauma,0.6809,10
+So Scar ends up hitting Sarabi to sort of justify why Simba can actually come in on the attack.,uncertain,0.2413,Trauma,0.8986,19
+Mufasa?,uncertain,0.3539,Resilience,0.0272,1
+"No, you're dead.",very negative,0.6579,Trauma,0.7408,3
+You notice the whiskers on Simba?,uncertain,0.4251,Personal Growth,0.5995,6
+"You know, all those whiskers had to be drawn -on a separate piece of paper.",uncertain,0.3556,Family,0.6273,15
+That's right.,neutral,0.5056,Family,0.8355,2
+Because they had to be colored separately from the rest of the character.,uncertain,0.444,Resilience,0.6094,13
+"And originally we were gonna have whiskers on the lionesses, too.",uncertain,0.3247,Family,0.1376,11
+But we didn't.,uncertain,0.3795,Family,0.7687,3
+But we didn't.,uncertain,0.3795,Family,0.7687,3
+It doesn't matter.,uncertain,0.3571,Family,0.5039,3
+I'm home.,very positive,0.4911,Family,0.8719,2
+I like this 'cause Scar kind of is crazy now.,uncertain,0.3207,Personal Growth,0.5003,10
+He's going mad.,uncertain,0.3972,Trauma,0.9477,3
+"If you're doing a scene, for example, at the end of the picture, where the hyenas are lit up by lightning, so you're not seeing the physical lightning, but you're seeing the effects of it, the way the light affects the rock, the only piece of artwork that's drawn is a shadow.",neutral,0.6491,Trauma,0.2067,52
+Is actually one still frame of the shadow.,uncertain,0.4214,Resilience,0.3125,8
+"-And the light setting of the piece… And the tone… The tone on the character… Okay, the shadowed side of the character, plus the cast shadow on the rock.",uncertain,0.4269,Family,0.3189,29
+And you're literally dialing up and down the settings so that the light gets brighter and dimmer.,uncertain,0.3343,Family,0.7531,17
+But that's the only extra piece of artwork you've got in a scene like that.,uncertain,0.3569,Family,0.5108,15
+It's nice.,positive,0.487,Family,0.8925,2
+"The sound effects kind of play in here, too, 'cause you see the clouds encroaching and then you hear… You begin to hear the thunder coming in the surrounds, and then by the time you're into the fight, the lightning storm's right on top of you, so it punctuates the fight.",uncertain,0.3939,Family,0.4127,51
+And this whole little section was kind of courtroom drama-like.,uncertain,0.3262,Trauma,0.4218,10
+I think that was the conceit when it was laid out.,uncertain,0.2709,Family,0.7227,11
+Simba on trial.,neutral,0.6004,Trauma,0.276,3
+"Simba on trial, you have a jury.",neutral,0.6042,Trauma,0.012,7
+"-Scar plays the judge here… No, Scar's F.",uncertain,0.2881,Trauma,0.259,8
+Lee Bailey.,uncertain,0.3575,Family,0.8826,2
+F.,uncertain,0.3146,Family,0.9878,1
+"Lee Bailey pacing up and down, grilling him about where he was.",uncertain,0.3007,Trauma,0.5766,12
+It's not true.,negative,0.5023,Family,0.6612,3
+Tell me it's not true.,negative,0.502,Family,0.7087,5
+It's true.,uncertain,0.3693,Family,0.869,2
+You see?,uncertain,0.3948,Family,0.7909,2
+He admits it!,very positive,0.4577,Family,0.8389,3
+Murderer!,very negative,0.6471,Identity,0.0103,1
+"This scene is actually done with two flat backgrounds, or rather a background and a foreground element, and the characters are literally animated to be turning in place.",uncertain,0.2493,Family,0.501,28
+To simulate a camera move that swings the camera 360 degrees around the characters.,neutral,0.5179,Resilience,0.6542,14
+…and now everyone knows why!,very positive,0.6325,Family,0.4123,5
+"Now, this scene is interesting 'cause, like many other moments in the film, it sets up a parallel to exactly the geography and the scenes where Mufasa and Scar were interacting back at the stampede.",neutral,0.5717,Resilience,0.145,35
+"In fact, the fire down below, the lightning's now set the whole Pride Lands ablaze, and the fire is moving left to right just like the wildebeest stampede was moving left to right, so you create a lot of visual imagery about the relationship between Scar and Simba, much like the imagery between Scar and Mufasa earlier, and now a very literal flashback to that moment.",very positive,0.4823,Trauma,0.7454,66
+And the art direction's gone completely mad here.,uncertain,0.4014,Family,0.476,8
+It's turned completely red.,very negative,0.6283,Family,0.8948,4
+"Actually, what's interesting about this sequence is that, typically, the climactic sequence takes the longest to resolve, in terms of story.",neutral,0.6987,Family,0.5033,21
+"It begins at the very beginning, but until you've worked out all the beats and story points throughout the whole course of the movie, you don't really know what it is you have to pay off, so this sequence went through more changes I think, probably, than any other sequence.",neutral,0.5216,Family,0.4245,50
+"Took the longest to produce, too.",uncertain,0.372,Family,0.8385,6
+It was probably one of the last sequences to be finished.,uncertain,0.3266,Resilience,0.5608,11
+Coming up is my favorite ninja-Rafiki moment.,positive,0.5052,Resilience,0.0484,7
+"Oh, yeah.",uncertain,0.3115,Family,0.8171,2
+We spent a lot of time trying to get the right ninja sounds.,uncertain,0.3786,Personal Growth,0.0682,13
+Robert Guillaume did some.,neutral,0.5401,Resilience,0.6765,4
+"We had Pat Pinney come in, and other people to… We had some kung fu people.",uncertain,0.3568,Personal Growth,0.5918,16
+Kung fu people to give us some nice ninja moments.,positive,0.6041,Personal Growth,0.0039,10
+"But it's also important in a sequence like this to have a pay-off, for each of the characters, so we tried to construct a comedy moment for each character.",neutral,0.4832,Family,0.7098,29
+It was fun to be able to put these guys together.,uncertain,0.449,Family,0.6401,11
+They hadn't been together for the whole film.,negative,0.6084,Family,0.5901,8
+"We had a much longer scene with these characters, once they got into the cave, which of course… We thought, ""Wouldn't it be funny to put the three hyenas,"" ""Pumbaa, Timon and Zazu, all in one high comedy scene."" Right, and originally Pumbaa got them out of the scene, out of trouble, by resorting to flatulence.",negative,0.5539,Family,0.2221,56
+Using his secret weapon!,very positive,0.5761,Resilience,0.5601,4
+His secret weapon!,very positive,0.6115,Resilience,0.8626,3
+"And he cleared the cave, and then the last one out was Zazu.",uncertain,0.3301,Resilience,0.6692,13
+"Who said, ""You should have let them kill me.",uncertain,0.3712,Trauma,0.6449,9
+"Oh!"" A lot of this fire coming up is turbulence fire in the same method that creates the smoke.",uncertain,0.3352,Trauma,0.4109,19
+"Turbulence was discovered kind of as an accident, wasn't it?",uncertain,0.393,Family,0.2435,10
+"It was like galvanized rubber, you know.",uncertain,0.2421,Family,0.69,7
+"They were looking at a monitor one day and these interesting patterns were appearing, and they kind of got into it and found, ""Oh, this is an effect."" ""This is something we can actually harness and use in our movies."" Randy Fullmer was really instrumental in pulling these things together, when we were putting together the fight against the fire, against the fire background, where all of a sudden one of the things came back wrong.",positive,0.5067,Family,0.1953,76
+"It was just absolutely weird, the colors were all blown out, but we all looked at it and said, ""Now, there's something interesting about this."" It had kind of a flame-like look.",uncertain,0.3975,Family,0.7422,32
+"So Randy researched where the problem came from, and we actually wound up using it for flame effects in the climax.",uncertain,0.3043,Family,0.289,21
+"Basically, they would design a block, a literal sort of marbled cake, if you will, that slices would be taken through and photographed, and as each slice was removed, you would see a differing image of that turbulence.",neutral,0.5365,Trauma,0.0517,38
+"So the shapes morph and modulate from one to the next, so it gives you the feeling of just a random and organic pattern.",neutral,0.5398,Resilience,0.4846,24
+"The embers is a really cool computer trick where the CGI guys create these little embers that actually turn in space and are very dimensional, so on the big screen they look quite real and they glow hot.",positive,0.4969,Family,0.1798,38
+"And then you have levels of churning smoke behind, which is a combination of drawn artwork and turbulence and diffusion put over the top of it, to really create the inferno feeling down below.",uncertain,0.3847,Family,0.4419,34
+"This was sort of an interesting experiment, trying to achieve that kind of slow motion effect that, again, you can do in live action.",neutral,0.5166,Family,0.3852,24
+And we had to simulate that by literally dissolving from one frame to the next.,uncertain,0.2732,Family,0.5746,15
+"And that scene where he kicks him off, there's an inter-cut of about eight frames or so.",neutral,0.4732,Trauma,0.7064,17
+-Eleven frames.,uncertain,0.4185,Family,0.6735,2
+Yeah.,uncertain,0.3646,Family,0.8922,1
+Of Simba kind of gritting his teeth before he kicks him off.,uncertain,0.4381,Trauma,0.7025,12
+"Exactly, that's right, that's the one that we added.",neutral,0.5091,Family,0.7746,9
+"It was the very last scene that we animated… It was added, like, a month before the movie came out.",uncertain,0.283,Family,0.5206,20
+We previewed it and it just seemed like something was missing.,negative,0.5161,Family,0.7521,11
+"And it was a conscious expression on Simba's face, he was gonna kick this guy's butt.",uncertain,0.4354,Personal Growth,0.762,16
+"And that was a little eight-frame scene that was lodged in there, and kind of cemented that section of the movie.",positive,0.4565,Family,0.5707,21
+That's what I heard.,neutral,0.5513,Family,0.8205,4
+Ed?,uncertain,0.3731,Personal Growth,0.4646,1
+"I always liked that we had Scar done in by his minions, you know.",uncertain,0.4179,Trauma,0.3891,14
+He was foisted on his own… Hoisted on his own petard.,uncertain,0.4196,Trauma,0.9227,11
+A Shakespeare thing.,uncertain,0.3485,Romantic Love,0.1477,3
+And then the rains came.,neutral,0.4867,Resilience,0.5843,5
+"All of this heavy, heavy effects work going on in here.",uncertain,0.2983,Resilience,0.4913,11
+"Glowing embers, rain, fog.",uncertain,0.3237,Trauma,0.2245,4
+"There's Zazu saying a line, which… Says, ""Your majesty."" Which then we took out because we wanted it to be silent.",uncertain,0.3544,Personal Growth,0.0791,21
+"Yeah, it kind of broke the magic of the moment, but… You can play it back and go… If you want to.",uncertain,0.4025,Family,0.6577,22
+"If you like to lip sync along at home you can say, ""Your Majesty,"" along with Zazu right there.",uncertain,0.3126,Romantic Love,0.0593,19
+Here's Rafiki pointing to the throne.,uncertain,0.3112,Resilience,0.1951,6
+I always saw this as kind of the Arthur-Merlin moment.,uncertain,0.4307,Resilience,0.0352,10
+It is time.,neutral,0.7563,Personal Growth,0.6145,3
+"Actually, I think we have a Don Hahn scene.",neutral,0.5243,Resilience,0.1322,9
+"Roger and Rob, and even Don… Don, that's right.",very positive,0.4711,Family,0.9902,9
+…have animated scenes in this film.,uncertain,0.3591,Family,0.5039,6
+It's our Alfred Hitchcock turn.,uncertain,0.3208,Loneliness,0.0163,5
+It's the close-up of Simba's feet walking up.,positive,0.4995,Personal Growth,0.6951,8
+And there it is.,neutral,0.748,Family,0.7537,4
+There it is.,neutral,0.7269,Family,0.7616,3
+"Thank you, everyone.",uncertain,0.4174,Family,0.8956,3
+There was a whole another ending of the movie.,uncertain,0.4426,Family,0.2103,9
+"Yeah, where Timon and Pumbaa brought the baby bugs and… They had a nice little birthday present for the new little cub, and it was a little bug.",negative,0.486,Resilience,0.3689,28
+"It was the same general concept, just done differently.",neutral,0.58,Resilience,0.5482,9
+"Right, it was the goop on the forehead from Rafiki and all that.",uncertain,0.3455,Trauma,0.7897,13
+We thought we needed another comedy pay-off for each of the characters.,uncertain,0.4461,Family,0.3129,12
+And it was just too long.,negative,0.5167,Family,0.4644,6
+"It was too tedious, and we felt like, ""Let's go out in a big way,"" and we came up with the idea of, ""Let's end it like we've cut back in after all the ceremony"" ""to the moment where everyone is cheering."" It's a curtain call, almost.",uncertain,0.3615,Family,0.5957,47
+"Because, when Simba roars, that's the end of the movie, -and you're going for your handbag.",uncertain,0.3172,Trauma,0.5488,16
+That's right.,neutral,0.5056,Family,0.8355,2
+It's also nice to get that little curtain call of the characters standing out there on Pride Rock.,positive,0.4566,Empathy,0.0236,18
+That was one of the reasons we changed it.,uncertain,0.3125,Family,0.8644,9
+"Because when we started, we started on the cub, and it wasn't clear who the parents were.",uncertain,0.4406,Trauma,0.7961,17
+It wasn't clear which cub this was.,uncertain,0.4054,Resilience,0.1276,7
+"So to begin with Simba and Nala standing on the rock, and then introduce Rafiki and the cub… It also ended up with a wide shot of Pride Rock.",uncertain,0.4431,Family,0.9024,29
+A lot like Circle of Life ended up.,uncertain,0.3921,Family,0.0077,8
+"You know, with the big establishing shot.",uncertain,0.4284,Family,0.3028,7
+"And that just seemed so right since you were intimate with their characters and all our heroes are there together to introduce the cub, to just say, ""Let's end on the next generation.",very positive,0.6002,Family,0.8493,33
+"""And here's Fluffy, Simba's and Nala's new little cub.",uncertain,0.3616,Family,0.9725,9
+"- ""Let's just end on Fluffy."" Right.",neutral,0.4714,Romantic Love,0.0267,7
+"I was surprised, just looking at it again, how many callbacks there are, even little things like the way Pumbaa and Timon bust up the vultures is the same way they run in and bust up the lionesses and the hyenas.",uncertain,0.4285,Family,0.3613,41
+"And the way Mufasa and Sarabi are at the beginning, is the way Simba and Nala are at the end, and cub Simba running off to the jungles is the same as adult Simba coming back, and, you know, how many callbacks are in the movie to try and knit it together in that kind of circular theme.",neutral,0.4519,Family,0.8068,58
+Exactly.,uncertain,0.3869,Family,0.894,1
+It's interesting.,neutral,0.6241,Family,0.7422,2
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"I also didn't realize, looking at it again, how much of an effects tour de force it is.",uncertain,0.4368,Family,0.7061,18
+"If you took out the effects animation, whether it be the shadows or the rain or the reflections, or the fire, it would be greatly diminished.",neutral,0.7179,Family,0.4774,26
+"There's so many unsung heroes in the animation process, -and certainly… Absolutely.",very positive,0.5071,Family,0.3027,12
+The effects tell some of the story.,neutral,0.5175,Resilience,0.4818,7
+It's impossible to get around it.,very negative,0.5704,Family,0.7777,6
+"I mean, Mufasa's ghost, reflections in the water, the Pride Lands ablaze, so much of it tells you information you need to know about what the context of the movie is.",very positive,0.5707,Trauma,0.1251,31
+It would be impossible to tell without it.,very negative,0.56,Family,0.6496,8
+Yeah.,uncertain,0.3646,Family,0.8922,1
+A lot of..,neutral,0.496,Family,0.5486,3
+This is really… Animated films are about the process as much as anything else.,uncertain,0.2774,Personal Growth,0.4481,14
+"And there always comes a point where you have to finish, you have to end your relationship with any piece of this.",uncertain,0.3391,Family,0.7115,22
+"And every time you commit to it, every time it becomes sort of solidified, and you know, there's always a sense of is it all that it could be, could we have done something better with it?",neutral,0.5618,Family,0.5317,37
+"And some pieces, of course, you feel, ""You know, we succeeded pretty well."" And of course, there's other pieces where you say, ""You know, maybe we could have gone for it."" It's tough.",neutral,0.5317,Family,0.5789,33
+"It's knowing when to stop, because it's never about money either, it tends to be more about time, because the meter is ticking, the release date's set, you have a movie to turn out, and it's always in many cases, compromise.",uncertain,0.4313,Family,0.2567,41
+"And I think we were fortunate in a lot of cases not to have to compromise, and, again, people like Randy Fullmer and certainly Andy Gaskill, helped us craft a look of the movie that was pretty seamless.",uncertain,0.375,Family,0.4977,38
+They took us through places where we had to cut back because of time.,uncertain,0.3235,Family,0.5551,14
+"And found other solutions that would help us through it, that would soften the absence, you know.",uncertain,0.4423,Resilience,0.6817,17
+"Like, for example, if we couldn't do the certain effect in that one area, they'd come up with another solution that would be a simpler effect, and yet it would keep the production value up.",neutral,0.5145,Resilience,0.5793,35
+Their contribution is incredible.,very positive,0.7269,Family,0.8344,4
+"So, you never had that sense where you're riding along the movie, and all of a sudden… It takes a production dip.",uncertain,0.406,Family,0.5399,22
+"There was a lot of creative monkeying going on back there, in those colored model stations.",neutral,0.4543,Family,0.2957,16
+That's a really good point.,very positive,0.4746,Resilience,0.7372,5
+"Well, it's interesting because a lot of people think our characters and a lot of our films are created by computer, but nothing could be further than the truth.",neutral,0.6499,Family,0.4024,29
+Because it's artists who have always driven these movies and certainly who have made Lion King.,uncertain,0.4391,Identity,0.0221,16
+"So, in a way, animation's still created the old-fashioned way where somebody sits down at a drawing board with a pencil or a paint brush and draws or paints animation or a background by hand.",neutral,0.5228,Family,0.3127,35
+We use computers then heavily in the post-production process to sandwich all those hand-done elements together to create the final frames.,neutral,0.496,Resilience,0.4548,21
+"And we also use computers in an area called CGI, or computer graphics imagery, to animate or create things on a screen that you couldn't possibly do by hand like the wildebeest stampede.",neutral,0.646,Family,0.0701,33
+"And the other thing I find interesting, too, is, we were talking about how around the world these movies are put together, that you literally have lines that cut together or pieces of song that cut together, where one word was sung in New York, another was done in Los Angeles, the chorus was recorded in London, and the music was done in Santa Monica.",neutral,0.5511,Family,0.5342,65
+"You know, it's spread out all over the place, and somehow that all comes together into one piece.",uncertain,0.3473,Resilience,0.7253,18
+It's the magic of animation.,very positive,0.4754,Family,0.2717,5
+It is magical.,very positive,0.6545,Romantic Love,0.7509,3
+"In fact, one of the big questions that we're always asked is, ""How do you direct an animated film?"" And the thing is rather than in a live action film where you have all of your elements together at one moment to work with, to put them all on film, in animation you're literally picking up elements scattered from all sorts of different places.",neutral,0.6004,Resilience,0.3728,64
+"And you're taking all the bits and pieces of the puzzle and putting them together, and as a director that's pretty much what your job is.",uncertain,0.4045,Family,0.4583,26
+"Managing, designing, juggling all the pieces of the puzzle so that when it does come together, it makes sense and means something.",uncertain,0.4324,Family,0.7397,22
+"And that about sums it up, in the Circle of Life.",uncertain,0.3834,Family,0.4775,11
+"Good night, Gracie.",uncertain,0.3567,Family,0.961,3
+Thanks for inviting us into your living room.,uncertain,0.4148,Family,0.9025,8
+The popcorn was great.,positive,0.5335,Family,0.2367,4
+Hope you enjoyed the movie.,positive,0.5423,Family,0.4899,5
+"Hakuna Matata Hakuna matata Hakuna matata Hakuna matata Hakuna… Thank you, everybody.",very positive,0.6878,Family,0.888,12
+We'll be here all week.,uncertain,0.3667,Family,0.8151,5
+Thanks.,uncertain,0.375,Family,0.9123,1
+"Good night, everybody.",uncertain,0.3233,Family,0.8958,3

@@ -1,0 +1,1175 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+Cinderella You're as lovely as your name Cinderella You're a sunset in a frame Though you're dressed in rags You wear an air of queenly grace Anyone can see A throne would be your proper place Cinderella If you'll give your heart a chance It will lead you To the kingdom of romance There you'll see your dreams unfold Cinderella Cinderella In the sweetest story ever told Once upon a time...,very positive,0.7159,Romantic Love,0.7169,71
+"in a faraway land, there was a tiny kingdom...",uncertain,0.3797,Resilience,0.3804,9
+"peaceful, prosperous, and rich in romance and tradition.",very positive,0.5112,Family,0.9386,8
+"Here, in a stately chateau, there lived a widowed gentleman...",uncertain,0.3212,Grief,0.9308,10
+"and his little daughter, Cinderella.",uncertain,0.3596,Family,0.9843,5
+"Although he was a kind and devoted father, and gave his beloved child every luxury and comfort, still he felt she needed a mother's care.",uncertain,0.3152,Family,0.9749,25
+"And so he married again, choosing for his second wife a woman of good family...",uncertain,0.2428,Family,0.9824,15
+with two daughters just Cinderella's age.,uncertain,0.3292,Family,0.9903,6
+By name...,uncertain,0.3124,Identity,0.6299,2
+Anastasia and Drizella.,uncertain,0.3438,Family,0.9629,3
+"It was upon the untimely death of this good man, however, that the stepmother's true nature was revealed.",uncertain,0.3706,Family,0.9342,18
+"Cold, cruel, and bitterly jealous...",very negative,0.7296,Family,0.7411,5
+"of Cinderella's charm and beauty, she was grimly determined to forward the interests...",uncertain,0.3732,Resilience,0.1822,13
+of her own two awkward daughters.,uncertain,0.3242,Family,0.9906,6
+"Thus, as time went by, the chateau fell into disrepair, for the family fortunes were squandered...",very negative,0.4933,Family,0.9713,16
+"upon the vain and selfish stepsisters, while Cinderella was abused, humiliated, and finally forced to become a servant in her own house.",uncertain,0.313,Trauma,0.8406,22
+"And yet, through it all, Cinderella remained ever gentle and kind, for with each dawn she found new hope that someday...",very positive,0.6008,Resilience,0.9495,21
+her dreams of happiness would come true.,very positive,0.6073,Family,0.8507,7
+"Well, serves you right...",uncertain,0.4261,Family,0.7718,4
+spoiling people's best dreams.,very positive,0.6353,Personal Growth,0.2838,4
+"Yes, I know it's a lovely morning, but...",neutral,0.5219,Family,0.6195,8
+it was a lovely dream too.,very positive,0.4845,Family,0.7896,6
+What kind of a dream?,neutral,0.4849,Personal Growth,0.0231,5
+Uh-uh.,neutral,0.5178,Family,0.7972,1
+Can't tell.,very negative,0.5414,Personal Growth,0.4266,2
+"'Cause if you tell a wish, it won't come true.",uncertain,0.3367,Family,0.6439,10
+And after all...,neutral,0.5028,Family,0.8286,3
+"A dream is a wish Your heart makes When you're fast asleep In dreams, you will lose your heartaches Whatever you wish for You keep Have faith in your dreams And someday Your rainbow will come smiling through No matter how your heart is grieving If you keep on believing The dream that you wish Will come true Oh, that clock!",very positive,0.7369,Family,0.255,61
+Old killjoy!,very positive,0.5144,Grief,0.7335,2
+I hear you.,uncertain,0.4244,Empathy,0.9524,3
+"""Come on, get up!"" you say.",uncertain,0.3044,Personal Growth,0.9206,6
+"""Time to start another day."" Even he orders me around.",uncertain,0.3985,Family,0.7757,10
+"Well, there's one thing.",neutral,0.635,Family,0.6705,4
+They can't order me to stop dreaming.,very negative,0.6425,Personal Growth,0.7739,7
+And perhaps someday...,neutral,0.4622,Personal Growth,0.5986,3
+The dreams that I wish Will come true Shoo!,very positive,0.7207,Family,0.4013,9
+Shoo!,very positive,0.6371,Family,0.492,1
+Hurry!,uncertain,0.4101,Family,0.7446,1
+"Come on, Jaq.",uncertain,0.2953,Personal Growth,0.7921,3
+Shoo!,very positive,0.6371,Family,0.492,1
+la.la...ha.ha...la.la...,uncertain,0.3678,Family,0.9422,1
+No matter how your heart is grieving If you keep on believing The dream that you wish Will come true Look what I found!,very positive,0.6775,Resilience,0.9178,24
+Wait a minute!,uncertain,0.3565,Family,0.7744,3
+Wait a minute!,uncertain,0.3565,Family,0.7744,3
+"One at a time, please!",uncertain,0.3637,Family,0.6227,5
+"Now, Jaq, what's all the fuss about?",uncertain,0.3129,Trauma,0.5365,7
+New mouse in the house.,positive,0.459,Personal Growth,0.8531,5
+Brand-new.,uncertain,0.3484,Personal Growth,0.902,1
+Never saw before.,very negative,0.5017,Personal Growth,0.4904,3
+"Visitor, visitor!",uncertain,0.4491,Empathy,0.0945,2
+"Oh, a visitor.",uncertain,0.32,Personal Growth,0.3018,3
+"Well, she'll need a dress.",uncertain,0.3983,Family,0.4113,5
+"No, no, no.",neutral,0.5052,Family,0.9084,3
+She's a he.,uncertain,0.3936,Identity,0.9469,3
+"He, he!",very positive,0.5488,Identity,0.813,2
+"Oh, that does make a difference.",uncertain,0.3585,Family,0.7233,6
+"He'll need a jacket, shoes...",uncertain,0.4388,Personal Growth,0.6815,5
+Gotta get out!,very positive,0.4516,Personal Growth,0.8433,3
+Gotta get out!,very positive,0.4516,Personal Growth,0.8433,3
+In a trap-trap!,very negative,0.5236,Trauma,0.6221,3
+Trap-trap!,uncertain,0.3544,Trauma,0.0934,1
+Where?,uncertain,0.3606,Personal Growth,0.2031,1
+In a trap?,very negative,0.4532,Trauma,0.2519,3
+"Well, why didn't you say so?",uncertain,0.4423,Family,0.7345,6
+"Now, now, now...",neutral,0.6081,Family,0.6412,3
+"Calm down, everybody.",uncertain,0.3317,Family,0.8831,3
+Oh...,uncertain,0.3841,Family,0.7784,1
+The poor little thing’s scared to death.,very negative,0.4687,Family,0.8988,7
+"Jaq, maybe you'd better explain things to him.",uncertain,0.4084,Family,0.7478,8
+"Zuk-zuk, Cinderelly.",uncertain,0.2952,Family,0.3562,2
+Zuk-zuk.,uncertain,0.448,Personal Growth,0.2303,1
+"Now, now, now...",neutral,0.6081,Family,0.6412,3
+"Look-a, little guy.",neutral,0.4579,Personal Growth,0.8509,3
+Take it r-easy.,uncertain,0.3838,Family,0.8605,3
+Nothin' to worry 'bout.,uncertain,0.42,Family,0.8099,4
+We like-a you.,very positive,0.5458,Friendship,0.9799,3
+Cinderelly like you too.,uncertain,0.2844,Family,0.9371,4
+She's nice.,positive,0.5331,Family,0.935,2
+Very nice.,very positive,0.5156,Family,0.9301,2
+That's-a better.,uncertain,0.292,Personal Growth,0.7651,2
+"Come on, now.",uncertain,0.3406,Family,0.7812,3
+Zuk-zuk-zuk!,very positive,0.6426,Personal Growth,0.3038,1
+Za...,uncertain,0.3249,Family,0.6673,1
+za...,uncertain,0.3054,Family,0.5463,1
+zuk-zuk.,very negative,0.5046,Family,0.3625,1
+"Well, that's better.",uncertain,0.3161,Family,0.7919,3
+"Well, let's just slip it on for size.",uncertain,0.4155,Personal Growth,0.8842,8
+"It is a little snug, but it'll have to do.",uncertain,0.369,Family,0.8233,10
+"Now, for a name.",neutral,0.5004,Resilience,0.3059,4
+I've got one...,uncertain,0.4359,Family,0.7551,3
+Octavious!,very positive,0.7515,Trauma,0.6554,1
+"But for short, we'll call you Gus.",uncertain,0.3167,Personal Growth,0.9216,7
+"Like it, Gus-Gus?",uncertain,0.2833,Personal Growth,0.7254,3
+Like it?,uncertain,0.308,Family,0.8344,2
+Like it?,uncertain,0.308,Family,0.8344,2
+Uh...,neutral,0.4839,Family,0.7665,1
+Gus-Gus.,uncertain,0.3351,Friendship,0.5976,1
+Now I've got to hurry.,uncertain,0.3205,Family,0.8465,5
+"See that he keeps out of trouble, Jaq, and don't forget to warn him about the cat.",uncertain,0.3095,Family,0.8694,17
+Zuk-zuk.,uncertain,0.448,Personal Growth,0.2303,1
+Look-a...,uncertain,0.428,Personal Growth,0.5863,1
+"uh, uh...",neutral,0.636,Family,0.8004,2
+ever seen a cat-cat?,uncertain,0.3938,Resilience,0.0409,4
+Duh...,uncertain,0.3054,Family,0.8388,1
+cat-cat?,uncertain,0.2934,Personal Growth,0.021,1
+Hup!,uncertain,0.396,Family,0.8286,1
+Cat-cat!,very positive,0.5824,Personal Growth,0.1313,1
+"R-ucifee, that's-a him.",uncertain,0.3013,Identity,0.8597,3
+Mean...sneaky...,uncertain,0.4195,Family,0.4754,1
+Jump at you!,uncertain,0.4319,Personal Growth,0.807,3
+Jump at you!,uncertain,0.4319,Personal Growth,0.807,3
+Ha!,very positive,0.5022,Family,0.756,1
+"Big, Big!",uncertain,0.374,Family,0.7911,2
+Big as a house!,uncertain,0.3416,Family,0.9174,4
+Zuk-zuk...,uncertain,0.3934,Family,0.3354,1
+R-ucifee?,uncertain,0.31,Family,0.8901,1
+Duh...,uncertain,0.3054,Family,0.8388,1
+R-ucifee.,uncertain,0.425,Family,0.9644,1
+Zuk-zuk.,uncertain,0.448,Personal Growth,0.2303,1
+"Here kitty, kitty, kitty, kitty.",uncertain,0.3613,Family,0.0083,5
+"Come, kitty.",uncertain,0.3024,Friendship,0.8705,2
+Come on.,uncertain,0.4016,Family,0.8255,2
+Lucifer!,very positive,0.754,Trauma,0.0138,1
+Come here!,very positive,0.604,Family,0.8854,2
+I'm sorry if Your Highness objects to an early breakfast.,neutral,0.453,Personal Growth,0.5045,10
+It's certainly not my idea to feed you first.,negative,0.5301,Family,0.7052,9
+It's orders.,neutral,0.5297,Resilience,0.0011,2
+Come on.,uncertain,0.4016,Family,0.8255,2
+Duh...,uncertain,0.3054,Family,0.8388,1
+R-ucifee.,uncertain,0.425,Family,0.9644,1
+Is that a R-ucifee?,uncertain,0.3891,Family,0.2715,4
+Zuk...,uncertain,0.442,Personal Growth,0.3888,1
+R-ucifee.,uncertain,0.425,Family,0.9644,1
+That's-a him!,very positive,0.6128,Identity,0.9574,2
+Gus-Gus take-a R-ucifee and...,uncertain,0.4131,Friendship,0.8453,4
+Look-it.,uncertain,0.4165,Family,0.645,1
+Wait!,uncertain,0.368,Family,0.5416,1
+"No, Gus-Gus, no!",very negative,0.482,Family,0.8316,3
+"Now, listen here.",uncertain,0.3849,Family,0.8641,3
+R-ucifee not-a funny.,negative,0.517,Family,0.3331,3
+R-ucifee mean.,neutral,0.53,Family,0.9163,2
+Bruno...,uncertain,0.2856,Personal Growth,0.6078,1
+Bruno!,very positive,0.585,Personal Growth,0.6955,1
+Dreaming again.,very positive,0.6883,Personal Growth,0.6902,2
+Chasing Lucifer?,uncertain,0.4132,Trauma,0.0008,2
+Catch him this time?,uncertain,0.3904,Personal Growth,0.518,4
+That's bad!,very negative,0.5282,Trauma,0.7281,2
+Suppose they heard you upstairs?,uncertain,0.4037,Family,0.3953,5
+You know the orders.,neutral,0.5418,Family,0.3427,4
+"So if you don’t want to lose a nice warm bed, you'd better get rid of those dreams.",uncertain,0.294,Family,0.6269,18
+You know how?,uncertain,0.4379,Family,0.5178,3
+Just learn to like cats.,uncertain,0.3134,Personal Growth,0.9866,5
+"No, I mean it.",uncertain,0.4095,Family,0.8758,4
+Lucifer has his good points too.,positive,0.4759,Resilience,0.3568,6
+"For one thing, he...",neutral,0.4678,Family,0.6561,4
+Well...Sometimes he...,uncertain,0.4499,Personal Growth,0.6243,2
+Hmm...,uncertain,0.372,Family,0.7171,1
+There must be something good about him.,neutral,0.4983,Family,0.7256,7
+Bruno!,very positive,0.585,Personal Growth,0.6955,1
+"Oh, Bruno.",very positive,0.4701,Personal Growth,0.5676,2
+"Come on now, outside.",neutral,0.4967,Personal Growth,0.7717,4
+"I know it isn't easy, but at least we should try to get along together.",uncertain,0.401,Family,0.8234,15
+"And that includes you, Your Majesty!",very positive,0.4818,Family,0.804,6
+Breakfast time!,uncertain,0.3665,Family,0.7142,2
+Everybody up!,uncertain,0.4026,Family,0.9836,2
+"Hurry, hurry!",uncertain,0.362,Family,0.7491,2
+"Come on, everybody.",very positive,0.5103,Family,0.8752,3
+"Breakfast, breakfast!",uncertain,0.3534,Family,0.6368,2
+"Come on, everybody, breakfee!- Breakfast!",very positive,0.5438,Family,0.9481,5
+Breakfast?,uncertain,0.3314,Personal Growth,0.0073,1
+"Ooh, breakfast!",uncertain,0.3724,Family,0.0116,2
+Oh-oh!,uncertain,0.371,Family,0.8561,1
+R-ucifee!,very positive,0.588,Romantic Love,0.9534,1
+How we gonna get out?,uncertain,0.3189,Trauma,0.3135,5
+Hup-hup...,uncertain,0.3997,Family,0.8041,1
+carefee!,very positive,0.5832,Personal Growth,0.3468,1
+"Listen, everybody!",very positive,0.6079,Family,0.8651,2
+Got an idea.,uncertain,0.3285,Resilience,0.5587,3
+"Now, somebody gotta sneak out.",uncertain,0.434,Personal Growth,0.3808,5
+Let R-ucifee chase him.,uncertain,0.2508,Personal Growth,0.6895,4
+Run over to a corner and beat R-ucifee there.,uncertain,0.3344,Personal Growth,0.4234,9
+Then we all run out.,uncertain,0.3192,Family,0.5804,5
+Zuk?,uncertain,0.4208,Personal Growth,0.314,1
+"Zuk-zuk, out!",very negative,0.4679,Personal Growth,0.3323,2
+Now we choose the one that do it.,neutral,0.7024,Family,0.6685,8
+"Everybody, hup!",very positive,0.4517,Family,0.9914,2
+Hup!,uncertain,0.396,Family,0.8286,1
+"Uh, hup.",neutral,0.4661,Family,0.858,2
+R-ails up!,very positive,0.4684,Family,0.9191,2
+Hup!,uncertain,0.396,Family,0.8286,1
+Now...,uncertain,0.3332,Family,0.7286,1
+"Hup, hup, hup!",very positive,0.586,Family,0.7766,3
+"Uh, duh...",neutral,0.5653,Family,0.8313,2
+"uh, hup!",uncertain,0.4242,Family,0.8149,2
+"Oh, there you are.",neutral,0.6908,Family,0.8269,4
+I was wondering.,uncertain,0.3613,Family,0.6388,3
+"All right, breakfast is served.",uncertain,0.4281,Family,0.6069,5
+Uh...,neutral,0.4839,Family,0.7665,1
+take it r-easy.,uncertain,0.4144,Family,0.8565,3
+Zuk-zuk.,uncertain,0.448,Personal Growth,0.2303,1
+"Uh, duh...",neutral,0.5653,Family,0.8313,2
+let go!,uncertain,0.3416,Personal Growth,0.8679,2
+Let go now!,very positive,0.5871,Personal Growth,0.7943,3
+Let...,uncertain,0.446,Family,0.7329,1
+go...,uncertain,0.45,Personal Growth,0.6759,1
+Stop that.,very negative,0.4566,Trauma,0.7796,2
+"Shoo, shoo, shoo.",neutral,0.4877,Trauma,0.2613,3
+Go on!,very positive,0.5361,Personal Growth,0.8334,2
+"Shoo, shoo, shoo!",very positive,0.4949,Trauma,0.413,3
+Poor little Gus.,negative,0.531,Empathy,0.8385,3
+Here.,uncertain,0.4147,Family,0.8075,1
+Help yourself.,uncertain,0.401,Personal Growth,0.9683,2
+Hmm...,uncertain,0.372,Family,0.7171,1
+No Gus-gus.,very negative,0.5316,Loneliness,0.1745,2
+"Well, guess he got away.",uncertain,0.34,Personal Growth,0.5794,5
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+I'm coming.,uncertain,0.303,Personal Growth,0.9437,2
+"Oh, my goodness.",very positive,0.5371,Family,0.8355,3
+"Morning, noon, and night.",neutral,0.5966,Resilience,0.7407,4
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+Coming!,very positive,0.4532,Family,0.8198,1
+Coming!,very positive,0.4532,Family,0.8198,1
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+I'm coming.,uncertain,0.303,Personal Growth,0.9437,2
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+In a minute.,neutral,0.5482,Family,0.6713,3
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+"Good morning, Drizella.",neutral,0.4723,Personal Growth,0.6679,3
+Sleep well?,uncertain,0.4317,Family,0.3434,2
+As if you cared.,uncertain,0.3954,Family,0.6046,4
+Take that ironing and have it back in an hour.,uncertain,0.4343,Resilience,0.8553,10
+One hour!,uncertain,0.3786,Family,0.6013,2
+You hear?,uncertain,0.3798,Family,0.8144,2
+"Yes, Drizella.",uncertain,0.2985,Family,0.8803,2
+"Good morning, Anastasia.",neutral,0.4622,Personal Growth,0.6697,3
+"Well, it's about time!",likely_emotive,0.4512,Family,0.8305,4
+Don't forget the mending.,very negative,0.4713,Family,0.6055,4
+"And don't be all day getting it done, either!",uncertain,0.3839,Family,0.6959,9
+"Yes, Anastasia.",uncertain,0.39,Personal Growth,0.7589,2
+A-a-ahem.,neutral,0.4867,Family,0.7176,1
+"Well, come in, child.",very positive,0.5024,Family,0.9135,4
+Come in.,uncertain,0.3759,Family,0.9484,2
+"Good morning, Stepmother.",uncertain,0.3839,Family,0.9846,3
+Pick up the laundry and get on with your duties.,uncertain,0.3841,Resilience,0.5023,10
+"Yes, Stepmother.",uncertain,0.3851,Family,0.8271,2
+Mother!,very positive,0.6857,Family,0.9919,1
+"Oh, Mother, Mother!",very positive,0.5861,Family,0.8513,3
+Mother!,very positive,0.6857,Family,0.9919,1
+You did it!,uncertain,0.4343,Family,0.8166,3
+You did it on purpose!,uncertain,0.4315,Personal Growth,0.7139,5
+Mother!,very positive,0.6857,Family,0.9919,1
+"Oh, Mother, Mother, Mother!",very positive,0.5616,Grief,0.9035,4
+Now what did you do?,uncertain,0.4304,Family,0.5469,5
+Oh!,uncertain,0.3701,Family,0.7929,1
+She put it there!,very positive,0.526,Family,0.9811,4
+A big ugly mouse...,very negative,0.7118,Trauma,0.3638,4
+under my teacup!,very positive,0.4946,Resilience,0.6836,3
+"All right, Lucifer.",very positive,0.5155,Resilience,0.0554,3
+What did you do with him?,neutral,0.4915,Family,0.5158,6
+"Oh, you're not fooling anybody.",uncertain,0.3213,Family,0.7638,5
+We'll just see about this.,neutral,0.4857,Family,0.7715,5
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Let him go.,uncertain,0.3134,Personal Growth,0.8353,3
+Now the other one.,neutral,0.5194,Resilience,0.2876,4
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Oh...,uncertain,0.3841,Family,0.7784,1
+poor little Gus.,negative,0.5768,Trauma,0.6857,3
+"Oh, Lucifer, won't you ever learn?",very positive,0.7091,Trauma,0.3013,6
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+"Yes, Stepmother.",uncertain,0.3851,Family,0.8271,2
+Are you gonna get it!,very positive,0.4865,Family,0.6309,5
+"Close the door, Cinderella.",uncertain,0.3361,Trauma,0.0604,4
+Come here.,uncertain,0.3892,Family,0.9148,2
+"Oh, please, you don't think-- Hold your tongue!",very positive,0.4809,Family,0.8862,8
+Now...,uncertain,0.3332,Family,0.7286,1
+It seems we have time on our hands.,uncertain,0.4216,Family,0.5924,8
+But I was only trying to-- Silence!,uncertain,0.3015,Family,0.4995,7
+Time for vicious practical jokes.,very negative,0.6584,Family,0.1452,5
+Perhaps we can put it to better use.,uncertain,0.3336,Family,0.6736,8
+Now...,uncertain,0.3332,Family,0.7286,1
+let me see.,uncertain,0.4332,Family,0.7566,3
+There’s the large carpet in the main hall.,uncertain,0.3911,Resilience,0.6244,8
+Clean it!,uncertain,0.4442,Family,0.8417,2
+"And the windows, upstairs and down.",neutral,0.5896,Resilience,0.7557,6
+Wash them!,very negative,0.6311,Family,0.8081,2
+"Oh, yes...",uncertain,0.3565,Family,0.8655,2
+"and the tapestries, and the draperies.",uncertain,0.3662,Resilience,0.3053,6
+But I just fin-- Do them again!,very positive,0.5041,Personal Growth,0.7271,7
+And don't forget...,uncertain,0.3098,Family,0.7412,3
+the garden...,uncertain,0.3787,Resilience,0.2195,2
+then scrub the terrace...,uncertain,0.3346,Resilience,0.4553,4
+sweep the halls...,uncertain,0.3408,Resilience,0.2874,3
+and the stairs...,uncertain,0.4384,Resilience,0.4906,3
+clean the chimneys.,uncertain,0.4498,Resilience,0.4106,3
+"And of course, there's the mending, and the sewing, and the laundry.",uncertain,0.4228,Family,0.6912,12
+"Oh, yes, and one more thing.",uncertain,0.3925,Family,0.6543,6
+See that Lucifer gets his bath.,uncertain,0.3054,Trauma,0.078,6
+"But, but, but-- No ""buts"" about it!",likely_emotive,0.4778,Family,0.4412,7
+My son has been avoiding his responsibilities long enough!,uncertain,0.4285,Family,0.8903,9
+It's high time he married and settled down.,uncertain,0.2941,Family,0.8947,8
+"Of course, Your Majesty.",very positive,0.4689,Family,0.8336,4
+But we must be patient.,uncertain,0.4148,Personal Growth,0.8572,5
+I am patient!,very positive,0.5487,Personal Growth,0.9704,3
+"But I’m not getting any younger, you know.",uncertain,0.359,Family,0.8544,8
+I want to see my grandchildren before I go.,uncertain,0.3817,Family,0.9739,9
+"I understand, Sire.",very positive,0.4738,Empathy,0.8516,3
+"No, no, you don't know what it means to see...",uncertain,0.4343,Family,0.4707,10
+your only child grow farther...,very negative,0.5992,Family,0.9409,5
+farther...,uncertain,0.3233,Personal Growth,0.8,1
+and farther away from you.,uncertain,0.3469,Trauma,0.3634,5
+I'm lonely in this desolate old palace.,uncertain,0.2902,Loneliness,0.9959,7
+I...,uncertain,0.4219,Identity,0.9149,1
+I want to hear the pitter-patter of little feet again.,uncertain,0.3164,Family,0.9138,10
+"Now, now, Your Majesty.",very positive,0.4943,Family,0.535,4
+Perhaps if we just let him alone.,uncertain,0.3751,Family,0.7526,7
+Let him alone?,uncertain,0.4322,Loneliness,0.8208,3
+W-w-with his silly romantic ideas?,uncertain,0.3792,Romantic Love,0.1406,5
+"But, but, Sire, in matters of love-- Love...",uncertain,0.3786,Romantic Love,0.6637,8
+Ha!,very positive,0.5022,Family,0.756,1
+Just a boy meeting a girl under the right conditions.,uncertain,0.4317,Friendship,0.6136,10
+"So, we're arranging the conditions.",neutral,0.4531,Family,0.7271,5
+"But, but, Your Majesty, if the Prince should suspect-- Suspect?",uncertain,0.3255,Family,0.7456,10
+Ha!,very positive,0.5022,Family,0.756,1
+Look...,uncertain,0.4163,Family,0.7671,1
+"the boy's coming home today, isn't he?",uncertain,0.3567,Family,0.9528,7
+"Yes, Sire.",very positive,0.4704,Resilience,0.821,2
+"Well, what could be more natural than a ball...",uncertain,0.3805,Personal Growth,0.0588,9
+to celebrate his return?,uncertain,0.2764,Family,0.4498,4
+"N-n-nothing, Sire.",very negative,0.4813,Loneliness,0.2153,2
+If all the eligible maidens in my kingdom just...,uncertain,0.3648,Family,0.798,9
+"happened to be there, why he's bound to show interest in one of them, isn't he?",uncertain,0.4088,Family,0.5992,16
+Isn't he?,uncertain,0.345,Family,0.6804,2
+"Y-y-yes, Sire.",uncertain,0.2937,Resilience,0.735,2
+The moment he does...,neutral,0.4608,Personal Growth,0.7382,4
+"soft lights, romantic music, all the trimmings.",uncertain,0.4351,Romantic Love,0.8206,7
+It can't possibly fail.,neutral,0.5799,Resilience,0.8548,4
+Can it?,uncertain,0.3801,Family,0.7297,2
+"Y-y-yes, Sire.",uncertain,0.2937,Resilience,0.735,2
+"N-n-no, Sire.",uncertain,0.3892,Trauma,0.5612,2
+"Very well, Sire.",very positive,0.5243,Resilience,0.7629,3
+I shall arrange the ball for-- Tonight!,uncertain,0.4497,Resilience,0.5151,7
+Tonight?,neutral,0.499,Family,0.415,1
+"Oh, but, Sire-- Tonight!",very positive,0.4539,Trauma,0.3814,4
+And see that every eligible maid is there!,uncertain,0.4234,Family,0.5543,8
+Understand?,uncertain,0.4004,Family,0.7862,1
+"Yes, Your Majesty.",very positive,0.517,Family,0.8688,3
+The pear-shaped tones.,uncertain,0.3332,Family,0.6723,3
+"Oh, sing sweet nightingale Sing sweet nightingale High...",very positive,0.4743,Romantic Love,0.8474,8
+"Above me Oh, sing sweet nightingale Sing sweet nightingale High...",very positive,0.4937,Romantic Love,0.7916,10
+Above...,uncertain,0.313,Family,0.8112,1
+"Oh, sing sweet nightingale Sing sweet nightingale High...",very positive,0.4743,Romantic Love,0.8474,8
+"Oh, sing sweet nightingale Sing sweet nightingale Oh, sing sweet nightingale Sing...sweet...",very positive,0.481,Family,0.9411,12
+"Oh, sing sweet nightingale Sing...",uncertain,0.421,Romantic Love,0.8497,5
+"Oh, sing sweet nightingale Oh, sing sweet...",very positive,0.4892,Personal Growth,0.0878,7
+Oh...,uncertain,0.3841,Family,0.7784,1
+Sing...,uncertain,0.3902,Romantic Love,0.7372,1
+Oh!,uncertain,0.3701,Family,0.7929,1
+"Oh, Lucifer!",very positive,0.7132,Trauma,0.1209,2
+You mean old thing!,uncertain,0.3714,Trauma,0.041,4
+I'm just going to have to...,uncertain,0.4278,Personal Growth,0.8927,6
+teach you a lesson.,uncertain,0.3987,Personal Growth,0.345,4
+Open in the name of the King!,very positive,0.6492,Resilience,0.0339,7
+An urgent message from His Imperial Majesty.,uncertain,0.4482,Resilience,0.0525,7
+Thank you.,positive,0.5047,Family,0.8872,2
+From the King!,very positive,0.6385,Resilience,0.2624,3
+"What's it say, Cinderelly?",uncertain,0.3619,Personal Growth,0.2513,4
+Duh...,uncertain,0.3054,Family,0.8388,1
+uh...,uncertain,0.3969,Family,0.7926,1
+uh...,uncertain,0.3969,Family,0.7926,1
+"What's it say, huh?",neutral,0.4564,Family,0.3913,4
+I don’t know.,uncertain,0.4378,Personal Growth,0.333,3
+He said it’s urgent.,neutral,0.4676,Family,0.7262,4
+Maybe I should interrupt the...,uncertain,0.269,Family,0.6555,5
+uh...,uncertain,0.3969,Family,0.7926,1
+music lesson.,uncertain,0.4106,Romantic Love,0.1015,2
+"Oh, sing sweet nightingale Sing sweet nightingale High...",very positive,0.4743,Romantic Love,0.8474,8
+You clumsy!,uncertain,0.3373,Trauma,0.3909,2
+You did it on purpose.,uncertain,0.4036,Personal Growth,0.6745,5
+"Be still, you!",very positive,0.5422,Personal Growth,0.8415,3
+"You're always-- Girls, girls!- It's her fault, Mother.",very positive,0.6091,Family,0.9633,8
+Above all...,uncertain,0.3278,Family,0.8705,2
+self-control.,uncertain,0.3368,Personal Growth,0.585,1
+Yes!,uncertain,0.4402,Family,0.8961,1
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+I've warned you never to interrupt while-- But this just arrived from the palace.,very positive,0.7127,Resilience,0.5515,14
+From the palace!,very positive,0.6211,Resilience,0.4821,3
+Give it here!- Let me have it!,very positive,0.6234,Family,0.7578,7
+"No, it's mine!",uncertain,0.373,Identity,0.8479,3
+No-- I'll read it.,uncertain,0.3773,Family,0.8648,4
+Well...,uncertain,0.4194,Family,0.7545,1
+There's to be a ball.- A ball!,uncertain,0.4388,Personal Growth,0.4049,7
+"In honour of His Highness, the Prince!",very positive,0.6881,Resilience,0.2603,7
+"Oh, the Prince!",very positive,0.6148,Romantic Love,0.9784,3
+"And by royal command, every eligible maiden is to attend.",very positive,0.5071,Family,0.9364,10
+"Why, that's us!",uncertain,0.285,Family,0.9826,3
+And I'm so eligible!,very positive,0.6085,Personal Growth,0.8267,4
+"Why, that means I can go too!",uncertain,0.4401,Personal Growth,0.8415,7
+Ha!,very positive,0.5022,Family,0.756,1
+"Her, dancing with the Prince!",very positive,0.484,Romantic Love,0.9834,5
+"I'd be honoured, Your Highness.",very positive,0.6403,Personal Growth,0.8294,5
+Would you mind holding my broom?,uncertain,0.2552,Empathy,0.6697,6
+"Well, why not?",uncertain,0.3519,Personal Growth,0.7638,3
+"After all, I'm still a member of the family.",uncertain,0.347,Family,0.9904,9
+"And it says, ""By royal command...",uncertain,0.3132,Family,0.447,6
+"every eligible maiden is to attend."" Yes...",uncertain,0.3417,Family,0.9129,7
+So it does.,neutral,0.5859,Family,0.7972,3
+"Well, I see no reason why you can't go...",neutral,0.4572,Personal Growth,0.6985,9
+if you get all your work done.,uncertain,0.4216,Resilience,0.254,7
+"Oh, I will!",very positive,0.6652,Personal Growth,0.9112,3
+I promise.,neutral,0.4671,Family,0.8114,2
+And if you can find something...,neutral,0.568,Personal Growth,0.3654,6
+suitable to wear.,neutral,0.6735,Resilience,0.8043,3
+I'm sure I can!,uncertain,0.3116,Resilience,0.8531,4
+"Oh, thank you, Stepmother.",very positive,0.6102,Family,0.9804,4
+Mother!,very positive,0.6857,Family,0.9919,1
+Do you realize what you just said?,uncertain,0.3963,Family,0.3474,7
+Of course.,uncertain,0.37,Family,0.9305,2
+"I said, ""If..."" Oh, ""If..."" Isn't it lovely?",uncertain,0.3687,Family,0.4516,8
+It was my mother's.,very positive,0.5,Family,0.9974,4
+"It's pretty-pretty, but it’s old.",neutral,0.5443,Family,0.7852,5
+"Well, maybe it is a little old-fashioned, but...",neutral,0.4512,Family,0.729,8
+"oh, I'll fix that.",uncertain,0.3879,Personal Growth,0.852,4
+"H-H-How you do that, huh?",uncertain,0.4376,Family,0.4925,5
+Wait a minute.,neutral,0.5314,Family,0.7425,3
+There ought to be...,neutral,0.4646,Family,0.604,4
+some good ideas in here.,positive,0.4935,Resilience,0.6085,5
+Uh-huh.,uncertain,0.4459,Family,0.853,1
+This one.,uncertain,0.3524,Family,0.7446,2
+"Oh, very nice-nice.",very positive,0.5822,Family,0.9085,3
+Like it!,very positive,0.5924,Family,0.8829,2
+We can do it.- It'll be R-easy.,uncertain,0.389,Family,0.8558,7
+I'll have to shorten the sleeves...,uncertain,0.3728,Personal Growth,0.7862,6
+I'll need a sash...,uncertain,0.3938,Personal Growth,0.4721,4
+a ruffle...,very negative,0.5681,Personal Growth,0.3519,2
+and something for a collar.,uncertain,0.4264,Resilience,0.1007,5
+And then I'll-- Cinderella!,uncertain,0.3345,Romantic Love,0.0176,4
+"Oh, now what do they want?",uncertain,0.2994,Family,0.4532,6
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+"Oh, well, guess my dress will just have to wait.",uncertain,0.2696,Family,0.8228,10
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+"All right, all right!",uncertain,0.425,Family,0.7497,4
+I'm coming.,uncertain,0.303,Personal Growth,0.9437,2
+Poor Cinderelly.,uncertain,0.4066,Trauma,0.8161,2
+"Every time she find a minute, that's the time when they begin it!",uncertain,0.3115,Family,0.8045,13
+"Cinderelly, Cinderelly-- Cinderella!",very positive,0.5708,Romantic Love,0.0943,3
+"Cinderelly, Cinderelly Night and day it's Cinderelly Make the fire, fix the breakfast Wash the dishes, do the mopping And the sweeping and the dusting They always keep her hoppin' She go around in circles 'Til she's very, very dizzy Still they holler Keep-a busy, Cinderelly Yeah...Keep-a busy.",uncertain,0.3138,Family,0.976,48
+You know what?,neutral,0.4551,Family,0.6533,3
+Cinderelly's not go to the ball.,negative,0.4783,Loneliness,0.5243,6
+What?,uncertain,0.396,Family,0.3908,1
+Not go?,very negative,0.4932,Personal Growth,0.3632,2
+What did you say?,neutral,0.5752,Family,0.4548,4
+You'll see.,uncertain,0.3607,Family,0.8345,2
+They fix her.,uncertain,0.344,Family,0.9492,3
+"Work, work, work.",neutral,0.5492,Resilience,0.0067,3
+She'll never get her dress done.,very negative,0.6556,Grief,0.5885,6
+P-p-poor Cinderelly.,uncertain,0.3683,Loneliness,0.3445,2
+Hey!,uncertain,0.3457,Family,0.7355,1
+We can do it!,very positive,0.5414,Resilience,0.8027,4
+"We can do it we can do it We can help our Cinderelly We can make the dress so pretty There’s nothing to it, really We'll tie a sash around it Put a ribbon through it When dancing at the ball She'll be more beautiful than all In the lovely dress we'll make for Cinderelly Hurry, hurry hurry, hurry Gonna help our Cinderelly Got no time to dillydally We got to get a-goin' I'll cut it with the scissors And I can do the sewing Leave the sewing to the women You go get some trimmin' And we'll make a lovely dress for Cinderelly We'll make a lovely dress for Cinderelly Follow me, Gus-Gus.",uncertain,0.416,Family,0.9098,114
+I know where to go.,neutral,0.53,Family,0.654,5
+Find a pretty-pretty if we can.,uncertain,0.4339,Family,0.4626,6
+Ho-ho-ho.,uncertain,0.3082,Romantic Love,0.8853,1
+Cinderelly needs help.,uncertain,0.4087,Trauma,0.7932,3
+"Surprise, surprise!",uncertain,0.3879,Family,0.8189,2
+Pretty surprise for Cinderelly!,positive,0.4627,Personal Growth,0.8205,4
+"And this too, Cinderella, my slippers.",uncertain,0.2523,Resilience,0.0154,6
+"Now don't forget- Cinderella, take my dress!",uncertain,0.3136,Romantic Love,0.0056,7
+"Here, mend the buttonholes.",uncertain,0.309,Family,0.5055,4
+"Press my skirt too, and mind the ruffle.",uncertain,0.3938,Family,0.8085,8
+"You're always-- And, Cinderella...",uncertain,0.4103,Personal Growth,0.016,4
+Yes?,uncertain,0.4134,Family,0.849,1
+"When you're through, and before you begin your regular chores, I have a few little things.",neutral,0.4982,Family,0.5625,16
+Very well.,very positive,0.5454,Family,0.8598,2
+Mother I don't see why...,uncertain,0.3885,Family,0.9868,5
+everybody else seems to have such nice things to wear...,uncertain,0.3244,Family,0.5701,10
+and I always end up in these old rags.,uncertain,0.3812,Trauma,0.5518,9
+This sash!,very negative,0.6092,Personal Growth,0.393,2
+"Why, I wouldn’t be seen dead in it!",uncertain,0.2748,Family,0.7164,8
+You should talk!,uncertain,0.3445,Personal Growth,0.7272,3
+These beads!,very positive,0.5652,Personal Growth,0.6799,2
+I'm sick of looking at them!,uncertain,0.3525,Family,0.4016,6
+Trash!,uncertain,0.4237,Trauma,0.0086,1
+"Oh, I hate-- I don't see why I can't have- Come on!",very negative,0.4844,Family,0.8042,12
+"Now, be carefee.",uncertain,0.3881,Family,0.8319,3
+Duh...,uncertain,0.3054,Family,0.8388,1
+uh...,uncertain,0.3969,Family,0.7926,1
+"yes-yes-yes, real carefee.",uncertain,0.2945,Family,0.7816,3
+Oh-ho-ho!,very positive,0.6111,Family,0.8168,1
+"We can use that, Gus-Gus!",very positive,0.6489,Resilience,0.6371,5
+Uh...,neutral,0.4839,Family,0.7665,1
+pretty-pretty pretty-pretty-- Shhh!,likely_emotive,0.5334,Family,0.8046,3
+Look-it!,uncertain,0.4182,Family,0.6602,1
+R-ucifee!,very positive,0.588,Romantic Love,0.9534,1
+Uh...,neutral,0.4839,Family,0.7665,1
+duh...,uncertain,0.3046,Family,0.8584,1
+duh...,uncertain,0.3046,Family,0.8584,1
+look.,uncertain,0.3886,Family,0.7614,1
+"Oh, beads!",uncertain,0.409,Personal Growth,0.1151,2
+Oh-ho-ho-ho!,very positive,0.6325,Romantic Love,0.8932,1
+Very pretty beads!,positive,0.4783,Friendship,0.1281,3
+Oh-ho-ho!,very positive,0.6111,Family,0.8168,1
+Shhh!,very positive,0.471,Family,0.9117,1
+A dream is a wish your heart makes When you're fast asleep In dreams you will lose your heartaches Whatever you wish for you keep Have faith in your dreams and someday No matter how your heart is grieving If you keep on believing The dream that you wish will come true Okay.,very positive,0.694,Grief,0.5057,53
+1-2-3-4-5-6-7-8.,neutral,0.5756,Family,0.8839,1
+Whatever you wish for you keep.,neutral,0.4673,Family,0.6689,6
+All right.,uncertain,0.4407,Family,0.828,2
+"Heave-ho, heave-ho!",very positive,0.6828,Family,0.867,2
+Heave-ho.,very positive,0.5587,Family,0.6353,1
+Mmmm mm mm believing The dream that you wish will come...,very positive,0.4658,Family,0.4422,11
+Will come true...,very positive,0.464,Resilience,0.8766,3
+Yes?,uncertain,0.4134,Family,0.849,1
+The carriage is here.,neutral,0.5152,Resilience,0.2219,4
+Oh.,uncertain,0.3785,Family,0.8249,1
+"Why, Cinderella, you're not ready, child.",uncertain,0.4196,Trauma,0.3408,6
+I'm not going.,uncertain,0.4203,Personal Growth,0.7949,3
+Not going?,uncertain,0.392,Family,0.5401,2
+"Oh, what a shame.",very negative,0.6135,Grief,0.8886,4
+"But of course, there will be...",neutral,0.4579,Family,0.6363,6
+"other times, and-- Yes.",neutral,0.5478,Resilience,0.5372,4
+Good night.,uncertain,0.4014,Family,0.8939,2
+"Oh, well.",neutral,0.4763,Family,0.7985,2
+What's a royal ball?,uncertain,0.4184,Family,0.0753,4
+"After all, I suppose it would be...",neutral,0.5227,Family,0.7471,7
+frightfully dull...,very negative,0.6586,Loneliness,0.8506,2
+and...,neutral,0.4892,Family,0.7472,1
+and boring...,very negative,0.4617,Loneliness,0.4351,2
+and...,neutral,0.4892,Family,0.7472,1
+and completely...,uncertain,0.3255,Family,0.6407,2
+completely wonderful.,very positive,0.7748,Family,0.9055,2
+"Oh, why...",uncertain,0.3804,Grief,0.9121,2
+it’s my...,uncertain,0.4015,Family,0.8658,2
+Surprise!,uncertain,0.4338,Personal Growth,0.8021,1
+Surprise!,uncertain,0.4338,Personal Growth,0.8021,1
+Surprise!,uncertain,0.4338,Personal Growth,0.8021,1
+Surprise!,uncertain,0.4338,Personal Growth,0.8021,1
+Duh...,uncertain,0.3054,Family,0.8388,1
+duh...,uncertain,0.3046,Family,0.8584,1
+Happy birthday!,very positive,0.6241,Family,0.6784,2
+"No, no, no, no!",very negative,0.4903,Family,0.9138,4
+"Why, I never dreamed...",very negative,0.5047,Personal Growth,0.9099,4
+It's such a surprise!,uncertain,0.3662,Family,0.7948,4
+Oh!,uncertain,0.3701,Family,0.7929,1
+How can I ever...why...,uncertain,0.3794,Trauma,0.6611,4
+"Oh, thank you so much!",very positive,0.5804,Family,0.9022,5
+"Now remember, when you're presented to His Highness, be sure-- Wait!",uncertain,0.3648,Personal Growth,0.7239,11
+Please...,uncertain,0.2558,Family,0.8452,1
+wait for me!,uncertain,0.3353,Personal Growth,0.6233,3
+Isn't it lovely?,uncertain,0.3399,Family,0.8441,3
+Do you like it?,uncertain,0.3328,Family,0.7979,4
+Do you think it will do?,uncertain,0.395,Family,0.6234,6
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+"Mother, she can't!",very positive,0.6726,Family,0.9886,3
+"You wouldn't-- Oh, no!",uncertain,0.424,Family,0.8701,4
+You...,uncertain,0.3754,Personal Growth,0.7494,1
+can't let her!,uncertain,0.2814,Family,0.9276,3
+"Girls, please!",uncertain,0.3904,Personal Growth,0.3943,2
+"After all, we did make a bargain.",uncertain,0.2479,Family,0.8511,7
+"Didn't we, Cinderella?",uncertain,0.2806,Personal Growth,0.0323,3
+And I never go back on my word.,very negative,0.6136,Family,0.844,8
+"How very clever, these beads.",very positive,0.664,Resilience,0.5973,5
+They give it just the right touch.,uncertain,0.399,Family,0.8099,7
+"Don't you think so, Drizella?",very negative,0.511,Personal Growth,0.6185,5
+"No, I don't!",very negative,0.5326,Family,0.8632,3
+I think she's-- Why you little thief!,uncertain,0.3718,Identity,0.3592,7
+They’re my beads!,very positive,0.5935,Personal Growth,0.484,3
+Give them here!,very positive,0.5535,Family,0.6715,3
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+Oh...,uncertain,0.3841,Family,0.7784,1
+"and look, that's my sash!",very positive,0.5297,Personal Growth,0.5569,5
+Wearing my sash!,uncertain,0.4254,Identity,0.7991,3
+She can't!,uncertain,0.3734,Family,0.88,2
+"Oh, don't!",very negative,0.5505,Family,0.8714,2
+"Please, stop!",uncertain,0.2802,Trauma,0.8104,2
+My ribbon!,very negative,0.5955,Personal Growth,0.7434,2
+"Why, you thief!",uncertain,0.4062,Grief,0.5855,3
+Kitchen wench!,uncertain,0.3794,Personal Growth,0.0031,2
+"You ungrateful little-- Girls, girls.",uncertain,0.3475,Family,0.751,5
+That's quite enough.,neutral,0.4868,Family,0.7058,3
+"Hurry along now, both of you.",neutral,0.549,Family,0.7288,6
+I won’t have you upsetting yourselves.,uncertain,0.2874,Family,0.9082,6
+Good night.,uncertain,0.4014,Family,0.8939,2
+"In dreams you will lose your heartaches Whatever you wish for you keep Oh, no.",uncertain,0.3827,Grief,0.8822,15
+"No, it isn't true.",uncertain,0.424,Family,0.8263,4
+Have faith in your dreams and someday It's just no use.,uncertain,0.4131,Personal Growth,0.5097,11
+Your rainbow will come smiling through No use at all.,very negative,0.6851,Family,0.7561,10
+"No matter how your heart is grieving If you keep on believing I can't believe, not anymore.",uncertain,0.374,Grief,0.8343,17
+The dreams that you wish...,uncertain,0.4073,Personal Growth,0.3974,5
+There’s nothing left to believe in.,uncertain,0.4036,Loneliness,0.5684,6
+Nothing.,very negative,0.5949,Loneliness,0.5474,1
+"Nothing, my dear?",very negative,0.743,Family,0.2242,3
+"Oh, now you don't really mean that.",uncertain,0.3288,Family,0.767,7
+"Oh, but I do!- Nonsense, child!",very negative,0.6516,Family,0.7131,6
+"If you'd lost all your faith, I couldn’t be here, and here I am!",very positive,0.5483,Resilience,0.9192,14
+"Oh, come now.",uncertain,0.424,Family,0.5225,3
+Dry those tears.,uncertain,0.3929,Grief,0.9004,3
+You can't go to the ball looking like that.,uncertain,0.3625,Trauma,0.3793,9
+The ball?,uncertain,0.4094,Resilience,0.0306,2
+"Oh, but I'm not-- Of course you are.",uncertain,0.3809,Family,0.9398,8
+"But we'll have to hurry, because even miracles take a little time.",uncertain,0.3286,Family,0.7855,12
+Miracles?,uncertain,0.4139,Personal Growth,0.0318,1
+Uh-hmm.,neutral,0.6284,Family,0.8659,1
+Watch.,uncertain,0.3744,Family,0.8393,1
+What in the world did I do with that magic wand?,uncertain,0.3058,Personal Growth,0.5834,11
+I was sure I-- Magic wand?,very positive,0.6012,Personal Growth,0.0482,6
+That's strange...,uncertain,0.4253,Trauma,0.4615,2
+I...,uncertain,0.4219,Identity,0.9149,1
+"I always-- Why then, you must be-- Your Fairy Godmother?",very positive,0.6555,Identity,0.6669,10
+Of course.,uncertain,0.37,Family,0.9305,2
+Where is that wand?,uncertain,0.4291,Personal Growth,0.33,4
+I-- Oh!,uncertain,0.3617,Family,0.7774,2
+I forgot.,very negative,0.4531,Family,0.6504,2
+I put it away.,uncertain,0.2807,Family,0.7835,4
+Look-a what she did!,very positive,0.453,Family,0.6844,4
+Duh...,uncertain,0.3054,Family,0.8388,1
+duh...,uncertain,0.3046,Family,0.8584,1
+How'd she do it Now...,uncertain,0.3832,Personal Growth,0.803,5
+let's see.,uncertain,0.4451,Personal Growth,0.6759,2
+Hmm...,uncertain,0.372,Family,0.7171,1
+"I'd say the first thing you need is, um...",uncertain,0.4309,Family,0.7075,9
+a pumpkin.,uncertain,0.3401,Resilience,0.0556,2
+But...,uncertain,0.3872,Family,0.8111,1
+a pumpkin?,uncertain,0.4381,Personal Growth,0.0147,2
+Uh-huh.,uncertain,0.4459,Family,0.853,1
+"Now, um...",neutral,0.5136,Family,0.6699,2
+Now...,uncertain,0.3332,Family,0.7286,1
+the magic words.,very positive,0.5439,Resilience,0.662,3
+Uh...,neutral,0.4839,Family,0.7665,1
+Oh...,uncertain,0.3841,Family,0.7784,1
+Ahem!,very positive,0.5691,Family,0.6907,1
+"Salaga doola menchicka boola Bibbidi-bobbidi-boo Put them together and what have you got Bibbidi-bobbidi-boo Salaga doola menchicka boola Bibbidi-bobbidi-boo It'll do magic believe it or not Bibbidi-bobbidi-boo Now salaga doola means Menchicka boola roo But the thing-a-ma-bob that does the job Is bibbidi-bobbidi-boo Oh, salaga doola menchicka boola Bibbidi-bobbidi-boo Put them together and what have you got Bibbidi-bobbidi Bibbidi-bobbidi Bibbidi-bobbidi-boo Oh, looky, looky.",uncertain,0.4154,Family,0.8702,63
+Isn't it wonderfee?,uncertain,0.4454,Personal Growth,0.3556,3
+"Isn't it, huh?",neutral,0.478,Family,0.7858,3
+"Oh, it's beautiful!",very positive,0.6048,Family,0.8778,3
+"Yes, isn't it?",neutral,0.4545,Family,0.8306,3
+"Now, with an elegant coach like that, of course, we'll simply have to have...",uncertain,0.3742,Personal Growth,0.5069,14
+uh...mice!,uncertain,0.3103,Resilience,0.0439,1
+Uh...,neutral,0.4839,Family,0.7665,1
+uh...,uncertain,0.3969,Family,0.7926,1
+mice?,uncertain,0.3224,Resilience,0.1561,1
+"Oh, this really is nice.",uncertain,0.4312,Family,0.8537,5
+"Why, we'll have a coach-and-fou when we're through.",uncertain,0.4397,Personal Growth,0.5669,8
+"Just a wave of my stick, and to finish the trick, Bibbidi..",uncertain,0.2842,Resilience,0.1721,12
+bobbidi...,uncertain,0.3455,Personal Growth,0.179,1
+boo!,uncertain,0.2193,Grief,0.7398,1
+"Gracious, what did I do?",uncertain,0.3421,Grief,0.8397,5
+I was sure there were four there.,neutral,0.5062,Family,0.8339,7
+There should be one more.,neutral,0.5187,Family,0.196,5
+"Oh, ha-ha.",uncertain,0.3822,Family,0.7957,2
+There you are.,neutral,0.7154,Family,0.7782,3
+Bibbidi...,uncertain,0.4157,Personal Growth,0.0568,1
+bobbidi...,uncertain,0.3455,Personal Growth,0.179,1
+boo!,uncertain,0.2193,Grief,0.7398,1
+"Shoo!- Oh, poor Lucifer.",very negative,0.4666,Trauma,0.381,4
+"Serves him right, I'd say.",uncertain,0.3525,Personal Growth,0.907,5
+Now...,uncertain,0.3332,Family,0.7286,1
+um...,uncertain,0.4296,Family,0.7876,1
+where were we?,neutral,0.4905,Family,0.3652,3
+"Oh, goodness, yes.",uncertain,0.4406,Family,0.8634,3
+You can't go to the ball without...,very negative,0.4802,Identity,0.0581,7
+um...,uncertain,0.4296,Family,0.7876,1
+a horse!,uncertain,0.4481,Resilience,0.399,2
+A-a-another one?,uncertain,0.4265,Personal Growth,0.0736,2
+"But tonight, for a change, you'll handle the reins...",uncertain,0.3702,Family,0.8653,9
+and sit in the driver's seat too.,uncertain,0.4027,Personal Growth,0.5149,7
+"For instead of a horse, why the coachman, of course.",uncertain,0.34,Personal Growth,0.6216,10
+Bibbidi-bobbidi-boo!,uncertain,0.4058,Trauma,0.0517,1
+"Well, that does it, I guess.",neutral,0.5131,Family,0.7196,6
+"Except for-- oh, yes, the finishing touch...",uncertain,0.2883,Family,0.4386,7
+and that's you.,uncertain,0.4324,Identity,0.9825,3
+"Yes, Bruno, that's right!",very positive,0.532,Resilience,0.7179,4
+You'll be footman tonight.,uncertain,0.3781,Resilience,0.7606,4
+"Bibbidi-bobbidi-boo Well, well, hop in, my dear.",uncertain,0.3111,Personal Growth,0.6111,7
+We can't waste time.,uncertain,0.3983,Family,0.7622,4
+But...,uncertain,0.3872,Family,0.8111,1
+"uh-- Now, now, now...",neutral,0.5494,Family,0.6682,4
+don't try to thank me.,very negative,0.5961,Trauma,0.4345,5
+"Oh, I wasn't-- I mean...",uncertain,0.32,Personal Growth,0.6748,5
+"I do, but...",neutral,0.4953,Personal Growth,0.7147,3
+"but don't you think my dress- Yes, it's lovely, dear.",uncertain,0.3186,Empathy,0.859,10
+"Lov-- Good heavens, child!",very positive,0.7059,Romantic Love,0.8106,4
+You can't go in that.,very negative,0.5777,Family,0.8041,5
+"Now, uh..",uncertain,0.4406,Family,0.5797,2
+"let’s see, dear.",uncertain,0.3253,Family,0.732,3
+Your size...,uncertain,0.3009,Personal Growth,0.8034,2
+and the shade of your eyes...,uncertain,0.2919,Empathy,0.0324,6
+Uh-hmm.,neutral,0.6284,Family,0.8659,1
+"Something simple, but daring too.",neutral,0.5235,Personal Growth,0.6494,5
+"Oh, just leave it to me!",very positive,0.531,Personal Growth,0.6967,6
+What a gown this will be.,uncertain,0.3872,Family,0.5372,6
+Bibbidi-bobbidi bibbidi-bobbidi...,neutral,0.6228,Family,0.6308,2
+"Bibbidi-bobbidi-boo Oh, it's a beautiful dress!",very positive,0.5476,Family,0.0211,6
+Did you ever see such a beautiful dress?,very positive,0.5446,Romantic Love,0.114,8
+"And look, glass slippers.",uncertain,0.4374,Resilience,0.2958,4
+"Why, it's like a dream, a wonderful dream come true.",very positive,0.6592,Family,0.8773,10
+"Yes, my child, but like all dreams, well, I'm afraid this can't last forever.",very positive,0.7466,Family,0.9708,14
+You'll have only 'til midnight and then-- Midnight?,uncertain,0.3447,Family,0.5537,8
+"Oh, thank you.",uncertain,0.3664,Family,0.8753,3
+"Oh, now, now just a minute.",neutral,0.4527,Family,0.8259,6
+"You must understand, my dear.",very positive,0.5564,Family,0.8845,5
+"On the stroke of twelve, the spell will be broken, and everything will be as it was before.",very negative,0.614,Family,0.6434,18
+"Oh, I understand, but...",uncertain,0.4175,Family,0.7432,4
+it's more than I ever hoped for.,very positive,0.497,Personal Growth,0.866,7
+"Bless you, my child.",very positive,0.5517,Family,0.9908,4
+I-- Goodness me!,very positive,0.5631,Grief,0.8615,3
+It's getting late!,negative,0.5864,Family,0.6327,3
+"Hurry up, dear.",uncertain,0.3163,Family,0.9281,3
+The ball can't wait.,uncertain,0.3856,Personal Growth,0.2515,4
+"Have a good time, dance, be gay!",positive,0.4769,Personal Growth,0.57,7
+"Now, off you go.",uncertain,0.2778,Personal Growth,0.743,4
+You're on your way.,uncertain,0.4238,Personal Growth,0.8229,4
+"With a bibbidi-bobbidi, bibbidi-bobbidi...",neutral,0.5182,Family,0.1434,4
+Bibbidi-bobbidi-boo The Princess Fredrica Eugenie de la Fontaine.,uncertain,0.3075,Family,0.9573,8
+"M'amselle Augustina Dubois, the daughter of General Pierre Dubois.",uncertain,0.27,Family,0.997,9
+Ah...,uncertain,0.3623,Family,0.8118,1
+the boy isn't cooperating.,uncertain,0.4327,Personal Growth,0.7397,4
+"M'amselle Leanora Mercedes de la Torre, daughter of Colonel and Madam de la Torre.",uncertain,0.2436,Family,0.9981,14
+I can't understand it!,very negative,0.5655,Family,0.7223,4
+There must be at least one who'd make a suitable mother.,neutral,0.5624,Family,0.9504,11
+Shhh!,very positive,0.471,Family,0.9117,1
+Sire!,very positive,0.6065,Personal Growth,0.4842,1
+Uh...,neutral,0.4839,Family,0.7665,1
+a suitable wife.,uncertain,0.3523,Family,0.8714,3
+"The Mademoiselles Drizella and Anastasia Tremain, daughters of Lady Tremain.",uncertain,0.3066,Family,0.995,10
+I give up!,uncertain,0.3942,Grief,0.5402,3
+"Even I couldn’t expect the boy to-- Well, if I may say so, Your Majesty.",very positive,0.5958,Family,0.7061,15
+"I did try to warn you, but you, Sire, are incurably romantic.",very positive,0.5474,Romantic Love,0.9543,12
+No doubt you saw the whole pretty picture in detail.,neutral,0.6101,Family,0.6639,10
+The young Prince...,very positive,0.5129,Personal Growth,0.9699,3
+bowing to the assembly.,uncertain,0.4049,Family,0.585,4
+"Suddenly, he stops.",uncertain,0.3754,Family,0.8607,3
+"He looks up, for lo, there she stands, the girl of his dreams.",uncertain,0.428,Romantic Love,0.9459,13
+"Who she is, or whence she came...",neutral,0.6303,Identity,0.9841,7
+"he knows not, nor does he care.",neutral,0.5442,Loneliness,0.6668,7
+But his heart tells him that here...,very positive,0.5563,Personal Growth,0.7965,7
+here is the maid predestined to be his bride.,uncertain,0.2907,Family,0.9267,9
+"A pretty plot for fairytales, Sire, but in real Life...",uncertain,0.4284,Family,0.4947,10
+"oh, no...",uncertain,0.3887,Family,0.7523,2
+no.,uncertain,0.3728,Family,0.7286,1
+It was foredoomed to failure.,very negative,0.4645,Family,0.6328,5
+"Failure, eh?",very negative,0.4827,Grief,0.3695,2
+"Take a look at that, you pompous windbag!",uncertain,0.3815,Trauma,0.3171,8
+Who is she?,uncertain,0.3632,Identity,0.8929,3
+You know her?,uncertain,0.3518,Identity,0.9554,3
+"No, Sire.",uncertain,0.4337,Trauma,0.6025,2
+I've never seen her before.,very negative,0.7152,Identity,0.8103,5
+That's one thing in her favour.,neutral,0.4582,Resilience,0.7303,6
+The waltz.,uncertain,0.3338,Resilience,0.0034,2
+"Quick, the waltz!",uncertain,0.4329,Personal Growth,0.0351,3
+Soft lights.,uncertain,0.4247,Family,0.86,2
+The lights!,very positive,0.5525,Romantic Love,0.0408,2
+Aha!,very positive,0.5337,Family,0.8026,1
+"Failure, eh!",very negative,0.645,Grief,0.6093,2
+Well...now for a good night's sleep.,uncertain,0.2782,Family,0.8681,6
+"Quite so, Sire.",very positive,0.5169,Resilience,0.8116,3
+I believe I too-- You will stay right here.,very positive,0.5324,Family,0.9783,9
+See they're not disturbed.,uncertain,0.4073,Family,0.9377,4
+And when the boy proposes...,uncertain,0.3644,Romantic Love,0.9015,5
+notify me immediately!,uncertain,0.4031,Family,0.6629,3
+Notify me immed-- And remember...,uncertain,0.3954,Family,0.6162,5
+if anything goes wrong...,neutral,0.5497,Resilience,0.6281,4
+la...ha...,uncertain,0.3574,Family,0.805,1
+"But who is she, Mother?",very positive,0.5966,Family,0.94,5
+Do we know her?,uncertain,0.3915,Identity,0.8585,4
+certainly seems to.,uncertain,0.4495,Family,0.8331,3
+But I know I've never seen her.,uncertain,0.2782,Identity,0.7488,7
+Nor I.,uncertain,0.408,Loneliness,0.8974,2
+But she certainly is-- Wait...,neutral,0.4695,Resilience,0.8201,5
+there is something familiar about her.,neutral,0.748,Family,0.8949,6
+Ahem.,uncertain,0.3415,Family,0.6962,1
+So this is love So this is love So this is what makes life Worthwhile I'm all aglow And now I know And now I know The key to our heaven is mine My heart has wings And I can fly I'll touch every star In the sky So this is the miracle That I've been dreaming of So this is love Oh!,very positive,0.7724,Romantic Love,0.9584,63
+"Oh, my goodness!",very positive,0.5764,Family,0.8622,3
+What's the matter?,uncertain,0.4424,Trauma,0.3179,3
+It's midnight.,neutral,0.5014,Family,0.5312,2
+"Yes, so it is, but-- Goodbye.",neutral,0.5328,Family,0.7742,6
+"No, no, wait.",uncertain,0.3631,Family,0.6911,3
+You can't go now.,very negative,0.6257,Family,0.8306,4
+"It's only-- Oh, I must, please.",uncertain,0.3519,Family,0.8615,6
+"Please, I must.",uncertain,0.3043,Family,0.9083,3
+But why?,uncertain,0.4241,Family,0.3864,2
+"Well, I...I...",neutral,0.4864,Identity,0.8023,2
+"Oh, the Prince.",very positive,0.5227,Romantic Love,0.9608,3
+I haven't met the Prince.,uncertain,0.4434,Family,0.7424,5
+The Prince?,uncertain,0.2878,Romantic Love,0.8655,2
+But didn't you know-- Goodbye!,uncertain,0.3227,Grief,0.8223,5
+"No, wait.",uncertain,0.3801,Family,0.4737,2
+Come back.,uncertain,0.3209,Resilience,0.8249,2
+Please come back!,very positive,0.5926,Family,0.8708,3
+I don't even know your name.,very negative,0.505,Identity,0.8026,6
+How will I find you?,uncertain,0.3711,Personal Growth,0.2767,5
+Wait!,uncertain,0.368,Family,0.5416,1
+Please wait!,uncertain,0.344,Family,0.8669,2
+Goodbye.,uncertain,0.3694,Grief,0.7624,1
+"I say, young lady!",very positive,0.6026,Personal Growth,0.8312,4
+Who is she?,uncertain,0.3632,Identity,0.8929,3
+Wait!,uncertain,0.368,Family,0.5416,1
+Who is she?,uncertain,0.3632,Identity,0.8929,3
+Isn't she lovely?,uncertain,0.3461,Family,0.8121,3
+Mademoiselle!,very positive,0.6604,Personal Growth,0.5488,1
+See rita!,very positive,0.464,Personal Growth,0.6264,2
+Just a moment!,uncertain,0.3324,Family,0.7411,3
+Stop!,uncertain,0.2849,Family,0.771,1
+Stop!,uncertain,0.2849,Family,0.771,1
+Stop that coach!,very negative,0.5579,Trauma,0.6907,3
+Close those gates!,very positive,0.5546,Family,0.617,3
+Follow that coach!,very positive,0.6348,Personal Growth,0.7105,3
+Open the gates!,very positive,0.5873,Family,0.6995,3
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+I...,uncertain,0.4219,Identity,0.9149,1
+"I guess I forgot about everything, even the time, but...",uncertain,0.2848,Family,0.6045,10
+but it was so wonderful.,very positive,0.7127,Family,0.9158,5
+"And he was so handsome, and when we danced-- Oh, I’m sure that even the Prince himself...",very positive,0.7366,Romantic Love,0.9233,17
+couldn't have been more...,uncertain,0.3551,Family,0.9026,4
+"more-- Oh, well.",uncertain,0.4229,Family,0.6215,3
+It's over and-- Cinderelly!,uncertain,0.2701,Family,0.6719,4
+"Look, look!",uncertain,0.3679,Family,0.7832,2
+"A slipper, a slipper!",very negative,0.4546,Personal Growth,0.3113,4
+"Yeah, a slipper.",uncertain,0.3356,Personal Growth,0.0658,3
+"Your slipper, Cinderelly.",uncertain,0.3815,Personal Growth,0.0598,3
+"Yeah, your slipper.",uncertain,0.356,Trauma,0.266,3
+Oh!,uncertain,0.3701,Family,0.7929,1
+Thank you.,positive,0.5047,Family,0.8872,2
+"Thank you so much, for everything.",very positive,0.5979,Family,0.8624,6
+"Your Majesty, I see no point in beating about the bush.",very negative,0.579,Family,0.6584,11
+"I regret to inform you, Sire, that the young lady has disappeared...",very negative,0.5706,Trauma,0.8758,12
+leaving behind only this glass slipper.,very negative,0.6017,Personal Growth,0.2415,6
+"Yes, I'll do it.",uncertain,0.3623,Family,0.9238,4
+"No, I just can't.",uncertain,0.3771,Family,0.9172,4
+Well?,uncertain,0.4487,Family,0.6285,1
+Come in.,uncertain,0.3759,Family,0.9484,2
+Come in!,very positive,0.6576,Family,0.9408,2
+Your Majesty-- So...,uncertain,0.3312,Personal Growth,0.5705,3
+he's proposed already!,uncertain,0.3086,Romantic Love,0.7187,3
+"Tell me all about it.- Well, Sire-- Who is she?",uncertain,0.4175,Personal Growth,0.605,10
+Where does she live?,neutral,0.5134,Resilience,0.352,4
+"Well, I didn't get a chance--- No matter.",uncertain,0.3743,Family,0.3072,8
+We've more important things to discuss.,neutral,0.6164,Family,0.4344,6
+"Arrangements for the wedding, invitations, a national holiday.",neutral,0.6413,Romantic Love,0.3824,8
+All that sort of thing.,uncertain,0.3081,Resilience,0.5013,5
+"But, but, Sire-- Here, here, have a cigar.",uncertain,0.3424,Personal Growth,0.6625,8
+Take a few more.,uncertain,0.3354,Personal Growth,0.6698,4
+ha...,uncertain,0.3139,Family,0.8189,1
+"But, but, but-- Better practice passing these out, eh?",uncertain,0.4305,Family,0.7068,9
+"But, but, but, if you'd...",neutral,0.556,Family,0.6678,5
+only listen!,uncertain,0.2914,Family,0.7191,2
+"And for you, my friend...",uncertain,0.2749,Friendship,0.9817,5
+"Your, Your Majesty, p-p-please.",uncertain,0.2403,Personal Growth,0.7166,4
+a knighthood!,very positive,0.6349,Resilience,0.0164,2
+I hereby dub you Sir...,uncertain,0.2283,Identity,0.8267,5
+Uh...,neutral,0.4839,Family,0.7665,1
+um...,uncertain,0.4296,Family,0.7876,1
+"By the way, what title would you like?",uncertain,0.2956,Personal Growth,0.3465,8
+"Sire, she got away, sir.",very positive,0.518,Trauma,0.81,5
+She got away?,uncertain,0.2526,Trauma,0.7271,3
+"A peculiar title, but if that’s what you-- She what?",neutral,0.5178,Resilience,0.2212,10
+"Why you, you...",uncertain,0.3446,Identity,0.9172,3
+you traitor!,very positive,0.5987,Trauma,0.8546,2
+"Now, Sire, remember your...",very positive,0.4558,Resilience,0.5621,4
+your blood pressure.,uncertain,0.2487,Family,0.0352,3
+Traitor!,very positive,0.6649,Trauma,0.4762,1
+"No, Sire, no!",very negative,0.5617,Family,0.7683,3
+Sabotage!,very negative,0.6648,Family,0.0895,1
+You were in league with the Prince all along!,very positive,0.5032,Identity,0.7941,9
+I tried to stop her...,uncertain,0.3717,Trauma,0.8208,5
+but she vanished into thin air!,uncertain,0.4081,Trauma,0.803,6
+A likely story!,uncertain,0.3665,Family,0.5026,3
+"But it’s true, Sire!",very positive,0.6591,Resilience,0.6671,4
+All we could find was this glass slipper.,very negative,0.583,Personal Growth,0.1568,8
+The whole thing was a plot!,uncertain,0.4061,Family,0.205,6
+"But, Sire, he loves her.",uncertain,0.4022,Family,0.9777,5
+He won't rest 'til he finds her.,very negative,0.4922,Family,0.767,7
+He's determined to marry her.,uncertain,0.2959,Romantic Love,0.8413,5
+What?,uncertain,0.396,Family,0.3908,1
+What did you say?,neutral,0.5752,Family,0.4548,4
+"The Prince, Sire, swears he'll marry none but the girl...",uncertain,0.2645,Family,0.9498,10
+who fits this slipper.,uncertain,0.2565,Personal Growth,0.6519,4
+"He said that, did he?",uncertain,0.4125,Family,0.713,5
+Ha-ha!,very positive,0.4728,Family,0.7999,1
+We've got him!,very positive,0.5622,Family,0.769,3
+Yahoo-o-o!,very positive,0.5583,Personal Growth,0.4811,1
+"But, Sire, this slipper may fit any number of girls.",uncertain,0.3019,Personal Growth,0.8127,10
+That's his problem.,uncertain,0.4199,Trauma,0.7493,3
+He's given his word.,uncertain,0.3234,Family,0.8084,4
+We'll hold him to it.,uncertain,0.3431,Family,0.8861,5
+"No, no, Your Highness.",uncertain,0.3293,Trauma,0.6226,4
+I'll have nothing to do with it.,uncertain,0.3761,Family,0.7853,7
+"You'll try this on every maid in my kingdom, and if the shoe fits...",uncertain,0.3689,Personal Growth,0.4294,14
+bring her in!,very positive,0.5599,Family,0.938,3
+"Y-y-yes, Your Majesty.",very positive,0.4537,Family,0.8322,3
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+Cinderella?,uncertain,0.3803,Romantic Love,0.0813,1
+Cinderella!,very positive,0.5281,Romantic Love,0.171,1
+"Oh, where is that-- Yes?",uncertain,0.3048,Family,0.6429,5
+Here I am.,neutral,0.4798,Identity,0.884,3
+Oh...,uncertain,0.3841,Family,0.7784,1
+"my daughters, where are they?",uncertain,0.3595,Family,0.9765,5
+I...,uncertain,0.4219,Identity,0.9149,1
+I think they're still in bed.,uncertain,0.2992,Family,0.7379,6
+Oh...,uncertain,0.3841,Family,0.7784,1
+"Well, don't just stand there.",uncertain,0.3326,Family,0.6842,5
+"Bring up the breakfast trays at once, and hurry!",uncertain,0.4084,Family,0.8997,9
+Uh-oh!,uncertain,0.4115,Family,0.8111,1
+Wonder what's the matter.,uncertain,0.3883,Family,0.3366,4
+Duh...,uncertain,0.3054,Family,0.8388,1
+duh...,uncertain,0.3046,Family,0.8584,1
+What's the matter with her?,neutral,0.4779,Trauma,0.7206,5
+I don’t know.,uncertain,0.4378,Personal Growth,0.333,3
+Let's find out.,neutral,0.5093,Family,0.7859,3
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Drizella!,very positive,0.596,Personal Growth,0.6651,1
+Drizella!,very positive,0.596,Personal Growth,0.6651,1
+What?,uncertain,0.396,Family,0.3908,1
+Get up!,uncertain,0.4082,Personal Growth,0.9846,2
+Quick!,positive,0.5572,Family,0.7543,1
+This instant!,very positive,0.6366,Family,0.6591,2
+We haven't a moment to lose.,uncertain,0.432,Family,0.8448,6
+Anastasia?,uncertain,0.3302,Romantic Love,0.4904,1
+Anastasia.,uncertain,0.3552,Romantic Love,0.3983,1
+"Get up, Anastasia!",very positive,0.505,Personal Growth,0.9695,3
+What for?,uncertain,0.4458,Family,0.193,2
+Why?,uncertain,0.3626,Family,0.3678,1
+"Oh, everyone's talking about it the whole kingdom.",uncertain,0.4365,Family,0.8018,8
+Hurry now!,very positive,0.5374,Family,0.8331,2
+He'll be here any minute.,uncertain,0.365,Family,0.8967,5
+Who will?,uncertain,0.3041,Personal Growth,0.4348,2
+The Grand Duke.,very positive,0.5998,Family,0.5372,3
+He's been hunting all night.,uncertain,0.2791,Trauma,0.1182,5
+Hunting?,uncertain,0.2967,Identity,0.0007,1
+For that girl.,uncertain,0.4227,Empathy,0.9454,3
+The one who lost her slipper at the ball last night.,very negative,0.6325,Trauma,0.8434,11
+They say he's madly in love with her.,very positive,0.4675,Romantic Love,0.8948,8
+The Duke is?,uncertain,0.4345,Identity,0.5305,3
+"No, no, no!",very negative,0.5215,Family,0.9186,3
+The Prince!,very positive,0.682,Romantic Love,0.9503,2
+The Prince!,very positive,0.682,Romantic Love,0.9503,2
+You clumsy little fool!,uncertain,0.2602,Trauma,0.5269,4
+"Clean that up, and then help my daughters dress.",uncertain,0.4,Family,0.982,9
+What for?,uncertain,0.4458,Family,0.193,2
+"If he’s in love with that girl, why should we even bother?",uncertain,0.4295,Family,0.7761,12
+"Now, you two, listen to me!",very positive,0.4898,Family,0.9075,6
+There is still a chance that one of you can get him.,uncertain,0.3491,Family,0.7501,12
+What?,uncertain,0.396,Family,0.3908,1
+One of us?,uncertain,0.4181,Identity,0.9448,3
+"Why, Mother, what do you mean?",uncertain,0.3766,Family,0.9776,6
+Just this.,uncertain,0.4179,Family,0.4935,2
+"No one, not even the Prince, knows who that girl is.",uncertain,0.4079,Identity,0.8257,11
+We do!,very positive,0.4844,Family,0.8884,2
+We do!,very positive,0.4844,Family,0.8884,2
+"Cinderelly, Cinder-- The glass slipper is their only clue.",uncertain,0.2944,Loneliness,0.0966,9
+"The Duke has been ordered to try it on every girl in the kingdom, and if one can be found whom the slipper fits, then...",neutral,0.494,Personal Growth,0.4494,25
+"by the King's command, that girl shall be the Prince's bride.",very positive,0.5215,Family,0.9273,11
+Bride...,uncertain,0.36,Romantic Love,0.9509,1
+Bride!,very positive,0.5447,Romantic Love,0.959,1
+"Cinderella, get my things together.",uncertain,0.4234,Personal Growth,0.0857,5
+"Never mind her, mend these right away!",very positive,0.5919,Trauma,0.5478,7
+Not until she irons my dress!,uncertain,0.385,Personal Growth,0.7306,6
+Mend these.,uncertain,0.3647,Personal Growth,0.6482,2
+After she's brushed my shoes.,uncertain,0.3438,Family,0.6852,5
+But first get my new-- W-w-what's the matter with her?,uncertain,0.4273,Family,0.9118,10
+"Wake up, stupid!",uncertain,0.3165,Trauma,0.408,3
+We've gotta get dressed!,very positive,0.4702,Family,0.8535,4
+Dressed...,uncertain,0.3779,Family,0.5664,1
+"Oh, yes...",uncertain,0.3565,Family,0.8655,2
+We must get dressed.,uncertain,0.3618,Family,0.8939,4
+It would never do...,very negative,0.7781,Family,0.5992,4
+for the Duke to see me looking like this.,uncertain,0.3328,Family,0.6795,9
+"Mother, did you see what she did?",uncertain,0.355,Family,0.9961,7
+Are you just going to let-- Quiet!,uncertain,0.4165,Family,0.8615,7
+So this is love What she gonna do?,very positive,0.5464,Romantic Love,0.9207,8
+Shhh!,very positive,0.471,Family,0.9117,1
+I don't know.,uncertain,0.4149,Personal Growth,0.5138,3
+Gotta watch her.,positive,0.4515,Personal Growth,0.8433,3
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+"la, la...",neutral,0.4952,Romantic Love,0.8359,2
+"Cinderelly, Cinderelly!",very positive,0.5134,Family,0.454,2
+Cinderelly!,very positive,0.5141,Loneliness,0.5907,1
+"Look out, look out!",uncertain,0.3628,Trauma,0.4121,4
+"So this is the miracle That I've been dreaming of Cinderelly, look out!",very positive,0.7307,Personal Growth,0.806,13
+"Behind you, behind you!",uncertain,0.4013,Family,0.4279,4
+"Look behind you, Cinderelly!",very positive,0.5101,Personal Growth,0.7817,4
+What?,uncertain,0.396,Family,0.3908,1
+Oh!,uncertain,0.3701,Family,0.7929,1
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+"No, please!",uncertain,0.3745,Family,0.8682,2
+"Oh, you can’t!",uncertain,0.3456,Family,0.8802,3
+You just can't!,uncertain,0.4436,Family,0.7393,3
+Let me out!,uncertain,0.4257,Personal Growth,0.8676,3
+You must let me out!,very positive,0.5443,Trauma,0.5392,5
+oh...,neutral,0.4586,Family,0.7697,1
+ho...,uncertain,0.3287,Family,0.7743,1
+You can't keep me in here!,very negative,0.6305,Personal Growth,0.7071,6
+Please...,uncertain,0.2558,Family,0.8452,1
+"No, no!",very negative,0.5612,Family,0.9034,2
+She can't do it!,very negative,0.6017,Family,0.8785,4
+She can't lock up Cinderelly!,very positive,0.4756,Family,0.8937,5
+"I'm gonna-- Oh, please, please.",very positive,0.5088,Family,0.797,5
+"We gotta get that key, Gus-Gus.",uncertain,0.3462,Personal Growth,0.304,6
+We just gotta get that key.,uncertain,0.3399,Family,0.3863,6
+Whoa!,very positive,0.5642,Family,0.7385,1
+"He's-a here, he's-a here!",very positive,0.5263,Identity,0.9727,4
+A Duke-Duke!,very positive,0.7329,Romantic Love,0.0388,2
+Duh...,uncertain,0.3054,Family,0.8388,1
+duh...,uncertain,0.3046,Family,0.8584,1
+a who?,uncertain,0.3085,Personal Growth,0.0584,2
+A Grand Duke with the slipper.,very positive,0.506,Resilience,0.1601,6
+Gotta get that key quick!,positive,0.5586,Identity,0.2043,5
+Zuk-zuk key-key quick-quick.,positive,0.5502,Personal Growth,0.3885,3
+"Oh, Mother, Mother.",very positive,0.4512,Family,0.9344,3
+He's here!,very positive,0.562,Family,0.8876,2
+He's here!,very positive,0.562,Family,0.8876,2
+The Grand Duke!,very positive,0.7066,Family,0.0573,3
+Do I look all right?,uncertain,0.3563,Personal Growth,0.6795,5
+"I'm so excited, I just-- Girls, now remember...",uncertain,0.421,Personal Growth,0.6224,8
+this is your last chance.,uncertain,0.3967,Personal Growth,0.7091,5
+Don't fail me.,very negative,0.474,Family,0.6708,3
+"Announcing His Imperial Grace, the Grand Duke.",very positive,0.6995,Family,0.7259,7
+"You honour our humble home, m'Lord.",very positive,0.6246,Family,0.9178,6
+Ahem.,uncertain,0.3415,Family,0.6962,1
+Quite so.,neutral,0.5952,Family,0.871,2
+"May I present my daughters, Drizella and Anastasia.",uncertain,0.4218,Family,0.9938,8
+Your Grace.,very positive,0.6092,Family,0.9759,2
+"Ladies, charmed I'm sure.",uncertain,0.4167,Personal Growth,0.6107,4
+His Grace will read a royal proclamation.,very positive,0.5075,Family,0.7719,7
+All loyal subjects of His Imperial Majesty are hereby...,uncertain,0.3313,Family,0.8744,9
+notified by royal proclamation in regard to a certain...,neutral,0.4557,Family,0.8171,9
+glass...,uncertain,0.388,Resilience,0.293,1
+slipper.,uncertain,0.4138,Family,0.0578,1
+"It is upon this day decreed-- Why, that's my slipper!",uncertain,0.2843,Personal Growth,0.2548,10
+"Well, I like that!",very positive,0.47,Family,0.8637,4
+It...,neutral,0.5038,Family,0.8084,1
+it's my slipper!,uncertain,0.3958,Resilience,0.2689,3
+"No, No!",very negative,0.6283,Family,0.903,2
+Cinderelly's slipper!,uncertain,0.405,Trauma,0.0184,2
+"Cinderelly's slip-- How can she--- Girls, girls, girls!",very positive,0.5813,Trauma,0.6908,8
+Your manners.,very positive,0.4734,Family,0.5695,2
+"A thousand pardons, Your Grace.",very positive,0.6493,Family,0.6159,5
+Please continue.,uncertain,0.2784,Family,0.8515,2
+"Yes, quite so.",neutral,0.6018,Family,0.8636,3
+It is upon this day decreed that a quest be instituted...,uncertain,0.2836,Personal Growth,0.6748,11
+throughout the length and breadth of our domain...,neutral,0.4571,Resilience,0.6636,8
+"the sole and express purpose of said quest to be as follows: That every single maiden in our beloved kingdom, without prearranged exception, shall try upon her foot...",uncertain,0.3281,Family,0.5463,28
+this aforementioned slipper of glass.,very negative,0.5901,Resilience,0.0706,5
+And should one be found upon whose foot said slipper...,uncertain,0.3658,Trauma,0.4243,10
+shall properly fit...,uncertain,0.3774,Family,0.7243,3
+such maiden shall be acclaimed the object of this search...,uncertain,0.3485,Resilience,0.1894,10
+and immediately forthwith shall be looked upon...,uncertain,0.382,Family,0.5175,7
+"as the one and only true love of His Royal Highness, our beloved son and heir, the Noble Prince.",very positive,0.7606,Family,0.9647,19
+Said Noble Prince will humbly and upon bended knee...,uncertain,0.3345,Personal Growth,0.9423,9
+"beg, request, or if need be, implore...",uncertain,0.4476,Personal Growth,0.6324,7
+"said maiden, that they grant her hand in marriage.",uncertain,0.42,Family,0.9436,9
+"Well...Whereupon, should the aforementioned maide look with favour upon his suit, then shall the happy couple pledge their troth...",uncertain,0.37,Romantic Love,0.8522,19
+on...,neutral,0.5411,Family,0.6607,1
+uh...,uncertain,0.3969,Family,0.7926,1
+"And in due course, upon the inevitable demise...",uncertain,0.2593,Family,0.6317,8
+"of His Most Gracious and August Majesty, the King, succeed to the throne, there to rule over all the land...",uncertain,0.3222,Identity,0.433,20
+as Kingsland Queen of our beloved kingdom.,very positive,0.707,Identity,0.6328,7
+Oh...,uncertain,0.3841,Family,0.7784,1
+So be it.,very positive,0.5573,Family,0.8654,3
+"You must be quite fatigued, Your Grace.",uncertain,0.3693,Family,0.5757,7
+May we offer you some tea?,uncertain,0.3977,Friendship,0.6887,6
+What?,uncertain,0.396,Family,0.3908,1
+Tea?,uncertain,0.3163,Personal Growth,0.0899,1
+"Thank you, madam, no.",uncertain,0.3296,Personal Growth,0.6736,4
+We must proceed with the...,uncertain,0.3154,Family,0.7262,5
+the fitting.,uncertain,0.4423,Family,0.8008,2
+Of course.,uncertain,0.37,Family,0.9305,2
+"Anastasia, dear.",very negative,0.6915,Friendship,0.7949,2
+There!,uncertain,0.4205,Family,0.7808,1
+I knew it was my slipper.,uncertain,0.303,Identity,0.5014,6
+Exactly my size.,very positive,0.5907,Identity,0.9775,3
+I always wear the same size.,uncertain,0.4406,Identity,0.9619,6
+"As soon as I saw it, I said-- Oh!",uncertain,0.4093,Family,0.835,9
+Well...,uncertain,0.4194,Family,0.7545,1
+it...,neutral,0.5117,Family,0.7892,1
+it may be a trifle snug today.,uncertain,0.3572,Family,0.7866,7
+You know how it is...,neutral,0.6531,Family,0.7847,5
+dancing all night.,uncertain,0.3828,Romantic Love,0.1577,3
+I can't understand why.,neutral,0.477,Family,0.5407,4
+It's always fit perfectly before.,uncertain,0.3882,Family,0.843,5
+I don’t think you're half trying!,uncertain,0.375,Family,0.664,6
+"Mother, can you-- Shhh.",very positive,0.4668,Family,0.9946,4
+"Be quiet, my dear.",uncertain,0.337,Family,0.9915,4
+We mustn't disturb His Grace.,uncertain,0.3786,Family,0.6259,5
+"Young man, are you sure you're trying it on the right foot?",uncertain,0.2867,Personal Growth,0.8545,12
+"Oh, it's the right foot, but it must have shrunk or something.",uncertain,0.4103,Trauma,0.7991,12
+A glass shoe isn't always reliable.,negative,0.451,Resilience,0.1083,6
+"Come on, Gus-Gus.",very positive,0.4596,Personal Growth,0.8421,3
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Up the stairs!,very positive,0.4926,Personal Growth,0.8098,3
+Up the stairs!,very positive,0.4926,Personal Growth,0.8098,3
+Why can't you hold still a minute?,uncertain,0.3484,Trauma,0.4633,7
+"Oh, my word!",very positive,0.5763,Family,0.879,3
+Enough of this!,uncertain,0.3781,Trauma,0.5245,3
+"The next young lady, please.",uncertain,0.3171,Personal Growth,0.8431,5
+"Hear that, Gus?",uncertain,0.2676,Personal Growth,0.6486,3
+Hear that?,uncertain,0.343,Family,0.8645,2
+Yup.,uncertain,0.3649,Family,0.8928,1
+Quick.,positive,0.5401,Family,0.7736,1
+Gotta hurry!,uncertain,0.3898,Family,0.5778,2
+"Come on, come on!",very positive,0.6463,Personal Growth,0.8406,4
+Hurry!,uncertain,0.4101,Family,0.7446,1
+.,uncertain,0.3667,Family,0.7734,1
+"Gus-Gus, Gus-Gus.",neutral,0.6462,Family,0.9208,2
+"Aw, come on.",uncertain,0.3327,Trauma,0.579,3
+"Look, Look.",uncertain,0.4283,Family,0.8565,2
+It's just up there Come on!,very positive,0.547,Family,0.6148,6
+"Us a-comin', Cinderelly.",uncertain,0.2789,Personal Growth,0.9713,3
+Us a-comin'!,very positive,0.6123,Personal Growth,0.9692,2
+Us'll get you out.,uncertain,0.3053,Family,0.8143,4
+You've got the key.,uncertain,0.3929,Family,0.6384,4
+How did you ever manage it?,uncertain,0.4416,Family,0.5662,6
+Lucifer!,very positive,0.754,Trauma,0.0138,1
+"Let him go, Lucifer!",very positive,0.7193,Trauma,0.6597,4
+"Please, let him go!",uncertain,0.3031,Family,0.8288,4
+Let him go.,uncertain,0.3134,Personal Growth,0.8353,3
+Let him go!,very positive,0.5724,Personal Growth,0.86,3
+Let him out!,uncertain,0.3549,Personal Growth,0.6839,3
+Let him out!,uncertain,0.3549,Personal Growth,0.6839,3
+Here!,very positive,0.47,Family,0.7095,1
+"Here, R-ucifee!",very positive,0.4992,Romantic Love,0.8637,2
+Bruno!,very positive,0.585,Personal Growth,0.6955,1
+Yes!,uncertain,0.4402,Family,0.8961,1
+Bruno!,very positive,0.585,Personal Growth,0.6955,1
+Quick!,positive,0.5572,Family,0.7543,1
+Get Bruno!,very positive,0.585,Personal Growth,0.9182,2
+Get Bruno!,very positive,0.585,Personal Growth,0.9182,2
+"Oh, of all the stupid little idiots!",uncertain,0.3888,Grief,0.6517,7
+I'll do it myself!,uncertain,0.4312,Personal Growth,0.9775,4
+Get away from me!,very positive,0.6181,Trauma,0.5808,4
+I'll make it fit!,positive,0.4935,Family,0.7952,4
+There!,uncertain,0.4205,Family,0.7808,1
+It fit!,uncertain,0.4183,Family,0.9459,2
+It fits?,neutral,0.475,Family,0.8225,2
+"Oh, Your Grace, I'm dreadfully sorry.",very negative,0.6507,Family,0.9571,6
+It shan't happen again.,uncertain,0.4143,Family,0.7715,4
+"Precisely, madam.",uncertain,0.3349,Resilience,0.6973,2
+"Come on, come on!",very positive,0.6463,Personal Growth,0.8406,4
+"Get up, Gus-Gus!",very positive,0.5499,Personal Growth,0.9892,3
+"Get up, get up!",uncertain,0.3142,Personal Growth,0.9745,4
+"Don't, don't, don't, don't, don't.",uncertain,0.4148,Family,0.7788,5
+"Let go, let go!",very positive,0.6015,Personal Growth,0.8514,4
+"You are the only ladies of the household, I hope-- I presume.",very positive,0.5351,Family,0.945,12
+"There’s no one else, Your Grace.",uncertain,0.2783,Loneliness,0.8351,6
+Quite so.,neutral,0.5952,Family,0.871,2
+Good day.,positive,0.4564,Family,0.885,2
+Good day!,uncertain,0.4437,Family,0.8513,2
+Your Grace!,very positive,0.6297,Family,0.9388,2
+Your Grace!,very positive,0.6297,Family,0.9388,2
+Please!,uncertain,0.248,Family,0.8072,1
+Wait!,uncertain,0.368,Family,0.5416,1
+May I try it on?,uncertain,0.3568,Family,0.6103,5
+"Oh, pay no attention to her.",very negative,0.5473,Loneliness,0.2146,6
+It's only Cinderella.- Our scullery maid.,uncertain,0.3028,Resilience,0.0043,6
+From the kitchen.,uncertain,0.2571,Resilience,0.5259,3
+It's ridiculous.,very negative,0.5443,Family,0.6479,2
+Impossible.,uncertain,0.3578,Family,0.4306,1
+She’s out of her mind.,uncertain,0.3162,Trauma,0.9057,5
+"Yes, yes.",neutral,0.6604,Family,0.8912,2
+Just an imaginative child.,uncertain,0.3626,Personal Growth,0.8131,4
+"Madam, my orders were every maiden!",very positive,0.7381,Family,0.8125,6
+"Come, my child.",very positive,0.6469,Family,0.9939,3
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+"Oh, no, no, no!",uncertain,0.4416,Family,0.9115,4
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+This is terrible.,very negative,0.7033,Trauma,0.8119,3
+The King!,very positive,0.7193,Identity,0.0325,2
+What will he say?,neutral,0.5284,Family,0.3942,4
+What will he do?,neutral,0.4542,Personal Growth,0.5327,4
+"But perhaps, if it would help-- No, no.",uncertain,0.3276,Family,0.7994,8
+"Nothing can help now, nothing.",very negative,0.5104,Trauma,0.7925,5
+"But, you see, I have the other slipper.",neutral,0.4646,Resilience,0.6355,8
+Have faith in dreams and someday Your rainbow will come smiling through No matter how your heart is grieving If you keep on believing The dreams that you wish will come true.,very positive,0.6423,Resilience,0.9588,32

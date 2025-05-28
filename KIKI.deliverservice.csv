@@ -1,0 +1,1277 @@
+text,sentiment,sentiment_score,theme,theme_score,length
+Now the latest weather forecast for northwest Koriko.,uncertain,0.3429,Resilience,0.0268,8
+"Skies are clearing up, thanks to a high-pressure front moving in from the continent.",uncertain,0.3964,Family,0.8091,14
+Mild winds will be blowing in from the northwest clearing out the clouds by this evening.,uncertain,0.3304,Family,0.8358,16
+We'll also have a beautiful full moon tonight.,uncertain,0.3808,Family,0.747,8
+Tomorrow: fair.,uncertain,0.3661,Personal Growth,0.5861,2
+Day after tomorrow: fair.,uncertain,0.3757,Family,0.7265,4
+More news in just a minute.,uncertain,0.4105,Resilience,0.435,6
+"First, a word from today's sponsor-- Jiji, I've decided!",uncertain,0.3884,Personal Growth,0.571,9
+Tonight's the night!,uncertain,0.3721,Family,0.8644,3
+"RING BELL FOR WITCH, KOKIRI Mom!",very positive,0.6143,Family,0.8678,6
+"Oh, hi, Miss Dora.",very positive,0.652,Friendship,0.3063,4
+It's gonna be clear tonight.,uncertain,0.3847,Family,0.7875,5
+I heard the weather forecast.,neutral,0.4882,Resilience,0.0036,5
+There's gonna be a big full moon.,uncertain,0.2764,Family,0.0672,7
+Did you borrow your father's radio without permission again?,very negative,0.5782,Family,0.9583,9
+"It's okay, isn't it?",neutral,0.5806,Family,0.7478,4
+"Happy to see you, Miss Dora.",very positive,0.4728,Family,0.8335,6
+"Mom, my mind's made up.",uncertain,0.4267,Family,0.9338,5
+It's tonight.,uncertain,0.3585,Family,0.8488,2
+Weren't you going to put it off a month?,uncertain,0.3116,Family,0.8674,9
+But the next full moon might be on a cloudy night.,uncertain,0.3464,Resilience,0.6389,11
+I want to leave on the perfect night.,uncertain,0.3201,Family,0.7702,8
+"Kiki, wait!",uncertain,0.3487,Family,0.5997,2
+"My, my.",uncertain,0.4345,Family,0.8657,2
+What's this leaving business?,very negative,0.5522,Trauma,0.0191,4
+It's one of our old customs.,neutral,0.4859,Family,0.5855,6
+"At 13, a witch leaves home for a year of training.",uncertain,0.314,Personal Growth,0.8646,11
+Your little baby is 13?,uncertain,0.2991,Family,0.8493,5
+"My, my.",uncertain,0.4345,Family,0.8657,2
+"Time flies so quickly, doesn't it?",very positive,0.5833,Family,0.5398,6
+I'm afraid so.,uncertain,0.34,Family,0.8051,3
+But nobody leaves home that young anymore.,uncertain,0.3818,Family,0.9072,7
+I remember perfectly well the day you arrived in this town.,very positive,0.4953,Family,0.8368,11
+"A little 13-year-old girl came down from the sky riding a broomstick, her eyes shining.",uncertain,0.4257,Personal Growth,0.8727,15
+I thought you were a bit full of yourself.,uncertain,0.4223,Personal Growth,0.59,9
+But Kiki has much to learn.,uncertain,0.3696,Personal Growth,0.9679,6
+She hardly knows any of my potions.,uncertain,0.2848,Resilience,0.5573,7
+"After I'm gone, who will make this medicine?",uncertain,0.3021,Trauma,0.282,8
+"Sign of the times, I'm afraid.",uncertain,0.4053,Loneliness,0.2492,6
+"Everything changes, bit by bit.",neutral,0.5672,Personal Growth,0.9168,5
+"But I have to say, nothing works as well for my rheumatism.",uncertain,0.4177,Family,0.7419,12
+You're always telling me to hurry!,very positive,0.5496,Family,0.3864,6
+Now who's the slowpoke?,uncertain,0.3202,Personal Growth,0.8023,4
+I think it's better to leave with decorum and great dignity.,uncertain,0.3734,Family,0.8751,11
+"If we put it off for a month, and I find some wonderful boyfriend, then what?",uncertain,0.4417,Personal Growth,0.6117,16
+We'll never leave!,uncertain,0.4132,Family,0.9891,3
+I'm worried.,uncertain,0.4275,Family,0.8649,2
+"Once you've decided, you can't go back.",uncertain,0.4441,Family,0.6951,7
+Of course.,uncertain,0.37,Family,0.9305,2
+I know that.,neutral,0.5749,Family,0.7827,3
+Good.,uncertain,0.4438,Family,0.905,1
+It's there.,neutral,0.697,Resilience,0.6732,2
+I'm so excited!,uncertain,0.4415,Personal Growth,0.8751,3
+It's like getting a birthday present!,very positive,0.5428,Personal Growth,0.4515,6
+Dad!,uncertain,0.4203,Family,0.9946,1
+I've decided to go away tonight!,very positive,0.4913,Personal Growth,0.8034,6
+Tonight?,neutral,0.499,Family,0.415,1
+Yeah!,uncertain,0.3534,Family,0.8606,1
+I just decided!,uncertain,0.3446,Personal Growth,0.7388,3
+"Well, yes, but what about our camping trip for this weekend?",neutral,0.4973,Family,0.9449,11
+"Sorry, Dad!",very positive,0.4754,Family,0.9982,2
+This won't do at all!,very negative,0.6394,Trauma,0.5598,5
+Yes.,uncertain,0.3673,Family,0.9347,1
+I'll expect you then.,neutral,0.5843,Family,0.7369,4
+Thanks.,uncertain,0.375,Family,0.9123,1
+"Hi, Mom.",neutral,0.6396,Family,0.9951,2
+I wanted to make sure you knew that Kiki is leaving tonight.,uncertain,0.4068,Family,0.8167,12
+"Yes, at midnight.",neutral,0.46,Family,0.5633,3
+Not bad.,neutral,0.4994,Family,0.8196,2
+I wish it were a different color.,uncertain,0.4462,Family,0.4299,7
+Witches have always worn this color.,uncertain,0.275,Grief,0.2033,6
+"Black cat, black clothes.",very negative,0.4885,Identity,0.278,4
+It doesn't matter what color your dress is.,neutral,0.5687,Family,0.6032,8
+What matters is the heart inside it.,neutral,0.6002,Romantic Love,0.5987,7
+I know that having a good heart is very important.,positive,0.4528,Family,0.8826,10
+I wish I could show you that my heart is ready.,very positive,0.5329,Personal Growth,0.7325,11
+Just follow that heart and keep smiling.,very positive,0.5443,Family,0.8006,7
+Okay.,neutral,0.7094,Family,0.8657,1
+Be sure to write home as soon as you've found a place.,neutral,0.6165,Family,0.7843,12
+"Dad, can I please take the radio?",uncertain,0.2905,Family,0.989,7
+"Mom, you said I could have his radio.",uncertain,0.3152,Family,0.987,8
+Yeah!,uncertain,0.3534,Family,0.8606,1
+"Well, the radio is yours now.",uncertain,0.3831,Resilience,0.0513,6
+Okay.,neutral,0.7094,Family,0.8657,1
+Now let me have a look at my little witch.,uncertain,0.3211,Resilience,0.6225,10
+You look just like your mother.,uncertain,0.443,Family,0.9958,6
+Dad...,uncertain,0.3511,Family,0.9974,1
+would you pick me up like you used to?,uncertain,0.4307,Personal Growth,0.8182,9
+Well...,uncertain,0.4194,Family,0.7545,1
+Why didn't you tell me you were growing up so fast?,uncertain,0.3095,Personal Growth,0.9065,11
+You can always come home if things don't work out.,uncertain,0.255,Resilience,0.9323,10
+Come back to my old room?,uncertain,0.3621,Empathy,0.5677,6
+"No, thanks.",uncertain,0.4104,Family,0.8622,2
+I hope you find a good town.,uncertain,0.4093,Resilience,0.4465,7
+I bet it's real tough to find a town to live in by yourself.,uncertain,0.3136,Personal Growth,0.6645,14
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+Kiki will be fine.,neutral,0.6234,Resilience,0.9541,4
+What kind of town are you looking for?,neutral,0.6658,Resilience,0.3988,8
+A big town?,uncertain,0.3485,Resilience,0.1994,3
+Yeah.,uncertain,0.3646,Family,0.8922,1
+"By the ocean, I hope.",very positive,0.53,Resilience,0.5709,5
+Wow!,very positive,0.5691,Family,0.8282,1
+I'm so jealous of you!,very positive,0.5628,Personal Growth,0.7967,5
+But I'm not going for a good time.,uncertain,0.3709,Trauma,0.4951,8
+I'll be in training for a year.,neutral,0.5342,Personal Growth,0.8835,7
+"Yeah, but they'll have discos, right?",uncertain,0.4257,Resilience,0.1772,6
+"Kiki, it's almost time.",neutral,0.5142,Family,0.4991,4
+Okay!,positive,0.4737,Family,0.821,1
+That's the broom you're taking?,uncertain,0.2955,Personal Growth,0.6274,5
+Yeah.,uncertain,0.3646,Family,0.8922,1
+I just made it.,very positive,0.4808,Personal Growth,0.7818,4
+"Pretty cute, huh?",uncertain,0.3508,Family,0.9279,3
+"It's cute, but you can't start on a broom that's too small.",uncertain,0.4279,Family,0.7254,12
+Take mine.,uncertain,0.2932,Personal Growth,0.8315,2
+"But, Mom, that one's so old.",very positive,0.4583,Family,0.9533,6
+That's why you should have it.,neutral,0.5295,Family,0.7099,6
+"It never loses its way, even in a storm.",very negative,0.4994,Resilience,0.9689,9
+"Kiki, trust me.",uncertain,0.3642,Friendship,0.8251,3
+But I worked so hard on it.,uncertain,0.3114,Personal Growth,0.8776,7
+"Right, Jiji?",uncertain,0.313,Personal Growth,0.4967,2
+Your mother's broom would be better.,negative,0.5104,Family,0.979,6
+Traitor.,uncertain,0.4239,Trauma,0.4561,1
+He's right.,uncertain,0.4304,Family,0.8092,2
+You can make yourself another broom when you get settled down.,uncertain,0.3241,Personal Growth,0.9342,11
+Be careful.,uncertain,0.36,Family,0.7755,2
+Go get 'em.,uncertain,0.3002,Family,0.8951,3
+Bye.,uncertain,0.2816,Family,0.7605,1
+"Go, go, Kiki!",very positive,0.6299,Personal Growth,0.8532,3
+"Go, go, Kiki!",very positive,0.6299,Personal Growth,0.8532,3
+She still hasn't got the hang of it.,uncertain,0.3958,Family,0.8675,8
+She's well past the lake and doing just fine.,positive,0.4997,Resilience,0.8685,9
+I'm going to miss the sound of those little bells.,negative,0.4562,Family,0.3586,10
+Which way are we headed?,uncertain,0.3233,Personal Growth,0.2942,5
+"I think south, to the ocean.",uncertain,0.4336,Resilience,0.4719,6
+Climb up and turn on the radio.,uncertain,0.3261,Resilience,0.5387,7
+I don't think I can.,uncertain,0.3676,Family,0.7665,5
+KIKI'S DELIVERY SERVICE Good evening!,uncertain,0.4162,Resilience,0.0218,5
+It was.,neutral,0.5955,Family,0.949,2
+"Newcomer, I suppose.",uncertain,0.4263,Personal Growth,0.9536,3
+I must be.,uncertain,0.4124,Identity,0.9846,3
+I just left home tonight.,very positive,0.5611,Personal Growth,0.6918,5
+Would you mind turning off that music?,very negative,0.4729,Family,0.2956,7
+I prefer to fly without accompaniment.,neutral,0.4771,Personal Growth,0.7647,6
+Is it hard to get settled into a place you've never been?,very negative,0.477,Personal Growth,0.5768,12
+"Oh, yes.",uncertain,0.4069,Family,0.8729,2
+Lots can go wrong.,uncertain,0.3557,Family,0.6488,4
+"But since I'm a fortune-teller, I can handle anything.",uncertain,0.3971,Family,0.3979,9
+Fortunes?,uncertain,0.3277,Personal Growth,0.0307,1
+"In fact, I've started telling fortunes about love.",uncertain,0.3593,Romantic Love,0.6444,8
+What's your special skill?,neutral,0.4768,Personal Growth,0.3907,4
+I haven't made up my mind yet.,uncertain,0.4377,Personal Growth,0.7908,7
+"Well, I'm nearly finished with my training period.",very positive,0.5269,Personal Growth,0.6623,8
+It'll be terrific to go home with confidence.,very negative,0.555,Family,0.861,8
+That's my town down there.,uncertain,0.2837,Identity,0.7315,5
+"It's not big or very interesting, but I like it.",neutral,0.7662,Family,0.5879,10
+Good luck to you.,very negative,0.5569,Personal Growth,0.9147,4
+Thanks.,uncertain,0.375,Family,0.9123,1
+Goodbye!,very positive,0.5516,Grief,0.7932,1
+Disgusting.,very negative,0.6954,Trauma,0.451,1
+What a stuck-up cat.,uncertain,0.3902,Trauma,0.3241,4
+I need a special skill.,neutral,0.6862,Resilience,0.7552,5
+What was that about good weather?,uncertain,0.3695,Resilience,0.0062,6
+Don't tell me you are going to...,uncertain,0.3937,Family,0.6635,7
+We'll sleep here until the storm passes.,uncertain,0.3607,Resilience,0.9061,7
+Won't we get into trouble?,uncertain,0.3554,Family,0.1644,5
+Not if nobody finds us.,uncertain,0.3522,Resilience,0.771,5
+I'm soaked through.,uncertain,0.3875,Trauma,0.4791,3
+Do you feel anything moving?,uncertain,0.3942,Personal Growth,0.5109,5
+This smells great.,very positive,0.5115,Family,0.7064,3
+Sorry.,uncertain,0.3377,Family,0.7528,1
+We didn't mean to fall asleep in your breakfast.,uncertain,0.3496,Family,0.874,9
+"Jiji, come see the ocean.",very positive,0.4585,Family,0.1184,5
+I don't believe it!,very negative,0.5261,Family,0.7629,4
+It's huge!,very positive,0.4965,Family,0.8377,2
+It's only a puddle to me.,uncertain,0.3673,Personal Growth,0.1828,6
+"Aw, come on.",uncertain,0.3327,Trauma,0.579,3
+That one's giant.,very positive,0.6462,Family,0.6897,3
+Think there might be other witches there?,uncertain,0.3497,Resilience,0.0502,7
+How would I know?,uncertain,0.4368,Family,0.2488,4
+Let's go!,very positive,0.4721,Personal Growth,0.855,2
+You all right back there?,uncertain,0.2698,Family,0.7601,5
+Look.,uncertain,0.3684,Family,0.8535,1
+A big town floating on the sea.,uncertain,0.4181,Resilience,0.4856,7
+Just as I hoped.,uncertain,0.3989,Family,0.832,4
+A clock tower and everything!,very positive,0.6807,Resilience,0.1737,5
+What if there are some witches living here already?,neutral,0.4835,Trauma,0.2649,9
+There may not be.,uncertain,0.3228,Family,0.5543,4
+I'm gonna like it here!,very positive,0.5442,Family,0.874,5
+It's a trifle large for my taste.,uncertain,0.3391,Family,0.8592,7
+Bless my hourglass!,very negative,0.4626,Personal Growth,0.8993,3
+If that ain't a witch!,uncertain,0.4278,Trauma,0.0061,5
+Good morning!,uncertain,0.4102,Family,0.822,2
+Are there any other witches in this town?,uncertain,0.3074,Resilience,0.0266,8
+No.,very negative,0.4577,Family,0.8406,1
+Can't say I've seen a single one of 'em lately.,uncertain,0.4268,Family,0.8153,10
+How about that?,uncertain,0.3205,Family,0.7204,3
+Let's settle down right here.,uncertain,0.3742,Family,0.9148,5
+"Thanks, mister!",uncertain,0.3452,Friendship,0.8321,2
+Bye!,very positive,0.4797,Family,0.7205,1
+Don't mention it!,very negative,0.6373,Family,0.7478,3
+Tell me we're not landing there.,uncertain,0.4118,Family,0.7148,6
+Of course we are.,neutral,0.6377,Family,0.9403,4
+Everybody's staring.,uncertain,0.4085,Family,0.902,2
+I know.,neutral,0.5486,Family,0.7759,2
+Smile and make a good first impression.,positive,0.5407,Family,0.7091,7
+"Well, you see, I'm a witch.",uncertain,0.4327,Identity,0.3757,6
+My name is Kiki.,uncertain,0.2734,Personal Growth,0.6806,4
+"This is my black cat, Jiji.",uncertain,0.3368,Resilience,0.6818,6
+We'd be honored to live here.,very positive,0.4522,Family,0.9092,6
+We'd love to live here.,uncertain,0.3198,Family,0.8527,5
+You have a wonderful bell tower.,very positive,0.4626,Resilience,0.2938,6
+"We're glad you like it, my dear.",very positive,0.5985,Family,0.9276,7
+"Hey, kid, why did you jump into the street like that?",very negative,0.4666,Trauma,0.8748,11
+You almost caused an accident.,very negative,0.745,Trauma,0.3961,5
+"You must be crazy, zooming around on a broom in public.",uncertain,0.3104,Family,0.3245,11
+"I'm a new witch, sir.",very positive,0.4689,Personal Growth,0.952,5
+We're supposed to fly around.,uncertain,0.3351,Personal Growth,0.1709,5
+You're supposed to obey the law the same as other people.,uncertain,0.3892,Family,0.4977,11
+What's your name and address?,neutral,0.535,Identity,0.8203,5
+Are you gonna tell my parents?,uncertain,0.3446,Family,0.9889,6
+"Of course, if it's necessary.",neutral,0.6352,Family,0.6638,5
+I have to.,neutral,0.5193,Family,0.8226,3
+You're a minor.,uncertain,0.35,Personal Growth,0.8604,3
+Thief!,very positive,0.5011,Trauma,0.0021,1
+Somebody stop him!,uncertain,0.3492,Trauma,0.5971,3
+"Stop, thief!",very negative,0.5285,Identity,0.0183,2
+Don't you move from there!,very negative,0.5456,Family,0.7438,5
+Kiki.,neutral,0.5883,Personal Growth,0.4465,1
+Wait up!,uncertain,0.3217,Family,0.8178,2
+"It worked out pretty good, huh?",positive,0.5351,Family,0.8578,6
+"Good plan to get rid of that cop, huh?",uncertain,0.4164,Trauma,0.4416,9
+"I was the one yelling, ""Thief!"" You're a real witch, right?",very positive,0.4858,Trauma,0.7762,11
+I saw you flying.,uncertain,0.4044,Personal Growth,0.8851,4
+Could I look at that broom?,uncertain,0.361,Empathy,0.6413,6
+"Hey, Tombo!",uncertain,0.3816,Friendship,0.749,2
+Isn't it a bit early for girl hunting?,uncertain,0.4328,Personal Growth,0.0194,8
+"Hey, you guys, shut up.",uncertain,0.3211,Family,0.8967,5
+Whoa!,very positive,0.5642,Family,0.7385,1
+Let me look at your broom.,uncertain,0.3524,Empathy,0.8446,6
+Please?,uncertain,0.2881,Family,0.7482,1
+Just for a minute.,uncertain,0.3583,Family,0.7053,4
+I didn't ask for your help.,negative,0.4733,Family,0.6967,6
+"I guess I have to thank you, but it was rude for you not to introduce yourself first.",uncertain,0.3518,Personal Growth,0.6642,18
+How old-fashioned.,uncertain,0.3454,Family,0.5698,2
+You sound like my grandma.,very positive,0.5714,Family,0.9936,5
+Just leave me alone!,very negative,0.4718,Loneliness,0.9667,4
+What a cool witch.,very positive,0.4627,Resilience,0.3934,4
+Stay here alone?,very negative,0.4598,Loneliness,0.9538,3
+I don't understand.,uncertain,0.3883,Family,0.6363,3
+Aren't your parents here with you?,uncertain,0.3236,Family,0.9852,6
+No.,very negative,0.4577,Family,0.8406,1
+"I'm a witch, so since I'm 13, I'm supposed to be independent.",uncertain,0.3131,Personal Growth,0.141,12
+May I see some identification?,neutral,0.5085,Identity,0.9512,5
+Never mind then.,uncertain,0.336,Family,0.5081,3
+Are you going to eat that?,uncertain,0.3067,Family,0.7354,6
+You can have it.,uncertain,0.3656,Family,0.7873,4
+It's going to be getting dark soon.,negative,0.473,Family,0.7147,7
+Let's go.,uncertain,0.4351,Family,0.8754,2
+Let's just find another town.,uncertain,0.3694,Resilience,0.4236,5
+There must be a nicer one.,uncertain,0.4246,Family,0.2916,6
+Lady!,very positive,0.6185,Personal Growth,0.4892,1
+Your pacifier!,very positive,0.6358,Personal Growth,0.027,2
+"Lady, you forgot this!",uncertain,0.3882,Grief,0.508,4
+"When that baby wakes up and doesn't find this, he's gonna cry.",uncertain,0.3533,Trauma,0.875,12
+"I'm sorry, sir, but could you wait just a minute?",uncertain,0.3447,Empathy,0.8726,10
+I'll be right back.,uncertain,0.3416,Family,0.8327,4
+I could bring it down to her.,uncertain,0.3235,Family,0.839,7
+What?,uncertain,0.396,Family,0.3908,1
+"The woman with the baby carriage, right?",uncertain,0.3595,Family,0.859,7
+That'd be a big help.,uncertain,0.3993,Family,0.7916,5
+Thank you very much.,uncertain,0.4422,Family,0.8661,4
+My pleasure.,positive,0.4832,Family,0.9061,2
+"Let's go, Jiji.",uncertain,0.3252,Personal Growth,0.8718,3
+Wow!,very positive,0.5691,Family,0.8282,1
+"Sorry to startle you, but you left this in the bakery.",uncertain,0.2789,Resilience,0.2072,11
+Here you go.,uncertain,0.3234,Family,0.771,3
+The usual?,neutral,0.5732,Family,0.07,2
+Hi!,very positive,0.4551,Family,0.853,1
+Come on in!,very positive,0.6343,Family,0.9527,3
+Thank you.,positive,0.5047,Family,0.8872,2
+Next!,uncertain,0.4386,Personal Growth,0.5713,1
+Thank you.,positive,0.5047,Family,0.8872,2
+Bye.,uncertain,0.2816,Family,0.7605,1
+Take care.,uncertain,0.348,Family,0.8408,2
+"I must say, I nearly fainted when I saw you fly off.",uncertain,0.3213,Trauma,0.8472,12
+That lady told me to give you this.,very positive,0.4917,Resilience,0.6205,8
+"""I got the pacifier you sent.",uncertain,0.3459,Family,0.8575,6
+"Thank you!"" I guess I should be going.",uncertain,0.376,Family,0.828,8
+Wait!,uncertain,0.368,Family,0.5416,1
+Where are you going so fast?,uncertain,0.2918,Personal Growth,0.4426,6
+I want to thank you.,uncertain,0.341,Family,0.8297,5
+Come up here.,uncertain,0.3522,Family,0.9031,3
+Sit down and relax.,uncertain,0.3697,Family,0.8948,4
+I'll make us some coffee.,uncertain,0.3928,Family,0.7835,5
+Okay.,neutral,0.7094,Family,0.8657,1
+Thank you very much.,uncertain,0.4422,Family,0.8661,4
+And this is for you.,uncertain,0.3509,Personal Growth,0.8177,5
+I see.,neutral,0.4752,Family,0.8388,2
+You need to find your own town.,uncertain,0.302,Personal Growth,0.9276,7
+"Yes, but people don't seem fond of witches in this town.",neutral,0.4595,Resilience,0.1664,11
+There are many kinds of people in a big town like this.,neutral,0.459,Resilience,0.4901,12
+"Take me, for instance.",uncertain,0.4437,Identity,0.8105,4
+I like you very much.,very positive,0.6143,Friendship,0.9809,5
+Found a place to stay yet?,uncertain,0.4099,Resilience,0.3484,6
+You should have told me you hadn't.,uncertain,0.344,Trauma,0.7402,7
+We have a vacant room in the attic you can stay in.,uncertain,0.363,Resilience,0.7085,12
+You'd give me a room?,neutral,0.4531,Personal Growth,0.7071,5
+I'd be happy to.,uncertain,0.4454,Family,0.885,4
+Let me introduce myself.,uncertain,0.4235,Personal Growth,0.7363,4
+I'm Osono.,uncertain,0.4255,Identity,0.9863,2
+My name's Kiki.,uncertain,0.2881,Personal Growth,0.7049,3
+"This is my black cat, Jiji.",uncertain,0.3368,Resilience,0.6818,6
+"It's not very clean, but it's all yours.",negative,0.5172,Family,0.607,8
+Thanks.,uncertain,0.375,Family,0.9123,1
+Bathroom and water are downstairs.,uncertain,0.4329,Personal Growth,0.587,5
+Don't hesitate to ask for anything.,uncertain,0.3944,Family,0.8195,6
+Thank you!,uncertain,0.4458,Family,0.8679,2
+There's flour everywhere.,uncertain,0.3086,Family,0.1558,3
+"At this rate, I'll be a white cat by morning.",uncertain,0.3852,Personal Growth,0.9552,10
+"Jiji, come look at the ocean from here.",very positive,0.4507,Resilience,0.1233,8
+Shall we try to find another town?,uncertain,0.4348,Resilience,0.4924,7
+The Freedom Adventurer has commenced its maiden voyage to Antarctica.,very positive,0.4698,Resilience,0.071,10
+What a snob.,very negative,0.6584,Identity,0.257,3
+I've decided to stay awhile.,uncertain,0.4099,Personal Growth,0.8889,5
+I might find others like Osono who will like me and accept me for what I am.,uncertain,0.3515,Personal Growth,0.8999,17
+How much do you think it would cost to install a phone?,uncertain,0.3937,Family,0.1407,12
+A phone?,uncertain,0.4203,Personal Growth,0.0141,2
+Yeah.,uncertain,0.3646,Family,0.8922,1
+For my business.,uncertain,0.3638,Resilience,0.7246,3
+Good morning.,neutral,0.5165,Family,0.8532,2
+Did you sleep well?,uncertain,0.3083,Family,0.3863,4
+Yes!,uncertain,0.4402,Family,0.8961,1
+That smells good.,very positive,0.5528,Family,0.8598,3
+Can I help out?,uncertain,0.4156,Family,0.7097,4
+Sure.,neutral,0.4996,Family,0.8981,1
+"A delivery service, huh?",uncertain,0.4479,Resilience,0.001,4
+"I have one skill, flying, so I thought about a delivery service.",neutral,0.4869,Resilience,0.0014,12
+Everyone will love it.,very positive,0.5957,Family,0.9188,4
+Kiki's Flying Delivery Service.,uncertain,0.3488,Resilience,0.0043,4
+And you can base the business out of your room upstairs.,uncertain,0.3613,Resilience,0.7585,11
+Really?,uncertain,0.3086,Family,0.6704,1
+Thank you.,positive,0.5047,Family,0.8872,2
+I'd like to put a phone up there.,uncertain,0.3884,Resilience,0.1315,8
+But a phone costs money.,neutral,0.4522,Personal Growth,0.1012,5
+I have some saved up already.,uncertain,0.3601,Family,0.7725,6
+Don't waste it.,very negative,0.5379,Family,0.8498,3
+Why not use our phone?,very negative,0.5443,Personal Growth,0.2901,5
+It takes time to get regular customers.,neutral,0.4948,Personal Growth,0.6479,7
+"If you help around the bakery, you won't have to pay rent or the phone bill.",neutral,0.4746,Family,0.4139,16
+I need the help since I'm expecting a baby.,neutral,0.4692,Empathy,0.444,9
+I'll throw in free breakfast too.,uncertain,0.313,Family,0.9022,6
+Thank you!,uncertain,0.4458,Family,0.8679,2
+I'll do my very best for you.,very positive,0.5377,Family,0.8511,7
+You're such a wonderful person!,very positive,0.7153,Family,0.898,5
+"Jiji, come on!",very positive,0.615,Personal Growth,0.3991,3
+I'm all done!,uncertain,0.4315,Family,0.5639,3
+It's time to go shopping.,neutral,0.5431,Resilience,0.01,5
+Stop jumping out into the street.,uncertain,0.3768,Trauma,0.6651,6
+We're not at home.,negative,0.5237,Resilience,0.6249,4
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+I won't do it again.,very negative,0.6235,Family,0.7408,5
+I've never been more embarrassed in my whole life.,very negative,0.5561,Trauma,0.7653,9
+It was so terrible!,very negative,0.6149,Trauma,0.768,4
+"Oh, please.",uncertain,0.3913,Family,0.6617,2
+I wish I had something pretty to wear.,positive,0.4716,Personal Growth,0.2301,8
+"Boy, this is expensive.",uncertain,0.3622,Family,0.6126,4
+"Kiki, look!",positive,0.4832,Family,0.7413,2
+Is there any money left?,very negative,0.5679,Family,0.0595,5
+We'll just have to eat pancakes for a while.,uncertain,0.3697,Family,0.9396,9
+Wow!,very positive,0.5691,Family,0.8282,1
+Those are beautiful.,very positive,0.5839,Family,0.6882,3
+Wait!,uncertain,0.368,Family,0.5416,1
+Pull over a second!,very negative,0.5711,Family,0.7183,4
+Miss Witch!,very positive,0.7323,Personal Growth,0.0123,2
+Not flying today?,uncertain,0.4018,Personal Growth,0.2359,3
+What'd I tell you?,neutral,0.4583,Family,0.5042,4
+Black is all she wears.,uncertain,0.3882,Family,0.8282,5
+Wait!,uncertain,0.368,Family,0.5416,1
+Come back!,very positive,0.5622,Personal Growth,0.8167,2
+I'm sorry!,uncertain,0.2565,Grief,0.889,2
+I was only kidding!,very negative,0.508,Family,0.4832,4
+"Perfect timing, Kiki.",very positive,0.6036,Personal Growth,0.6286,3
+A lady wants you to deliver something.,uncertain,0.3688,Resilience,0.1771,7
+She's your first customer.,very positive,0.5454,Identity,0.7995,4
+Customer?,uncertain,0.3228,Identity,0.1798,1
+I'll be right back!,very positive,0.5374,Family,0.8665,4
+The map!,very positive,0.4665,Resilience,0.0286,2
+This lady is a customer of ours.,uncertain,0.3931,Resilience,0.7802,7
+We were talking about your delivery service.,neutral,0.5612,Resilience,0.0034,7
+You are a cute little witch.,uncertain,0.3968,Identity,0.4208,6
+"My name's Kiki, ma'am.",uncertain,0.4232,Friendship,0.7156,4
+Could you deliver this by tonight?,uncertain,0.3162,Family,0.8193,6
+Yes!,uncertain,0.4402,Family,0.8961,1
+It's my nephew's birthday.,uncertain,0.4482,Family,0.9697,4
+But I can't get there myself to give him his present.,uncertain,0.2918,Family,0.8621,11
+Where do you want it delivered?,neutral,0.4538,Personal Growth,0.3983,6
+That's me.,uncertain,0.401,Identity,0.9933,2
+It won't be too far?,uncertain,0.2895,Resilience,0.5209,5
+I can fly directly from here.,uncertain,0.3761,Personal Growth,0.6361,6
+How much do you want?,uncertain,0.3491,Family,0.6669,5
+I haven't set a price yet.,uncertain,0.3835,Family,0.7954,6
+Is this enough?,neutral,0.5626,Family,0.7026,3
+This is more than enough.,uncertain,0.3267,Family,0.826,5
+"Thank you, ma'am.",uncertain,0.3841,Personal Growth,0.731,3
+Up we go!,very positive,0.5297,Personal Growth,0.9245,3
+"Oh, wow!",very positive,0.6367,Family,0.8084,2
+That's great!,very positive,0.4546,Family,0.8627,2
+I wish I could fly.,uncertain,0.3985,Personal Growth,0.6603,5
+Yeah!,uncertain,0.3534,Family,0.8606,1
+"Hey, do you know that girl?",uncertain,0.3074,Identity,0.5206,6
+How high do you intend to go?,uncertain,0.4449,Personal Growth,0.8184,7
+It's my first delivery.,very positive,0.4679,Personal Growth,0.7646,4
+I don't want to be stopped by that police officer.,uncertain,0.3218,Resilience,0.5483,10
+I was afraid you were going to deliver it to the angels.,uncertain,0.2392,Trauma,0.4644,12
+It's just beyond the cape.,uncertain,0.3705,Family,0.4846,5
+Here we go!,very positive,0.56,Personal Growth,0.7011,3
+I'm liking this town more and more.,uncertain,0.4428,Personal Growth,0.8779,7
+I'm not sure what I think.,neutral,0.6833,Family,0.5859,6
+I'll finally be able to write to Mom.,uncertain,0.382,Family,0.9788,8
+Those are wild geese.,uncertain,0.3019,Resilience,0.0616,4
+Wonderful!,uncertain,0.4301,Family,0.9059,1
+They're flying along with us!,very positive,0.4668,Family,0.804,5
+They seem awfully upset.,very negative,0.6267,Family,0.9018,4
+They say a wind's coming.,uncertain,0.325,Family,0.5325,5
+They also say they're going higher.,uncertain,0.3515,Personal Growth,0.8586,6
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+I-- Ow!,very positive,0.6759,Grief,0.9434,2
+Please!,uncertain,0.248,Family,0.8072,1
+I'm sorry!,uncertain,0.2565,Grief,0.889,2
+I wasn't trying to steal your eggs!,uncertain,0.3107,Resilience,0.2843,7
+I've never been so scared.,very negative,0.5024,Trauma,0.7658,5
+It's your fault.,uncertain,0.3622,Trauma,0.7601,3
+"They warned us of that wind, but you didn't listen.",uncertain,0.3519,Family,0.8485,10
+You're right.,neutral,0.5339,Family,0.7645,2
+That's beautiful.,very positive,0.5973,Family,0.8358,2
+They were able to fly that high up with the wind.,positive,0.4685,Resilience,0.9091,11
+Kiki!,uncertain,0.4231,Friendship,0.6299,1
+The toy is gone!,uncertain,0.4088,Trauma,0.1393,4
+Oh no!,very negative,0.5067,Family,0.8912,2
+Maybe it's when we fell?,uncertain,0.3072,Trauma,0.7378,5
+Yeah!,uncertain,0.3534,Family,0.8606,1
+"They're saying: ""The egg thief's coming again!"" What are we gonna do?",very positive,0.4828,Family,0.9467,12
+Hey!,uncertain,0.3457,Family,0.7355,1
+Stop that!,uncertain,0.448,Trauma,0.7472,2
+Don't do that!,very negative,0.5722,Family,0.7776,3
+Stop it!,uncertain,0.357,Family,0.6417,2
+We're in trouble.,uncertain,0.4133,Trauma,0.8828,3
+They're still upset.,uncertain,0.3177,Family,0.9487,3
+Witches get no respect these days.,uncertain,0.4366,Trauma,0.0653,6
+Crows used to be witches' servants.,uncertain,0.386,Resilience,0.0888,6
+"That was a long time ago, okay?",uncertain,0.4215,Family,0.2037,7
+How about we go get it after dark?,uncertain,0.3309,Family,0.8173,8
+We'll never make it in time.,very negative,0.7738,Family,0.8446,6
+There's only one way to do it.,uncertain,0.3071,Family,0.5961,7
+They'll find out I'm a fake!,uncertain,0.398,Identity,0.9332,6
+"After I find it, I'll be right back to help you out.",uncertain,0.3774,Family,0.791,12
+Is that the place?,uncertain,0.4107,Resilience,0.2258,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+Don't move a muscle.,very negative,0.4549,Family,0.9042,4
+Can I breathe?,uncertain,0.2794,Family,0.501,3
+Hold it as long as you can.,uncertain,0.3065,Family,0.7599,7
+Yeah!,uncertain,0.3534,Family,0.8606,1
+Give me my present!,very positive,0.536,Resilience,0.2404,4
+That's pretty weird.,uncertain,0.3205,Trauma,0.3524,3
+"A bit late, aren't you?",negative,0.5292,Family,0.6981,5
+"After my sister rang, we wondered where you were.",uncertain,0.4494,Family,0.9864,9
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+Could you please sign here?,uncertain,0.3385,Family,0.7075,5
+"Mom, can I put the canary in here?",very positive,0.4678,Family,0.9503,8
+"Okay, but be careful not to let it escape.",neutral,0.5627,Family,0.7687,9
+Okay.,neutral,0.7094,Family,0.8657,1
+Thank you very much.,uncertain,0.4422,Family,0.8661,4
+"Come on, birdie!",very positive,0.5019,Personal Growth,0.9077,3
+I'm gonna put you in a bigger house!,uncertain,0.4436,Personal Growth,0.845,8
+"Please hurry, Kiki.",uncertain,0.2132,Personal Growth,0.7286,3
+"I know it was here, so it must be around someplace.",neutral,0.5568,Family,0.6479,11
+There it is!,uncertain,0.4457,Family,0.7619,3
+Excuse me!,very positive,0.556,Personal Growth,0.5264,2
+Anybody home?,very negative,0.4869,Personal Growth,0.4349,2
+Can you please help me?,uncertain,0.3736,Empathy,0.7502,5
+Anybody?,very negative,0.4807,Family,0.5856,1
+Anybody here?,very negative,0.4726,Family,0.698,2
+Yeah!,uncertain,0.3534,Family,0.8606,1
+I can't come down right now.,uncertain,0.4134,Family,0.8901,6
+Why don't you come up?,uncertain,0.3812,Family,0.8637,5
+What do you want?,neutral,0.4624,Personal Growth,0.4539,4
+That stuffed black cat you put on your window sill?,uncertain,0.2414,Resilience,0.569,10
+"Sorry, but it's mine.",neutral,0.4764,Identity,0.7702,4
+I dropped it.,uncertain,0.4438,Family,0.7245,3
+"Be good, and don't move yet.",uncertain,0.3711,Family,0.8654,6
+I found it in the forest.,neutral,0.5502,Resilience,0.6408,6
+"Would you give it back to me, please?",uncertain,0.3711,Empathy,0.7328,8
+Hang on.,uncertain,0.3281,Family,0.8286,2
+I can't stop just now.,very negative,0.4848,Personal Growth,0.8222,5
+Nice.,neutral,0.475,Family,0.9215,1
+Very nice.,very positive,0.5156,Family,0.9301,2
+You're beautiful just how you are.,very positive,0.6869,Family,0.6955,6
+You really should have told me you were in a hurry.,uncertain,0.3244,Trauma,0.6519,11
+I got sort of fond of it.,positive,0.5321,Family,0.8061,7
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+The stuffing is coming out.,uncertain,0.3114,Family,0.8197,5
+I'll bet the crows did it.,uncertain,0.339,Resilience,0.6225,6
+They made such a fuss.,uncertain,0.4293,Family,0.8091,5
+What will I do?,neutral,0.4875,Personal Growth,0.6029,4
+I can't deliver it like this.,very negative,0.5216,Family,0.7327,6
+Say!,uncertain,0.4456,Family,0.7183,1
+How about we work out a deal?,neutral,0.5414,Family,0.6161,7
+That's pretty exciting.,uncertain,0.3983,Personal Growth,0.6851,3
+And at 13 too.,uncertain,0.4069,Family,0.8869,4
+To be independent.,neutral,0.7546,Personal Growth,0.888,3
+That's great.,very positive,0.4735,Family,0.8406,2
+Can you fix it?,uncertain,0.3692,Family,0.8153,4
+Trust me.,uncertain,0.334,Family,0.8206,2
+"Ketto, time for your bath.",uncertain,0.396,Personal Growth,0.5581,5
+Quickly!,positive,0.4803,Family,0.7717,1
+The guests will be here soon!,very positive,0.5126,Resilience,0.4436,6
+Ketto!,very negative,0.6072,Personal Growth,0.4722,1
+I'm done.,neutral,0.6808,Family,0.5231,2
+Thank you so much!,very positive,0.511,Family,0.8997,4
+You'd better help Jiji before it's too late.,uncertain,0.3333,Trauma,0.8532,8
+But I haven't finished yet.,uncertain,0.2866,Personal Growth,0.7043,5
+You've done enough.,neutral,0.5695,Family,0.7677,3
+Go help him.,positive,0.4614,Family,0.8684,3
+Thanks!,uncertain,0.4161,Family,0.892,1
+Jeff likes my present more than me!,very positive,0.5535,Family,0.8879,7
+It is strange.,uncertain,0.4164,Personal Growth,0.4612,3
+He adores that stuffed cat.,uncertain,0.3812,Family,0.6741,5
+He won't leave it alone.,very negative,0.607,Family,0.7847,5
+He thinks it's a puppy.,uncertain,0.3008,Empathy,0.0233,5
+Your sister's not going to be happy to hear that.,negative,0.6015,Family,0.9982,10
+That's okay.,neutral,0.6426,Family,0.6727,2
+I gave it to Jeff anyway.,uncertain,0.3858,Family,0.9099,6
+Remember to thank your auntie.,very positive,0.508,Family,0.998,5
+I will!,very positive,0.6104,Personal Growth,0.9374,2
+You should be nicer to him.,uncertain,0.3863,Personal Growth,0.8578,6
+Jeff is a very old dog.,uncertain,0.3953,Resilience,0.6953,6
+"But, Grandma, all he does is sleep!",uncertain,0.4153,Family,0.9686,7
+I suppose that's true.,neutral,0.4814,Family,0.7846,4
+"Ketto, open the door for Jeff.",uncertain,0.3502,Family,0.908,6
+Okay.,neutral,0.7094,Family,0.8657,1
+Push the door shut when you're finished.,very negative,0.5611,Family,0.7611,7
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+"Kiki, what took you so long?",uncertain,0.3771,Personal Growth,0.3737,6
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+That marvelous dog helped me escape.,very positive,0.5193,Resilience,0.766,6
+He said he'd be happy to help us out.,uncertain,0.349,Family,0.8468,9
+Would you take this back in?,uncertain,0.313,Family,0.7827,6
+What's the matter?,uncertain,0.4424,Trauma,0.3179,3
+I'm famished.,uncertain,0.4148,Family,0.8151,2
+"Yeah, me too.",uncertain,0.3355,Family,0.9252,3
+And I'm tired too.,uncertain,0.3406,Empathy,0.779,4
+But it was a wonderful adventure.,very positive,0.4604,Personal Growth,0.7852,6
+And that painter who found the stuffed cat wants to do a drawing with me in it.,uncertain,0.2959,Personal Growth,0.6732,17
+Naked?,uncertain,0.2871,Personal Growth,0.2777,1
+Don't be silly!,uncertain,0.3348,Family,0.6847,3
+KIKI'S DELIVERY SERVICE Boring.,uncertain,0.3093,Loneliness,0.2218,4
+Hey!,uncertain,0.3457,Family,0.7355,1
+Aren't you supposed to be minding the shop?,uncertain,0.3144,Trauma,0.0623,8
+"I am, but nobody's coming in today.",neutral,0.5113,Loneliness,0.8998,7
+But it always gets busy around now.,uncertain,0.3675,Family,0.8128,7
+"I know, but I mean my customers.",neutral,0.4852,Resilience,0.3459,7
+"Jiji, if nobody comes in, I'll have to eat pancakes forever and be fat, fat, fat!",uncertain,0.2834,Family,0.3742,16
+"So, what am I supposed to do?",uncertain,0.4324,Family,0.6294,7
+"I think pancakes are great, provided they're not burnt.",uncertain,0.4407,Family,0.5117,9
+You're no help.,very negative,0.7468,Trauma,0.5823,3
+"When you get fat, see if I care.",uncertain,0.3835,Family,0.5149,8
+"Beautiful, isn't she?",very positive,0.6264,Family,0.5309,3
+I heard she's a fashion designer.,uncertain,0.443,Resilience,0.0798,6
+"Personally, I'm not very fond of her conceited cat.",negative,0.6307,Family,0.5385,9
+Hello.,very positive,0.4517,Family,0.8371,1
+Gutiokipan Bakery.,uncertain,0.4044,Resilience,0.0427,2
+Pardon?,very negative,0.5147,Trauma,0.361,1
+"Yes, ma'am.",neutral,0.5371,Family,0.8839,2
+About time we got a customer.,neutral,0.5013,Resilience,0.3971,6
+4:30 will be a perfect time to pick it up.,very positive,0.6012,Family,0.9022,10
+And the address?,uncertain,0.3303,Resilience,0.053,3
+Yes.,uncertain,0.3673,Family,0.9347,1
+The blue roof.,uncertain,0.3129,Resilience,0.7653,3
+Right.,uncertain,0.4358,Family,0.8802,1
+"Yes, I'm sure I have it all.",neutral,0.6145,Family,0.8113,7
+Thank you very much.,uncertain,0.4422,Family,0.8661,4
+Hi.,uncertain,0.4428,Family,0.9026,1
+I'll take this one.,neutral,0.5031,Family,0.8677,4
+Okay?,neutral,0.5602,Family,0.7651,1
+Thank you very much.,uncertain,0.4422,Family,0.8661,4
+Are you still mad at me?,uncertain,0.2777,Trauma,0.2787,6
+We're having a party at the club tonight.,uncertain,0.3641,Resilience,0.4752,8
+"It's called the Flying Club, and we'd really like you to come.",uncertain,0.4016,Personal Growth,0.0062,12
+Here's your invitation.,neutral,0.5377,Family,0.7893,3
+It really is a serious club.,uncertain,0.2519,Resilience,0.3623,6
+Everybody would be very happy if you came.,uncertain,0.3997,Family,0.9514,8
+May I help you?,uncertain,0.3049,Resilience,0.5352,4
+They tell me you have a delivery service.,uncertain,0.401,Resilience,0.0265,8
+Pardon me.,uncertain,0.4442,Family,0.6258,2
+"Yes, of course we do.",neutral,0.4948,Family,0.9131,5
+This urgent package must arrive tonight.,uncertain,0.3198,Personal Growth,0.084,6
+Can you do it?,neutral,0.455,Family,0.783,4
+Of course we can...,neutral,0.481,Resilience,0.7995,4
+Will you be all right?,uncertain,0.3113,Empathy,0.8533,5
+Can I help you?,uncertain,0.3554,Personal Growth,0.4681,4
+"I'll be back at 6:00, so make up your mind by then.",very positive,0.4771,Family,0.8516,12
+How much will that be?,uncertain,0.3408,Family,0.7256,5
+Will that be inside or outside the city limits?,neutral,0.5987,Resilience,0.3188,9
+I wrote it down on the box.,uncertain,0.2997,Family,0.7926,7
+The box?,uncertain,0.2917,Resilience,0.1855,2
+"Oh, I'm sorry.",uncertain,0.2746,Family,0.6988,3
+Osono!,very positive,0.6072,Family,0.6777,1
+I got an invitation to a party at Tombo's flying club.,neutral,0.4836,Resilience,0.4237,11
+Terrific!,very negative,0.5061,Family,0.8894,1
+You'll have a lovely time.,uncertain,0.3855,Family,0.8696,5
+But what am I gonna wear?,uncertain,0.3719,Identity,0.0867,6
+"Kiki, I wouldn't worry too much.",uncertain,0.3568,Family,0.7647,6
+You look fine in that.,neutral,0.551,Family,0.818,5
+You look beautiful and mysterious.,very positive,0.5838,Personal Growth,0.7647,5
+You mean it?,uncertain,0.4287,Family,0.7588,3
+Any work yet?,uncertain,0.416,Resilience,0.2871,3
+I almost forgot about it!,uncertain,0.2623,Family,0.6878,5
+It's already 4:00!,very positive,0.5522,Family,0.7669,3
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+Can you watch the store 'til I get back?,uncertain,0.3639,Empathy,0.6942,9
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+Why are you going to this party when you're so mad at him?,uncertain,0.2278,Trauma,0.6997,13
+I have to concentrate.,neutral,0.4896,Family,0.7476,4
+This thing is heavy.,very negative,0.5223,Family,0.441,4
+Be quiet.,uncertain,0.4481,Family,0.9036,2
+Thank you.,positive,0.5047,Family,0.8872,2
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Our next appointment is at 4:30.,uncertain,0.2366,Family,0.576,6
+The blue roof.,uncertain,0.3129,Resilience,0.7653,3
+My name's Kiki.,uncertain,0.2881,Personal Growth,0.7049,3
+"Someone telephoned for a delivery service, so here I am.",neutral,0.4627,Resilience,0.6237,10
+"Right this way, dear.",very negative,0.6098,Family,0.9254,4
+You're right on time.,neutral,0.6435,Family,0.8631,4
+"Yes, ma'am.",neutral,0.5371,Family,0.8839,2
+"Madam, the delivery girl is here.",very positive,0.4547,Resilience,0.6028,6
+What?,uncertain,0.396,Family,0.3908,1
+"Oh, my goodness!",very positive,0.5764,Family,0.8622,3
+Is it that time already?,uncertain,0.4267,Family,0.3181,5
+"Come, come.",neutral,0.46,Family,0.9303,2
+Thanks.,uncertain,0.375,Family,0.9123,1
+May I take that for you?,uncertain,0.3637,Family,0.7443,6
+Broom and a black cat.,very negative,0.5225,Resilience,0.0458,5
+It's just like my great-grandmother always told me.,very positive,0.4948,Family,0.982,8
+"My name is Kiki, and I'm a witch.",very positive,0.5544,Identity,0.3637,8
+"Oh, and what a cute little girl you are.",uncertain,0.4357,Family,0.9141,9
+"I'm so sorry, but that pie you were supposed to deliver isn't ready yet.",very positive,0.5225,Empathy,0.8754,14
+The temperature doesn't seem to go up at all.,negative,0.4605,Family,0.8426,9
+Something's wrong.,uncertain,0.3542,Family,0.7679,2
+Machines don't work when they become old like me.,negative,0.4801,Resilience,0.0934,9
+I was hoping you could deliver it hot to my grandchild's birthday party.,uncertain,0.3833,Family,0.948,13
+It's one of my favorite recipes: herring and pumpkin pie.,uncertain,0.432,Resilience,0.0432,10
+I guess I have to admit defeat.,uncertain,0.332,Family,0.7535,7
+I'll have to call and tell her I'm sorry.,uncertain,0.3859,Family,0.9534,9
+I feel just awful having you come here for nothing.,very negative,0.8082,Trauma,0.646,10
+Bertha!,very positive,0.6264,Personal Growth,0.3266,1
+"Would you get her money, please?",uncertain,0.3903,Family,0.7817,6
+"Certainly, ma'am.",neutral,0.4797,Family,0.8074,2
+All of it.,uncertain,0.401,Family,0.8475,3
+Pay her the amount we agreed on.,uncertain,0.4224,Family,0.9474,7
+"Oh, no.",uncertain,0.4435,Family,0.826,2
+Please!,uncertain,0.248,Family,0.8072,1
+"Now, don't be silly.",uncertain,0.4092,Family,0.5786,4
+It's not your fault it wasn't ready.,negative,0.5113,Family,0.8014,7
+I have no other jobs today.,very negative,0.5729,Resilience,0.3947,6
+Maybe I could help.,uncertain,0.353,Family,0.8132,4
+Does that oven work?,uncertain,0.4246,Resilience,0.0762,4
+You mean that one?,uncertain,0.4248,Family,0.7219,4
+"It used to be the only one I ever used, but I haven't opened it in years.",very negative,0.617,Family,0.7288,17
+"If it burns firewood, I can help.",uncertain,0.414,Empathy,0.1765,7
+I used to help my mom all the time.,uncertain,0.409,Family,0.9907,9
+It's a big job to build a fire.,positive,0.4732,Personal Growth,0.4058,8
+"It's a great idea, madam.",uncertain,0.3679,Resilience,0.6931,5
+"I never did like that electric thing, and we have plenty of firewood.",very negative,0.4949,Family,0.7823,13
+I can build a fire.,very positive,0.5327,Resilience,0.7002,5
+"Well, I'm not sure, but if you think you can do it...",neutral,0.4769,Family,0.602,12
+But won't this make you late for your party?,uncertain,0.3069,Trauma,0.267,9
+I can't take money for nothing.,very negative,0.7407,Resilience,0.4117,6
+Come on.,uncertain,0.4016,Family,0.8255,2
+We must hurry.,uncertain,0.2507,Family,0.7828,3
+Look what I found.,uncertain,0.4083,Family,0.6466,4
+And it works!,uncertain,0.393,Family,0.8328,3
+"You're very good at this, my dear.",very positive,0.7416,Family,0.8463,7
+Your mother taught you well.,positive,0.522,Family,0.9902,5
+"Oh, my goodness, it's so exciting.",very positive,0.5021,Family,0.8321,6
+Never did like electricity.,very negative,0.5305,Family,0.2352,4
+It should be about time.,neutral,0.563,Family,0.8573,5
+"Yes, very good.",very positive,0.6704,Family,0.8742,3
+Well done.,uncertain,0.3866,Family,0.822,2
+And now we wait.,uncertain,0.4229,Family,0.837,4
+About 40 minutes or so.,neutral,0.4659,Family,0.7831,5
+Right?,uncertain,0.3896,Family,0.6965,1
+Exactly right.,uncertain,0.4464,Family,0.8898,2
+So why don't we take a little break?,uncertain,0.3334,Family,0.5064,8
+Do you need help with anything else?,neutral,0.5439,Resilience,0.3834,7
+Oh!,uncertain,0.3701,Family,0.7929,1
+"Well, if you'd really like to...",neutral,0.4613,Family,0.7227,6
+Thanks very much.,uncertain,0.3964,Family,0.8955,3
+You're very welcome.,very positive,0.5711,Family,0.9066,3
+You're going to be late for the party.,negative,0.553,Family,0.5009,8
+Stop worrying.,uncertain,0.4378,Family,0.8257,2
+It'll only take me 15 minutes if I fly there fast.,uncertain,0.3422,Family,0.7043,11
+Would you care for some tea?,uncertain,0.3578,Personal Growth,0.2154,6
+I just made a pot.,uncertain,0.4217,Resilience,0.5219,5
+I just remembered.,uncertain,0.3529,Family,0.8126,3
+Won't you be late for your party?,uncertain,0.3329,Empathy,0.1679,7
+It won't be a problem.,uncertain,0.3184,Resilience,0.8302,5
+It'll take me 15 minutes from here.,uncertain,0.3872,Resilience,0.6193,7
+"But, my dear, that clock runs about ten minutes slow.",uncertain,0.3696,Family,0.9145,10
+What'll I do?,neutral,0.5083,Personal Growth,0.5617,3
+See if the pie is ready.,uncertain,0.435,Family,0.3099,6
+Okay.,neutral,0.7094,Family,0.8657,1
+Bertha!,very positive,0.6264,Personal Growth,0.3266,1
+Is the pie ready?,uncertain,0.3684,Family,0.1947,4
+"It smells fine, so you'd better hurry.",neutral,0.5081,Family,0.8123,7
+Okay.,neutral,0.7094,Family,0.8657,1
+Better hurry!,uncertain,0.281,Family,0.87,2
+Okay.,neutral,0.7094,Family,0.8657,1
+Don't forget your money.,very negative,0.5544,Resilience,0.1088,4
+That's way too much.,negative,0.4945,Trauma,0.5624,4
+Not for what you've done.,uncertain,0.4348,Trauma,0.145,5
+"Hurry up, Kiki, or you'll be late!",uncertain,0.3396,Personal Growth,0.6914,7
+Have a good time!,positive,0.5085,Family,0.7956,4
+Be careful!,very positive,0.5058,Family,0.6944,2
+What happened to all that good weather?,uncertain,0.2841,Family,0.0863,7
+My whiskers are tingling.,uncertain,0.2852,Family,0.8899,4
+Could we get out of the rain?,uncertain,0.3369,Resilience,0.1975,7
+We can't!,uncertain,0.2943,Family,0.7466,2
+That'll only make us later!,uncertain,0.2254,Personal Growth,0.962,5
+"Besides, the pie will get cold.",negative,0.5204,Family,0.5948,6
+Yes?,uncertain,0.4134,Family,0.849,1
+I have a delivery.,neutral,0.6541,Resilience,0.445,4
+But it's completely wet.,uncertain,0.3716,Family,0.8065,4
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+It began to rain on the way.,uncertain,0.3708,Family,0.7904,7
+But the food is all right.,neutral,0.4729,Resilience,0.4929,6
+I told Grandma I didn't want that.,uncertain,0.3329,Family,0.9896,7
+Who is it?,uncertain,0.3351,Identity,0.5019,3
+Grandma sent another of her crummy herring pies!,uncertain,0.2887,Family,0.9958,8
+Would you please sign this receipt for me?,uncertain,0.3771,Personal Growth,0.5517,8
+I hate Grandma's stupid pies.,uncertain,0.307,Family,0.9856,5
+She can't possibly be her granddaughter.,uncertain,0.376,Family,0.9898,6
+Do you think we can still make it in time?,uncertain,0.3062,Family,0.8601,10
+Look!,uncertain,0.4131,Family,0.7393,1
+Tombo's down there!,uncertain,0.2687,Resilience,0.2134,3
+We can still make it.,very positive,0.4906,Resilience,0.8645,5
+That was quite an ordeal.,uncertain,0.3757,Trauma,0.9812,5
+That boy waited a very long time.,uncertain,0.39,Personal Growth,0.8326,7
+Doesn't matter anyway.,neutral,0.4767,Family,0.5195,3
+I can't go in wet clothes.,uncertain,0.3726,Family,0.7647,6
+"Kiki, what's wrong?",uncertain,0.4099,Empathy,0.5772,3
+Do you have a headache?,very negative,0.5166,Empathy,0.5316,5
+Why don't we grab a bite to eat?,uncertain,0.3588,Family,0.5984,8
+I know I'm famished.,uncertain,0.295,Family,0.7581,4
+Kiki!,uncertain,0.4231,Friendship,0.6299,1
+"Not feeling very well, huh?",negative,0.4758,Loneliness,0.6595,5
+You have quite a fever.,very negative,0.5269,Family,0.6216,5
+Is someone pounding on my head?,uncertain,0.3662,Trauma,0.7198,6
+I'll bet you didn't dry yourself off completely yesterday.,uncertain,0.4059,Family,0.8205,9
+Am I gonna shrivel up and die?,uncertain,0.3342,Loneliness,0.511,7
+"You have a cold, is all.",very negative,0.5144,Family,0.0766,6
+I'll bring up some medicine.,positive,0.497,Trauma,0.3598,5
+And you should eat something.,uncertain,0.4374,Family,0.6307,5
+I'm not hungry.,neutral,0.4737,Family,0.7503,3
+It'll be better if you eat now.,uncertain,0.3336,Family,0.816,7
+How about some oatmeal?,uncertain,0.4386,Resilience,0.0645,4
+"Like some, Jiji?",uncertain,0.2916,Empathy,0.4127,3
+Oatmeal is the best thing for a cold.,very positive,0.5768,Family,0.6531,8
+There you go.,neutral,0.5173,Family,0.7529,3
+Don't burn your tongue.,uncertain,0.4464,Family,0.8192,4
+Come and eat your oatmeal before it gets cold.,uncertain,0.3703,Family,0.9702,9
+Do I have to eat?,uncertain,0.3885,Family,0.1945,5
+If you want to get well.,uncertain,0.448,Personal Growth,0.8479,6
+That boy was in the shop a while ago.,very negative,0.7139,Resilience,0.614,9
+"When I told him you were sick, he asked how a witch could catch a cold.",uncertain,0.3567,Trauma,0.6369,16
+"Oh, yes.",uncertain,0.4069,Family,0.8729,2
+He said he wanted to visit you a little later.,uncertain,0.3833,Family,0.8735,10
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+"I figured you might say that, so I politely refused.",uncertain,0.4137,Family,0.7971,10
+You're tired.,uncertain,0.3068,Family,0.6652,2
+Just relax and sleep.,very positive,0.5238,Family,0.7088,4
+I'll open the window for some air.,uncertain,0.4477,Personal Growth,0.8295,7
+Osono...,neutral,0.5369,Family,0.7502,1
+Hmm?,uncertain,0.3405,Family,0.5722,1
+Never mind.,very negative,0.4806,Family,0.1807,2
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+What?,uncertain,0.396,Family,0.3908,1
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+Breakfast is ready!,uncertain,0.4411,Family,0.8609,3
+Kiki?,uncertain,0.3836,Personal Growth,0.4255,1
+Feeling better this morning?,uncertain,0.3757,Personal Growth,0.9445,4
+"Much better, thank you.",very positive,0.5093,Family,0.8686,4
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+I didn't realize I'd overslept.,uncertain,0.417,Family,0.4311,5
+That's okay.,neutral,0.6426,Family,0.6727,2
+Come down here later.,uncertain,0.291,Family,0.9529,4
+I have a favor to ask of you.,uncertain,0.3454,Family,0.6902,8
+Okay.,neutral,0.7094,Family,0.8657,1
+"""Koppori."" Is that right?",uncertain,0.4477,Personal Growth,0.2701,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+Is this enough money?,neutral,0.4834,Family,0.1175,4
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+It's close enough to walk.,neutral,0.5773,Family,0.8095,5
+Don't be silly.,uncertain,0.3593,Family,0.7147,3
+Work is work.,neutral,0.5826,Resilience,0.0011,3
+Be sure to deliver it to him directly.,neutral,0.4854,Family,0.8595,8
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+You have work?,uncertain,0.444,Trauma,0.1148,3
+It's not far away.,uncertain,0.4304,Family,0.6806,4
+Who's your friend?,uncertain,0.3131,Friendship,0.7131,3
+Lily's her name.,uncertain,0.3963,Family,0.6035,3
+I'll come down.,uncertain,0.3729,Family,0.8708,3
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+I'll be back in a minute.,neutral,0.4851,Family,0.7258,6
+"Pleasure to meet you, Lily.",uncertain,0.3696,Friendship,0.9444,5
+Wonderful.,very positive,0.4714,Family,0.9083,1
+Hey!,uncertain,0.3457,Family,0.7355,1
+Miss Witch!,very positive,0.7323,Personal Growth,0.0123,2
+Taking a walk?,uncertain,0.3857,Personal Growth,0.8994,3
+I'm looking for someone named Koppori.,neutral,0.4866,Personal Growth,0.2494,6
+"Hey, that's my name!",uncertain,0.4316,Identity,0.8616,4
+What?,uncertain,0.396,Family,0.3908,1
+Go around that way.,uncertain,0.3232,Family,0.7358,4
+I'll be right with you.,uncertain,0.3871,Friendship,0.8668,5
+I'll bet Osono planned this.,uncertain,0.376,Family,0.4536,5
+"Gee, thanks a lot.",uncertain,0.4191,Family,0.7769,4
+I want to apologize for making you wait the other night.,uncertain,0.3664,Family,0.8453,11
+I'm sorry you got wet.,uncertain,0.4045,Empathy,0.9355,5
+Want to come over to my place?,uncertain,0.2843,Friendship,0.7643,7
+I have something to show you.,neutral,0.6008,Resilience,0.6657,6
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Hurry!,uncertain,0.4101,Family,0.7446,1
+The party was to celebrate the completion of this.,uncertain,0.4063,Family,0.8374,9
+It's the engine of a human-propelled plane.,uncertain,0.3473,Friendship,0.1981,7
+Like it?,uncertain,0.308,Family,0.8344,2
+We're assembling the wings and the frame at a friend's house.,uncertain,0.4325,Friendship,0.8298,11
+I'm planning on flying this thing during my summer vacation.,neutral,0.6035,Personal Growth,0.8169,10
+Hey!,uncertain,0.3457,Family,0.7355,1
+Let's go see where that dirigible landed!,very positive,0.4927,Personal Growth,0.3731,7
+"""Dirigible""?",uncertain,0.3426,Personal Growth,0.0551,1
+You didn't see it on TV?,very negative,0.4761,Family,0.7305,6
+I was sleeping.,uncertain,0.4011,Resilience,0.2002,3
+Then we have to go!,uncertain,0.3991,Family,0.725,5
+We're going with this?,uncertain,0.433,Family,0.6753,4
+Why not?,uncertain,0.3857,Family,0.6462,2
+I have to practice anyway.,uncertain,0.4112,Personal Growth,0.9206,5
+Gotta build up my legs.,positive,0.4838,Personal Growth,0.9681,5
+Okay.,neutral,0.7094,Family,0.8657,1
+Ready?,uncertain,0.3487,Family,0.7586,1
+I've never ridden a bicycle before.,very negative,0.6019,Personal Growth,0.9073,6
+"Oh, boy!",very positive,0.6105,Family,0.8057,2
+Even better!,very positive,0.616,Family,0.8475,2
+Brace the bike with your foot until I get her revved up.,positive,0.4938,Personal Growth,0.7633,12
+Let's go!,very positive,0.4721,Personal Growth,0.855,2
+Kick off!,uncertain,0.3657,Family,0.5336,2
+Should I get off?,uncertain,0.2872,Personal Growth,0.2068,4
+No!,very negative,0.5534,Family,0.9037,1
+Go faster!,uncertain,0.3964,Personal Growth,0.9269,2
+Go!,very positive,0.4999,Personal Growth,0.9034,1
+That's great!,very positive,0.4546,Family,0.8627,2
+Hang in there!,very positive,0.5942,Personal Growth,0.9393,3
+Swing your body to the inside when we go around the bend.,uncertain,0.3453,Resilience,0.6542,12
+"Otherwise, it won't turn very well.",uncertain,0.4089,Family,0.7449,6
+Now!,very positive,0.572,Family,0.6186,1
+Great!,uncertain,0.3346,Family,0.913,1
+You're doing fine!,uncertain,0.4195,Family,0.8818,3
+Yippee!,very positive,0.5602,Family,0.8673,1
+Great!,uncertain,0.3346,Family,0.913,1
+"The dirigible, right?",uncertain,0.3186,Resilience,0.0141,3
+Right.,uncertain,0.4358,Family,0.8802,1
+We're flying!,uncertain,0.4038,Personal Growth,0.8891,2
+"Tombo, are you okay?",uncertain,0.4145,Empathy,0.7071,4
+Yeah.,uncertain,0.3646,Family,0.8922,1
+Are you all right?,uncertain,0.3641,Family,0.4713,4
+I'm okay.,neutral,0.6424,Resilience,0.8994,2
+Does my face look that funny?,uncertain,0.2898,Personal Growth,0.4869,6
+"I'm sorry, but when we flew over that cliff, I was so scared!",uncertain,0.2685,Trauma,0.9518,13
+I was scared too.,negative,0.4984,Empathy,0.9473,4
+I'll bet you used some magic.,uncertain,0.3744,Family,0.1211,6
+I'm not sure.,neutral,0.4558,Personal Growth,0.5374,3
+I was so frightened.,very negative,0.6587,Trauma,0.891,4
+Your poor bike.,very negative,0.5505,Trauma,0.7538,3
+It's a mess.,uncertain,0.4032,Family,0.7699,3
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+I'm in trouble!,uncertain,0.3844,Trauma,0.8665,3
+Will you look after the bike for me?,uncertain,0.4175,Empathy,0.7732,8
+What's wrong?,uncertain,0.3969,Family,0.3095,2
+I pedaled too hard!,negative,0.5138,Personal Growth,0.7466,4
+Wait there!,uncertain,0.3554,Family,0.8398,2
+Sure would be terrific to go around the world in a dirigible like that.,uncertain,0.2533,Family,0.3146,14
+"How'd it make you feel, the first time you flew?",uncertain,0.3559,Personal Growth,0.5387,10
+I can't recall.,uncertain,0.4296,Personal Growth,0.3595,3
+I was too young to remember.,uncertain,0.4441,Family,0.7488,6
+But my mom told me I wasn't scared a bit.,uncertain,0.3631,Family,0.9939,10
+I wish I was born into a witch family.,uncertain,0.4215,Family,0.8969,9
+"You can just fly away on a broomstick, but...",uncertain,0.3745,Personal Growth,0.5034,9
+This is all I can do.,uncertain,0.3717,Family,0.7249,6
+I don't find flying that much fun.,negative,0.4921,Personal Growth,0.2579,7
+It's more of a job to me.,uncertain,0.4293,Resilience,0.2089,7
+But I think it's wonderful that you can put your talents to work.,very positive,0.5675,Personal Growth,0.5991,13
+I sort of feel my confidence slipping.,uncertain,0.3996,Personal Growth,0.747,7
+But I'm glad I came with you today.,uncertain,0.3995,Friendship,0.9149,8
+I feel better sitting by the ocean.,uncertain,0.3206,Personal Growth,0.6281,7
+I could bring you here anytime you want and train myself at the same time.,neutral,0.4745,Personal Growth,0.8633,15
+You're a very nice person.,very positive,0.5484,Family,0.8936,5
+You just found out?,uncertain,0.3035,Family,0.563,4
+I used to think you were a clown.,very negative,0.5934,Trauma,0.1128,8
+My mom says the same thing.,uncertain,0.4174,Family,0.9967,6
+"""You clown!",very positive,0.574,Trauma,0.4442,2
+"Quit looking up to the sky and get back to your books!"" Tombo!",very positive,0.578,Personal Growth,0.5571,13
+Huh?,uncertain,0.3473,Personal Growth,0.5272,1
+Hey!,uncertain,0.3457,Family,0.7355,1
+Guess what!,uncertain,0.4275,Family,0.585,2
+What?,uncertain,0.396,Family,0.3908,1
+Something good!,positive,0.4668,Personal Growth,0.7864,2
+Come here!,very positive,0.604,Family,0.8854,2
+I'll be back.,uncertain,0.2705,Resilience,0.8461,3
+Wait here.,neutral,0.4906,Family,0.8895,2
+They said we could go inside.,uncertain,0.2867,Family,0.8355,6
+Coming?,uncertain,0.3779,Family,0.7416,1
+They what?,uncertain,0.3133,Family,0.3383,2
+Wow!,very positive,0.5691,Family,0.8282,1
+Of course!,very positive,0.4849,Family,0.9077,2
+"Hey, who's your girlfriend?",uncertain,0.2969,Identity,0.4349,4
+That's Kiki the Witch.,uncertain,0.4359,Resilience,0.0014,4
+"Come on over, Kiki!",very positive,0.5796,Friendship,0.9152,4
+They're gonna show us around inside that dirigible!,very positive,0.4903,Family,0.1309,8
+"No, thanks.",uncertain,0.4104,Family,0.8622,2
+"Ah, come on.",neutral,0.5369,Family,0.442,3
+It'll be fun.,neutral,0.5146,Family,0.8381,3
+The delivery girl.,uncertain,0.4434,Resilience,0.5203,3
+I'm positive that's her.,uncertain,0.4139,Family,0.9727,4
+You mean she's a working girl?,uncertain,0.3587,Identity,0.4,6
+"My, how independent.",neutral,0.6564,Personal Growth,0.8149,3
+Come on.,uncertain,0.4016,Family,0.8255,2
+I'll introduce you.,uncertain,0.4099,Family,0.8012,3
+"No, thanks.",uncertain,0.4104,Family,0.8622,2
+See you later.,uncertain,0.3747,Family,0.8636,3
+What's the matter?,uncertain,0.4424,Trauma,0.3179,3
+Hey!,uncertain,0.3457,Family,0.7355,1
+What are you so mad about?,uncertain,0.2991,Family,0.1647,6
+I'm not mad at all.,very negative,0.4759,Resilience,0.7863,5
+"I have a lot of work to do, so just leave me alone.",uncertain,0.4131,Personal Growth,0.74,13
+"Tombo, let's go!",uncertain,0.2711,Personal Growth,0.8518,3
+I think something's wrong with me.,uncertain,0.3678,Trauma,0.3588,6
+"I make friends, then suddenly, I can't bear to be with any of them.",neutral,0.6041,Friendship,0.848,14
+"That other me, the cheerful, honest me, went off somewhere.",uncertain,0.3611,Personal Growth,0.8576,10
+Some friend you are.,neutral,0.6168,Friendship,0.9871,4
+"Jiji, I don't care if you do have a girlfriend.",neutral,0.4733,Personal Growth,0.3746,10
+You can't be late for every meal.,uncertain,0.293,Family,0.8234,7
+And clean up after yourself.,uncertain,0.4276,Personal Growth,0.6337,5
+What are you talking like a cat for?,uncertain,0.3662,Trauma,0.1253,8
+Jiji.,uncertain,0.3171,Family,0.5164,1
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+Talk to me!,uncertain,0.4468,Friendship,0.8936,3
+Can't you speak anymore?,uncertain,0.3246,Family,0.5259,4
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+I wonder what happened.,neutral,0.5054,Family,0.2774,4
+I can't figure out a word he says anymore.,uncertain,0.4168,Family,0.6096,9
+"Oh, my gosh!",very positive,0.5213,Family,0.8414,3
+I'm losing my powers.,very negative,0.5585,Trauma,0.4401,4
+You can't fly anymore?,very negative,0.5098,Trauma,0.4192,4
+Have you lost your magic?,uncertain,0.3145,Family,0.4536,5
+"It has become very weak, so I think I should take a break from delivery work.",very negative,0.5544,Family,0.5598,16
+"But I'll work really hard in the bakery, so please let me stay in my room.",uncertain,0.2941,Personal Growth,0.8674,16
+Of course you can stay.,uncertain,0.3871,Family,0.8876,5
+Will your powers come back?,uncertain,0.395,Trauma,0.0744,5
+I don't know.,uncertain,0.4149,Personal Growth,0.5138,3
+Maybe.,uncertain,0.4288,Family,0.8059,1
+"I can make another broom, but...",uncertain,0.339,Personal Growth,0.4238,6
+Look!,uncertain,0.4131,Family,0.7393,1
+Kiki!,uncertain,0.4231,Friendship,0.6299,1
+"It's me, Tombo.",uncertain,0.4415,Identity,0.9919,3
+Did you see me?,uncertain,0.3341,Identity,0.823,4
+I was waving at you from the dirigible.,uncertain,0.3549,Resilience,0.1982,8
+The captain took me on the test flight.,uncertain,0.431,Resilience,0.5306,8
+It was great!,uncertain,0.4435,Family,0.9172,3
+Hello?,uncertain,0.2903,Personal Growth,0.4987,1
+"Kiki, are you there?",neutral,0.4715,Personal Growth,0.4639,4
+Please don't call me anymore.,very negative,0.5731,Personal Growth,0.5595,5
+What?,uncertain,0.396,Family,0.3908,1
+I can barely hear you.,very negative,0.5548,Family,0.7743,5
+The captain said he'd like to meet you.,uncertain,0.2944,Personal Growth,0.6924,8
+"Hey, come on!",uncertain,0.4187,Personal Growth,0.7294,3
+Don't hang up!,very negative,0.5499,Family,0.8897,3
+What's wrong?,uncertain,0.3969,Family,0.3095,2
+You don't look very well.,negative,0.512,Trauma,0.6205,5
+I'm still training to be a witch.,uncertain,0.3151,Personal Growth,0.6825,7
+"If I lose my magic, that means I've lost absolutely everything.",uncertain,0.3835,Family,0.2842,11
+Kiki!,uncertain,0.4231,Friendship,0.6299,1
+Hi!,very positive,0.4551,Family,0.853,1
+"You didn't come pay me a visit, so I had to come visit you.",uncertain,0.3645,Family,0.9074,14
+I'm sorry.,uncertain,0.3758,Grief,0.7358,2
+"Well, I also came to shop a little.",uncertain,0.4179,Resilience,0.4206,8
+Come on in.,uncertain,0.3259,Family,0.9562,3
+I'm done now.,neutral,0.4861,Family,0.4921,3
+We can take a break.,uncertain,0.3702,Family,0.7664,5
+You'd better believe I will.,uncertain,0.2694,Family,0.8665,5
+Nice place you have.,positive,0.5207,Resilience,0.4889,4
+Help yourself to these.,uncertain,0.4245,Family,0.748,4
+I'll make some fresh tea.,positive,0.4676,Personal Growth,0.7541,5
+"No tea, thanks.",very negative,0.6687,Family,0.679,3
+Do you have some milk?,uncertain,0.2961,Family,0.1752,5
+Sure.,neutral,0.4996,Family,0.8981,1
+Positively amazing.,very positive,0.7626,Family,0.8691,2
+The spitting image of that stuffed cat.,uncertain,0.2705,Identity,0.5324,7
+"You're Jiji, right?",uncertain,0.3626,Identity,0.9709,3
+How's the home delivery business?,neutral,0.5959,Resilience,0.0232,5
+"That bad, huh?",very negative,0.5921,Trauma,0.6438,3
+I'm taking a break right now.,uncertain,0.3996,Personal Growth,0.7067,6
+I see.,neutral,0.4752,Family,0.8388,2
+I thought you seemed down.,very negative,0.4892,Loneliness,0.8423,5
+I didn't know that happened to witches.,neutral,0.4637,Trauma,0.3179,7
+Why not come and stay at my place?,very negative,0.6036,Family,0.8635,8
+Tell your boss you need a break.,uncertain,0.4083,Empathy,0.395,7
+They'll manage somehow.,uncertain,0.3959,Resilience,0.9329,3
+"How about it, Jiji?",uncertain,0.3475,Personal Growth,0.5567,4
+Rather be with your girlfriend?,uncertain,0.349,Romantic Love,0.875,5
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Let's go!,very positive,0.4721,Personal Growth,0.855,2
+Hurry!,uncertain,0.4101,Family,0.7446,1
+It's leaving!,uncertain,0.3884,Family,0.6553,2
+I'm bushed!,uncertain,0.3848,Family,0.4977,2
+It's so beautiful.,very positive,0.7293,Family,0.8493,3
+"Must've been blind, with two beautiful girls in front of him.",uncertain,0.3112,Family,0.9175,11
+"What do you mean, you thought I was a boy?",uncertain,0.3343,Trauma,0.7487,10
+"Well, look at the way you're dressed.",uncertain,0.3583,Family,0.5427,7
+"Tell me what kind of boy has these legs, mister.",very negative,0.4857,Personal Growth,0.4105,10
+Crows!,uncertain,0.2971,Trauma,0.0834,1
+We've become real close friends.,uncertain,0.4145,Friendship,0.9851,5
+Really?,uncertain,0.3086,Family,0.6704,1
+"Hello, everybody.",uncertain,0.4134,Family,0.79,2
+We're home again.,very positive,0.5536,Family,0.9539,3
+Good afternoon.,neutral,0.562,Family,0.8722,2
+I'm sorry I bothered you before.,uncertain,0.2411,Family,0.5935,6
+Make yourself at home while I get some water.,uncertain,0.4196,Family,0.9469,9
+Like it?,uncertain,0.308,Family,0.8344,2
+Wonderful.,very positive,0.4714,Family,0.9083,1
+I got the idea for it after we met the first time.,uncertain,0.4029,Family,0.8288,12
+But I really haven't got the girl's face right.,negative,0.4825,Family,0.8289,9
+I've been waiting for you to come back.,neutral,0.551,Family,0.87,8
+"You mean, that's me?",uncertain,0.3493,Identity,0.9549,4
+Yes.,uncertain,0.3673,Family,0.9347,1
+Would you be my model?,uncertain,0.3235,Personal Growth,0.5652,5
+But I'm not beautiful.,uncertain,0.4043,Personal Growth,0.4834,4
+You've got a great face.,positive,0.4864,Family,0.467,5
+"Besides, it's prettier than it was the last time.",uncertain,0.309,Family,0.887,9
+Come on.,uncertain,0.4016,Family,0.8255,2
+Have a seat.,neutral,0.6413,Family,0.9402,3
+Right there.,neutral,0.6367,Family,0.8309,2
+Lift up your head a little.,positive,0.5078,Personal Growth,0.9492,6
+Look beyond the horizon.,uncertain,0.3139,Personal Growth,0.7552,4
+Don't move.,very negative,0.5617,Family,0.9096,2
+Very good.,very positive,0.5894,Family,0.8666,2
+Painting and magic seem to be similar.,neutral,0.7285,Family,0.0056,7
+"Sometimes, I can't paint a thing.",uncertain,0.3863,Family,0.2849,6
+You mean it?,uncertain,0.4287,Family,0.7588,3
+Then what happens?,neutral,0.5517,Family,0.4259,3
+"Kiki, don't look over here.",uncertain,0.4,Family,0.7015,5
+"Without even thinking about it, I used to be able to fly.",very negative,0.5487,Personal Growth,0.5512,12
+"Now, I can't even begin to remember how I ever managed to do it.",uncertain,0.2564,Family,0.8528,14
+"At times like that, you know what I do?",neutral,0.5649,Resilience,0.5171,9
+Paint.,uncertain,0.3331,Personal Growth,0.0218,1
+That gets rid of my frustrations.,uncertain,0.3911,Family,0.5889,6
+"But still, if I can't fly...",uncertain,0.4172,Personal Growth,0.6389,6
+Then I just stop.,uncertain,0.2758,Family,0.7585,4
+"Take long walks, look at the view, doze off at noon.",uncertain,0.335,Personal Growth,0.6982,11
+Don't do anything.,very negative,0.612,Family,0.8049,3
+"Then, suddenly, I can paint again.",uncertain,0.3052,Resilience,0.757,6
+Maybe that'll help.,uncertain,0.3343,Family,0.792,3
+Trust me.,uncertain,0.334,Family,0.8206,2
+It'll happen.,neutral,0.7069,Family,0.8149,2
+"Come on, don't ruin the pose.",uncertain,0.3224,Family,0.4684,6
+"When I was your age, I'd already decided to become an artist.",uncertain,0.3435,Personal Growth,0.9197,12
+I loved painting.,positive,0.4551,Family,0.6135,3
+So much that I couldn't sleep.,uncertain,0.3564,Family,0.7154,6
+"Then one day, for no reason, I couldn't paint.",very negative,0.459,Trauma,0.668,9
+"I kept painting, but it was no good.",neutral,0.5209,Family,0.5704,8
+I realized that I was just imitating other painters.,uncertain,0.2401,Family,0.456,9
+Just copies of paintings I'd seen.,uncertain,0.3347,Family,0.5175,6
+I swore I'd paint my own pictures.,uncertain,0.3731,Family,0.428,7
+That must've been hard.,uncertain,0.2742,Trauma,0.8418,4
+But after that...,uncertain,0.421,Family,0.5858,3
+it's not much easier now.,negative,0.5311,Family,0.6636,5
+"I think I found what painting means, at least for me.",neutral,0.6147,Resilience,0.4738,11
+"To fly, you don't chant a spell or something, right?",uncertain,0.445,Family,0.1857,10
+We fly with our spirit.,very positive,0.5265,Personal Growth,0.9005,5
+A witch's spirit?,uncertain,0.3148,Grief,0.0067,3
+Perfect!,very positive,0.6284,Family,0.9328,1
+That's what I'm talking about.,neutral,0.6209,Family,0.7542,5
+A witch's spirit.,very positive,0.5329,Resilience,0.0107,3
+An artist's spirit.,very positive,0.5019,Personal Growth,0.5053,3
+A baker's spirit!,very positive,0.6328,Resilience,0.3633,3
+I suppose it must be a power given by God.,uncertain,0.4027,Resilience,0.5828,10
+"Sometimes, you suffer for it.",negative,0.5209,Trauma,0.693,5
+I guess I never gave witchcraft much thought.,very negative,0.6186,Personal Growth,0.0038,8
+That talk about discipline and training was so old-fashioned.,uncertain,0.3275,Personal Growth,0.1765,9
+I was so happy that you came all that way to see me.,very positive,0.7414,Family,0.946,13
+"Left alone, I would've been one giant ball of frustration.",uncertain,0.4441,Family,0.6517,10
+There have been many times I've thought of painting over that painting.,neutral,0.4693,Family,0.6863,12
+Why?,uncertain,0.3626,Family,0.3678,1
+It's so beautiful.,very positive,0.7293,Family,0.8493,3
+"When I saw you today, I saw your sad face and thought, ""I've found it!"" I knew I could paint you.",very positive,0.4955,Trauma,0.8243,21
+Not fair!,negative,0.4711,Grief,0.7011,2
+Sure it is.,neutral,0.7834,Family,0.8918,3
+Let's go to sleep.,uncertain,0.3924,Family,0.889,4
+Okay.,neutral,0.7094,Family,0.8657,1
+Sorry about taking your bed.,uncertain,0.313,Trauma,0.327,5
+Don't worry about it.,very negative,0.4684,Family,0.8132,4
+Can I visit you once in a while?,uncertain,0.3847,Empathy,0.7865,8
+Sure.,neutral,0.4996,Family,0.8981,1
+Anytime during the summer.,neutral,0.5919,Family,0.6425,4
+And I'll try to visit you too.,uncertain,0.3489,Friendship,0.8808,7
+Okay.,neutral,0.7094,Family,0.8657,1
+"The dirigible Freedom Adventurer, recently damaged in a forced landing due to torrential rains just outside the city limits, has now been repaired...",uncertain,0.3715,Resilience,0.9316,23
+Hello.,very positive,0.4517,Family,0.8371,1
+Gutiokipan Bakery.,uncertain,0.4044,Resilience,0.0427,2
+"Ah, Kiki.",neutral,0.5269,Friendship,0.7431,2
+Take plenty of time and get rested up.,uncertain,0.3287,Family,0.8414,8
+That elderly lady you helped has another job for you.,uncertain,0.396,Resilience,0.4323,10
+"Should I tell her ""no""?",uncertain,0.4469,Family,0.8618,5
+"I've told her you'd be away for some time, but she kept insisting.",neutral,0.4732,Family,0.9688,13
+Then stop on your way back.,uncertain,0.2758,Family,0.7594,6
+Bye.,uncertain,0.2816,Family,0.7605,1
+"Afternoon, ma'am.",uncertain,0.3805,Personal Growth,0.6557,2
+"Well, well.",uncertain,0.4076,Family,0.7984,2
+We've been expecting you.,neutral,0.4726,Family,0.979,4
+Come in.,uncertain,0.3759,Family,0.9484,2
+There are less than five minutes to takeoff now.,uncertain,0.4169,Family,0.7152,9
+"Very nice to see you again, ma'am.",very positive,0.5802,Empathy,0.8433,7
+I'm glad you came.,positive,0.4945,Family,0.9019,4
+"Excuse me for not standing, but my legs are bothering me more than usual.",uncertain,0.2799,Family,0.7207,14
+"Bertha, the package.",uncertain,0.2924,Resilience,0.1425,3
+Yes!,uncertain,0.4402,Family,0.8961,1
+I hope it hasn't taken off yet.,uncertain,0.2621,Family,0.5112,7
+Not yet.,uncertain,0.3419,Family,0.6732,2
+Bertha's absolutely mad about lighter-than-air travel.,uncertain,0.346,Resilience,0.0125,6
+I'm the adventuresome type.,uncertain,0.3595,Personal Growth,0.7954,4
+Turn the volume down.,negative,0.5436,Family,0.8944,4
+"Kiki, would you open the box?",uncertain,0.3437,Family,0.8041,6
+Yes.,uncertain,0.3673,Family,0.9347,1
+What's this?,uncertain,0.3125,Personal Growth,0.1427,2
+Would you please deliver it to a girl named Kiki?,uncertain,0.3128,Empathy,0.7688,10
+She was kind and a tremendous help.,positive,0.4561,Family,0.8664,7
+I want to say thank you.,uncertain,0.4078,Family,0.8031,6
+And would you find out when her next birthday might be?,neutral,0.4571,Family,0.8553,11
+Then I'll be able to bake her another one.,uncertain,0.4081,Family,0.8409,9
+Kiki.,neutral,0.5883,Personal Growth,0.4465,1
+I will.,uncertain,0.3913,Personal Growth,0.8973,2
+"And I'm sure Kiki will want to know the lady's birthday, so she'll be able to give her a present.",uncertain,0.3812,Family,0.863,20
+You've got a deal.,uncertain,0.4128,Family,0.7672,4
+What happened?,very negative,0.489,Family,0.3208,2
+There's been a terrible catastrophe.,very negative,0.7687,Trauma,0.9178,5
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+The ropes holding the blimp are breaking!,very positive,0.5138,Trauma,0.8354,7
+It's drifting straight toward our cameras.,uncertain,0.3573,Family,0.5709,6
+"My God, it's going to-- Oh!",very positive,0.624,Family,0.8181,6
+They always leave me hanging at the most exciting part!,very positive,0.4988,Family,0.5785,10
+These winds always come in midsummer.,uncertain,0.278,Family,0.5876,6
+They'll be hitting us pretty soon.,positive,0.5176,Family,0.5989,6
+It'll pass by quickly.,neutral,0.4738,Family,0.7545,4
+Don't worry.,very negative,0.6097,Resilience,0.7732,2
+"Oh, goody, it's back on.",uncertain,0.3311,Family,0.8852,5
+It's completely upside-down!,uncertain,0.3465,Family,0.7983,3
+The Freedom Adventurer has been shaken by great winds...,uncertain,0.4128,Trauma,0.7379,9
+It's like a balloon in that position.,uncertain,0.2691,Trauma,0.349,7
+It has broken loose from its mooring and drifted into an upside-down position.,very negative,0.4897,Family,0.5925,13
+"A desperate, last-ditch effort is being made to tie the dirigible down and keep it from drifting away.",uncertain,0.4043,Family,0.4601,18
+It's extremely doubtful whether it can be done.,very negative,0.7379,Family,0.7324,8
+"Oh, no!",very negative,0.5702,Family,0.8729,2
+It's useless!,very negative,0.5863,Trauma,0.4099,2
+That's my friend Tombo holding on to that rope!,very positive,0.572,Friendship,0.9571,9
+...attached to the end of the cable as though it were a toy!,uncertain,0.2918,Family,0.3342,13
+There's a young boy hanging on to the cable!,uncertain,0.3044,Resilience,0.9283,9
+He's being lifted away along with the police car!,uncertain,0.2772,Trauma,0.7218,9
+-I don't believe what I'm seeing!,uncertain,0.3573,Family,0.7446,6
+Tombo!,very positive,0.4524,Personal Growth,0.5498,1
+Are you sure it's your friend?,uncertain,0.4177,Friendship,0.8944,6
+I have to go!,very positive,0.554,Personal Growth,0.8388,4
+Be careful!,very positive,0.5058,Family,0.6944,2
+"Oh, dear.",very negative,0.7451,Grief,0.8569,2
+What's happening?,neutral,0.4975,Family,0.4815,2
+"Hold on there, son!",very positive,0.6122,Personal Growth,0.8845,4
+Just hold your grip steady!,uncertain,0.391,Resilience,0.8764,5
+Release the helium from the tail!,very positive,0.5461,Family,0.5467,6
+All citizens are requested to remain calm.,uncertain,0.3985,Family,0.6167,7
+Do not panic.,uncertain,0.4436,Resilience,0.9223,3
+The helium inside the dirigible will not explode.,uncertain,0.3493,Resilience,0.9589,8
+Tombo.,very negative,0.5348,Personal Growth,0.1185,1
+Any word about the boy hanging on the rope?,very negative,0.5787,Trauma,0.856,9
+The latest report was that the police car dropped into a pool!,uncertain,0.3573,Trauma,0.7531,12
+The helium inside the dirigible will not explode.,uncertain,0.3493,Resilience,0.9589,8
+Move aside!,uncertain,0.3595,Trauma,0.4988,2
+Get on the sidewalk!,uncertain,0.4427,Trauma,0.464,4
+Don't block the street!,very negative,0.5733,Trauma,0.4382,4
+Are you feeling all right?,uncertain,0.4445,Empathy,0.6692,5
+"Please, sir, may I borrow your broom?",uncertain,0.2752,Empathy,0.8928,7
+Huh?,uncertain,0.3473,Personal Growth,0.5272,1
+I promise I'll bring it right back.,uncertain,0.363,Resilience,0.8764,7
+"Well, I suppose so.",neutral,0.624,Family,0.7928,4
+Thank you very much!,uncertain,0.4356,Family,0.8787,4
+Fly.,uncertain,0.3365,Personal Growth,0.7979,1
+"Oh, my goodness!",very positive,0.5764,Family,0.8622,3
+"Straighten up and fly right, or I'll burn you!",uncertain,0.2947,Trauma,0.5988,9
+"The boy appears safe, but the dirigible is heading straight for the clock tower.",neutral,0.471,Trauma,0.604,14
+"If the wind doesn't shift direction, the Freedom Adventurer will surely smash into the tower!",uncertain,0.3102,Trauma,0.1056,15
+We gotta get up higher!,uncertain,0.3806,Personal Growth,0.9687,5
+We're gonna hit the tower!,uncertain,0.4176,Resilience,0.1702,5
+There's not enough helium!,negative,0.5536,Family,0.5581,4
+"Before we hit, jump onto the tower!",uncertain,0.3269,Personal Growth,0.7203,7
+"Aye, aye, Captain!",very positive,0.7229,Resilience,0.3953,3
+Hey there!,uncertain,0.3143,Family,0.7162,2
+Over here!,very positive,0.5286,Family,0.764,2
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Get out of the way!,uncertain,0.3315,Family,0.6839,5
+Grab hold of this!,uncertain,0.3723,Family,0.7081,4
+That way!,very positive,0.5394,Family,0.6639,2
+Hurry!,uncertain,0.4101,Family,0.7446,1
+Don't you dare!,very negative,0.5674,Family,0.7833,3
+That sound is the helium gas leaking.,uncertain,0.3947,Family,0.0177,7
+The condition of the boy is unknown.,uncertain,0.3877,Family,0.5098,7
+"From where I am-- Oh, no!",uncertain,0.4237,Grief,0.7928,6
+"Too much gas has escaped, and it's falling!",very negative,0.4545,Family,0.6584,8
+It is snagged on another building!,uncertain,0.3791,Trauma,0.595,6
+"Hey, look!",uncertain,0.3252,Personal Growth,0.6084,2
+Over there!,uncertain,0.3389,Family,0.7503,2
+It's a miracle!,very positive,0.6781,Family,0.7401,3
+The boy has managed to hold on!,very positive,0.5173,Resilience,0.9867,7
+But how can anyone rescue him now?,uncertain,0.2413,Trauma,0.8386,7
+That boy is hanging on for dear life.,very negative,0.6082,Trauma,0.9601,8
+Something just flew by!,very positive,0.6265,Family,0.1926,4
+Is it a bird?,uncertain,0.3578,Resilience,0.085,4
+"No, no, it's a girl!",very positive,0.4588,Family,0.9437,5
+A witch!,very positive,0.6252,Personal Growth,0.0083,2
+"Yes, there is a young girl soaring through the sky!",very positive,0.5126,Personal Growth,0.8341,10
+Wow!,very positive,0.5691,Family,0.8282,1
+"Go, Kiki!",very positive,0.5688,Personal Growth,0.9031,2
+She can fly now!,very positive,0.6998,Personal Growth,0.9807,4
+Get 'em!,very positive,0.5543,Family,0.831,2
+Tombo!,very positive,0.4524,Personal Growth,0.5498,1
+Kiki!,uncertain,0.4231,Friendship,0.6299,1
+Come on!,very positive,0.5919,Personal Growth,0.8703,2
+Be a good broom and help me out!,positive,0.4692,Empathy,0.6608,8
+"Hang on, young fella!",uncertain,0.2942,Personal Growth,0.9292,4
+Don't give up!,very negative,0.5877,Personal Growth,0.9004,3
+Hold on!,very positive,0.5301,Resilience,0.7476,2
+She's almost there!,very positive,0.5681,Personal Growth,0.8745,3
+Tombo!,very positive,0.4524,Personal Growth,0.5498,1
+Kiki!,uncertain,0.4231,Friendship,0.6299,1
+You can do it!,very positive,0.5692,Personal Growth,0.8498,4
+Hold on!,very positive,0.5301,Resilience,0.7476,2
+Don't give up now!,very negative,0.5457,Personal Growth,0.8339,4
+You can do it!,very positive,0.5692,Personal Growth,0.8498,4
+"Don't give up, son.",very negative,0.5371,Personal Growth,0.8818,4
+Don't give up!,very negative,0.5877,Personal Growth,0.9004,3
+Don't give up!,very negative,0.5877,Personal Growth,0.9004,3
+She caught him in midair!,very positive,0.4821,Resilience,0.56,5
+I've never seen anything so amazing!,very positive,0.841,Family,0.7196,6
+They've landed safely.,uncertain,0.4279,Family,0.926,3
+What a sight to see!,uncertain,0.4246,Family,0.8644,5
+Everyone onboard appears to be fine.,neutral,0.5732,Resilience,0.7913,6
+That broom is mine.,uncertain,0.4463,Identity,0.8583,4
+I gave it to her myself.,uncertain,0.4308,Family,0.9447,6
+She did it!,positive,0.4751,Family,0.9351,3
+"You're so brave, Kiki.",very positive,0.6877,Resilience,0.8826,4
+You did a great job!,positive,0.5228,Family,0.8285,5
+Better call the hospital.,uncertain,0.3375,Trauma,0.8627,4
+I'll be ready any minute now.,uncertain,0.3592,Family,0.8275,6
+Jiji!,very positive,0.6642,Personal Growth,0.5671,1
+We just got a letter from Kiki!,very positive,0.4709,Resilience,0.5028,7
+"""Dear Mother and Father, how are you doing?",uncertain,0.3785,Family,0.995,8
+"Jiji and I are fine."" Everything at work is falling into place.",neutral,0.5997,Resilience,0.8595,12
+I'm gaining confidence.,positive,0.4524,Personal Growth,0.9929,3
+"There are still times when I feel sad, but all in all, I sure love this town.",uncertain,0.3638,Resilience,0.744,17
+THE END,uncertain,0.3197,Family,0.3163,2
