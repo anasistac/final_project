@@ -4,7 +4,7 @@ The purpose of this is to increase the number of documents for topic modeling, u
 '''
 
 # Reference:
-# ChatGPT: https://chatgpt.com/share/6827523a-2430-800e-8cc3-6583e0d0cf5c
+# ChatGPT: https://chatgpt.com/share/6837381d-78a8-800e-882e-9d8e444c61dc
 
 
 # Imports
@@ -49,3 +49,4 @@ split_ghibli_folder = "Topic_Modelling/data_split/ghibli"
 # Run the split
 process_folder(disney_folder, split_disney_folder)
 process_folder(ghibli_folder, split_ghibli_folder)
+
