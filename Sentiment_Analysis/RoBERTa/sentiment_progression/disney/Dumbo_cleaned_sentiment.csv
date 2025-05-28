@@ -1,0 +1,659 @@
+text,sentiment,score
+"Through the snow and sleet and hail, through the blizzard, through the gales, through the wind and through the rain, over mountain, over plain, through the blinding lightning flash, and the mighty thunder crash, ever faithful, ever true, nothing stops him, he'll get through.",positive,0.5206
+Look out for Mr.,neutral,0.7757
+"Stork That persevering chap He'll come along and drop a bundle in your lap You may be poor or rich It doesn't matter which Millionaires, they get theirs like the butcher and the baker So look out for Mr.",neutral,0.6534
+"Stork and let me tell you, friend Don't try to get away He'll find you in the end He'll spot you out in China or he'll fly to County Cork So, you better look out for Mr.",neutral,0.693
+Stork Look out for Mr.,neutral,0.7981
+Stork He's got you on his list And when he comes around It's useless to resist Remember those quintuplets and the woman in the shoe Maybe he's got his eye on you All aboard!,neutral,0.4803
+All aboard!,positive,0.6831
+All aboard!,positive,0.6831
+Let's go!,positive,0.8384
+"Casey Junior's comin' down the track Comin' down the track with a smoky stack Hear him puffin' Comin' round the hill Casey's here to thrill every Jack and Jill Every time his funny little whistle sounds Everybody hurries to the circus grounds Time for lemonade and Cracker Jack Casey Junior's back Casey Junior's back My, my.",positive,0.6872
+"Now, let me see.",neutral,0.6428
+Must be right around here somewhere.,neutral,0.7122
+I hope.,positive,0.5357
+Watch it there.,neutral,0.7265
+...on the treetop Where are we?,neutral,0.8676
+"Oh, here.",neutral,0.7362
+"Highway 61, four miles to the gas station, turn left That must be it.",neutral,0.8559
+"Well, little fella, let's get going.",positive,0.5683
+Mrs.,neutral,0.6144
+Jumbo.,neutral,0.7187
+"Oh, Mrs.",neutral,0.707
+Jumbo!,neutral,0.5561
+Calling Mrs.,neutral,0.721
+Jumbo.,neutral,0.7187
+Mrs.,neutral,0.6144
+Jumbo?,neutral,0.776
+"Oh, my.",neutral,0.5181
+Mrs.,neutral,0.6144
+Jumbo!,neutral,0.5561
+"Oh, where's that Mrs.",neutral,0.7579
+Jumbo?,neutral,0.776
+Over here!,neutral,0.5148
+"This way, boy.",neutral,0.6946
+"In here, in here!",positive,0.6003
+This is the place.,neutral,0.5412
+At last.,positive,0.506
+Which one of you ladies is expecting?,neutral,0.8724
+Not me.,negative,0.5925
+The very idea!,positive,0.4711
+Certainly not!,neutral,0.4376
+Over there.,neutral,0.6481
+Of course.,neutral,0.5552
+"Yes, of course.",positive,0.4988
+Right over there.,neutral,0.6481
+Of course.,neutral,0.5552
+"""Here is a baby with eyes of blue, straight from heaven right to you."" Or...",positive,0.5706
+"""Straight from heaven, up above, here is a baby for you to love."" Sign here, please.",positive,0.8404
+"Yeah, well...",neutral,0.7155
+"Oh, Mrs.",neutral,0.707
+Jumbo...,neutral,0.7589
+"One moment, please.",neutral,0.6549
+This is still part of the service.,neutral,0.8143
+Happy birthday to you Happy birthday to you Happy birthday dear...,positive,0.9907
+Dear...,neutral,0.5711
+"Dear me, what's his name?",neutral,0.5605
+Jumbo...,neutral,0.7589
+Junior.,neutral,0.7565
+"Oh, Jumbo Junior, huh?",neutral,0.7269
+Jumbo Junior.,neutral,0.7969
+"Happy birthday, dear Jumbo Junior Happy birthday To You Do hurry, dear.",positive,0.9867
+I'm on pins and needles.,negative,0.8845
+Isn't it thrilling?,positive,0.8084
+I'm all aflutter.,neutral,0.5767
+"Oh, this is a proud, proud day.",positive,0.9859
+"Hurry and open it, dearie.",neutral,0.7375
+I'm just dying to see.,positive,0.5476
+Look at him.,neutral,0.6663
+Look at him.,neutral,0.6663
+"Oh, you sweet little thing.",positive,0.4136
+"He is cute, isn't he?",positive,0.964
+"Oh, he is a darling little angel.",positive,0.9668
+Adorable.,positive,0.9157
+Simply adorable.,positive,0.939
+Did you ever see anything so cunning?,neutral,0.5099
+Isn't he a darling?,neutral,0.5369
+Is it possible?,neutral,0.8262
+Isn't there some mistake?,neutral,0.5413
+Just look at those...,neutral,0.6212
+...E-A-R-S.,neutral,0.7322
+Those what?,neutral,0.6797
+"Oh, ears!",neutral,0.5897
+These!,positive,0.6486
+Aren't they funny?,positive,0.6163
+"Oh, my!",positive,0.4772
+"My, what a temper.",negative,0.6504
+What did I do?,neutral,0.6951
+"Tell me, did I say anything?",neutral,0.6055
+A perfectly harmless remark.,neutral,0.4754
+I just said they're funny.,positive,0.65
+They certainly are.,neutral,0.5228
+"After all, who cares about her precious little Jumbo?",neutral,0.4769
+Jumbo?,neutral,0.776
+You mean Dumbo!,neutral,0.6605
+Dumbo!,positive,0.5391
+That's good.,positive,0.963
+"Dumbo, that's good!",positive,0.9872
+"I think I can, I think I can.",positive,0.8435
+"I think I can, I think I can.",positive,0.8435
+"I think I can, I think I can.",positive,0.8435
+I think I can.,positive,0.7706
+I...,neutral,0.7305
+"thought I could, I thought I could.",positive,0.5186
+"I thought I could, I thought I could.",positive,0.4749
+Hike!,neutral,0.5901
+Hike!,neutral,0.5901
+Hike!,neutral,0.5901
+Hike!,neutral,0.5901
+We work all day We work all night We never learned to read or write We're happy-hearted roustabouts Hike!,positive,0.7355
+Hike!,neutral,0.5901
+Hike!,neutral,0.5901
+Hike!,neutral,0.5901
+When other folks have gone to bed We slave until we're almost dead We're happy-hearted roustabouts Hike!,positive,0.5452
+Hike!,neutral,0.5901
+Hike!,neutral,0.5901
+Hike!,neutral,0.5901
+"We don't know when we get our pay And when we do We throw our pay away We get our pay We throw our money all away We get our pay when children say With happy hearts ""It's circus day today"" We get our pay just watchin' kids on circus day Muscles achin' Back near breakin' Eggs and bacon's what we need Yes, sir Boss man houndin' Keep on poundin' For your bed and feed There ain't no let-up Must get set up Pull that canvas Drive that stake Want to doze off Get them clothes off But must keep awake Swing that sledge and sing that song Work and laugh the whole night long Happy-hearted roustabouts Pullin', poundin', tyin', groundin' Big top roundin' into shape Keep on workin' Stop that shirkin' Grab that rope, you hairy ape Poundin', poundin' Poundin', poundin' Oh, dear.",neutral,0.5509
+...starts in exactly 15 minutes.,neutral,0.8587
+Step right up and get your tickets...,neutral,0.7301
+...the big side show before you go into the big top.,neutral,0.7984
+Fifteen big attractions that you can't see anywhere else in the world.,positive,0.8526
+The greatest collection in the entire world.,positive,0.9565
+The greatest congress of freaks ever assembled...,negative,0.6948
+Ain't that the funniest thing you ever saw?,positive,0.8071
+Look at his ears!,neutral,0.534
+"Hey, guys, look-it, Skinny's an elephant.",neutral,0.6577
+You can't hide him.,neutral,0.5862
+His ears are still sticking out.,neutral,0.6108
+Come on.,neutral,0.5758
+Let's see him.,neutral,0.6894
+We want a laugh.,positive,0.6491
+That's what we came for.,neutral,0.6372
+Biggest slingshot in the world!,positive,0.573
+Hey!,neutral,0.5279
+Cut that out.,negative,0.6482
+Let's get out of here.,negative,0.5636
+You're hurting me.,negative,0.9306
+Help!,neutral,0.6156
+Murder!,negative,0.7656
+What's going on?,neutral,0.7289
+Mrs.,neutral,0.6144
+"Jumbo, down!",neutral,0.6915
+Surround her.,neutral,0.7477
+Tie her down.,neutral,0.5643
+Calm down!,neutral,0.5623
+Calm down!,neutral,0.5623
+Tie her down!,neutral,0.5644
+It was so funny!,positive,0.9746
+"My dear, can you bear it?",neutral,0.5798
+"When she doused the ringmaster, I just thought I'd die.",negative,0.7933
+"Well, personally, I think she went a bit too far.",negative,0.9215
+"After all, one mustn't forget one is a lady.",neutral,0.7647
+"You're right, dear.",positive,0.4979
+"Well, I suppose that's mother love.",neutral,0.5335
+It's no excuse for what she did.,negative,0.6912
+Mother love might cover a multitude of sins.,neutral,0.5976
+"It's true, my dear...",positive,0.5633
+A guy can't eat in peace.,negative,0.777
+"Gab, gab, gab.",neutral,0.6389
+Always gossiping.,negative,0.6188
+"Girls, girls!",neutral,0.508
+Listen!,neutral,0.6292
+Have I got a trunkful of dirt.,negative,0.5663
+"Darling, tell us.",neutral,0.6999
+Go on!,positive,0.6931
+"Well, I heard today that they have put her in solitary confinement.",negative,0.614
+No!,neutral,0.4416
+You don't mean it!,negative,0.6795
+How awful for her.,negative,0.9622
+"Well, I must say, I don't blame her for anything.",neutral,0.5998
+You're absolutely right.,positive,0.704
+It's all the fault of that little F-R-E-A-K.,negative,0.8006
+"Yes, him with those ears that only a mother could love.",positive,0.8198
+What's the matter with his ears?,negative,0.6637
+I don't see nothin' wrong with 'em.,neutral,0.6407
+I think they're cute.,positive,0.9658
+"Ladies, ladies!",neutral,0.521
+It's no laughing matter at all.,negative,0.4459
+"She's right, girls.",neutral,0.5001
+Don't forget that we elephants have always walked with dignity.,positive,0.5484
+His disgrace is our own shame.,negative,0.949
+That's true.,neutral,0.5093
+"Indeed, it is.",neutral,0.7012
+"Well, frankly, I wouldn't eat at the same bale of hay with him.",negative,0.6903
+Nor I.,neutral,0.6375
+I should say so.,neutral,0.7669
+That's just how I feel about it.,neutral,0.8006
+Here he comes now.,neutral,0.738
+Pretend you don't see him.,neutral,0.6579
+How do you like that?,neutral,0.8262
+Givin' him the cold shoulder.,neutral,0.5469
+Poor little guy.,negative,0.8831
+"There he goes, without a friend in the world.",negative,0.7455
+Nobody to turn to.,negative,0.7091
+I'll do something about this.,neutral,0.701
+A mouse!,neutral,0.6396
+You like to pick on little guys?,negative,0.5472
+Why don't you pick on me?,negative,0.5298
+A proud race.,positive,0.814
+Overstuffed hay bags.,negative,0.7781
+Still afraid of a mouse!,negative,0.6456
+"Boy, wait till I tell the little guy.",neutral,0.6812
+Where is he?,neutral,0.7725
+"Hey, Dumbo.",neutral,0.7151
+You can come out now.,neutral,0.8131
+"Golly, maybe I scared him too.",negative,0.5957
+"Look, Dumbo, I'm your friend.",positive,0.6256
+"Come on out, won't you?",neutral,0.8209
+"You're not really afraid of little me, are you?",neutral,0.7071
+You are?,neutral,0.7547
+I must have overdid it in there.,negative,0.7064
+I don't know my own strength sometimes.,negative,0.6673
+"Dumbo, look what I got for you.",neutral,0.6582
+You gotta come out first.,neutral,0.7562
+Too bad you don't trust me.,negative,0.8936
+"'Cause I thought you and me, we might get your mother out of the clink.",neutral,0.7956
+But I guess you wouldn't be interested.,negative,0.5623
+"So long, Dumbo.",positive,0.5332
+"Well, that's more like it.",neutral,0.7625
+"You know, your ma ain't crazy.",neutral,0.6947
+She's just brokenhearted.,negative,0.8435
+It ain't nobody's fault you got them big ears.,neutral,0.5708
+"Oh, boy.",neutral,0.5503
+I stepped in it that time.,neutral,0.8186
+"Gee, Dumbo.",neutral,0.5636
+I think your ears are beautiful.,positive,0.9789
+Sure.,neutral,0.4753
+"As a matter of fact, I think they're very decorative.",positive,0.5759
+"You know, lots of people with big ears are famous.",neutral,0.4941
+"Oh, boy.",neutral,0.5503
+All we gotta do is build an act.,neutral,0.6762
+Make you a star!,positive,0.8064
+A headliner!,neutral,0.545
+Dumbo the Great!,positive,0.7724
+The great what?,neutral,0.7475
+"You know, Dumbo, we gotta get an idea.",neutral,0.8255
+"Not just any idea, something colossal.",neutral,0.7239
+Like...,neutral,0.6896
+Have I got an idea!,neutral,0.524
+What an idea!,positive,0.8741
+He never had an idea in his life.,negative,0.5615
+Just visualize.,neutral,0.7491
+"One elephant climbs up on top of another elephant, until, finally, all 17 elephants have constructed an enormous pyramid of pachyderms.",neutral,0.5001
+I step out.,neutral,0.7267
+I blow the whistle.,neutral,0.7059
+The trumpets are trumpeting.,neutral,0.5728
+Yeah.,neutral,0.5491
+And now...,neutral,0.772
+...comes the climax!,neutral,0.4985
+Yeah?,neutral,0.7381
+What is the climax?,neutral,0.8653
+I don't know.,neutral,0.5667
+I knew he never had nothin'.,neutral,0.5681
+"Well, maybe it comes to me in a vision while I dream.",neutral,0.737
+"Good night, Joe.",positive,0.6456
+"Good night, boss.",positive,0.6133
+Climax?,neutral,0.8193
+Climax!,neutral,0.6704
+"Dumbo, you're a climax.",neutral,0.592
+I'll be back in a minute.,neutral,0.6408
+I'm gonna take care of your future.,neutral,0.5425
+I am the voice of your subconscious mind.,neutral,0.8167
+Your inspiration.,positive,0.6635
+"Now, concentrate.",neutral,0.6912
+"Remember, your pyramid of elephants are in the ring, waiting for a climax.",neutral,0.7961
+Climax.,neutral,0.7319
+You are now getting that climax.,neutral,0.7217
+Climax.,neutral,0.7319
+How's the reception?,neutral,0.8543
+Coming through OK?,neutral,0.6234
+Good.,positive,0.7732
+"Suddenly, from the sidelines comes your climax.",neutral,0.7456
+"Galloping across the arena, he jumps from a springboard to a platform at the very pinnacle of your pyramid.",neutral,0.7849
+He waves a flag for a glorious finish.,positive,0.8958
+And who is your climax?,neutral,0.7707
+The elephant with the big ears.,neutral,0.7578
+"The world's mightiest midget mastodon, Dumbo!",positive,0.647
+Dumbo.,neutral,0.6571
+Dumbo...,neutral,0.7388
+Dumbo.,neutral,0.6571
+Dumbo!,positive,0.5391
+Dumbo.,neutral,0.6571
+Dumbo!,positive,0.5391
+I got it!,positive,0.8184
+I got it!,positive,0.8184
+"Ladies and gentlemen, we will now present for your entertainment the most stupendous, magnificent, super-colossal spectacle!",positive,0.9637
+"On this tiny, little, insignificant ball, we will construct for you a pyramid, not of wood, not of stone...",neutral,0.6616
+"To hear him talk, you'd think he was going to do it.",neutral,0.7575
+"...a living, breathing pyramid The stuffed shirt.",neutral,0.747
+"of ponderous, pulsating, pulchritudinous pachyderms.",neutral,0.8084
+I give you the elephants.,neutral,0.7002
+Aren't we a bit clumsy?,negative,0.5312
+"Gaining a little weight, aren't you, honey?",neutral,0.7669
+"You're no cream puff yourself, dearie.",neutral,0.4761
+Quiet up there.,neutral,0.7133
+"Tend to your work, girls.",neutral,0.7017
+Take your foot out of my eye.,negative,0.4992
+Clumsy ox.,negative,0.7318
+"Steady, girls.",neutral,0.7757
+"Boy, that was a close one.",neutral,0.6347
+"They're almost ready now, Dumbo.",positive,0.5139
+Don't forget to wave that flag.,neutral,0.5816
+"OK, OK.",neutral,0.5509
+Don't wave it no more.,neutral,0.5652
+I saw you.,neutral,0.6834
+"Now look, all you gotta do is run out, jump on the springboard.",neutral,0.6836
+All right.,neutral,0.4897
+Now show me just how you're gonna do it.,neutral,0.7348
+That's it.,neutral,0.5321
+Thattaboy.,neutral,0.6838
+That's the stuff.,neutral,0.5733
+Come on.,neutral,0.5758
+"Oh, Dumbo!",neutral,0.5163
+"Oh, those ears.",neutral,0.6174
+"We got to do something, quick.",neutral,0.6883
+"Ladies and gentlemen, you have now seen the impossible accomplished in front of your faces.",neutral,0.5335
+"Seven jungle giants, each one weighing not one ounce less...",neutral,0.7139
+That windbag.,negative,0.7177
+Why doesn't he come to the point?,neutral,0.5375
+"...than 4,500 pounds.",neutral,0.7909
+"And now I present the world's smallest little elephant, who will spring from this springboard, in one spring, to the top of this pyramid, waving his little flag for a grand climax.",positive,0.5058
+"Ladies and gentlemen, I give you...",neutral,0.8417
+Dumbo.,neutral,0.6571
+Go on!,positive,0.6931
+Get going.,positive,0.5472
+What's the matter with you?,negative,0.5537
+"Dumbo, that's your cue.",neutral,0.7935
+"You're on, Dumbo.",neutral,0.7706
+"Out of my way, assassin.",negative,0.6905
+I never thought I'd live to see the big top fall.,negative,0.6495
+"Because of that Dumbo, I never can show my face there again.",negative,0.9109
+Look at my beautiful tail.,positive,0.9216
+I'd just like to spank the daylights out of him.,negative,0.9608
+"That won't be necessary, dearie.",neutral,0.7023
+They fixed him good.,positive,0.6479
+What do you mean?,neutral,0.7294
+What did they do?,neutral,0.8007
+Did they beat him?,neutral,0.6167
+What is it?,neutral,0.75
+Tell us.,neutral,0.7062
+"Come, come, I demand to know.",neutral,0.7618
+"Oh, well, they've gone and made him...",neutral,0.5941
+"Oh, dear, I just can't say it.",negative,0.6496
+Out with it!,neutral,0.5101
+...made him a clown.,negative,0.7792
+A clown!,negative,0.8365
+No!,neutral,0.4416
+Yes.,positive,0.461
+"Oh, the shame of it.",negative,0.852
+Let us take the solemn vow.,neutral,0.8408
+"From now on, he is no longer an elephant.",neutral,0.7733
+Mr.,neutral,0.5849
+"Fireman, save my poor baby!",negative,0.7045
+Save my child!,positive,0.4594
+Save my baby!,positive,0.6297
+"Come on, jump.",neutral,0.6048
+We'll save ya!,positive,0.718
+Hurry up.,neutral,0.5927
+We'll save you.,positive,0.5174
+"Come on, jump.",neutral,0.6048
+Jump!,neutral,0.5308
+"Boy, did we wow 'em out there.",positive,0.5914
+What a performance.,positive,0.7982
+We're good.,positive,0.889
+Thirteen curtain calls!,neutral,0.7943
+Thirteen!,neutral,0.6861
+It sure brought down the house.,negative,0.6788
+"Mama, did we panic 'em.",neutral,0.6979
+Ask me.,neutral,0.7487
+"You said it, we rolled them in the aisles.",neutral,0.7431
+"Boy, what an act.",negative,0.7261
+What an act is right.,positive,0.4956
+"Stupendous, I calls it.",negative,0.4691
+They'll have respect for clowns now.,negative,0.68
+"Yeah, you bet.",neutral,0.6544
+"Boys, this calls for a real celebration.",positive,0.894
+Come and get it.,neutral,0.5964
+Am I thirsty!,neutral,0.4605
+I could use one of them.,neutral,0.5688
+This one's on Dumbo.,neutral,0.8563
+"Yeah, Dumbo.",neutral,0.649
+There's plaster in his eyes.,neutral,0.6681
+See?,neutral,0.6904
+They're drinking a toast to you.,neutral,0.7528
+"Yeah, you're a big hit.",negative,0.806
+You're terrific.,positive,0.9469
+"You're colossal, stupendous.",negative,0.7004
+"Come on, alley-oop.",neutral,0.6633
+I gotta wash behind your ears.,neutral,0.7061
+You ought to be proud.,positive,0.812
+You're a success.,positive,0.8746
+Look!,positive,0.5707
+A peanut.,neutral,0.6248
+"Come on, eat it.",neutral,0.4708
+It's got lots of vitamins.,positive,0.7861
+It'll give you a lot of...,neutral,0.5402
+pep.,neutral,0.5351
+"I forgot to tell you, we're going to see your mother.",neutral,0.7096
+I made an appointment.,neutral,0.7932
+Didn't I tell you?,neutral,0.6578
+Just like me.,neutral,0.6463
+I must have forgot.,negative,0.5456
+"Come on, get your hat.",neutral,0.495
+Right over there.,neutral,0.6481
+"Cozy little place, ain't it?",positive,0.5063
+Mrs.,neutral,0.6144
+Jumbo.,neutral,0.7187
+I hope she's in.,positive,0.5129
+Someone to see you.,neutral,0.7136
+"Baby mine, don't you cry Baby mine, dry your eye Rest your head close to my heart Never to part, baby of mine Little one, when you play Don't you mind what they say Let those eyes sparkle and shine Never a tear, baby of mine From your head to your toes Baby mine You're so sweet, goodness knows Baby mine You are so precious to me Cute as can be, baby of mine Baby mine Baby mine There you are.",positive,0.9618
+"Pour it in me slipper, Joey.",neutral,0.797
+"Boy, I can't get over the way we rolled them in the aisles.",negative,0.8638
+Wait till we hit the big top.,neutral,0.764
+This gives me an idea.,neutral,0.6659
+Raise the platform the elephant jumps off of.,neutral,0.8015
+Yeah.,neutral,0.5491
+"If they laugh when he jumps 20 feet, they'll laugh twice as hard if he jumps 40 feet.",neutral,0.5928
+"Yeah, that's right.",neutral,0.5581
+Simple mathematics.,neutral,0.7261
+Let's make it 80 feet.,neutral,0.7557
+Don't be a piker.,negative,0.5647
+Hundred and eighty.,neutral,0.8137
+Make it 300.,neutral,0.6517
+A thousand.,neutral,0.7078
+"Yeah, that's good.",positive,0.9592
+Be careful.,neutral,0.7332
+You'll hurt the little guy.,negative,0.8955
+Go on.,neutral,0.6503
+Elephants ain't got no feelings.,negative,0.4932
+They're made of rubber.,negative,0.5274
+This idea's sensational.,positive,0.9057
+Let's go tell the boss.,neutral,0.728
+"Yeah, let's go!",positive,0.8565
+"Hey, let's hit him for a raise.",neutral,0.8081
+"Yeah, sure!",positive,0.8358
+This is worth real dough.,positive,0.78
+"Oh, we're gonna hit the big boss for a raise Yes, we're gonna hit the big boss for a raise Oh, we're gonna get more money 'cause we know that we're funny We're gonna hit the big boss for a raise I know how you feel, Dumbo.",positive,0.5824
+But you gotta pull yourself together.,neutral,0.6578
+What would your mother think of you if she saw you crying like this?,negative,0.7593
+"Remember, you come of a proud race.",positive,0.6135
+You're a...,neutral,0.6777
+...a pachyderm.,neutral,0.7792
+And pachyderms don't cry.,neutral,0.7155
+"What's crying get you, anyhow?",negative,0.51
+Nothin' but the hiccups.,negative,0.4895
+There.,neutral,0.551
+You see?,neutral,0.7077
+"Well, ain't nothing a little water won't cure.",neutral,0.5874
+Upsadaisy.,negative,0.8244
+We'll have you fixed up in a jiffy.,neutral,0.7166
+Come on.,neutral,0.5758
+Here.,neutral,0.5711
+Take a trunkful.,neutral,0.7533
+"Listen, little fella, we may have had a lot of hard luck up till now, but you and me is gonna do big things together.",positive,0.7562
+Hold your breath.,neutral,0.7388
+"Why, your mother's gonna be so proud of you.",positive,0.9509
+I'm gonna be proud of you too.,positive,0.9709
+The circus is gonna be proud of you.,positive,0.9207
+What do you think of that?,neutral,0.815
+Swallow it.,neutral,0.7054
+They can't keep us down.,neutral,0.5013
+I guess you had one little one left over.,neutral,0.7948
+We'll bounce back so hard...,positive,0.8988
+"Hey, what's the matter with you?",neutral,0.652
+"What kind of water is this, anyhow?",neutral,0.5693
+Balloonies.,neutral,0.6949
+"Hiya, George.",neutral,0.6856
+"That's a pretty ""strick shlick."" All right.",neutral,0.5285
+"Let's see you blow a square one, pal.",neutral,0.6853
+"Say, that's very, very clever.",positive,0.9025
+Now blow a great big one.,positive,0.5124
+It's a pretty...,positive,0.7937
+Hey!,neutral,0.5279
+Dumbo!,positive,0.5391
+Do you see what I see?,neutral,0.7451
+"Look out Look out Pink elephants on parade Here they come, hippity-hoppity They're here and there Pink elephants everywhere Look out Look out They're walking around the bed On their head, clippity-cloppity Arrayed in braid Pink elephants on parade What'll I do?",neutral,0.637
+What'll I do?,neutral,0.788
+"What an unusual view I can stand the sight of worms and look at microscopic germs But Technicolor pachyderms is really too much for me I am not the type to faint when things are odd or things are quaint But seein' things you know that ain't can certainly give you an awful fright What a sight Chase them away Chase them away I'm afraid, need your aid Pink elephants on parade Pink elephants Pink elephants Pink elephants Well, looky here.",negative,0.5673
+"My, my.",positive,0.4605
+"Why, this is most irregular.",negative,0.6223
+"Well, I just can't believe my eyes.",negative,0.7236
+"They ain't dead, is they?",neutral,0.7238
+"No, dead people don't snore.",negative,0.6638
+Or do they?,neutral,0.7192
+What's all the ruckus?,negative,0.6767
+"Come on, step aside, brother.",negative,0.514
+What's cookin' around here?,neutral,0.863
+What's the good news?,neutral,0.4966
+What's frying?,neutral,0.7536
+"Just look down there, brother.",neutral,0.7282
+And prepare yourself for a shock.,neutral,0.6447
+"Well, hush my beak.",neutral,0.5884
+"Go ahead, wake them up, brother.",neutral,0.7658
+"Yeah, find out what they're doing.",neutral,0.7297
+Yeah.,neutral,0.5491
+Ask them what they want.,neutral,0.7281
+"OK, boys, leave it to me.",neutral,0.7567
+Those pink elephants!,positive,0.6737
+Pink elephants!,positive,0.6579
+What's so funny?,positive,0.5633
+What are you boys doing down here?,neutral,0.8811
+What are we doing down here?,neutral,0.8911
+"Well, hear him talk.",neutral,0.8021
+"Fly up a tree, where you belong.",neutral,0.5688
+"Say, look here, brother rat.",neutral,0.5674
+Brother rat!,negative,0.5918
+"Listen, I ain't your brother, and I ain't no rat!",neutral,0.5289
+See?,neutral,0.6904
+And I suppose you and no elephant ain't up in no tree either!,neutral,0.5844
+No!,neutral,0.4416
+Me in no tree and I'm no...,neutral,0.7033
+Tree?,neutral,0.7121
+Dumbo.,neutral,0.6571
+Dumbo.,neutral,0.6571
+"Wake up, Dumbo!",neutral,0.5536
+"Don't look now, but I think we're up in a tree.",neutral,0.7292
+Don't pay attention to them scarecrows.,negative,0.9289
+"Come on, Dumbo.",neutral,0.6385
+Let's get back to the circus.,neutral,0.7138
+"So long, boy.",neutral,0.6018
+But I wonder how we ever got up in that tree anyway.,neutral,0.5991
+"Now, let's see.",neutral,0.6221
+"Elephants can't climb trees, can they?",negative,0.6203
+"No, that's ridiculous.",negative,0.9237
+Couldn't jump up.,negative,0.5867
+It's too high.,neutral,0.4642
+"Hey there, son.",neutral,0.6871
+Maybe you all flew up.,neutral,0.8104
+Maybe we flew up.,neutral,0.7268
+"Yeah, maybe we...",neutral,0.8094
+That's it!,positive,0.5892
+"Dumbo, you flew!",positive,0.8105
+Am I stupid.,negative,0.8658
+Why didn't I think of this before?,negative,0.5015
+Your ears.,neutral,0.6637
+"Just look at them, Dumbo.",neutral,0.5941
+They're perfect wings.,positive,0.8555
+The very things that held you down are gonna carry you up and up and up!,positive,0.574
+I can see it all now.,neutral,0.6836
+"Dumbo, the ninth wonder of the universe!",positive,0.8036
+The world's only flying elephant.,neutral,0.7192
+Did you ever see an elephant fly?,neutral,0.8528
+"Well, I've seen a horsefly.",neutral,0.7775
+And I've seen a dragonfly.,neutral,0.7807
+I seen a housefly.,neutral,0.7938
+I've seen all that too.,neutral,0.6851
+"I seen a peanut stand And heard a rubber band I seen a needle that winked its eye But I be done seen about everything When I see a elephant fly What you say, boy?",neutral,0.7357
+"I said, when I see a elephant fly I seen a front porch swing Heard a diamond ring I seen a polka-dot railroad tie But I be done seen about everything When I see a elephant fly I saw a clothes horse a-rear up and buck And they tell me that a man made a vegetable truck I didn't see that, I only heard Just to be sociable, I'll take your word I heard a fireside chat I saw a baseball bat I just laughed till I thought I'd die But I be done seen about everything When I see a elephant fly But I be done seen about everything When I see a elephant fly With the wind When I see a elephant Fly All right, you wise birds.",neutral,0.6477
+This has gone far enough!,negative,0.4694
+"Quiet, gentlemen.",neutral,0.7791
+The Reverend Rodent is gonna address you.,neutral,0.9215
+You ought to be ashamed of yourselves.,negative,0.9289
+"A bunch of big guys like you, picking on a poor little orphan like him.",negative,0.7503
+Suppose you was torn away from your mother when you was just a baby.,negative,0.5952
+Nobody to tuck you in at nights.,neutral,0.6224
+"No warm, soft, caressing trunk to snuzzle into.",neutral,0.7041
+"How would you like to be left out alone in a cold, cruel, heartless world?",negative,0.9174
+And why?,neutral,0.6831
+"I ask you, why?",neutral,0.7165
+"Just because he's got those big ears, they call him a freak.",negative,0.7166
+The laughingstock of the circus.,neutral,0.5309
+"Then when his mother tried to protect him, they threw her into the clink.",negative,0.7162
+"And on top of that, they made him a clown.",negative,0.9493
+"Socially, he's washed up.",negative,0.9594
+But what's the use of talking to you cold-hearted birds?,negative,0.8497
+"Go ahead, have your fun.",positive,0.8584
+Laugh at him.,neutral,0.6039
+Kick him now that he's down.,negative,0.693
+Go on!,positive,0.6931
+We don't care.,neutral,0.5735
+"Come on, Dumbo.",neutral,0.6385
+"Hey, brother, wait a minute.",neutral,0.6879
+Don't go away feeling like that.,negative,0.7153
+We done seen the light.,neutral,0.6307
+You boys is OK.,positive,0.6463
+Please.,neutral,0.6087
+You've done enough.,neutral,0.6088
+But we's all fixin' to help you.,positive,0.6368
+"Ain't that the truth, boys?",neutral,0.771
+"Yeah, that's right.",neutral,0.5581
+"You want to make the elephant fly, don't you?",neutral,0.7347
+"Well, you gotta use a lot of ""cology."" You know, psychology.",neutral,0.6055
+Here's what you do.,neutral,0.7361
+First you...,neutral,0.745
+"Then, right after that, you...",neutral,0.7617
+Use the magic feather.,neutral,0.8623
+Catch on?,neutral,0.8085
+The magic feather!,neutral,0.5499
+Yeah.,neutral,0.5491
+I got you.,positive,0.4731
+"Dumbo, look!",positive,0.6741
+Have I got it!,positive,0.6371
+The magic feather.,neutral,0.7783
+Now you can fly!,positive,0.7861
+Let's go.,positive,0.5876
+Let's go.,positive,0.5876
+Heave-ho.,neutral,0.7347
+Heave-ho.,neutral,0.7347
+"Let's go, Dumbo.",positive,0.5206
+Let's go.,positive,0.5876
+Let's go.,positive,0.5876
+"Come on, now.",neutral,0.6025
+"Up, down!",neutral,0.5615
+"Up, down!",neutral,0.5615
+Heave-ho.,neutral,0.7347
+Heave-ho.,neutral,0.7347
+"One, two!",positive,0.5462
+"One, two!",positive,0.5462
+Faster!,positive,0.5468
+Get up flying speed!,positive,0.7434
+Retract your landing gear.,neutral,0.6323
+Raise your fuselage.,neutral,0.7057
+Take off!,neutral,0.5645
+It's no use.,negative,0.4781
+I guess it's just another one of their...,neutral,0.5016
+Look!,positive,0.5707
+Hot diggety!,positive,0.6475
+You're flying!,positive,0.8638
+You're flying!,positive,0.8638
+"Why, he flies just like an eagle.",neutral,0.6926
+Better than an airplane!,positive,0.7774
+"Well, now I've seen everything.",neutral,0.5023
+"Well, I've clean done seen about everything When I see a elephant fly With the wind When I see an elephant Fly Dumbo, I knew you could do it!",positive,0.4719
+Wait till we get to the big town!,neutral,0.5659
+"Boy, them city folks is sure in for a surprise!",positive,0.7068
+My baby!,positive,0.9268
+"Come on, jump.",neutral,0.6048
+Jump!,neutral,0.5308
+We'll save you.,positive,0.5174
+"Come on, jump.",neutral,0.6048
+Look at that house.,neutral,0.7003
+"Dumbo, you're standing on the threshold of success.",positive,0.779
+Don't look down.,neutral,0.6735
+It'll make you dizzy.,negative,0.5046
+"Boy, are they in for a surprise.",neutral,0.5157
+Got the magic feather?,neutral,0.8788
+Good.,positive,0.7732
+OK.,neutral,0.5176
+Contact!,neutral,0.5509
+Take off!,neutral,0.5645
+The magic feather!,neutral,0.5499
+Dumbo!,positive,0.5391
+"Come on, fly!",positive,0.4914
+Open them ears!,neutral,0.5687
+The magic feather was just a gag.,neutral,0.6348
+You can fly!,positive,0.8642
+"Honest, you can.",neutral,0.5468
+"Hurry, open them up!",neutral,0.5712
+Hurry!,neutral,0.5702
+We did it!,positive,0.8999
+"Let's show 'em, Dumbo!",positive,0.5846
+Power dive!,positive,0.7407
+"Now, loop the loop.",neutral,0.7142
+You're making history!,positive,0.9663
+"I seen a peanut stand Heard a rubber band I seen a needle that winked its eye But I be done seen about everything When I seen a elephant fly Oh, my When I see When I see When I see an elephant fly Look at him go!",neutral,0.6219
+"When I see an elephant fly Happy landing, son!",positive,0.8111
+When I see an elephant fly I wish I'd have got his autograph.,neutral,0.6136
+"Man, I got his autograph.",positive,0.5064
+"So long, glamour boy.",neutral,0.5343

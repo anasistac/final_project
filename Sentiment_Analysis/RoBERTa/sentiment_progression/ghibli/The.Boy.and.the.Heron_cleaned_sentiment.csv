@@ -1,0 +1,1098 @@
+text,sentiment,score
+Where's the master?,neutral,0.7318
+In his room.,neutral,0.7209
+Your mother's hospital's on fire!,negative,0.8662
+Mother's still there.,neutral,0.7649
+Wait for me.,neutral,0.6721
+"You need to stay here, Mahito.",neutral,0.8239
+You must evacuate!,negative,0.4603
+Everyone!,positive,0.5258
+Leave your belongings!,neutral,0.5125
+Mother.,neutral,0.6247
+Please stand back!,neutral,0.5234
+Go back home!,neutral,0.5626
+"Three years into the war, Mother died.",negative,0.757
+"And a year later, my father and I left Tokyo.",neutral,0.7897
+That's her.,neutral,0.6603
+She looked exactly like Mother.,neutral,0.7026
+I'm sorry I'm late.,negative,0.6774
+We just got off the train.,neutral,0.8174
+You must be Mahito.,neutral,0.7856
+I'm Natsuko.,neutral,0.7901
+"I was hoping to be here earlier, but we had a flat tire on the way.",negative,0.6498
+You've really grown up.,neutral,0.4995
+"I met you once, you know.",neutral,0.8114
+It was way back when you were just a little baby.,neutral,0.7174
+Are you going to the factory first?,neutral,0.8883
+"Yes, but I'll be back in time for dinner.",neutral,0.5946
+"Ah, what perfect timing.",positive,0.864
+"Shall we go, then?",neutral,0.855
+Careful.,neutral,0.7294
+That's heavy.,neutral,0.5296
+Go ahead.,neutral,0.6501
+"Okay, the estate.",neutral,0.6958
+"Yes, ma'am.",neutral,0.5793
+"So, Mahito, I'm going to be your new mother from now on.",neutral,0.8687
+Sound good?,neutral,0.5073
+Give me your hand.,neutral,0.6384
+That's it.,neutral,0.5321
+Right here.,neutral,0.5976
+Feel it moving?,neutral,0.8482
+A baby.,neutral,0.6692
+You're gonna have a little brother or sister.,neutral,0.8604
+Isn't that just wonderful?,positive,0.9713
+Oh.,neutral,0.5443
+"Uh, we should stop.",negative,0.6035
+We're here.,neutral,0.5305
+This is your new home.,positive,0.508
+"Oh, would you mind taking the trunk inside for me?",neutral,0.8868
+Of course.,neutral,0.5552
+"It's this way, Mahito.",neutral,0.7952
+"We don't always use the main entrance, but it's your first time here, so might as well.",neutral,0.7143
+Look.,neutral,0.6185
+Do you see that structure?,neutral,0.8329
+The one in the distance?,neutral,0.8245
+That is your father's brand-new factory.,neutral,0.6833
+We can go and visit it sometime.,positive,0.596
+"Oh, dear.",neutral,0.4791
+I don't know where everyone is.,negative,0.6974
+"Oh, bring your shoes with you.",neutral,0.7966
+I've never seen that before.,neutral,0.5522
+It typically just keeps to the gardens outside.,neutral,0.8682
+That's our local gray heron.,neutral,0.7759
+He must be giving you a special welcome.,positive,0.9429
+Come on.,neutral,0.5758
+"Well, well.",neutral,0.6682
+Did you go through Shoichi's trunk again?,neutral,0.8862
+"Certainly not, milady.",negative,0.4827
+The pedicab left it.,neutral,0.654
+Yes.,positive,0.461
+He just left it out here.,neutral,0.6109
+So true.,positive,0.6716
+So we had to check whose it was.,neutral,0.7723
+So true.,positive,0.6716
+Everything smells so sweet.,positive,0.9751
+"So, so sweet.",positive,0.9641
+"Let me introduce you to Shoichi's son, Mahito.",neutral,0.8728
+What?,neutral,0.5653
+Canned beef!,neutral,0.6171
+"Oh, it's so tasty with rice.",positive,0.9704
+Canned salmon?,neutral,0.8011
+Give me the bones.,neutral,0.6106
+I didn't know you could still get corned beef.,negative,0.5187
+And there's one more thing.,neutral,0.7253
+Sugar!,neutral,0.6608
+"Oh, we can make rice cakes!",positive,0.6012
+And sweet bean paste.,neutral,0.7017
+Sweet rice cakes!,positive,0.8213
+Pure white sugar.,neutral,0.7718
+I want a taste!,positive,0.6081
+Let's leave them to it.,neutral,0.7431
+So some places still have it.,neutral,0.7716
+It's like staring at his mother.,neutral,0.499
+Oh.,neutral,0.5443
+Such a lovely boy.,positive,0.9762
+I just hope he stays safe.,positive,0.6927
+How'd you get your hands on smokes?,neutral,0.791
+"Can I have one, please?",neutral,0.7238
+This will be your new room.,neutral,0.756
+You must be exhausted.,negative,0.8043
+I'll bring you some tea.,neutral,0.7548
+Mom!,neutral,0.5075
+Mahito.,neutral,0.627
+Goodbye.,neutral,0.5621
+Mom!,neutral,0.5075
+I'm coming!,positive,0.6213
+Mahito.,neutral,0.627
+Mahito.,neutral,0.627
+"I'm coming, Mom.",neutral,0.6702
+Mahito!,neutral,0.5433
+Mahito!,neutral,0.5433
+Mahito!,neutral,0.5433
+Sonny!,neutral,0.5755
+Time to head back!,neutral,0.6155
+The lady of the house is mighty worried about you.,neutral,0.6305
+Young master!,positive,0.508
+I thought that had been sealed off.,neutral,0.6587
+I sure hope he doesn't get taken.,negative,0.4925
+Young master.,neutral,0.649
+Thank goodness you're safe.,positive,0.9228
+Where are we?,neutral,0.7936
+What is this place?,neutral,0.5225
+There's a staircase in there.,neutral,0.8077
+"Uh, well...",neutral,0.6755
+Let's hurry on back.,neutral,0.6903
+The feathers are gone.,neutral,0.5706
+I was hoping to wait until you got a bit more settled in before telling you about this.,neutral,0.816
+"As the story goes, that tower was built a long time ago by our mother's uncle.",neutral,0.8744
+"He was educated and very smart, but they say he read too many books and lost his mind.",negative,0.5518
+"One day, a long time before I was born, he suddenly disappeared, leaving only an open book that he hadn't finished reading.",neutral,0.5732
+"They looked everywhere for him, but not a trace of him could be found.",negative,0.5458
+"Later, during a flood, a passage to the main house collapsed, and beneath the tower, they discovered a maze of tunnels.",neutral,0.518
+They were so dangerous that my grandfather sealed the entrance so no one would wander in.,negative,0.8684
+"For your safety, you shouldn't go near there, either.",negative,0.6868
+Right.,neutral,0.5665
+And thank you very much for the tea.,positive,0.9601
+"Good night, ma'am.",neutral,0.5265
+Good night.,positive,0.5576
+"Mornings can get cold, so bundle up.",neutral,0.6081
+Right.,neutral,0.5665
+"Mahito, save me.",neutral,0.645
+Welcome home.,positive,0.9274
+"Thank you, my dear.",positive,0.9375
+Those navy boys are all flustered now.,negative,0.757
+"And to think, they boasted Saipan would hold for a year.",neutral,0.6343
+I feel for all those who are no longer with us.,negative,0.6183
+"Well, it's certainly kept the factory busy.",neutral,0.5326
+"Mahito, I'll drive you to school in the Datsun.",neutral,0.8967
+The new transfer student arriving in a car.,neutral,0.9263
+Everyone's jaw will drop.,negative,0.5242
+No need to worry.,neutral,0.7102
+We've told the teachers all about your situation.,neutral,0.8255
+You go have a good day.,positive,0.955
+"Mahito, I want you to tell me the truth.",neutral,0.8186
+Who did this to my boy?,negative,0.8112
+I fell.,negative,0.5208
+That's all.,neutral,0.5908
+"Don't worry, okay?",positive,0.5623
+"Daddy is going to make sure you get vengeance, but you have to tell me who did this.",neutral,0.526
+Let's let him rest.,neutral,0.7492
+I won't let them get away with doing this to my own flesh and blood.,negative,0.922
+I'm taking this up with the school!,neutral,0.532
+"Mahito, save me.",neutral,0.645
+Mahito!,neutral,0.5433
+Mahito!,neutral,0.5433
+Leave.,neutral,0.6573
+Shoo!,neutral,0.582
+Go!,positive,0.6266
+"Oh, my.",neutral,0.5181
+Mahito.,neutral,0.627
+Help me shut it.,neutral,0.4971
+Mother.,neutral,0.6247
+Mother!,neutral,0.5851
+"Milady, you should go get some rest.",neutral,0.7568
+Don't worry.,positive,0.5337
+We can take turns keeping an eye on him.,neutral,0.8902
+What exactly are you?,neutral,0.8159
+I know you're not a normal heron.,negative,0.6682
+The one we have all been waiting for has appeared at last.,positive,0.789
+I shall now guide you to your mother.,neutral,0.8974
+You'll what?,neutral,0.7149
+How dare you.,negative,0.9162
+My mother is dead!,negative,0.952
+"Of course a human would think that, but your mother is not dead.",neutral,0.505
+The truth of the matter is you did not see your mother's dead body.,negative,0.7117
+Am I right?,neutral,0.7641
+She's waiting for you to rescue her.,neutral,0.7679
+Please join us.,positive,0.5643
+Please join us.,positive,0.5643
+Please join us.,positive,0.5643
+Join us.,neutral,0.5469
+Join us.,neutral,0.5469
+Join us.,neutral,0.5469
+Join us.,neutral,0.5469
+Join us.,neutral,0.5469
+Please join us.,positive,0.5643
+Mahito!,neutral,0.5433
+Huh?,neutral,0.6584
+Please join us.,positive,0.5643
+Mahito!,neutral,0.5433
+Mahito!,neutral,0.5433
+"Young master, where are you?",neutral,0.8591
+Young master!,positive,0.508
+Your presence is requested.,neutral,0.7629
+Oh.,neutral,0.5443
+You're finally awake.,positive,0.6533
+Thank goodness.,positive,0.88
+You were out for so long.,neutral,0.5653
+We were beginning to get worried.,negative,0.7115
+The gray heron.,neutral,0.7502
+Gray heron?,neutral,0.785
+Is it still here?,neutral,0.8678
+Perhaps you dreamt a...,neutral,0.8412
+Mahito.,neutral,0.627
+You're awake.,neutral,0.6826
+Don't you worry.,neutral,0.7381
+Just you wait...,neutral,0.7549
+I will catch whoever did this to you.,negative,0.9439
+I was just clumsy.,negative,0.5514
+That's all.,neutral,0.5908
+"And you don't have to worry about going to school, either.",neutral,0.6189
+I donated 300 yen.,neutral,0.726
+You should've seen the principal's face.,neutral,0.7196
+Those teachers don't have time to teach anyway.,negative,0.6889
+Wartime volunteering.,neutral,0.6983
+Hmm.,neutral,0.6435
+That scar might leave you with a bald spot.,negative,0.6813
+You can grow your hair long to cover it up.,neutral,0.8454
+Natsuko isn't feeling well right now.,negative,0.8287
+She's probably just tired.,negative,0.6306
+"So try not to worry her, okay?",neutral,0.789
+The railways are all closed again.,negative,0.6968
+It's been nothing but accidents.,negative,0.7046
+"I want you to get better soon, okay?",positive,0.8251
+Take good care of him.,positive,0.6656
+Yes.,positive,0.461
+"Oh, young master, y-you need to take it easy.",neutral,0.6066
+"Please, lie back down.",negative,0.5142
+Bathroom.,neutral,0.7702
+But I brought a bedpan.,neutral,0.6956
+"My, a lot of strange things happen in this place.",negative,0.7136
+So many things.,neutral,0.6888
+Hmm?,neutral,0.702
+You sure you're well enough to be up?,neutral,0.8318
+Yes.,positive,0.461
+"They're magnificent to look at, aren't they?",positive,0.951
+"We can't leave them at the station, so we'll store them here for the time being.",neutral,0.8362
+They really are beautiful.,positive,0.9796
+Natsuko's been worrying about you.,neutral,0.7091
+Maybe you could pay her a visit.,neutral,0.8151
+Yes.,positive,0.461
+"All right, good work, everybody.",positive,0.9037
+You can take a break before returning to the factory.,neutral,0.8883
+"What's the matter, young master?",neutral,0.7619
+Is the food not to your liking?,negative,0.5484
+It tastes bad.,negative,0.9443
+"Oh, it looks like we have a straight talker here.",neutral,0.7408
+"Hey, wait a minute.",neutral,0.6118
+You got your hands on tobacco?,neutral,0.6886
+I'm using knotweed leaves.,neutral,0.8568
+You want a puff?,neutral,0.8006
+Heck no!,negative,0.5567
+Do I look like a caterpillar to you?,neutral,0.7367
+Tobacco's just so scarce these days.,negative,0.7468
+If you'll please excuse me.,neutral,0.7931
+"Our lady has mentioned several times that she would like to see you, so if you could make time to pay her a visit, I'm sure it will mean a lot.",positive,0.9553
+Is there something wrong with her?,negative,0.7456
+It's morning sickness.,negative,0.6873
+"For some women, carrying a baby inside them can be very hard on their body.",negative,0.6816
+"You were the same, you know.",neutral,0.7192
+"When you were born, your mother had a rough time.",negative,0.6121
+I came here to pay a visit.,neutral,0.78
+Milady.,neutral,0.63
+I'm so sorry.,negative,0.8012
+I should've taken better care of you.,negative,0.5253
+"Please forgive me for not doing so, big sister.",neutral,0.6318
+"You mustn't get worked up, milady.",neutral,0.4872
+You're weak right now.,negative,0.8467
+Take care of yourself and get well soon.,positive,0.7522
+Your presence is requested.,neutral,0.7629
+Hmm?,neutral,0.702
+Tobacco?,neutral,0.7519
+"Why, you sneaky little no good liar.",negative,0.9336
+Young master.,neutral,0.649
+Young master.,neutral,0.649
+Over here.,neutral,0.6487
+Over here.,neutral,0.6487
+I'm in the middle of something now.,neutral,0.8392
+I have something that might help you.,positive,0.6436
+Come on over here.,neutral,0.756
+Come on.,neutral,0.5758
+"Now, then, would you like to use a real bow and arrow?",neutral,0.9036
+I may know where you could get your hands on some.,neutral,0.8231
+I mean the genuine article.,neutral,0.7888
+How would you like some steel arrowheads?,neutral,0.9094
+Or how about a professionally crafted bow?,neutral,0.9011
+You could borrow them.,neutral,0.7927
+No one would miss them.,positive,0.5301
+For cigarettes?,neutral,0.631
+That's right.,neutral,0.569
+I'll tell you in exchange for a pack.,neutral,0.8449
+I gave them to the groundskeeper.,neutral,0.8268
+"Besides, there were only two left inside the pack.",neutral,0.8466
+And you gave them to that wrinkly old prune?,negative,0.6055
+"Hey, young master, come back!",positive,0.5632
+Hmm?,neutral,0.702
+This is Mother's handwriting.,neutral,0.7369
+Mother must have left this for me.,neutral,0.6094
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+Milady!,neutral,0.5162
+What's going on?,neutral,0.7289
+"Lady Natsuko wasn't in her room, and we can't find her.",negative,0.6004
+I'll come help search.,neutral,0.8077
+I saw her heading toward the forest earlier.,neutral,0.9073
+Why would she do that?,negative,0.6006
+"It was a while ago, when it was still bright out.",neutral,0.4988
+She headed into the forest.,neutral,0.8712
+I'm sure about that.,neutral,0.7251
+"Surely, she wouldn't.",neutral,0.6178
+I haven't seen the gray heron around today.,neutral,0.5795
+Something isn't right.,negative,0.923
+Let's go.,positive,0.5876
+I-I think we should go back.,neutral,0.8102
+There's-there's no way she would've come this way.,negative,0.7166
+How can you see anything in there?,neutral,0.631
+Come back out here!,neutral,0.5052
+These are made from sandals.,neutral,0.8817
+Young master!,positive,0.508
+Look.,neutral,0.6185
+It's paved.,neutral,0.714
+I can't tell what that is.,negative,0.5109
+I don't see too well in the dark.,negative,0.8748
+They must be part of an old path.,neutral,0.8487
+Can we go back now?,neutral,0.793
+"Like I said, there's no way our lady would ever come out here.",negative,0.8242
+I think maybe she didn't have a choice.,neutral,0.5147
+The lights turned on.,neutral,0.6614
+"No, don't go!",negative,0.6841
+It's a trap.,negative,0.5493
+"Show yourself, heron.",neutral,0.6635
+"Come out and face me, and return Natsuko right now.",neutral,0.8954
+Your presence is welcomed.,positive,0.9527
+Enter.,neutral,0.6615
+"You can return to the house now, ma'am.",neutral,0.8768
+I'll go in by myself.,neutral,0.8014
+You can't go inside there!,neutral,0.4571
+Maids like me can't hear the tower master's voice.,negative,0.5876
+That's something only members of your bloodline can hear.,neutral,0.5409
+More reason for me to go alone.,neutral,0.581
+"I will bring Aunt Natsuko back, I promise.",positive,0.6916
+"Ah, for goodness' sake, I know that you feel you'd be better off without her.",neutral,0.5239
+Isn't that what you're thinking?,neutral,0.7689
+What's the real reason you want to go into that strange place?,neutral,0.733
+It told me that my mother is alive.,positive,0.6378
+"It's clearly a lie, but I have to make sure.",neutral,0.5595
+No!,neutral,0.4416
+Wait!,neutral,0.6225
+No.,neutral,0.4936
+"Oh, my back!",neutral,0.4623
+Your presence is welcomed.,positive,0.9527
+Enter.,neutral,0.6615
+This way.,neutral,0.6722
+I'll be your guide.,neutral,0.6599
+Don't trust that thing.,negative,0.9026
+It's a trap.,negative,0.5493
+I'm aware of that.,neutral,0.7225
+Then what are we still doing here?,neutral,0.6116
+You see?,neutral,0.7077
+"Your mother, as promised.",neutral,0.7962
+Why don't you come closer and have a better look?,neutral,0.6223
+It's a trap.,negative,0.5493
+A trap.,negative,0.525
+"Wait, master.",neutral,0.7685
+Mother.,neutral,0.6247
+Mother?,neutral,0.6897
+Mother.,neutral,0.6247
+Mother...,neutral,0.6758
+"Aw, that was one of my better creations.",positive,0.871
+"Such a shame, really.",negative,0.9076
+It would've lasted longer if you hadn't touched her.,neutral,0.7151
+How could you do something so cruel?,negative,0.9615
+"If you'd like, I could always remake her.",neutral,0.7702
+Stop it!,negative,0.5914
+You defile her memory!,negative,0.9273
+Shoot me.,negative,0.773
+My heart is right here.,positive,0.7976
+"But you've only got one arrow, so don't miss.",neutral,0.6283
+Then it's my turn.,neutral,0.736
+"And when it is, I'll take your arrogant, lying, swollen heart and rip it out!",negative,0.9309
+"Weakling, do your worst.",negative,0.9502
+You fail!,negative,0.8738
+Huh?,neutral,0.6584
+Get away!,neutral,0.4684
+That's one of my molted feathers.,neutral,0.6457
+"Oh, that's not good.",negative,0.9585
+Nice shooting.,positive,0.6897
+You got him good.,positive,0.6697
+It wasn't me.,neutral,0.6113
+The arrow flew by itself.,neutral,0.7962
+Hmm?,neutral,0.702
+Hold on!,neutral,0.6471
+Not my number seven flight feather.,neutral,0.5529
+Darn it!,negative,0.8127
+"That's cheating, you know!",negative,0.7648
+Stop laughing!,negative,0.4832
+Behold my fearsomeness.,neutral,0.6252
+Please be gent...,neutral,0.7294
+"Okay, you win.",positive,0.5648
+Can we stop now?,neutral,0.6398
+Tell me where Natsuko is.,neutral,0.8236
+Do it!,positive,0.633
+Go on and skewer that little yappy turkey.,negative,0.5248
+Hold on.,neutral,0.6407
+I concede.,neutral,0.5918
+"Tell me, how'd you know my weakness was my number seven flight feather?",neutral,0.5121
+Don't you remember?,neutral,0.7211
+You just said it.,neutral,0.6002
+Your number seven flight feather.,neutral,0.8488
+"Oh, there I go.",neutral,0.5317
+My big mouth getting me in trouble again.,negative,0.9455
+"You had better take me to Natsuko, or else.",neutral,0.6977
+"Okay, but I wouldn't go if I was you.",negative,0.5706
+"That's enough, foolish bird.",negative,0.8287
+I command you to be the boy's guide.,neutral,0.8116
+No turning back now.,neutral,0.6601
+Don't go saying I didn't warn you.,neutral,0.4947
+"Godspeed, soldier.",positive,0.7341
+I don't want to go!,negative,0.9325
+You're making a mistake!,negative,0.8537
+You don't need me!,negative,0.4863
+"""All of those who seek my knowledge shall die."" Let's go.",negative,0.6617
+Let's go.,positive,0.5876
+Let's go eat.,neutral,0.6565
+Let's go.,positive,0.5876
+Let's go.,positive,0.5876
+Let's go eat.,neutral,0.6565
+Get up.,neutral,0.6193
+Walk.,neutral,0.7067
+Walk.,neutral,0.7067
+"Oh, no.",negative,0.6307
+Someone opened the gate to the graveyard.,neutral,0.65
+Get out of here!,negative,0.7254
+"Shoo, you damn birds!",negative,0.9523
+Get up.,neutral,0.6193
+Come.,neutral,0.5622
+"Move, before the buried wake.",neutral,0.7595
+Stand beside me.,neutral,0.774
+It's gone.,neutral,0.6048
+Now walk backwards.,neutral,0.493
+Don't look behind you.,neutral,0.6502
+Why did you open the graveyard gate?,neutral,0.6739
+The pelicans pushed me through it.,neutral,0.779
+Show me that arrow you've got.,neutral,0.6814
+That from the gray heron?,neutral,0.8832
+It's no wonder the pelicans weren't able to eat you.,neutral,0.5514
+The wind is up.,neutral,0.7054
+"Which means the tide will be up, too.",positive,0.4945
+"All right, then.",neutral,0.5821
+"Come on, follow me.",neutral,0.5478
+Push!,positive,0.6018
+We've managed to catch wind.,neutral,0.541
+Get over here and help.,neutral,0.7454
+What's with your scar?,neutral,0.6719
+My bandage must have come off.,neutral,0.6891
+"Oh, we match.",neutral,0.6582
+You see?,neutral,0.7077
+This is where a swamp thrasher got me.,neutral,0.7034
+A swamp thrasher?,neutral,0.8331
+"It was a real huge one, too.",positive,0.6054
+I ended up eating it.,neutral,0.7202
+There's a big wave coming.,positive,0.5195
+"After that, it should be smooth sailing.",positive,0.7482
+"Where'd you come from, anyway?",neutral,0.7641
+Up there.,neutral,0.5439
+"And is it a nice place, up there?",positive,0.5859
+I don't really like it.,negative,0.946
+I'm looking for Natsuko.,neutral,0.872
+Do you know her?,neutral,0.8387
+Maybe.,neutral,0.6051
+You sweet on her or something?,neutral,0.8059
+"I'm not, but my father is.",neutral,0.7476
+I'm just trying to locate her.,neutral,0.7743
+"And you, what's your name?",neutral,0.7616
+Mahito.,neutral,0.627
+"Meaning ""sincere one."" Well, that makes sense.",neutral,0.5409
+That would explain why you reek of death.,negative,0.9417
+Look there.,neutral,0.7444
+Those are just phantoms.,negative,0.7719
+This world is filled with the dead.,negative,0.9444
+"All right, stop rowing.",neutral,0.5727
+Who are those people?,neutral,0.6385
+I guess you can call them buyers since they came here for our catch.,neutral,0.7467
+They probably saw our flag.,neutral,0.7137
+"They're not able to kill anything, so that's why it falls on me.",negative,0.5426
+Huh?,neutral,0.6584
+Get off.,negative,0.5718
+Help me.,neutral,0.7071
+The warawara will be here soon.,neutral,0.9034
+No dilly-dallying.,neutral,0.5956
+"That fish isn't gonna carve itself, you know.",neutral,0.5222
+Here you go.,neutral,0.581
+Get to work.,neutral,0.6352
+You try.,neutral,0.6726
+Right there.,neutral,0.6175
+Push it in deeper.,neutral,0.7017
+Harder!,neutral,0.5532
+Pull!,neutral,0.5971
+Don't let the guts spill out.,negative,0.5387
+The warawara need them for nourishment so they can fly.,neutral,0.8422
+Hey.,neutral,0.5456
+Time to eat.,neutral,0.7214
+Just don't knock over those dolls.,neutral,0.5504
+Those dolls look a lot like the grannies at the new house I live in.,neutral,0.7601
+I put them there so they can protect you.,neutral,0.7805
+"If you want some water, it's over there.",neutral,0.8479
+Kiriko.,neutral,0.6545
+How the hell do you know my name?,negative,0.8874
+I never told you who I am.,neutral,0.6824
+"It is Kiriko, right?",neutral,0.8593
+"Even though this world isn't anything like the world I come from, there are a few things that seem to be similar.",neutral,0.5673
+"Well, I've been here for as long as I can remember.",neutral,0.7086
+"The Kiriko I know is an old lady, just like one of your dolls.",negative,0.511
+Your food is getting cold.,negative,0.892
+Where's your bathroom?,neutral,0.7202
+"It's outside, in the back, at the far end of the yard.",neutral,0.8765
+Thank you.,positive,0.853
+What are they doing?,neutral,0.7924
+"Once they mature, they take flight.",neutral,0.8073
+I haven't seen them fly in quite some time.,neutral,0.5481
+The little ones gather to see them off.,neutral,0.8204
+But where are they all flying to?,neutral,0.7581
+They're going to be born.,neutral,0.8007
+Huh?,neutral,0.6584
+"I imagine, where you came from.",neutral,0.8114
+Flying off to be born up above.,neutral,0.7735
+Born as people?,neutral,0.737
+"Yeah, of course as people.",neutral,0.6705
+I'm just so happy we were able to give them a good meal.,positive,0.9888
+"No, the pelicans!",neutral,0.5039
+Damn.,negative,0.8027
+They'll wind up eating all of them.,negative,0.7202
+Lady Himi!,neutral,0.7547
+The warawara are burning!,negative,0.7389
+"Hey, stop it!",negative,0.5211
+You're burning the warawara!,negative,0.7775
+I said stop!,negative,0.5365
+Serves them right.,neutral,0.6463
+Bet they're not gonna try that for a while.,neutral,0.5694
+"If it wasn't for Lady Himi, all the warawara would've been eaten.",negative,0.7202
+"Thank you, Lady Himi!",positive,0.9627
+"Well, there won't be any more taking flight.",neutral,0.5208
+Might as well eat.,neutral,0.7721
+"Grannies, I-I'm sorry.",negative,0.6402
+"Young one, put me out of my misery.",neutral,0.4491
+My wing is broken.,negative,0.9025
+I cannot fly.,negative,0.8407
+That's what you get for trying to attack the warawara.,negative,0.8323
+We did not choose this life.,negative,0.6701
+My kind were brought to this hellscape so we could eat the warawara.,negative,0.5424
+This sea here has few fish we can eat.,negative,0.6839
+My kind were all starving.,negative,0.8136
+We flew as high as we could.,positive,0.7664
+As high and far as our wings could carry us.,positive,0.5112
+But it always ended the same way.,negative,0.7075
+We could only reach this island.,neutral,0.6359
+Now our newborns are forgetting how to fly.,negative,0.851
+We eat the warawara.,neutral,0.6974
+The fire maiden burns us.,neutral,0.5034
+"The sea here, it is cursed.",negative,0.9258
+"Rest easy, now.",neutral,0.5934
+What a noble pelican he was.,positive,0.7969
+You're still carrying that old thing around?,neutral,0.6603
+"Hey, wait!",neutral,0.6528
+I-I hope you know you're not gonna find Natsuko here.,neutral,0.6156
+I know.,neutral,0.5132
+"You say the word, I'll take you straight to her.",neutral,0.7873
+I'm going to find her myself.,neutral,0.7985
+"Hey, wait, chief.",neutral,0.6843
+Wh-Where you going?,neutral,0.8418
+What an arrogant little turd!,negative,0.954
+Shovel?,neutral,0.7741
+"Okay, go.",neutral,0.5977
+Why am I such a pushover?,negative,0.9395
+Stop there.,neutral,0.4955
+Too far.,negative,0.765
+Come back a bit.,neutral,0.7495
+All right.,neutral,0.4897
+I can't take too much more of this.,negative,0.911
+Don't blame me if your Natsuko ends up getting eaten.,negative,0.619
+"Well, you told me you'd eat my heart, and it's still intact.",negative,0.4695
+Sorry.,negative,0.5092
+That hurt!,negative,0.7599
+You'd better tell me the truth.,neutral,0.6878
+Where is Natsuko?,neutral,0.8072
+I'll rip it in half!,negative,0.6803
+"Go on, try it!",positive,0.6355
+Then I'll tear you apart.,negative,0.7854
+"No, stop, stop, stop!",negative,0.6928
+"Please, please stop!",negative,0.7725
+Are you okay?,neutral,0.7918
+I barely ripped it at all.,neutral,0.6633
+"Well, it's ripped now.",neutral,0.5374
+"The tea's nothing special, but, uh, just drink it and make up already.",neutral,0.5897
+"We can't make up, because we didn't fight.",negative,0.6744
+Yeah?,neutral,0.7381
+"Well, he's a liar, so you can't believe anything he says.",negative,0.9238
+I know that he kidnapped Natsuko.,neutral,0.5977
+"I hate to admit this to you, but that's not even within my power.",negative,0.7995
+"Besides, the wise always cheat.",negative,0.6862
+That's how they survive.,neutral,0.6968
+A gray heron once told me that all gray herons are liars.,negative,0.8139
+"So, is that the truth or a lie?",neutral,0.6595
+A lie.,negative,0.7858
+The truth.,neutral,0.658
+I'd be the one to know.,neutral,0.7419
+The truth is that all gray herons are liars.,negative,0.9102
+"That would have to be a lie, too.",negative,0.641
+Except this lie is true.,negative,0.7848
+What a pair the two of you are.,positive,0.8074
+I think you should go search for Natsuko together.,neutral,0.7055
+I have to stay and take care of the warawara.,neutral,0.7897
+And the tower master did tell you to be his guide.,neutral,0.8758
+Just stay vigilant and work together.,neutral,0.5087
+"Now, go on.",neutral,0.7105
+This one's Kiriko.,neutral,0.8055
+"You hang on to that for good luck, you hear me?",neutral,0.6553
+Will we ever meet again?,neutral,0.8585
+How should I know?,neutral,0.7438
+Thank you.,positive,0.853
+"Just go do your best, okay?",positive,0.5621
+"Miss Natsuko, where are you?",neutral,0.8548
+Miss Natsuko!,neutral,0.6997
+Hey!,neutral,0.5279
+Can you hear us?,neutral,0.8538
+Miss Natsuko!,neutral,0.6997
+Where are you?,neutral,0.7606
+Are you all right?,neutral,0.8301
+Some of the men can stay here and continue the search.,neutral,0.8941
+No.,neutral,0.4936
+We can't afford to slow down production.,negative,0.6818
+Have them all go back to the factory.,neutral,0.5498
+"As you wish, but we'll be on call if you need anything.",neutral,0.6568
+Thank you all.,positive,0.9196
+I appreciate it.,positive,0.9478
+We've searched the pond and the hills.,neutral,0.7758
+Basically every place we could think of.,neutral,0.7475
+"Natsuko, Mahito, and Kiriko, too.",neutral,0.8393
+It's odd to have three people disappear at once like this.,negative,0.6706
+Master Shoichi.,neutral,0.8644
+Hmm?,neutral,0.702
+You should know that every now and then strange occurrences do happen here.,neutral,0.7795
+I have been fortunate enough to be with this family for a good 60 years now.,positive,0.9789
+And there's something about that tower in the backyard that just isn't right.,negative,0.9515
+"That thing wasn't built by people, I can promise you that.",negative,0.5466
+Old wives' tales.,neutral,0.7276
+You know that.,neutral,0.6046
+But it fell from the sky just before the Meiji Restoration.,neutral,0.7723
+Ah...,neutral,0.6794
+boom!,positive,0.653
+Down it came with an earth-rattling crash.,neutral,0.5903
+You sure it wasn't just thunder?,neutral,0.7224
+"A long time ago, there used to be a giant pond over there, but then that water all dried up.",neutral,0.5088
+Only that tower stands there now.,neutral,0.8276
+I was always told that Natsuko's genius granduncle was the one who built it.,neutral,0.7638
+Not true.,negative,0.6036
+It crashed down here from the sky.,neutral,0.6083
+And everybody was too scared to venture near it.,negative,0.6961
+"After 30-odd years, the forest grew back and covered the entire thing.",neutral,0.7851
+It was around that time when her granduncle discovered it.,neutral,0.9109
+"Soon, he became completely obsessed.",negative,0.4737
+"And because the thing seemed so rare, he decided to build a tower around it.",neutral,0.7055
+"Many people were hurt badly, and some of them even died.",negative,0.9595
+And let's not forget that her granduncle vanished in that tower.,neutral,0.6222
+True.,neutral,0.5432
+And then there was that one time when Mahito's mother Hisako also went missing as well.,neutral,0.5313
+Hmm?,neutral,0.702
+We searched the whole village and couldn't find her.,negative,0.6317
+"Then, after a year, she came back happy and healthy.",positive,0.884
+She looked the same as the day she went missing.,neutral,0.5041
+No memory of what happened to her and grinning ear to ear.,neutral,0.5847
+Oh.,neutral,0.5443
+"It's so bizarre, isn't it?",negative,0.6667
+Hmm.,neutral,0.6435
+Do we have the key to the tower?,neutral,0.8802
+"Yes, but, sir...",neutral,0.794
+I want to see for myself.,neutral,0.5738
+I can't.,negative,0.7719
+I'm pooped.,negative,0.8042
+"I was definitely not built for walking, that's for sure.",negative,0.8356
+"At this rate, I'm not gonna be able to make it to where Natsuko is.",negative,0.7773
+"If only I could find a way to plug this hole up, then maybe I could fly.",neutral,0.5857
+Just shove a stick in it or something.,neutral,0.5583
+"Ah, no, that's easy for you to say!",neutral,0.4713
+"The one who made the hole has to fill it, or it won't work!",negative,0.5775
+And is that lie true or not?,neutral,0.5631
+I've never told a lie in my life!,positive,0.4195
+Gentle.,neutral,0.6447
+"Just-just smooth that part there a bit more, please.",neutral,0.682
+Will you shut up?,neutral,0.5628
+It's already through.,neutral,0.7189
+No need to push so hard.,neutral,0.5432
+"If you're not careful, you're gonna break your beak.",negative,0.8453
+How's it feel?,neutral,0.8132
+Oh!,neutral,0.5628
+Look at me!,positive,0.7281
+I'm back to my gorgeous and powerful self!,positive,0.9641
+"So, are you able to fly?",neutral,0.8783
+"You and I aren't friends or allies, kid.",negative,0.7488
+You got that?,neutral,0.6601
+So long.,neutral,0.5661
+You'll have to find Natsuko and figure out how to get out of here all on your...,neutral,0.772
+Is it coming out?,neutral,0.876
+"No, see, the thing is, uh...",neutral,0.5941
+It sticks out a little bit.,neutral,0.7258
+Right here!,positive,0.6737
+This really bugs me.,negative,0.9723
+Right there.,neutral,0.6175
+Wait.,neutral,0.5851
+Don't take too much off.,neutral,0.7098
+Please shut up.,negative,0.7905
+It's someone's home.,neutral,0.7274
+The blacksmith lives here.,neutral,0.8194
+Shh!,negative,0.4821
+Get down or they'll see you.,neutral,0.5535
+That's a big parakeet.,neutral,0.6565
+"Hmm, this is weird.",negative,0.6955
+I wonder what they're doing hanging around here.,neutral,0.8498
+"Oh, maybe they've eaten the blacksmith.",negative,0.6283
+Hmm.,neutral,0.6435
+Wait.,neutral,0.5851
+They eat people?,negative,0.9094
+Those guys will even eat an elephant.,negative,0.8524
+The parakeets are like the pelicans.,neutral,0.7633
+They were brought here by the master.,neutral,0.8318
+"Uh, so you're gonna have to go through there to get to the tower where Natsuko is.",neutral,0.8312
+I'll draw them out.,neutral,0.7348
+Then you can run in.,neutral,0.7564
+Okay.,neutral,0.5844
+Let's do it.,positive,0.6333
+We have been waiting for you.,positive,0.4965
+Do you know if there's a woman by the name of Natsuko here?,neutral,0.9343
+I've been trying to find her.,neutral,0.72
+Right this way.,neutral,0.6629
+This way.,neutral,0.6722
+You're all monsters!,negative,0.9522
+Are you going to eat me like you ate Natsuko?,neutral,0.5372
+Natsuko has baby inside.,neutral,0.8326
+We no eat babies.,negative,0.6833
+You no have baby.,neutral,0.6643
+Eatable.,neutral,0.64
+Eatable.,neutral,0.64
+Himi!,neutral,0.5589
+You're either dumb or brave.,negative,0.7499
+They almost made a stew out of you.,negative,0.5874
+You must be Himi.,neutral,0.8304
+You saved my life.,positive,0.9092
+I must thank you.,positive,0.8697
+And I'm guessing you're the little brat who was with Kiriko the other night.,neutral,0.6553
+My name is Mahito.,neutral,0.7148
+I'm looking for someone.,neutral,0.761
+Her name is Natsuko.,neutral,0.8317
+Natsuko?,neutral,0.7601
+You mean my sister?,neutral,0.7261
+She's your sister?,neutral,0.8316
+Let's go.,positive,0.5876
+We should hurry.,neutral,0.6533
+Welcome to my home.,positive,0.8911
+That looks just like the tower in my world.,neutral,0.6162
+"Well, sure.",neutral,0.5454
+That's 'cause it's the same one.,neutral,0.6855
+That tower over there has the ability to straddle all kinds of different worlds.,neutral,0.5364
+"Now, come.",neutral,0.6732
+Eat it.,neutral,0.4853
+"Hurry, before the jam drips.",neutral,0.7131
+"You know, Kiriko also loves the bread that I make.",positive,0.9111
+It tastes so good!,positive,0.9875
+It tastes exactly like the bread my mother used to bake when I was little.,positive,0.5682
+"Oh, so does that mean Natsuko's your mother, then?",neutral,0.8361
+She's not.,neutral,0.561
+Natsuko is someone my dad likes.,positive,0.7359
+My mother's already dead.,negative,0.9209
+"Yeah, mine is as well.",neutral,0.7525
+Better eat your fill.,neutral,0.6669
+We're going to be traveling really deep inside.,neutral,0.7462
+Don't wander.,neutral,0.7265
+"If you get lost in this garden, you'll never get out.",negative,0.7295
+I see a guard.,neutral,0.6339
+Be careful.,neutral,0.7332
+"Inside here, there's limits to what my powers can do.",neutral,0.6282
+This way.,neutral,0.6722
+What are these doors?,neutral,0.7862
+"Be quiet, please.",neutral,0.6833
+You'll mess me up.,negative,0.875
+This is the one.,positive,0.6201
+Don't get too close or you'll get sucked in.,neutral,0.5076
+Father?,neutral,0.7309
+"Oh, so that's your father, huh?",neutral,0.6758
+"If you want to go home, all you have to do is open this door.",neutral,0.7329
+What about Natsuko?,neutral,0.8782
+I'm not leaving here without her.,neutral,0.6733
+But she says she doesn't want to leave.,neutral,0.6883
+She's going to have her baby.,neutral,0.8029
+Parakeets.,neutral,0.6548
+We're trapped.,negative,0.6139
+No choice.,neutral,0.6137
+"Hurry, turn it hard!",neutral,0.5781
+"Don't let go, no matter what.",neutral,0.663
+Ready?,neutral,0.6724
+Now grab the outside knob!,neutral,0.701
+Shut the door!,negative,0.586
+Where are we?,neutral,0.7936
+You can't let go yet.,neutral,0.6036
+"Once you let go of it, you're never going to be able to find it again.",negative,0.6426
+Hmm?,neutral,0.702
+It's Mahito!,neutral,0.5028
+Mahito!,neutral,0.5433
+Mahito!,neutral,0.5433
+Father.,neutral,0.6912
+Want to stay?,neutral,0.8492
+"If you do, then just let go.",neutral,0.7732
+Not yet.,neutral,0.6702
+We have to save Natsuko.,neutral,0.721
+"Ah, get back, you monsters!",negative,0.7487
+"Oh, Mahito turned into a parakeet.",neutral,0.5955
+"Father, I'm sorry.",negative,0.6266
+Oh.,neutral,0.5443
+Sir?,neutral,0.6889
+Mahito has turned into a little budgie!,positive,0.499
+Don't touch the stone if you can.,neutral,0.6906
+It's not happy about us being here.,negative,0.8936
+The delivery room's through here.,neutral,0.8186
+That's where Natsuko is.,neutral,0.8391
+The stone's upset that we're here right now.,negative,0.73
+I wouldn't go in if I were you.,negative,0.5453
+I don't have a choice.,neutral,0.534
+I'll wait for you here.,positive,0.5326
+All right.,neutral,0.4897
+"Natsuko, it's Mahito.",neutral,0.8428
+Miss Natsuko.,neutral,0.7636
+"Natsuko, it's Mahito.",neutral,0.8428
+I'm here to take you home.,neutral,0.5767
+"Please, Natsuko!",neutral,0.6607
+Let's go home.,neutral,0.674
+You.,neutral,0.5463
+What are you doing?,neutral,0.8242
+Get out!,neutral,0.5983
+You can't be here.,negative,0.6716
+Go back!,positive,0.5108
+Now!,neutral,0.512
+Please come with me.,positive,0.5194
+I'm not going anywhere with you!,negative,0.7674
+I hate you!,negative,0.9709
+Just go!,positive,0.6611
+Leave!,neutral,0.6048
+Mother.,neutral,0.6247
+Natsuko...,neutral,0.7696
+Mother!,neutral,0.5851
+Let's go back!,positive,0.7458
+Mother!,neutral,0.5851
+"Mahito, run!",neutral,0.6247
+"Mother, please!",neutral,0.6196
+"Master of the great stone, will you grant me one wish?",neutral,0.7715
+Let my sister lying there go home with this boy who will be her son.,neutral,0.5429
+Natsuko.,neutral,0.714
+Natsuko.,neutral,0.714
+Come.,neutral,0.5622
+You can do it.,positive,0.815
+You just have to get up.,neutral,0.6243
+That's it.,neutral,0.5321
+That's a good girl.,positive,0.9413
+"Now, come here.",neutral,0.7083
+"You're here, descendant.",neutral,0.6071
+My name is Mahito.,neutral,0.7148
+"Are you the tower master, my great-granduncle?",neutral,0.915
+Wait right there.,neutral,0.5878
+But be quiet.,neutral,0.7395
+This world that we're in...,neutral,0.5295
+...now it will last another day.,neutral,0.5751
+One day?,neutral,0.8191
+This world is only going to last for one more day?,negative,0.5622
+Follow me.,neutral,0.6722
+"This world I've created, and all my power, every little bit of it originates from this stone.",neutral,0.5767
+That stone?,neutral,0.761
+So that stone is what created this whole sea world?,neutral,0.7934
+And there's more work to be done.,neutral,0.6437
+"Worlds are living things, and they can be infected by mold and bugs.",negative,0.8984
+I have grown old.,negative,0.8025
+I seek someone to be my successor.,neutral,0.8726
+"Mahito, will you continue my work?",neutral,0.8918
+You want me?,neutral,0.8044
+Whoever it is that succeeds me has to be someone from my bloodline.,neutral,0.8269
+That is the contract I made with the stone.,neutral,0.8556
+"However, whether or not this world becomes a thing of beauty or an abomination will be entirely in your hands.",neutral,0.5928
+Does this have to do with your blocks?,neutral,0.7949
+You may choose any of these blocks to add to it.,neutral,0.8756
+Perhaps you will be able to make this world a more harmonious place than I could.,positive,0.9076
+Those aren't made out of wood.,negative,0.4916
+They look like gravestones.,neutral,0.7445
+I can sense their malice.,negative,0.7929
+That's very observant.,positive,0.5542
+And that's the reason I chose you to succeed me.,positive,0.6713
+[high-pitched scraping continues] Thank you.,positive,0.6532
+We'll talk later.,neutral,0.738
+Himi's been captured.,neutral,0.6595
+She can handle herself just fine.,positive,0.6858
+We've got to save her.,neutral,0.6273
+Do you think she'll be all right?,neutral,0.8683
+I can't tell.,neutral,0.5923
+It looks like they're planning on taking her to their lord.,neutral,0.8611
+Their lord?,neutral,0.7701
+Your great-granduncle.,neutral,0.72
+Who else?,neutral,0.6963
+I'm guessing they'll use her as leverage to make some kind of deal with him.,neutral,0.7267
+"What do you mean, ""deal""?",neutral,0.7534
+So they can get everything they want.,neutral,0.5535
+The tower is full of parakeets now.,neutral,0.7266
+And your transgression gave them the excuse they needed to do it.,negative,0.7548
+What transgression?,neutral,0.5183
+Taboo.,neutral,0.4875
+You entered Lady Natsuko's delivery room.,neutral,0.9187
+Big no-no.,negative,0.7041
+Why take Himi when I was the one who went in?,neutral,0.6789
+"Bringing you there was taboo, too.",neutral,0.707
+We can see everything from here.,neutral,0.792
+You got to look higher.,neutral,0.571
+"[parakeets cheering and chirping] Subjects, this is far enough.",neutral,0.5788
+You will await my news here.,neutral,0.6211
+"Please, Your Majesty, let us accompany you further.",positive,0.5221
+We live to serve you!,positive,0.854
+"Please, Your Majesty!",neutral,0.5137
+"Please, Your Majesty!",neutral,0.5137
+Your dedication has been noted.,positive,0.6221
+"However, I must do this task alone.",neutral,0.6252
+"Subjects, live well in my absence.",neutral,0.6025
+Three cheers for our noble parakeet king!,positive,0.9643
+Enough!,neutral,0.5505
+Let us pass.,neutral,0.6739
+"We have Lady Himi, our lord's descendant!",positive,0.6411
+Yield!,neutral,0.4857
+Is this heaven?,neutral,0.7043
+It's our ancestors!,neutral,0.6227
+It's paradise.,positive,0.8831
+"Your Majesty, is this what they call paradise?",neutral,0.7792
+That's enough talking.,neutral,0.6073
+Look at all this.,neutral,0.6541
+So beautiful.,positive,0.9617
+"So, you made it.",positive,0.6234
+Have a seat.,neutral,0.6978
+"Actually, let's take a walk.",neutral,0.7345
+"Yes, entering the delivery room was against the rules.",negative,0.646
+It is no laughing matter.,neutral,0.4487
+"Rather, it is a grave transgression.",negative,0.8849
+No doubt.,neutral,0.5265
+The stone has been shimmering dangerously.,neutral,0.776
+"Nevertheless, children's souls are precious.",neutral,0.471
+"As the king, I cannot simply ignore a transgression of this magnitude.",negative,0.6177
+Give me a little more time.,neutral,0.6938
+I want Mahito to become my successor.,neutral,0.6243
+Granduncle.,neutral,0.7086
+"We must protect this world ourselves, or it shall perish at this rate.",neutral,0.4896
+"Mahito is a good boy, but it seems the time has come to let him go home.",neutral,0.5116
+"Oh, Granduncle!",neutral,0.6162
+"You must go, too.",neutral,0.7549
+There it is.,neutral,0.5908
+It's the passage.,neutral,0.692
+I've come through this passage before.,neutral,0.8051
+I've never been this way before.,neutral,0.5087
+"We should be heading back, Your Majesty.",neutral,0.8248
+I will stay behind.,neutral,0.7586
+Make sure you make it back to the others alive.,positive,0.5544
+And tell them your king forged ahead like a king should.,positive,0.5804
+"Yes, sir.",positive,0.4808
+Fare thee well.,neutral,0.659
+"Hey, chief, maybe we should get out of here.",neutral,0.5429
+What do you think?,neutral,0.809
+This way.,neutral,0.6722
+Himi's calling.,neutral,0.6923
+Are you sure about that?,neutral,0.8586
+Because I can't hear so much as a peep.,negative,0.6825
+Himi!,neutral,0.5589
+Mahito!,neutral,0.5433
+"What's the matter, Himi?",neutral,0.7253
+Did they hurt you?,negative,0.5405
+"Mm-mm, no.",neutral,0.5305
+I just thought I'd never see you again.,negative,0.843
+I'm so relieved.,positive,0.9687
+Granduncle has been waiting to talk to you.,neutral,0.8422
+I know.,neutral,0.5132
+I'll go.,positive,0.5695
+Something doesn't feel right.,negative,0.9254
+You don't have to...,neutral,0.7506
+It's okay.,positive,0.7313
+Huh?,neutral,0.6584
+It's getting dark out there!,neutral,0.6072
+The stone building blocks.,neutral,0.6865
+It's better if you don't touch them.,neutral,0.6422
+They look like they still hold some power.,positive,0.5428
+"I'm back, Granduncle.",positive,0.5996
+And I've brought Mahito with me.,neutral,0.767
+Here I am.,neutral,0.6803
+Take a look.,neutral,0.8216
+These stones here have not been stained with malice.,neutral,0.7523
+I had to travel the far reaches of time and space in order to find them.,neutral,0.6701
+There are 13 stones in all.,neutral,0.8934
+You just need to stack them once every three days.,neutral,0.8364
+You can build your own tower.,neutral,0.698
+A kingdom that is free from malice.,neutral,0.612
+"Create a world of bounty, peace and beauty.",positive,0.8798
+I gave myself this scar on my head.,negative,0.7315
+It's a sign of my malice.,negative,0.7843
+That's why I won't touch those stones.,negative,0.5114
+"And I'm going back home with Natsuko, my mother.",neutral,0.8539
+So you would rather return to a chaotic world full of murderers and thieves?,negative,0.9344
+"Soon, your world will be a sea of flames.",negative,0.472
+But I'll find my friends there.,positive,0.5186
+Like Himi and Kiriko and the heron man.,neutral,0.8769
+Me?,neutral,0.707
+I will allow you to return to your world and find those friends.,neutral,0.5371
+Just stack the stones before you go.,neutral,0.7618
+Time's running out.,negative,0.5709
+I cannot keep my tower standing.,negative,0.784
+You dare betray us like this?,negative,0.9516
+How could you place the fate of the entire empire upon a mere handful of stones?!,negative,0.8177
+"No, don't fall.",neutral,0.6671
+"No, no, no, no, no.",negative,0.7323
+Himi!,neutral,0.5589
+Mahito!,neutral,0.5433
+Return to the corridor of time!,neutral,0.6734
+Go back to your own time!,neutral,0.5999
+Granduncle!,neutral,0.6606
+The planet's breaking apart!,negative,0.873
+Grab my legs!,neutral,0.5909
+"Thank you for everything, Granduncle.",positive,0.9739
+Come on.,neutral,0.5758
+Hurry!,neutral,0.5702
+Hurry!,neutral,0.5702
+Lady Natsuko!,neutral,0.7021
+This is it.,neutral,0.6173
+Your world is through here.,neutral,0.7822
+"What's gonna happen to you, Himi?",neutral,0.868
+My door is a different one.,neutral,0.7849
+I have to go there as I'm going to become your mother.,neutral,0.847
+"But if you go back there, you're gonna die in the fire at the hospital.",negative,0.9157
+Fire doesn't scare me.,neutral,0.724
+You know I'm really lucky to have you as a son.,positive,0.9717
+Please don't.,negative,0.5407
+"You've got to live, Himi.",neutral,0.7451
+I hope you know what a good boy you are.,positive,0.9648
+They're here!,positive,0.5976
+"Mother, you're okay.",positive,0.6682
+Mahito.,neutral,0.627
+Thank goodness.,positive,0.88
+Big sister.,neutral,0.6318
+Wishing you the best of luck with your birth.,positive,0.9544
+Come on.,neutral,0.5758
+We have to hurry.,neutral,0.5951
+So cute.,positive,0.9664
+Hey!,neutral,0.5279
+Over here!,neutral,0.5148
+That's good.,positive,0.963
+It looks like the pelicans made it out as well.,neutral,0.4991
+"Hey, Mahito.",neutral,0.6635
+"You don't remember where we just came from, do you?",neutral,0.5597
+Of course I do.,positive,0.56
+That's a bad thing.,negative,0.9149
+You better forget it.,neutral,0.539
+But why?,neutral,0.6471
+Because most people tend to forget.,negative,0.6722
+Hmm?,neutral,0.702
+"You didn't bring back anything from there, did you?",neutral,0.5372
+That's one powerful charm you've got there.,positive,0.88
+That thing's way too powerful for the likes of me.,negative,0.4818
+"Mm, hey, is that one of them stones?",neutral,0.8904
+"There was a field full of them, so I picked it up.",neutral,0.5811
+This is why you can't trust amateurs.,negative,0.9293
+"Well, I guess that stone's not so powerful anymore.",negative,0.7381
+You'll forget everything in time.,neutral,0.5805
+Or at least you should.,neutral,0.7302
+"So long, my friend.",positive,0.5537
+Kiriko!,neutral,0.6428
+Parakeet king?,neutral,0.8758
+Natsuko!,neutral,0.6372
+Mahito!,neutral,0.5433
+Shoichi!,neutral,0.6798
+Father!,neutral,0.5548
+"Two years after the war, we returned to Tokyo.",neutral,0.8828
+Hey!,neutral,0.5279
+Mahito!,neutral,0.5433
+Let's go!,positive,0.8384
+Coming!,positive,0.5762
+"[""Spinning Globe"" by Kenshi Yonezu playing]",neutral,0.9206

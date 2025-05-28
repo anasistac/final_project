@@ -1,0 +1,1160 @@
+text,sentiment,score
+Wait!,neutral,0.6225
+You're it!,positive,0.8501
+"In this world, there's an invisible magic circle.",neutral,0.7962
+You're it!,positive,0.8501
+What are you doing?,neutral,0.8242
+So you did date him!,neutral,0.7114
+What?,neutral,0.5653
+There's an inside and an outside.,neutral,0.7839
+Capture the movement.,neutral,0.7191
+It's hard.,negative,0.525
+Right?,neutral,0.736
+Let's see.,neutral,0.607
+"Hey, not yet!",neutral,0.649
+These people are inside the circle.,neutral,0.5542
+And I'm outside.,neutral,0.7709
+But I don't really care.,neutral,0.6155
+How's it coming?,neutral,0.825
+"Um, I...",neutral,0.7284
+kind of messed up.,negative,0.9211
+Let me have a look.,neutral,0.7437
+"Oh, no.",negative,0.6307
+Are you okay?,neutral,0.7918
+"Hey, hey...",neutral,0.7169
+I...,neutral,0.7305
+I hate myself.,negative,0.9558
+Anna...,neutral,0.7219
+You're fine now.,positive,0.6469
+"Oh, I'm so glad.",positive,0.9701
+"Thank you, Doctor.",positive,0.7876
+"Anna, do you feel all right now?",neutral,0.8546
+I'm fine.,positive,0.8
+You looked like you were in agony.,negative,0.8299
+Where was your inhaler?,neutral,0.6981
+I cost you money again.,negative,0.8919
+Why do you say that?,neutral,0.5037
+"Oh, Miyoko.",neutral,0.7369
+I brought Anna's bag.,neutral,0.8511
+Her notebook is inside.,neutral,0.8251
+"Why, thank you.",positive,0.7367
+We were just nearby.,neutral,0.7436
+If there's anything else...,neutral,0.7484
+Wait...,neutral,0.6459
+Has Anna been getting along with you?,neutral,0.8944
+She tells me nothing about school.,negative,0.6313
+She's okay.,positive,0.7556
+But she's very quiet.,neutral,0.6846
+Quiet?,neutral,0.786
+More like...,neutral,0.7294
+"Hey, don't.",neutral,0.6001
+We're just a bit loud.,neutral,0.5643
+"Well, take care.",neutral,0.7318
+"Ever the worrywart, your mother.",neutral,0.6328
+Mother...,neutral,0.6758
+She's probably a loner at school.,negative,0.7062
+It's true that stress can trigger asthma attacks.,negative,0.6862
+"Meanwhile, my husband's off on a business trip.",neutral,0.7234
+"Maybe he and I are partly to blame, too.",negative,0.6106
+12 years old...,neutral,0.8533
+It's a difficult age.,negative,0.5613
+Have you noticed anything about her?,neutral,0.8251
+She...,neutral,0.7912
+always has a straight face.,neutral,0.6042
+A straight face?,neutral,0.7795
+I'm sorry.,negative,0.6455
+Like she won't show her emotions...,neutral,0.4978
+She used to be more expressive.,neutral,0.692
+"But these days, I don't even know...",negative,0.499
+Maybe it's because we're not related by blood.,neutral,0.5992
+You may want to send her somewhere to get better.,neutral,0.62
+"7:03 DEPARTURE FOR KUSHIRO Say, Anna...",neutral,0.9148
+Do you remember Uncle and Aunt Oiwa?,neutral,0.9125
+The air is very clean where they live.,positive,0.8426
+It'll help your condition to spend some time there.,positive,0.6169
+"I can't go with you, but they'll take care of you.",neutral,0.7108
+"Be a good girl, eat well, and come back nice and happy.",positive,0.9481
+She whines like a goat.,negative,0.9668
+"Oh, here she is.",neutral,0.5901
+Anna.,neutral,0.6362
+Remember us?,neutral,0.8275
+"No, but Auntie told me all about you.",neutral,0.7669
+I'm Anna Sasaki.,neutral,0.8872
+I hope I'm not much trouble.,neutral,0.6284
+Thank you for having me.,positive,0.9709
+Our pleasure.,positive,0.9195
+Auntie?,neutral,0.741
+She means Yoriko.,neutral,0.7944
+Hop on in.,neutral,0.6499
+Sorry it's a bit of a clunker.,negative,0.8212
+Sorry.,negative,0.5092
+It's a bit cramped in here.,negative,0.6923
+I don't mind at all.,positive,0.559
+This area's changed since I was last here.,neutral,0.829
+All these new shops.,neutral,0.7248
+"Where we're headed is a nice, relaxing place.",positive,0.9525
+"But since the highway was built, people stopped coming.",negative,0.5047
+They still haven't fixed that pothole!,negative,0.8729
+I hear you have asthma?,negative,0.5895
+"Uh, yes...",neutral,0.777
+The air here will fix you up in no time.,positive,0.6219
+"Nice place, huh?",positive,0.7149
+"Bet you'd like Auntie to see it, too.",neutral,0.6572
+What's that over there?,neutral,0.8037
+On the cliff.,neutral,0.7205
+"Oh, that's a silo.",neutral,0.6262
+It's for storing feed for livestock.,neutral,0.8352
+"Hasn't been used in decades, though.",neutral,0.584
+Now the village kids use it for dares.,negative,0.5238
+They say there are ghosts there.,neutral,0.7636
+"Dear, please!",neutral,0.6503
+He loves stories like that.,positive,0.8983
+Best to stay away from there.,neutral,0.7183
+"Look, that's our house over there.",neutral,0.8066
+Do you mind taking this in?,neutral,0.8995
+What's this?,neutral,0.7517
+Why would you accept this?,negative,0.6542
+It's too much for us to eat.,negative,0.8375
+He's always accepting gifts without thinking...,neutral,0.5202
+Our kids are all grown up and moved out.,neutral,0.7091
+Make yourself at home.,neutral,0.7358
+Thank you.,positive,0.853
+"Let's see, where do these go?",neutral,0.8681
+Excuse me.,neutral,0.4804
+MOM DAD You must think it's an odd house.,neutral,0.5371
+"No, it's a lovely home.",positive,0.6556
+No need for flattery.,negative,0.5019
+Your room's upstairs.,neutral,0.8214
+It was my daughter's room.,neutral,0.8296
+"It'd be sad to clear everything, so I left it as it was.",negative,0.5064
+I see.,neutral,0.5826
+She's a yoga teacher in Tokyo now.,neutral,0.9321
+I'm thinking of trying it myself.,neutral,0.7149
+"Oh, and feel free to use the closet and shelves.",neutral,0.7666
+"Oh, thank you.",positive,0.8409
+"""Write and tell me how you are, whatever you wish to tell me about.",neutral,0.8462
+"Yoriko"" Postcards, how quaint!",positive,0.5959
+You should write her.,neutral,0.7959
+Come here for a sec!,neutral,0.6933
+Coming!,positive,0.5762
+He can be so pushy.,negative,0.8149
+See you later.,neutral,0.6937
+Smells like someone else's home.,neutral,0.4741
+Feels nice.,positive,0.9635
+I've arrived safely.,positive,0.7894
+It's quite nice here.,positive,0.9828
+Mr.,neutral,0.5849
+and Mrs.,neutral,0.6956
+Oiwa are both very kind.,positive,0.903
+TO YORIKO SASAKI These are delicious.,positive,0.9785
+"Sorry, my hands are full.",negative,0.7441
+"Um, I'm going to the post office.",neutral,0.6739
+"Sure, go ahead.",neutral,0.4862
+Won't you try this?,neutral,0.8798
+Later.,neutral,0.6653
+"Okay, I'll save it for dessert.",neutral,0.6117
+"By the way, there's a shortcut by the parking lot.",neutral,0.8374
+"Oh, thank you.",positive,0.8409
+SHORTCUT This is the shortcut?,neutral,0.6791
+SHORTCUT SHORTCUT SHORTCUT KITAHARA GROCERIES Boys just drive me mad!,negative,0.9707
+It's tough being class president.,negative,0.6269
+"Wait, I need to drop off a letter.",neutral,0.7665
+"Hey, who's that?",neutral,0.7996
+Why is it...,neutral,0.5997
+That mansion feels familiar.,neutral,0.5361
+I wonder if anyone lives here.,neutral,0.8279
+Excuse me...,neutral,0.5475
+What a big house.,positive,0.662
+I guess there's no one here.,negative,0.5045
+"Oh, no...",negative,0.6228
+I'm sorry.,negative,0.6455
+He's a bear.,negative,0.5812
+Or maybe a sea lion.,neutral,0.7867
+Sounds like an adventure!,positive,0.8993
+"Completely different in high tide, isn't it?",neutral,0.6377
+It's the power of the moon.,positive,0.7979
+"But imagine that, Toichi giving a girl a ride on his boat.",neutral,0.7366
+He's actually a good guy.,positive,0.9331
+Just not much of a talker.,negative,0.7599
+You should ask him for a ride again.,neutral,0.8647
+Ask him for a ride.,neutral,0.8269
+I will.,positive,0.4827
+But it's best you stay away from the marsh house.,neutral,0.7586
+How come?,neutral,0.6759
+Ghosts.,neutral,0.5795
+Not again!,negative,0.7916
+I'll get some wine.,neutral,0.6935
+It looked like no one lives there.,negative,0.6699
+"Not now, anyway.",neutral,0.6236
+It used to be a vacation home for some foreigners.,neutral,0.7907
+Then it changed hands a few times.,neutral,0.8174
+But it's been vacant for a while now.,neutral,0.5177
+I see...,neutral,0.6415
+Someone's there.,neutral,0.6633
+Have you finished them yet?,neutral,0.8402
+What Mrs.,neutral,0.6738
+Kadoya asked for.,neutral,0.8389
+Oh...,neutral,0.6291
+Almost done.,neutral,0.5205
+"Hey, Anna.",neutral,0.7543
+Going out?,neutral,0.8951
+Yes.,positive,0.461
+Just finish them already...,neutral,0.6294
+I'm going to go sketch.,neutral,0.6587
+"Sure, go on.",neutral,0.5541
+Thank you.,positive,0.853
+"Yoriko was worried about her, but she looks fine to me.",positive,0.8502
+As long as she's having fun and eating well.,positive,0.9097
+That's for sure.,neutral,0.6389
+All the trash you pick up will be collected here.,negative,0.696
+Everyone listen!,positive,0.5207
+Now begin!,neutral,0.566
+"Look, it's Toichi.",neutral,0.7263
+Toichi the mute!,neutral,0.7001
+Toichi who only talks once a decade!,neutral,0.6177
+"Hey, I said we're not going there until later!",neutral,0.6948
+We're just checking it out!,neutral,0.5273
+See ya!,positive,0.6017
+Perhaps we'll hear from you next time!,positive,0.6458
+I'm going out.,neutral,0.7014
+"Wait, Anna.",neutral,0.7741
+"I have a little errand, so hold on.",neutral,0.8136
+Yes.,positive,0.461
+He should be delivering these himself.,neutral,0.6928
+"""I'm allergic to that lady,"" he says!",negative,0.8754
+But Mrs.,neutral,0.7265
+Kadoya's been wanting to meet you.,neutral,0.8034
+Their daughter Nobuko is a year older than you.,neutral,0.7833
+Nobuko is at cram school today.,neutral,0.8455
+"Oh, that's too bad.",negative,0.93
+This must be Anna.,neutral,0.7742
+Nice to meet you.,positive,0.9246
+"Oh, um...",neutral,0.74
+Hello.,neutral,0.5209
+"Ah, so you draw, I see?",neutral,0.8375
+Show me next time.,neutral,0.6656
+"No, I'm not very good.",negative,0.9356
+"Oh, you should go to the Tanabata Festival with Nobuko tomorrow.",positive,0.6574
+Great idea!,positive,0.9597
+I should still have my daughter's yukata.,neutral,0.8132
+You can wear it to the festival.,neutral,0.6491
+But...,neutral,0.7123
+Yes.,positive,0.461
+I'll let Nobuko know.,neutral,0.7486
+Now come in.,neutral,0.7398
+Where'd I put it...,neutral,0.7278
+"Uh, actually I...",neutral,0.7416
+"Oh, you're going sketching.",neutral,0.8254
+Go ahead!,positive,0.6867
+She'll look great!,positive,0.9807
+"Ready, and...",neutral,0.7646
+"This one, too.",neutral,0.697
+Got it.,positive,0.5088
+I won't look good in it.,negative,0.8547
+None of her business.,neutral,0.5603
+He's not here.,neutral,0.5025
+Bye.,neutral,0.5137
+See you tomorrow.,neutral,0.6884
+The tide is out.,neutral,0.7192
+Again.,negative,0.4668
+I hate festivals.,negative,0.9627
+"Hey, let's go.",positive,0.4896
+Wait for me.,neutral,0.6721
+Here you go.,neutral,0.581
+Thank you.,positive,0.853
+Here's some candy.,neutral,0.6428
+Thanks.,positive,0.6284
+"I wish I was wearing a yukata, too.",neutral,0.6731
+At least you're comfortable.,positive,0.5623
+Mom forces her tastes on me.,negative,0.6025
+It's awful.,negative,0.9264
+I think it looks cute.,positive,0.9803
+What?,neutral,0.5653
+No way!,negative,0.6254
+It's boring and tacky...,negative,0.9438
+"So Anna, where are you from?",neutral,0.8646
+From Sapporo.,neutral,0.8483
+"Cool, I bet the city has great shopping.",positive,0.9774
+"Maybe lots of cute boys, too?",positive,0.8667
+You be quiet.,neutral,0.6967
+"Sure, sure.",positive,0.6049
+Here in the boonies.,neutral,0.732
+Why'd you come out here?,neutral,0.5953
+Well...,neutral,0.7051
+What's this?,neutral,0.7517
+Nobuko!,neutral,0.5628
+What is it?,neutral,0.75
+He's always making the same mistakes.,negative,0.8782
+I'll warn him next time.,neutral,0.6773
+TANABATA FESTIVAL There it is.,neutral,0.7786
+Will my wish come true?,neutral,0.5182
+Can I have a candle?,neutral,0.8776
+Here you go.,neutral,0.581
+Write your wish on this.,neutral,0.8265
+My wish...,neutral,0.6264
+Can you reach?,neutral,0.8129
+Ow!,neutral,0.5515
+Sorry about that.,negative,0.6856
+Anna!,neutral,0.482
+"Hey, where were you?",neutral,0.8332
+I was looking for you.,neutral,0.7485
+"Oh, your wish.",neutral,0.6576
+Let's see...,neutral,0.7497
+"""I wish for a normal life everyday."" ""Normal""?",neutral,0.57
+"Anna, what do you mean by normal?",neutral,0.8163
+"Uh, well...",neutral,0.6755
+"You see, um...",neutral,0.8031
+"Hey, your eye color!",neutral,0.5995
+What?,neutral,0.5653
+It's really pretty.,positive,0.9764
+"It's a bit blue, like a foreigner...",neutral,0.798
+Leave me alone!,negative,0.5898
+You fat pig!,negative,0.9362
+Fat...,negative,0.5886
+Uh...,neutral,0.6651
+I mean...,neutral,0.6943
+I see what you mean by normal.,neutral,0.7319
+But there's no use pretending to be normal.,negative,0.5395
+"After all, you look like just what you are.",positive,0.6102
+"Okay, now let's drop it.",neutral,0.6575
+You should join us next-- Anna!,positive,0.7326
+"Hey, watch it!",neutral,0.5969
+Like just what I am...,neutral,0.7464
+Like just what I am...,neutral,0.7464
+"Ugly, stupid, moody, unpleasant...",negative,0.9749
+That's why...,neutral,0.7934
+I hate myself.,negative,0.9558
+That's why everyone...,neutral,0.701
+We don't have long to live.,negative,0.7687
+"Typically, you're the ones who-- Still talking about that?",neutral,0.6991
+We already settled this matter.,neutral,0.7679
+We're not blaming you.,neutral,0.6886
+It's just that...,neutral,0.6674
+I've already told you.,neutral,0.6597
+It's not about money.,neutral,0.5968
+"I feel bad for her, but-- It'll be best for her if you two-- I'd better get home.",neutral,0.5958
+Did someone row it here?,neutral,0.859
+It's stuck!,negative,0.5249
+Throw me the rope!,negative,0.5616
+The rope?,neutral,0.7695
+Hurry!,neutral,0.5702
+Are you okay?,neutral,0.7918
+Yeah.,neutral,0.5491
+"Oh, um...",neutral,0.74
+Are you a real person?,neutral,0.7406
+Don't let anyone hear us.,neutral,0.6379
+You look like the girl I saw in my dreams.,positive,0.6103
+Dreams?,neutral,0.8149
+Thanks.,positive,0.6284
+It's not a dream.,neutral,0.5829
+What's your name?,neutral,0.7728
+Anna.,neutral,0.6362
+I hope we can be friends.,positive,0.8747
+What about you?,neutral,0.7871
+Yes.,positive,0.461
+Have you seen me before?,neutral,0.8196
+Yes.,positive,0.461
+Often.,neutral,0.5078
+I just got here.,neutral,0.7475
+How long have you been here?,neutral,0.8399
+I've been here for ages...,neutral,0.6328
+"Look at this, the marsh at night.",neutral,0.6575
+How beautiful.,positive,0.9548
+"Say, let's go down for a closer look.",neutral,0.8634
+Madam.,neutral,0.7253
+I know.,neutral,0.5132
+"By the way, where's that child?",neutral,0.5664
+Was she not in her room?,neutral,0.7847
+I need to get back.,neutral,0.6734
+Were they talking about you?,neutral,0.8649
+Yes.,positive,0.461
+"At this hour, I'm usually in bed.",neutral,0.8423
+"Come on, I'll row you back.",neutral,0.7371
+So it was your boat.,neutral,0.7725
+"Yes, I left it for you on purpose.",neutral,0.7439
+But I thought you'd be able to row a little better.,neutral,0.5832
+I know.,neutral,0.5132
+So did I.,neutral,0.7595
+You're my precious secret.,positive,0.7226
+"I haven't told anyone about you, and I won't.",neutral,0.7004
+"If someone finds out, they'll only spoil it.",negative,0.8633
+"Please, promise me...",neutral,0.6442
+that we'll remain a secret.,neutral,0.7975
+Forever.,neutral,0.4976
+Yes.,positive,0.461
+It'll be our secret.,neutral,0.8156
+Forever.,neutral,0.4976
+It was awful.,negative,0.9539
+She came home crying her eyes out!,negative,0.6688
+Did Anna do something?,neutral,0.8404
+She called my daughter a fat pig!,negative,0.9303
+Fat pig?,negative,0.9111
+"And she pulled out a knife, too.",neutral,0.5519
+The horror!,negative,0.5945
+"I doubt she'd-- No, you need to hear it from the girl herself.",neutral,0.6789
+Now bring her here.,neutral,0.788
+Seems she's not home yet.,negative,0.5963
+"She's a delinquent, out and about this late!",negative,0.8755
+"You two are at fault, too!",negative,0.9458
+Better keep an eye on her.,neutral,0.792
+Take this.,neutral,0.7371
+It's dark.,neutral,0.5985
+"No, thank you.",neutral,0.6126
+What if something happens to one of the kids?,negative,0.5966
+So what if she's a bit late!,neutral,0.6647
+Don't get so riled up.,negative,0.6527
+She is not a delinquent.,neutral,0.5
+"Ah, she's home.",positive,0.6942
+Anna.,neutral,0.6362
+Aunt Oiwa...,neutral,0.826
+Were you listening?,neutral,0.853
+Don't you worry.,neutral,0.7381
+You two'll make up.,neutral,0.5269
+Now take a bath and have dinner.,neutral,0.8191
+Thank you.,positive,0.853
+Or is it dinner before the bath?,neutral,0.8993
+It hardly matters.,neutral,0.6028
+"But ""fat pig"" is a bit harsh.",negative,0.8753
+That's for sure.,neutral,0.6389
+It's not that funny.,negative,0.8707
+"Auntie, worrying like always.",negative,0.7307
+Anna!,neutral,0.482
+Watermelon!,positive,0.5334
+Anna?,neutral,0.6675
+Two hours until high tide...,neutral,0.8643
+Hop in.,neutral,0.5985
+Time for a picnic.,neutral,0.5133
+I brought juice and cookies.,neutral,0.5621
+Picnic?,neutral,0.8792
+At this hour?,neutral,0.8135
+That's right.,neutral,0.569
+Let's go to the other side of the marsh.,neutral,0.6353
+You're very good at rowing.,positive,0.9429
+You need rowing lessons.,neutral,0.7494
+Come here.,neutral,0.6825
+It's easy.,positive,0.6667
+Remember I said last night that you're my precious secret?,positive,0.5814
+I remember.,neutral,0.6763
+And you're my secret.,neutral,0.7782
+I'm glad.,positive,0.9593
+Hey!,neutral,0.5279
+"Good, you're doing well.",positive,0.9478
+But I don't even know your name yet.,neutral,0.6115
+I haven't told you yet?,neutral,0.7002
+Marnie.,neutral,0.7437
+I thought you already knew.,neutral,0.67
+That's dangerous.,negative,0.8234
+"Go ahead, just row.",neutral,0.7386
+There's so much I want to know about you.,neutral,0.5023
+But I don't wish to find out too fast.,neutral,0.6678
+"Let's take it slow, as we go along.",neutral,0.7238
+Okay.,neutral,0.5844
+I'll tell you what we'll do.,neutral,0.8585
+We'll ask each other three questions a night.,neutral,0.8179
+Great.,positive,0.7671
+"All right, I'll start.",neutral,0.6383
+Question one.,neutral,0.6092
+Why are you here in this village?,neutral,0.5913
+I have asthma.,negative,0.8692
+The doctor said I should go somewhere with clean air for a while.,neutral,0.5729
+Even if I have to skip school.,neutral,0.6374
+"Oh no, you're ill?",negative,0.8292
+"If there's no attack, I'm fine.",neutral,0.5699
+"So I'm staying here with Auntie's relatives, the Oiwas.",neutral,0.9204
+Who's Auntie?,neutral,0.8358
+It's my turn to ask a question.,neutral,0.8675
+Do you live in that mansion?,neutral,0.8574
+Ever since I was two.,neutral,0.7415
+With Nan and the maids.,neutral,0.7718
+It's juice.,neutral,0.6725
+Where are your parents?,neutral,0.6745
+They only come here sometimes.,neutral,0.7879
+They're busy with work.,neutral,0.5783
+I see.,neutral,0.5826
+Question two.,neutral,0.7622
+Who's Auntie?,neutral,0.8358
+My guardian.,neutral,0.7681
+But I make her worry too much so she got rid of me for a while.,negative,0.7408
+What do you mean?,neutral,0.7294
+I'll explain another time.,neutral,0.7998
+It's my turn now.,neutral,0.7526
+Do you have siblings?,neutral,0.8404
+I'm an only child.,negative,0.5479
+"I see, you too...",neutral,0.7217
+How come?,neutral,0.6759
+"Oh, it's nothing.",neutral,0.6152
+Just curious what it's like to have siblings.,neutral,0.872
+I know.,neutral,0.5132
+It's fun to imagine what it's like.,positive,0.7703
+"All right, question three.",neutral,0.7834
+What's it like living with the Oiwas?,neutral,0.8743
+At the Oiwas?,neutral,0.8815
+Huh...,neutral,0.668
+How strange...,neutral,0.5021
+I can't...,negative,0.7498
+remember...,neutral,0.7304
+Marnie?,neutral,0.7855
+Marnie!,neutral,0.6525
+Anna!,neutral,0.482
+There you are.,neutral,0.6276
+I was wondering where you went.,neutral,0.8098
+Marnie?,neutral,0.7855
+I was looking for you everywhere.,neutral,0.7074
+You just disappeared.,negative,0.6997
+I didn't go anywhere.,negative,0.5916
+I was just trying to answer your question.,neutral,0.7882
+Wait...,neutral,0.6459
+What was it?,neutral,0.7879
+"It's okay, it doesn't matter.",positive,0.4886
+I need to go soon.,neutral,0.5443
+Today is...,neutral,0.7435
+"Oh, I know!",neutral,0.4847
+"No, no, no, I really can't!",negative,0.7809
+Parties aren't really my-- Don't worry.,neutral,0.6942
+I have a great idea.,positive,0.9524
+It's true.,neutral,0.5889
+That's hard to believe.,negative,0.6196
+"Sorry, did you wait long?",negative,0.5399
+I had trouble getting away.,negative,0.7047
+Marnie.,neutral,0.7437
+What do you think?,neutral,0.809
+It's pretty.,positive,0.9491
+I borrowed Nan's shawl.,neutral,0.7406
+I'll be scolded again.,negative,0.8797
+This won't work.,negative,0.9048
+"Don't worry, I spoke to Father.",neutral,0.6212
+Young lady.,neutral,0.6431
+I believe it is past your bedtime.,neutral,0.7795
+And who might this be?,neutral,0.8732
+She is wearing my shawl.,neutral,0.8693
+Upstairs!,neutral,0.6202
+Wait right there!,neutral,0.6533
+You are nothing but trouble.,negative,0.9572
+You go that way.,neutral,0.7491
+Marnie!,neutral,0.6525
+Why you little-- Marnie!,negative,0.5354
+Open it!,neutral,0.53
+Let's go.,positive,0.5876
+"If you keep this up, you'll grow up to be a lousy adult!",negative,0.9615
+"Everyone, we have a lovely flower girl here.",positive,0.9759
+A guest of my daughter.,neutral,0.8301
+"Ah, a flower girl.",positive,0.5122
+There's Marnie.,neutral,0.8251
+She'll be pretty like her mother.,positive,0.9174
+May I please have one of those flowers?,positive,0.5621
+My mother.,neutral,0.5975
+"Hello, my dear little witch.",neutral,0.5657
+That woman there is the real witch.,negative,0.6364
+Um...,neutral,0.6851
+"I want only one, for good luck.",positive,0.7153
+Will someone kindly pay for my flower?,neutral,0.7146
+If it is the witch's command...,neutral,0.5444
+"Then I'll have one, too.",neutral,0.7144
+Here.,neutral,0.5711
+For superb luck.,positive,0.755
+"Ah, it's begun.",neutral,0.5155
+I'm sorry!,negative,0.6708
+"Oh, she ran away.",neutral,0.6245
+Come on and take one for good luck!,positive,0.8566
+"May I have one, please?",neutral,0.7773
+Young lady.,neutral,0.6431
+To your health.,neutral,0.7228
+Thank you.,positive,0.853
+Wine?,neutral,0.8424
+Are you awake yet?,neutral,0.8722
+I...,neutral,0.7305
+You drunkard.,negative,0.9096
+Who was that?,neutral,0.7997
+Who?,neutral,0.6756
+The one who was dancing with you.,neutral,0.7846
+Kazuhiko?,neutral,0.7464
+He's an old friend.,neutral,0.7757
+He's a good dancer.,positive,0.9079
+So are you.,neutral,0.7248
+"Now let's dance, you and I.",positive,0.7095
+I can't dance.,negative,0.7754
+Just follow my lead.,neutral,0.6354
+Look for me again.,neutral,0.7986
+And don't tell anyone.,neutral,0.6655
+Promise.,neutral,0.6684
+I know.,neutral,0.5132
+"Hey, wait...",neutral,0.7078
+Is that-- It's the girl with the Oiwas.,neutral,0.881
+"DEAR ANNA, HOW ARE YOU?",neutral,0.832
+IT SEEMS LIKE YOU'RE ENJOYING IT...,positive,0.609
+I HOPE TO HEAR FROM YOU SOON.,positive,0.8505
+YORIKO.,neutral,0.6037
+I see.,neutral,0.5826
+I hope you find the other shoe.,neutral,0.6848
+It must be somewhere.,neutral,0.7192
+I'll go look for it.,neutral,0.7341
+I used to always lose mine.,negative,0.7497
+There's a bunch of shoes buried in the mudflats.,negative,0.5806
+Don't compare her to you.,negative,0.5657
+I should have my daughter's old shoes.,neutral,0.7179
+I'll get them out.,neutral,0.6662
+Thank you.,positive,0.853
+Marnie...,neutral,0.7762
+Wow.,positive,0.7094
+"Not only are they big, they're delicious, too.",positive,0.9711
+You're good with the knife.,neutral,0.5217
+Auntie teaches me all the time.,neutral,0.74
+You're so polite and well-behaved.,positive,0.8597
+My daughter could learn from you.,neutral,0.5225
+Passing behind you.,neutral,0.7816
+I remember when you first came to Yoriko's place.,neutral,0.8907
+She was ecstatic.,positive,0.9374
+She wanted to make up for the five years she didn't have with you.,neutral,0.5542
+"So she taught you things, like knife skills.",neutral,0.6563
+But she worries too much.,negative,0.6812
+Always calling me for help.,neutral,0.778
+"When I told her I was busy, she started pouting.",neutral,0.5835
+"Oh, I shouldn't share this about your mother.",negative,0.8633
+"No, I understand.",neutral,0.6509
+"You know, Yoriko sent us tons of photos of you.",neutral,0.7236
+I'll show you later.,neutral,0.7562
+"Hey, look.",neutral,0.635
+Found the wind chime I made on our honeymoon.,neutral,0.7554
+To survive the summer.,neutral,0.7644
+Your hair's getting long.,neutral,0.7379
+Shall I give you a haircut?,neutral,0.8866
+That would be a disaster.,negative,0.9372
+Mar...,neutral,0.7287
+nie...,neutral,0.706
+Look for me again.,neutral,0.7986
+How could I nearly forget about Marnie?,neutral,0.4965
+Marnie...,neutral,0.7762
+Marnie!,neutral,0.6525
+Marnie...,neutral,0.7762
+May I?,neutral,0.7686
+Sure.,neutral,0.4753
+"I see you draw, too.",neutral,0.6254
+That girl looks like someone I knew.,neutral,0.7641
+She was a great girl.,positive,0.948
+"Yes, she is.",positive,0.4999
+But I haven't seen her in a week.,negative,0.6059
+I wonder if she's upset that I forgot.,negative,0.5044
+"If she's a friend, talk to her and you'll be fine.",positive,0.6226
+"Say, will you take a look?",neutral,0.8586
+Sure.,neutral,0.4753
+Are the colors too messy?,negative,0.6666
+"No, it's wonderful.",positive,0.7687
+I'm Hisako.,neutral,0.751
+I'm in love with the marsh house.,positive,0.9782
+What about you?,neutral,0.7871
+I'm Anna.,neutral,0.7834
+"I love it, too.",positive,0.9693
+Better hurry and finish your drawing...,neutral,0.697
+before the new folks move in.,neutral,0.8044
+The renovations are under way.,neutral,0.8774
+Thanks for your hard work.,positive,0.9551
+Have some tea.,neutral,0.803
+"Oh, thank you.",positive,0.8409
+Appreciate it.,positive,0.9161
+"Hey, let's take a break!",neutral,0.5417
+"All right, coming.",neutral,0.6067
+Are you Marnie?,neutral,0.8754
+Come.,neutral,0.5622
+I hadn't seen the front before.,neutral,0.6934
+"It's a lot cleaner now, but it's not finished yet.",positive,0.6807
+Hello.,neutral,0.5209
+Hey there.,neutral,0.5917
+"You brought a friend, huh?",neutral,0.8424
+Choose your slippers.,neutral,0.7287
+A guest?,neutral,0.8058
+"Yeah, a secret one.",neutral,0.7322
+Secret?,neutral,0.7324
+Hey!,neutral,0.5279
+"Sorry, make yourself at home.",neutral,0.5704
+Thank you.,positive,0.853
+"Yes, it's a lovely place.",positive,0.9776
+"Yes, we haven't finished renovating.",neutral,0.7619
+This room...,neutral,0.7566
+Upstairs.,neutral,0.7442
+This hasn't been renovated yet.,neutral,0.5946
+"Here, this is my room.",neutral,0.815
+Really...,neutral,0.6835
+What do you think?,neutral,0.809
+It's a cute room.,positive,0.9555
+"It used to be your room, right?",neutral,0.7829
+You're...,neutral,0.6792
+"Marnie, right?",neutral,0.8533
+Me?,neutral,0.707
+"No, no!",negative,0.6435
+But...,neutral,0.7123
+then why have you been staring at my room?,neutral,0.555
+"Because-- See, that's where I always see you.",neutral,0.5266
+I've seen you many times.,neutral,0.7247
+"No, no.",negative,0.5318
+"I just love this mansion, that's all.",positive,0.985
+That can't be.,negative,0.6659
+"When I said Marnie earlier, you were surprised.",neutral,0.6999
+"Rather, why do you know Marnie?",neutral,0.7379
+I found it behind the shelf.,neutral,0.7621
+A diary?,neutral,0.7728
+That's right.,neutral,0.569
+Your diary.,neutral,0.7722
+Marnie!,neutral,0.6525
+"I'll pour you some Queen Mary, your favorite.",positive,0.5887
+I'll be back.,positive,0.5956
+"""Last night I went for a row in my nightie.",neutral,0.8075
+"The marsh and the moon were very pretty at night."" I shall do it again.",positive,0.935
+June 8th.,neutral,0.8509
+A party!,positive,0.6596
+"Father, Mother and many of their friends came over.",neutral,0.8496
+It was such fun.,positive,0.9606
+I went outside from the sunroom and danced with a flower girl.,positive,0.5143
+But...,neutral,0.7123
+Nan locked me in my room because of last night.,negative,0.5966
+So there won't be any midnight rows for a while.,neutral,0.8056
+"See, it's you, isn't it?",neutral,0.6871
+No.,neutral,0.4936
+Marnie is...,neutral,0.8217
+Marnie is...,neutral,0.8217
+someone I made up.,neutral,0.5103
+"An imaginary girl, only in my mind.",neutral,0.7808
+But this is Marnie's diary.,neutral,0.7894
+It's as if she really lived here.,neutral,0.6261
+So you're not Marnie?,neutral,0.7311
+No.,neutral,0.4936
+She's just imaginary?,neutral,0.5322
+That's right.,neutral,0.569
+"I thought you were Marnie, and you came back for the diary...",neutral,0.8061
+I'm Anna.,neutral,0.7834
+I came from Sapporo to get better.,neutral,0.5511
+I'm Sayaka.,neutral,0.7625
+I'm from Tokyo.,neutral,0.8331
+"But if she was imaginary, why is the name in the diary the same?",neutral,0.7102
+I don't know.,neutral,0.5667
+Marnie must be real.,neutral,0.7982
+I'm going to investigate.,neutral,0.7444
+"Tell me, Marnie...",neutral,0.8548
+Who are you?,neutral,0.7975
+Is that me?,neutral,0.83
+Marnie?,neutral,0.7855
+Marnie!,neutral,0.6525
+Um...,neutral,0.6851
+"Wait, that one's not finished yet...",neutral,0.7903
+"Wow, you draw well.",positive,0.9448
+"Oh, thanks...",positive,0.5595
+I've never had anyone draw me before.,neutral,0.6855
+How nice!,positive,0.9772
+I missed you.,neutral,0.5023
+I kept calling you in my heart.,neutral,0.6734
+"Me, too.",neutral,0.7147
+Let's go.,positive,0.5876
+Come to my room.,neutral,0.8454
+"Come to my room, Marnie.",neutral,0.8746
+I can't go very far from the mansion.,neutral,0.605
+"Okay then, we'll go wherever you want.",neutral,0.7829
+You know a lot about mushrooms.,neutral,0.7744
+Father taught me when I was little.,neutral,0.7979
+I once brought home three bags full of mushrooms.,neutral,0.7886
+The look on Mother's face!,positive,0.5849
+What's wrong?,negative,0.7724
+You're so quiet all of a sudden.,negative,0.5563
+You're very lucky.,positive,0.9291
+I wish I was you.,neutral,0.5161
+Talk to me.,neutral,0.7801
+I'm...,neutral,0.6445
+a foster child.,neutral,0.6175
+My real parents died when I was little.,negative,0.8584
+"My grandmother, too.",neutral,0.7914
+"I know they didn't die on purpose, but...",negative,0.5468
+sometimes I feel like...,neutral,0.5929
+I can't forgive them...,negative,0.9516
+for leaving me all alone.,negative,0.5896
+I'm jealous of you.,negative,0.919
+You're lucky to be a foster child.,positive,0.897
+"If you had no relatives, then the folks who took you in as a daughter must be truly kindhearted people.",positive,0.5413
+Then I'll tell you a big secret.,neutral,0.8439
+It's about my foster parents.,neutral,0.7607
+They're good to me and they're kind.,positive,0.9555
+"I'm not their real child, yet they raised me, which I appreciate.",positive,0.6057
+"But you see, I saw it one day.",neutral,0.7354
+They're paid to look after me.,neutral,0.5884
+Paid?,neutral,0.7286
+I found a letter from the government.,neutral,0.727
+It said they were increasing the subsidy for me.,neutral,0.758
+I'm sure there's a reason-- I don't care!,neutral,0.5761
+They wouldn't get money if I were their real child.,negative,0.6049
+They get paid because I'm not their real child.,negative,0.6848
+Even worse...,negative,0.8987
+they hide it from me.,neutral,0.5978
+I see.,neutral,0.5826
+But that doesn't mean Auntie doesn't love you.,neutral,0.636
+No!,neutral,0.4416
+Don't you see?,neutral,0.6736
+None of the other families receive money.,negative,0.5878
+Just us!,positive,0.5636
+She always looks worried that I might find out.,negative,0.5482
+And I hate myself for thinking like this.,negative,0.9649
+I...,neutral,0.7305
+just can't...,negative,0.7762
+believe...,neutral,0.6088
+in anything anymore.,neutral,0.6097
+"Anna, it's okay to cry.",positive,0.4672
+Just know that I love you.,positive,0.9403
+I love you more than any girl I've ever known.,positive,0.9833
+Then you tell me your secret.,neutral,0.7832
+"A long time ago, I went mushrooming with Father.",neutral,0.8315
+"Nowadays, I hardly see my parents.",negative,0.5332
+Mother's usually travelling.,neutral,0.7752
+"Because of work, Father's home only twice a year.",neutral,0.6189
+"Usually, Nan and the twin maids are the only ones home.",neutral,0.8615
+With me.,neutral,0.6511
+I slip out while they're gossiping.,neutral,0.6307
+And look how free I get to be!,positive,0.9116
+It's so lovely when my parents come home.,positive,0.99
+They host parties!,neutral,0.5041
+Like the other day.,neutral,0.6876
+"With my amazing parents and many people there, it's delightful.",positive,0.9894
+"I get to wear new dresses and dance, too.",positive,0.7043
+That's when I feel I'm the luckiest girl in the world.,positive,0.9851
+I see.,neutral,0.5826
+"Tell me, Anna.",neutral,0.836
+Will you be my friend forever?,positive,0.5166
+Yes.,positive,0.461
+I'm your friend forever.,positive,0.7942
+Right?,neutral,0.736
+Nan's always in a bad mood.,negative,0.89
+"She yanks me by the arm, brushes my hair very hard...",neutral,0.8038
+No one thinks I'm being bullied.,neutral,0.4919
+But it really hurts.,negative,0.8227
+Enough to cry.,negative,0.4869
+The maids love to frighten me.,negative,0.7504
+They threatened me all the time.,negative,0.9144
+"""Naughty kids get locked up in the silo where ghosts suck out their souls,"" they said.",negative,0.9297
+"You mean, the silo on the hill?",neutral,0.8155
+"Once, they actually took me there.",neutral,0.7614
+No!,neutral,0.4416
+They dragged me all the way to the silo.,negative,0.7588
+I thought I'd die of fright.,negative,0.9205
+"Then suddenly, just as we got there, the sky went dark and a storm broke out.",neutral,0.5901
+"The maids were terrified, so we didn't go inside.",neutral,0.4976
+I can endure anything else.,neutral,0.6404
+Anything but the silo.,neutral,0.6967
+I have never heard such a terrible thing!,negative,0.9256
+I hope the maids and Nan get struck by lightning!,negative,0.6955
+Hasn't anyone ever tried to frighten you?,neutral,0.5163
+Never.,neutral,0.4316
+Definitely not on purpose.,negative,0.5411
+You're lucky.,positive,0.8694
+I wish I was you.,neutral,0.5161
+Our castle...,neutral,0.7232
+Poor Marnie.,negative,0.7481
+I love you so much.,positive,0.9826
+More than anyone I've known.,neutral,0.7365
+Thank you.,positive,0.853
+It's funny.,positive,0.7319
+It's like we traded places.,neutral,0.7263
+How true.,positive,0.6194
+The tide's coming in.,neutral,0.7801
+"Hey, let's go to the silo together.",neutral,0.579
+The ghosts must be a lie.,negative,0.6696
+Let's go make sure.,neutral,0.5688
+Tomorrow...,neutral,0.8473
+"No, let's go right now.",neutral,0.6469
+I don't care who Marnie really is.,neutral,0.6211
+I just want to help her.,positive,0.6563
+"Are you okay, Marnie?",neutral,0.8613
+"Yes, I'm sure I'll be all right if I'm with you...",positive,0.8575
+Kazuhiko.,neutral,0.6301
+Anna!,neutral,0.482
+Perfect timing!,positive,0.9073
+I found it!,positive,0.8733
+The rest of the diary.,neutral,0.7859
+Come to my place.,neutral,0.7045
+Marnie...,neutral,0.7762
+I'm sorry.,negative,0.6455
+Another time.,neutral,0.6861
+What?,neutral,0.5653
+But it's a major discovery...,positive,0.6344
+It's going to rain!,neutral,0.5851
+Who is it?,neutral,0.7937
+Is someone there?,neutral,0.8302
+Marnie!,neutral,0.6525
+So you did go ahead.,neutral,0.7649
+Don't scare me like that.,negative,0.8101
+Marnie.,neutral,0.7437
+Are you okay?,neutral,0.7918
+Why did you-- Kazuhiko!,neutral,0.5503
+I'm scared.,negative,0.788
+I heard somebody below.,neutral,0.709
+I thought I'd die of fright.,negative,0.9205
+Kazuhiko...,neutral,0.7579
+What're you saying?,neutral,0.7393
+I'm Anna.,neutral,0.7834
+Pull yourself together.,neutral,0.64
+Anna...,neutral,0.7219
+Anna!,neutral,0.482
+I don't want to be humiliated.,negative,0.8312
+But I haven't the courage.,negative,0.6148
+"Oh, Anna...",neutral,0.7445
+You do have courage.,positive,0.6795
+You came here.,neutral,0.7313
+Let's go home.,neutral,0.674
+Wait!,neutral,0.6225
+It's just the wind.,neutral,0.7402
+Let's go.,positive,0.5876
+We'll go home together.,positive,0.5677
+No...,neutral,0.5715
+"Anna, come back here.",neutral,0.8033
+Anna!,neutral,0.482
+We got all the way up here.,neutral,0.6428
+I'm sure we can make it down.,positive,0.7149
+"I'll go first, so follow me.",neutral,0.7489
+"No, don't leave me!",neutral,0.5025
+No!,neutral,0.4416
+Marnie!,neutral,0.6525
+Let's go over there.,neutral,0.7014
+I'm cold...,negative,0.5781
+So cold...,negative,0.649
+"Oh Anna, I'm scared...",negative,0.7314
+I'm scared...,negative,0.7765
+"Don't worry, we'll be fine if we're together.",positive,0.8806
+"You did well, Marnie.",positive,0.9236
+Are you okay?,neutral,0.7918
+Kazuhiko!,neutral,0.7108
+I thought you'd never come.,negative,0.5211
+I...,neutral,0.7305
+I...,neutral,0.7305
+Let's go home.,neutral,0.674
+Marnie?,neutral,0.7855
+Marnie!,neutral,0.6525
+Marnie!,neutral,0.6525
+Marnie...,neutral,0.7762
+You left me behind!,negative,0.622
+Even you!,neutral,0.5765
+Kazuhiko...,neutral,0.7579
+Kazuhiko...,neutral,0.7579
+Kazuhiko's all over this diary.,neutral,0.8049
+"""Kazuhiko is trying to take me to the silo."" Silo...",neutral,0.8652
+Yes?,neutral,0.7116
+Mom cooked some corn.,neutral,0.8335
+Hurry or it'll be gone.,neutral,0.6723
+Wait!,neutral,0.6225
+Why go out on a night like this?,negative,0.704
+It's not safe.,negative,0.884
+My friend might be caught in the rain.,negative,0.5394
+What if she gets pneumonia?,negative,0.5282
+Is that...,neutral,0.7697
+Anna!,neutral,0.482
+Are you okay?,neutral,0.7918
+So cruel...,negative,0.9444
+Anna?,neutral,0.6675
+"So cruel, Marnie...",negative,0.94
+She has a high fever!,negative,0.7584
+I'll go get some help.,neutral,0.7318
+Anna.,neutral,0.6362
+Anna?,neutral,0.6675
+Anna...,neutral,0.7219
+How's she doing?,neutral,0.8382
+Her fever's not coming down.,negative,0.5533
+She did get a shot earlier.,neutral,0.8604
+I see.,neutral,0.5826
+So cruel...,negative,0.9444
+"Marnie, how could you?",neutral,0.512
+I won't forgive you.,negative,0.8794
+Leaving me behind without a word.,neutral,0.5194
+Anna!,neutral,0.482
+My dear Anna!,neutral,0.6423
+Marnie!,neutral,0.6525
+How could you leave me behind?,negative,0.6751
+Why did you betray me?,negative,0.9093
+"I'm sorry, I didn't mean to leave you all alone.",negative,0.7778
+But...,neutral,0.7123
+"But at that moment, you weren't there.",neutral,0.5759
+What do you mean?,neutral,0.7294
+"Oh, Anna, I...",neutral,0.765
+I can't stay here any longer.,negative,0.9004
+I have to say goodbye to you.,negative,0.4985
+"So please, Anna, please tell me you forgive me!",positive,0.5842
+Anna...,neutral,0.7219
+"Of course, I forgive you!",positive,0.8719
+"I love you, Marnie!",positive,0.9897
+And I won't forget you!,positive,0.7458
+I'll never forget you!,positive,0.8944
+Ever!,positive,0.5212
+Anna.,neutral,0.6362
+Sayaka's here for you.,neutral,0.5778
+Thanks.,positive,0.6284
+You could see her in your room.,neutral,0.8103
+"No, it's nice outside.",positive,0.7609
+THE VIEW HERE IS BEAUTIFUL.,positive,0.9794
+I'D LOVE TO SHOW YOU.,positive,0.8521
+ANNA Sayaka.,neutral,0.7189
+"Here, a get-well gift.",positive,0.6631
+Thanks.,positive,0.6284
+Also...,neutral,0.6818
+This is what made me think you might be at the silo.,neutral,0.8198
+What is it?,neutral,0.75
+The rest of the diary you promised to read.,neutral,0.7101
+I'm having trouble remembering.,negative,0.8233
+I impressed myself.,positive,0.9286
+I found a clue in this painting that was behind the cupboard.,neutral,0.6719
+Maybe I'm psychic.,neutral,0.77
+Turn it over.,neutral,0.679
+Hisako!,neutral,0.6251
+Hisako!,neutral,0.6251
+"Please, will you tell us about Marnie?",neutral,0.9134
+But...,neutral,0.7123
+it's a rather sad story.,negative,0.9104
+I'm ready for it.,positive,0.7985
+It was a long time ago.,neutral,0.6117
+I used to play at the marsh house often.,neutral,0.8133
+Marnie and I were very little.,neutral,0.8034
+It's a bear!,neutral,0.5946
+Let me see.,neutral,0.6551
+This is Daddy.,neutral,0.544
+Isn't he dashing?,neutral,0.6102
+Marnie loved to boast about her glamorous parents and their extravagant parties.,positive,0.567
+"But the truth is, she was being neglected.",negative,0.7267
+"Goodbye, Marnie.",neutral,0.715
+That poor child...,negative,0.8794
+"No, don't leave me, Mommy!",neutral,0.5465
+Don't go!,negative,0.5225
+It seemed like even the maids were bullying her.,negative,0.7879
+That's awful!,negative,0.9343
+"Later, Marnie moved to Sapporo and married Kazuhiko, her childhood friend.",neutral,0.9121
+"With her family torn apart and feeling lost, he was there to support her.",neutral,0.6097
+I'm glad.,positive,0.9593
+So Kazuhiko was a good man.,positive,0.7407
+"Two years later, Emily was born.",neutral,0.8798
+"At last, in the warm household she'd always wanted, Marnie was happy.",positive,0.9272
+I didn't see Marnie for many years after that.,negative,0.6322
+The next time was...,neutral,0.8648
+a few years after Kazuhiko had died of an illness.,negative,0.5452
+"By then, Marnie was in a sanatorium due to the shock of his death.",neutral,0.496
+Sanatorium?,neutral,0.7232
+A place where you go to get better.,positive,0.6961
+What happened to Emily?,neutral,0.706
+"Marnie's parents had died, leaving no one to look after her.",negative,0.7287
+"So for elementary school, she was sent to a boarding school.",neutral,0.8843
+"By the time she returned at age 13, she'd become a different person.",neutral,0.8022
+Emily!,neutral,0.4742
+She was willful and independent.,neutral,0.568
+"She knew Marnie was ill, but she still resented her for sending her away.",negative,0.6967
+You think that makes you more motherly?,neutral,0.7532
+"I want you to live the way you wish, but...",neutral,0.7306
+you need to...,neutral,0.8056
+They never did make up after that.,neutral,0.598
+As your mother-- I've never thought of you as a mother.,negative,0.4943
+Emily ran away and soon got married.,neutral,0.7836
+"She was expecting, you see.",neutral,0.7596
+But...,neutral,0.7123
+"One day, Emily and her husband died in a car accident.",negative,0.8956
+I heard Marnie took their child in.,neutral,0.7781
+She was determined to never let this child be lonely.,neutral,0.677
+But...,neutral,0.7123
+she never got over losing Emily.,negative,0.7218
+She became very ill and died the following year.,negative,0.9434
+That was about ten years ago.,neutral,0.8271
+"I'm sorry, it's a sad story.",negative,0.8626
+"No, thank you very much.",positive,0.7714
+Marnie adored that mansion.,positive,0.917
+She loved seeing the marsh from her window.,positive,0.935
+She said it felt like the birds spoke to her.,neutral,0.8121
+"She had a lonely life, but she lived it fully.",neutral,0.5476
+She always had a smile on her face.,positive,0.9377
+She was determined to be happy.,positive,0.7723
+"So you've met Marnie, too.",neutral,0.8809
+"I wish we could've played more, Anna.",neutral,0.6044
+The plan was always for me to stay just for the summer.,neutral,0.7103
+Will you come back next summer?,neutral,0.9061
+I'm sure I will.,positive,0.6865
+I'll write you.,neutral,0.738
+"I'll write you, too.",neutral,0.7872
+I put the diary and painting back where I found them.,neutral,0.8759
+"Good, it's for the best.",positive,0.9
+I haven't told my family.,neutral,0.724
+Let's keep it our secret.,neutral,0.8269
+How funny...,positive,0.7667
+Marnie brought us together.,positive,0.6679
+That's true.,neutral,0.5093
+Marnie...,neutral,0.7762
+The girl trapped behind the blue window...,neutral,0.7503
+That was long ago.,neutral,0.6593
+"Exactly, he does it to save her life.",neutral,0.7238
+I love that part.,positive,0.9597
+"Ah, now I want to read it all over again.",positive,0.7963
+I'll lend you the sequel.,neutral,0.7927
+Anna!,neutral,0.482
+Auntie!,neutral,0.6522
+Anna...,neutral,0.7219
+"Hey, be careful!",neutral,0.659
+"Sorry, sorry.",negative,0.7384
+Auntie's here.,neutral,0.7805
+"Ah, Yoriko, you're here.",neutral,0.6777
+Thank you for everything.,positive,0.9703
+"She's doing well, and even made a friend.",positive,0.9438
+How can I ever repay you?,negative,0.6716
+"Oh, no.",negative,0.6307
+We didn't do anything at all.,negative,0.5144
+Anna is a good girl.,positive,0.9154
+It was like having our own daughter back.,positive,0.8338
+She's welcome anytime.,positive,0.8954
+Thank you.,positive,0.853
+Let's talk inside.,neutral,0.8427
+I'm impressed.,positive,0.9407
+You didn't call us once!,neutral,0.5589
+I'm all packed.,neutral,0.6565
+Anna.,neutral,0.6362
+Yes?,neutral,0.7116
+There's something I need to tell you.,neutral,0.8507
+We receive monthly subsidies to cover your expenses.,neutral,0.7833
+We receive money.,neutral,0.7982
+"I've long hesitated to tell you, but-- It's okay.",neutral,0.5768
+But believe me...,neutral,0.7138
+"Whether or not we receive money, it doesn't change our love for you.",neutral,0.5886
+I already knew.,neutral,0.6198
+I'm happy you told me about it.,positive,0.9287
+Anna!,neutral,0.482
+I've been looking at the photos you sent.,neutral,0.8592
+Photos?,neutral,0.8361
+"Oh, while you were away I was looking at old albums and found this picture.",neutral,0.7568
+Do you remember?,neutral,0.802
+It's that mansion.,neutral,0.6209
+"When you first came to us, you wouldn't let it go.",neutral,0.7576
+I was told at the orphanage it belonged to your grandmother.,neutral,0.7726
+MY BELOVED HOME - MARNIE Marnie!,positive,0.9442
+So that's who she was.,neutral,0.718
+Anna.,neutral,0.6362
+And so I was in the silo all night.,neutral,0.7617
+I was very frightened.,negative,0.8396
+That's when your grandpa came.,neutral,0.8154
+"He encouraged me, saying I did well.",positive,0.9258
+I've overcome many frightening things.,positive,0.4594
+"And so will you, Anna.",neutral,0.8543
+"After all, you're my one and only grandchild.",positive,0.7276
+Grandma...,neutral,0.7511
+Excuse me.,neutral,0.4804
+Anna.,neutral,0.6362
+I'm sorry for what I said.,negative,0.7473
+"Next year, you better join us to pick up the trash.",neutral,0.5369
+A friend?,neutral,0.809
+Maybe.,neutral,0.6051
+Hisako!,neutral,0.6251
+Anna.,neutral,0.6362
+I'm going home to Sapporo now.,neutral,0.8252
+Is that right?,neutral,0.7966
+But your face tells me something good happened.,positive,0.8773
+"Yes, I'm really happy now.",positive,0.9838
+Good.,positive,0.7732
+"Um, this is my mother.",neutral,0.6302
+Thank you for being kind to Anna.,positive,0.9742
+"Oh no, it was my pleasure.",positive,0.7812
+Let's draw together again.,positive,0.7367
+Yes.,positive,0.461
+I'll write you.,neutral,0.738
+I have some amazing news.,positive,0.9802
+Goodbye.,neutral,0.5621
+Thank you very much.,positive,0.96
+Amazing news?,neutral,0.5349
+"Yeah, I'll tell you later.",neutral,0.7927
+"Oh, why not now?",neutral,0.6713
+I promise I'll tell you.,neutral,0.6894
+Toichi!,neutral,0.5804
+Sayaka!,neutral,0.6852
+Goodbye!,neutral,0.5805
+THE END,neutral,0.5158

@@ -1,0 +1,924 @@
+text,sentiment,score
+"The Beginning PONYO ON THE CLIFF BY THE SEA Producer Toshio Suzuki Animation Katsuya Kondo Backgrounds Noboru Yoshida Color design Michiyo Yasuda Imaging Atsushi Okui Music Joe Hisaishi Songs performed by FUJIOKA FUJIMAKI & Nozomi Ohashi Masako Hayashi Voices Tomoko Yamaguchi Kazushige Nagashima Yuki Amami George Tokoro Yuria Nara Rumi Hiiragi Hiroki Doi Akiko Yano Kazuko Yoshiyuki Tomoko Naraoka Written and Directed by Hayao Miyazaki Sosuke, come right back!",neutral,0.9368
+Okay.,neutral,0.5844
+A goldfish...,neutral,0.8126
+It's stuck.,negative,0.574
+That was weird.,negative,0.8359
+Ow!,neutral,0.5515
+Is it dead?,neutral,0.6561
+It licked me...it's alive.,negative,0.5124
+"Sosuke, we're leaving!",neutral,0.774
+"Lisa, I caught a goldfish!",positive,0.5675
+This wind feels strange...,negative,0.5623
+"Sosuke, I'm starting the car!",neutral,0.6612
+Did you find her?,neutral,0.8299
+"What, captured by a human?",neutral,0.6111
+This is bad...very bad.,negative,0.9724
+Are you dead?,neutral,0.5138
+You're alive!,positive,0.9083
+Sosuke!,neutral,0.6462
+I'm going to be late!,negative,0.6061
+Lisa!,positive,0.5
+I caught a goldfish.,neutral,0.6957
+A goldfish?,neutral,0.832
+Down by the rocks.,neutral,0.6438
+"I'm sorry, but you can't use weed killer here.",negative,0.8881
+Heavens no!,neutral,0.4405
+This is pure sea water.,neutral,0.4898
+It keeps me humidified.,neutral,0.5064
+As long as it's not weed killer.,neutral,0.7052
+Good day!,positive,0.9707
+This is very bad.,negative,0.9702
+What a creepy guy.,negative,0.9668
+"But don't you say that about strangers, Sosuke.",neutral,0.6673
+I won't.,neutral,0.5811
+Are you taking that to school?,neutral,0.8748
+Won't the teacher complain?,neutral,0.607
+"Don't worry, I'll take care of you.",positive,0.7303
+She's cute!,positive,0.9811
+They're using the dry dock.,neutral,0.7748
+"Here, eat this before we get there.",neutral,0.5807
+Maybe she's hungry.,neutral,0.712
+Want some?,neutral,0.7778
+"Hey, my cut is gone!",negative,0.536
+I'm going to call her Ponyo.,neutral,0.7956
+She's really special!,positive,0.9749
+She can do magic.,neutral,0.5479
+She fixed my cut.,neutral,0.5612
+Want some ham?,neutral,0.8401
+"Ponyo likes ham, Lisa!",positive,0.6916
+That makes two of us.,neutral,0.5927
+Oh no...,negative,0.677
+Disgusting!,negative,0.9294
+"Hurry, Lisa!",neutral,0.6346
+Such filth!,negative,0.9339
+Intolerable!,negative,0.8612
+Good morning!,positive,0.8619
+"Look, Ponyo.",neutral,0.7216
+There's our house.,neutral,0.7194
+I'll drop you here.,neutral,0.784
+Okay.,neutral,0.5844
+Have fun.,positive,0.9514
+See you.,neutral,0.6398
+Morning.,positive,0.5075
+Sorry I'm late.,negative,0.7283
+Could you get Noriko's wheelchair?,neutral,0.9181
+"Good morning, Sosuke.",positive,0.7879
+"I'm busy, Yoshie.",neutral,0.6184
+Talk to you later.,neutral,0.7611
+My!,positive,0.5091
+"Hello, Sosuke.",neutral,0.6574
+"Can't talk now, Toki.",negative,0.7184
+Maybe the teacher will get mad.,negative,0.7597
+I know!,neutral,0.4773
+Wait here.,neutral,0.6363
+I'll be back soon.,positive,0.5875
+What if a cat comes?,neutral,0.902
+"Stay here, I'll be right back.",neutral,0.6466
+See you later.,neutral,0.6937
+It's all right.,positive,0.5812
+She'll be just fine.,positive,0.7571
+"Okay, thanks.",positive,0.6232
+Bye-bye.,neutral,0.5542
+"Good morning, teacher.",positive,0.7762
+Hello Sosuke.,neutral,0.6971
+How are you?,neutral,0.7345
+Sosuke!,neutral,0.6462
+Kumiko...,neutral,0.7122
+Like my dress?,neutral,0.8141
+Mommy got it for me.,positive,0.5906
+Oh...,neutral,0.6291
+"Let's play, Sosuke!",positive,0.7315
+Not now.,neutral,0.5072
+I'm busy.,neutral,0.4879
+How come?,neutral,0.6759
+"I told you, I'm busy.",neutral,0.595
+You're no fun.,negative,0.9113
+Yeah!,positive,0.7406
+Ponyo!,neutral,0.4959
+Sosuke!,neutral,0.6462
+Kumiko...,neutral,0.7122
+What's that?,neutral,0.7331
+You're not supposed to bring stuff.,negative,0.7153
+But these trees aren't on school grounds.,neutral,0.5033
+Show me.,neutral,0.6833
+"Oh, a goldfish.",neutral,0.6408
+It's not a goldfish.,neutral,0.6175
+It's Ponyo.,neutral,0.7618
+Ponyo?,neutral,0.7996
+I want to see!,positive,0.8908
+Promise not to tell?,neutral,0.769
+I promise.,neutral,0.5038
+Isn't she cute?,positive,0.9169
+It looks fat.,negative,0.718
+My goldfish is lots cuter.,positive,0.9576
+It's Kumiko's fault.,negative,0.693
+She was mean to you.,negative,0.7877
+I'll give you some more water.,neutral,0.774
+Ponyo!,neutral,0.4959
+You scared me.,negative,0.8386
+"Why, how odd.",negative,0.6913
+That was Sosuke's voice.,neutral,0.8515
+But he's supposed to be in school.,neutral,0.5598
+I must be hearing things.,neutral,0.7484
+"Here I am, Yoshie.",neutral,0.7413
+I knew I heard your voice.,neutral,0.7016
+Do I have a secret?,neutral,0.8436
+Yes!,positive,0.8097
+Bingo!,neutral,0.5437
+"Okay, what color is my secret?",neutral,0.8341
+Red!,positive,0.4851
+Red!,positive,0.4851
+Good guess.,positive,0.5111
+How'd you know?,neutral,0.7142
+Show us.,neutral,0.6658
+All right.,neutral,0.4897
+"Oh, how pretty!",positive,0.9822
+Very cute!,positive,0.9773
+Her name is Ponyo.,neutral,0.7944
+She loves ham and she can do magic.,positive,0.9114
+"I cut my thumb, but she fixed it.",neutral,0.6448
+I wonder if she'd fix our legs.,neutral,0.8384
+We could run around just like you.,neutral,0.7396
+"Well, I'd have to ask Ponyo first.",neutral,0.8316
+Can I take a look?,neutral,0.8644
+"Sure, Toki.",neutral,0.6028
+"Heavens, it has a face!",positive,0.5298
+Put it back before it brings a tsunami!,neutral,0.5409
+"You're so superstitious, Toki.",negative,0.9017
+That's what the old stories say.,neutral,0.782
+Fish like that are bad luck.,negative,0.9467
+The tsunami!,neutral,0.6966
+It's here!,positive,0.7366
+The tsunami is here!,neutral,0.6659
+"What's wrong, Toki?",negative,0.6255
+Just look at my clothes!,neutral,0.4939
+Sosuke!,neutral,0.6462
+Sosuke!,neutral,0.6462
+Sosuke!,neutral,0.6462
+Come back here and apologize!,neutral,0.4924
+"Don't worry, I'll protect you.",positive,0.7736
+Sosuke.,neutral,0.7259
+Sosuke.,neutral,0.7259
+Ponyo!,neutral,0.4959
+Ponyo.,neutral,0.6965
+Sosuke.,neutral,0.7259
+Ponyo...,neutral,0.7734
+loves...,neutral,0.529
+...Sosuke!,neutral,0.7768
+I love you too.,positive,0.9575
+Ponyo loves Sosuke!,positive,0.9398
+Ponyo!,neutral,0.4959
+Ponyo!,neutral,0.4959
+Ponyo!,neutral,0.4959
+Sosuke!,neutral,0.6462
+Ponyo!,neutral,0.4959
+"Listen, Sosuke.",neutral,0.8343
+Maybe it was fate.,neutral,0.8245
+It just can't be helped.,negative,0.5584
+Ponyo was born in the sea.,neutral,0.8164
+"She went back home, that's all.",neutral,0.8356
+"Anyway, let's hope that creepy guy is gone.",negative,0.6731
+One lick?,neutral,0.7707
+"Hurry, it's melting!",positive,0.4998
+Not bad!,positive,0.9329
+Cheer up.,positive,0.9106
+Koichi will be home tonight.,neutral,0.8857
+He'll be disappointed if you're feeling down.,negative,0.7724
+"No more ocean today, okay?",neutral,0.7845
+Sosuke?,neutral,0.7604
+Time to come inside.,neutral,0.7588
+Do you think this bucket will help Ponyo find us?,neutral,0.9246
+There's only one way to find out.,neutral,0.7874
+"Can you get that, Sosuke?",neutral,0.8796
+It must be Koichi.,neutral,0.8338
+Hello?,neutral,0.643
+"Yes, it's me.",neutral,0.5413
+"Yes, I'm fine.",positive,0.8892
+I can't get back tonight.,negative,0.9229
+I'll signal when I'm offshore.,neutral,0.813
+Okay.,neutral,0.5844
+Here's Lisa.,neutral,0.8328
+Koichi?,neutral,0.7537
+Yes...,neutral,0.5735
+What?!,negative,0.4855
+Can't you get out of it?,neutral,0.5529
+Fine...leave your wife and son up on the cliff!,negative,0.5649
+I give up!,negative,0.8081
+Why bother?,neutral,0.5663
+"C'mon Sosuke, let's eat out!",neutral,0.5756
+I want to eat here.,positive,0.5079
+There he is!,positive,0.6753
+"Turn off the lights, Lisa.",neutral,0.5878
+It's Sosuke!,neutral,0.574
+He's a genius.,positive,0.8253
+Only five years old.,neutral,0.7453
+Your wife must be upset.,negative,0.7983
+He says he's sorry.,neutral,0.5902
+J...,neutral,0.7273
+JE...,neutral,0.6796
+JER...,neutral,0.6961
+JERK J...,neutral,0.7971
+JE...,neutral,0.6796
+JER...,neutral,0.6961
+JERK JERK!,neutral,0.5775
+JERK!!,positive,0.4865
+JERK!!!,neutral,0.4681
+JERK!!!!,positive,0.4925
+JERK!!!!!,positive,0.5068
+He says he loves you!,positive,0.9001
+Lots and lots!,positive,0.6442
+J...,neutral,0.7273
+JE...,neutral,0.6796
+JER...,neutral,0.6961
+"JERK JERK JERK JERK Wow, that's cool!",positive,0.9874
+G...,neutral,0.6548
+GO...,neutral,0.7187
+GOO...,neutral,0.5184
+GOOD GOOD L...,positive,0.8181
+GOOD LU...,neutral,0.5077
+GOOD LUC...,positive,0.4842
+"GOOD LUCK THANKS LOVE AND KISSES Don't cry, Lisa.",positive,0.9594
+I won't cry.,neutral,0.487
+I promised Ponyo I'd take care of her.,neutral,0.7608
+I hope she isn't crying.,neutral,0.6529
+"Okay, let's cheer up!",positive,0.9435
+“I'm happy as can be...” Ow!,positive,0.9098
+"Don't worry, Sosuke.",positive,0.5504
+I'm sure Ponyo is fine too.,positive,0.8137
+Now let's eat.,neutral,0.7253
+We'll eat Koichi's dinner too!,neutral,0.5431
+This is all my fault.,negative,0.9196
+Bringing you along to watch me was a mistake.,negative,0.7844
+How often have I warned you about humans?,neutral,0.5569
+Their very breath is polluted.,negative,0.9472
+"Come, you must eat.",neutral,0.7902
+"Can't you hear me, Brunhilde?",neutral,0.6919
+I want ham!,positive,0.7129
+Ham?!,neutral,0.6915
+What on earth have you been doing?,negative,0.6847
+"Answer me, Brunhilde!",neutral,0.7092
+My name's not Brunhilde.,neutral,0.7161
+It's Ponyo.,neutral,0.7618
+Ponyo?,neutral,0.7996
+Ponyo loves Sosuke.,positive,0.7927
+I want to be human!,positive,0.7066
+Human?,neutral,0.7099
+How could you love such disgusting creatures?,negative,0.9784
+They rob the sea of life.,negative,0.9095
+I was human myself...once.,neutral,0.7614
+I finally escaped that awful heritage.,neutral,0.5091
+I want hands!,positive,0.611
+I don't like this!,negative,0.9701
+I want legs like Sosuke!,positive,0.6277
+Of all the nonsense!,negative,0.8447
+Look at me!,positive,0.7281
+Hands and feet!,neutral,0.6994
+No...don't tell me you tasted human blood!,negative,0.8595
+Wanna see Sosuke!,positive,0.6562
+No!,neutral,0.4416
+His blood has deranged your DNA!,negative,0.9358
+Revert.,neutral,0.7483
+..revert...,neutral,0.5537
+Go back...go back!,positive,0.5749
+It's not working.,negative,0.8972
+I need more power.,neutral,0.7558
+Let me out!,neutral,0.6271
+"Be still, you evil blood.",negative,0.9122
+"Revert, revert!",neutral,0.7281
+Just like her mother...so strong.,positive,0.7543
+She should remain innocent and pure forever.,neutral,0.4836
+I can't hold her for long.,negative,0.6417
+I need her mother's help.,neutral,0.7109
+No!,neutral,0.4416
+My elixir is too strong for you!,neutral,0.5035
+Shoo!,neutral,0.582
+Go away!,negative,0.6826
+My crab shields were weakening.,neutral,0.4883
+I nearly upset Nature's balance.,negative,0.8113
+I must stay calm.,neutral,0.6315
+When I think of meeting HER again...!,positive,0.5208
+This batch should be ready.,positive,0.4975
+No leaks down here.,neutral,0.6768
+This door is loose.,negative,0.5951
+I'll fix it later.,neutral,0.6976
+If even one creature got in here...!,neutral,0.4889
+Superb!,positive,0.9285
+I feel the ocean's power in my very DNA.,positive,0.8396
+"When this well is full, the Era of the Ocean will begin.",neutral,0.5931
+An explosion of life to match the Cambrian Era!,positive,0.7876
+This revolting era of Man will be over.,negative,0.9082
+Better fix this door.,negative,0.5223
+Teeth!,neutral,0.6594
+I'm going back to Sosuke!,neutral,0.5863
+A waterspout?,neutral,0.8165
+"Captain, look there!",neutral,0.6064
+Tsunami!,neutral,0.6024
+Turn her into the waves!,neutral,0.6616
+What's that?,neutral,0.7331
+Captain!,positive,0.533
+"Radio's out, the radar too!",neutral,0.6715
+A little girl?,neutral,0.8215
+She must be Sosuke's age!,neutral,0.8083
+Bye-bye.,neutral,0.5542
+See you tomorrow.,neutral,0.6884
+Thanks.,positive,0.6284
+Take care.,neutral,0.6356
+Do you want to wait here for Lisa?,neutral,0.8211
+"It's okay, I'll take the shortcut.",positive,0.495
+Goodbye.,neutral,0.5621
+Goodbye.,neutral,0.5621
+Be careful out there.,neutral,0.7562
+"Sorry, Sosuke.",negative,0.4874
+The power's out.,negative,0.7894
+"The door wouldn't open, would it?",negative,0.5598
+Was the school okay?,neutral,0.8315
+"Go home, Lisa.",neutral,0.5266
+We'll be fine.,positive,0.6764
+Are you sure?,neutral,0.8481
+"Don't worry, we'll be just fine.",positive,0.87
+We're spending the night anyway.,neutral,0.7533
+You should go while you can.,positive,0.5512
+"Wait for me, Sosuke.",neutral,0.8284
+Yoshie.,neutral,0.6515
+"Why, Sosuke.",neutral,0.7608
+"It's so dark, I didn't see you.",negative,0.5671
+This is for you.,neutral,0.5981
+"My, what is it?",neutral,0.6554
+"One for you, Noriko.",neutral,0.7118
+Thank you.,positive,0.853
+Can't see a thing.,negative,0.6966
+This is such foolishness!,negative,0.9597
+I don't want to spend the night.,negative,0.9343
+"Oh good, the power's on.",positive,0.8455
+It's a goldfish!,neutral,0.5532
+Maybe Sosuke's magic made the lights go on?,neutral,0.7813
+Extremely powerful...,positive,0.8012
+Micro-typhoon...,neutral,0.7075
+Ships should exercise extreme caution...,neutral,0.5967
+This TV is useless.,negative,0.9701
+Those idiots couldn't forecast their way out of a paper bag.,negative,0.9469
+"You should go home, Sosuke.",neutral,0.6948
+Your goldfish will bring us luck.,positive,0.6442
+We're not afraid now.,neutral,0.5604
+"Here's yours, Toki.",neutral,0.8153
+It's all wrinkled.,negative,0.5973
+What is it?,neutral,0.75
+Like this.,neutral,0.7141
+I know!,neutral,0.4773
+It's a grasshopper.,neutral,0.7315
+"No, the Koganei Maru.",neutral,0.7018
+That's your father's ship.,neutral,0.6239
+Still looks like a grasshopper.,negative,0.4869
+"We're leaving, Sosuke.",neutral,0.8397
+Say goodbye to everyone.,neutral,0.7078
+"Goodbye, everybody.",neutral,0.6325
+Goodbye.,neutral,0.5621
+Don't let the wind blow you away!,neutral,0.6042
+Climb over.,neutral,0.7714
+The phones are out too.,neutral,0.4993
+The sea is puffed up!,positive,0.9249
+Will the ships sink?,neutral,0.5501
+They're safe out at sea.,positive,0.5985
+I'm sure that's where Koichi is.,neutral,0.8526
+"I see fish, Lisa.",neutral,0.7702
+Seat belt!,neutral,0.7422
+You've got to turn back!,neutral,0.5734
+People are going to the shelters.,neutral,0.5474
+But there are people at the senior center!,neutral,0.5169
+They'll be alright.,positive,0.5829
+They're on the leeward side.,neutral,0.6075
+I've just got to get home.,neutral,0.6881
+You'd better go around the mountain.,neutral,0.7208
+"Here we go, Sosuke.",neutral,0.745
+No!,neutral,0.4416
+Stop!,negative,0.5341
+Look out for that wave!,neutral,0.6354
+Here it comes!,positive,0.6018
+"Run for it, Lisa!",neutral,0.6089
+The fish are following us.,neutral,0.8454
+"Seat belt, Sosuke!",neutral,0.7553
+Hold on tight!,neutral,0.5981
+That wave won't quit!,positive,0.512
+A little girl fell in.,neutral,0.7379
+She was riding a fish.,neutral,0.8016
+Where?,neutral,0.7096
+The sea keeps rising.,positive,0.5463
+Where did you see her?,neutral,0.8596
+Running on top of a fish.,neutral,0.7203
+A fish!?,neutral,0.7671
+"Come on, Sosuke.",neutral,0.7557
+"Hang on, Sosuke!",neutral,0.6857
+We're almost home.,positive,0.6349
+A little girl!,positive,0.597
+"Here, you'd better come with us.",neutral,0.707
+"Stay there, Sosuke.",neutral,0.8053
+"Sosuke, do you know her?",neutral,0.8667
+Ponyo?,neutral,0.7996
+"Yes, it's me!",positive,0.8163
+It's you!,positive,0.6248
+"Ponyo's a little girl now, Lisa!",neutral,0.6812
+I made it!,positive,0.9
+"Now listen, children.",neutral,0.619
+No matter how strange everything seems...,neutral,0.6256
+...we have to stay calm.,neutral,0.7109
+Now be good.,positive,0.8452
+"Take off your rain coat, Sosuke.",neutral,0.757
+"Here Ponyo, you hold the light.",positive,0.5285
+I'll bring you a towel.,neutral,0.7708
+"C'mon, Ponyo!",neutral,0.6041
+It smells just like you!,positive,0.7818
+Ouch!,negative,0.6507
+Ponyo!,neutral,0.4959
+Gotcha!,positive,0.744
+Let's get you dried off.,neutral,0.7492
+Such pretty red hair!,positive,0.9719
+But your clothes are dry...,neutral,0.5541
+Ponyo was a fish.,neutral,0.4842
+Water doesn't make her wet.,neutral,0.6108
+I like this!,positive,0.9804
+All right!,positive,0.7464
+Who wants a hot drink?,neutral,0.7863
+"Help me with the light, Ponyo.",neutral,0.5515
+Coming!,positive,0.5762
+Think we'll have water?,neutral,0.8893
+Sure!,positive,0.7762
+Sure!,positive,0.7762
+Water!,neutral,0.5117
+Water!,neutral,0.5117
+We have a tank outside.,neutral,0.8295
+What about the gas?,neutral,0.7755
+Presto!,neutral,0.5625
+All right!,positive,0.7464
+All right!,positive,0.7464
+It's propane.,neutral,0.496
+"Okay, take your seats.",neutral,0.7612
+Okay!,positive,0.6122
+"Over here, Ponyo.",neutral,0.7695
+"Sit down, like this.",neutral,0.8375
+Put your stuff down.,negative,0.7248
+You need your hands.,neutral,0.6327
+I have feet!,neutral,0.6971
+Wow!,positive,0.8599
+What are you two doing?,neutral,0.8767
+Her feet are like hands.,neutral,0.7521
+There you go.,neutral,0.5283
+This is the best!,positive,0.9901
+That hit the spot.,positive,0.514
+What shall we do now?,neutral,0.8943
+I want ham!,positive,0.7129
+She's crazy about ham.,neutral,0.6163
+Then let's eat.,neutral,0.7398
+But first let's start the generator.,neutral,0.7709
+We need electricity to talk to Koichi.,neutral,0.843
+Koichi is my father.,neutral,0.8074
+Is he a bad sorcerer?,neutral,0.6056
+"No, silly.",negative,0.4965
+He's a ship captain.,neutral,0.7862
+"What about your father, Ponyo?",neutral,0.8863
+Fujimoto!,neutral,0.7104
+He keeps me prisoner.,negative,0.6184
+I ran away.,neutral,0.5757
+What about your mother?,neutral,0.7933
+I love my mother!,positive,0.9875
+She's really scary.,negative,0.8761
+Sounds like Lisa.,neutral,0.7113
+"Can you help me, Ponyo?",neutral,0.8566
+Maybe the fuel's too old?,negative,0.6189
+Is it clogged?,neutral,0.6504
+Clogged.,negative,0.4777
+It's clogged there.,negative,0.651
+Success!,positive,0.9114
+All bright!,positive,0.908
+"Wow, Ponyo!",positive,0.9212
+Antenna!,neutral,0.6284
+Antenna!,neutral,0.6284
+"Did all the ships sink, Lisa?",neutral,0.6613
+I can't see a single light.,negative,0.7316
+So loud!,neutral,0.5018
+What's wrong?,negative,0.7724
+Even the radio is out of whack.,negative,0.9597
+This is JA4LL...JA4LL.,neutral,0.7114
+"Come in, Koichi.",neutral,0.8217
+"It's Lisa, Sosuke and Ponyo.",neutral,0.8828
+We're all doing fine.,positive,0.8068
+We're going to have dinner.,neutral,0.8045
+Ham!,neutral,0.5994
+Ready?,neutral,0.6724
+"Careful, it's hot.",neutral,0.6989
+It's not ready yet.,negative,0.5039
+It takes three minutes.,neutral,0.7058
+Close your eyes!,neutral,0.6019
+Not yet!,neutral,0.6551
+"No peeking, Ponyo.",neutral,0.7477
+"Okay, you can look now.",neutral,0.7592
+And...presto!,neutral,0.6427
+Ham!,neutral,0.5994
+"Good for you, Ponyo.",positive,0.9509
+Ponyo went to sleep.,neutral,0.7804
+Is her home far away?,neutral,0.8386
+I think it must be.,neutral,0.6953
+Look Sosuke.,neutral,0.832
+The sea is calmer.,positive,0.7356
+Because Ponyo's asleep?,neutral,0.7169
+Look over there!,neutral,0.5784
+It's moving.,neutral,0.6736
+Someone's up there.,neutral,0.6709
+People from the senior center?,neutral,0.857
+It's gone.,neutral,0.6048
+That's the peak road.,neutral,0.6269
+"Sosuke, stay there with Ponyo.",neutral,0.8598
+Maybe I could get through on the mountain road.,neutral,0.7397
+I'm going to the senior center.,neutral,0.8558
+I'll go too.,positive,0.5953
+Stay here with Ponyo.,neutral,0.7893
+I'm going too.,neutral,0.5507
+Let's take Ponyo with us.,neutral,0.5249
+I'm going with you!,positive,0.7341
+"Sosuke, our house is a lighthouse in the storm.",neutral,0.6481
+Everyone out there is depending on us.,neutral,0.8103
+Someone has to stay here.,neutral,0.7874
+Lots of things are happening that I don't understand.,negative,0.9424
+But right now I'm worried about the people at the senior center.,negative,0.8057
+Just knowing you're here will help me.,positive,0.8671
+Don't worry.,positive,0.5337
+I promise to come back.,positive,0.648
+Promise?,neutral,0.7763
+I promise.,neutral,0.5038
+You promised!,neutral,0.4915
+"I love you, Sosuke.",positive,0.9717
+I see the lights of the town!,positive,0.7551
+Finally...,neutral,0.571
+Now we can navigate.,neutral,0.7336
+I've never seen that town before.,neutral,0.5086
+Did the storm blow us to America?,neutral,0.6822
+That's not a mountain.,neutral,0.5057
+And that's no harbor...,neutral,0.5843
+Those are ships!,neutral,0.5333
+The sea is piled up into a mountain!,neutral,0.4481
+It's a ship graveyard.,neutral,0.5553
+What's going on?,neutral,0.7289
+We lost power!,negative,0.8809
+Heave to!,neutral,0.6455
+Drop the sea anchor!,neutral,0.7252
+Aye-aye!,neutral,0.5414
+Something is coming!,positive,0.7126
+A sea goddess!?,neutral,0.8201
+The engine!,neutral,0.5314
+We're saved!,positive,0.9193
+The engine started again.,neutral,0.7531
+It was Her!,positive,0.5236
+Protect us from harm...,neutral,0.7532
+"Come on, come on.",neutral,0.609
+A barrier spell!,neutral,0.7156
+Where did she learn this?,neutral,0.6322
+Good heavens.,positive,0.6077
+.,neutral,0.5136
+.she's human!,positive,0.6668
+"Hey, watch out!",neutral,0.7026
+What are you doing?,neutral,0.8242
+Stop!,negative,0.5341
+This is unsafe!,negative,0.944
+Stop that at once!,negative,0.5802
+I'm simply trying to save your sister.,neutral,0.7149
+She's here.,neutral,0.6642
+She answered my call!,positive,0.8743
+Fujimoto...,neutral,0.8079
+"You came, my beloved.",positive,0.6604
+Such a beautiful ocean.,positive,0.9486
+"So full of magic, like my ancient Devonian sea.",positive,0.7062
+It's Ponyo!,positive,0.5736
+She tasted human blood...,negative,0.6171
+...and plundered all of my elixir.,negative,0.6685
+Ponyo...what a lovely name.,positive,0.9771
+It's all my fault.,negative,0.8331
+She's totally beyond my control.,negative,0.724
+It's complete chaos.,negative,0.7464
+She doesn't understand what she's done.,negative,0.8685
+"Now she's human, and she's up there with her boyfriend!",positive,0.6045
+"If we don't stop her, the planet is doomed!",negative,0.896
+No!,neutral,0.4416
+The satellites are falling.,negative,0.5606
+Earth's gravitational field...,neutral,0.8587
+Be still...,neutral,0.8029
+"Sosuke...that is his name, yes?",neutral,0.8966
+"You love your sister, don't you?",neutral,0.5241
+"Listen, dear...what if Ponyo really became human?",neutral,0.8641
+Use the old magic.,neutral,0.8425
+"If Sosuke's love is real, she'll lose her powers forever.",neutral,0.5606
+"But if it's not, she'll turn to sea foam!",neutral,0.5576
+"That's where we all came from, dear.",neutral,0.7818
+But he's only five!,neutral,0.5195
+"Sleep well, little children.",neutral,0.5953
+Sosuke!,neutral,0.6462
+Sosuke!,neutral,0.6462
+Ow!,neutral,0.5515
+"Good morning, Ponyo.",positive,0.8447
+"Morning, Sosuke.",neutral,0.5141
+We almost got flooded.,negative,0.6752
+Where's Lisa?,neutral,0.794
+She must be stuck someplace.,negative,0.6777
+I wish we had a boat.,neutral,0.6187
+There's a boat!,neutral,0.5362
+We can't fit.,negative,0.7435
+Can so.,neutral,0.711
+Awesome!,positive,0.9582
+The candle's bigger too.,positive,0.4995
+We can fit.,positive,0.5852
+This is cool.,positive,0.9801
+Cool!,positive,0.9343
+Grab that end.,neutral,0.5573
+Ready?,neutral,0.6724
+Ready!,positive,0.5675
+She's seaworthy!,positive,0.8707
+Awesome.,positive,0.9184
+No leaks!,neutral,0.6221
+Now we fill the boiler.,neutral,0.6759
+The water goes in here.,neutral,0.7884
+It goes in the boiler.,neutral,0.6798
+It's like a rocket!,positive,0.7332
+Everything's shipshape.,neutral,0.5651
+Shipshape...,neutral,0.8171
+Shipshape?,neutral,0.8116
+Shipshape!,neutral,0.7208
+Shipshape!,neutral,0.7208
+Shipshape!,neutral,0.7208
+Is it hot?,neutral,0.8208
+Hot!,positive,0.7618
+It's hot.,positive,0.7562
+The candle's burning.,neutral,0.7352
+It's burning!,neutral,0.484
+Hot hot hot!,positive,0.8469
+It's hot.,positive,0.7562
+Awesome!,positive,0.9582
+"We're shipshape, Sosuke!",positive,0.6995
+This is great.,positive,0.9817
+This is so much fun.,positive,0.9863
+"It's burning, Sosuke.",neutral,0.5191
+It's really hot.,positive,0.9346
+Keep a lookout in front.,neutral,0.7526
+I'll steer the boat.,neutral,0.7588
+"Okay, I'm the lookout.",neutral,0.7531
+There's a road.,neutral,0.6747
+That's the road Lisa took.,neutral,0.8511
+I don't see her.,negative,0.5438
+You will.,neutral,0.6063
+She gave me her promise.,neutral,0.705
+Ancient fish...,neutral,0.8057
+from the Devonian age!,neutral,0.7683
+There's Bothriolepis.,neutral,0.7953
+That one is...,neutral,0.7536
+Dipnorhynchus.,neutral,0.6543
+Dipnorhynchus!,neutral,0.7212
+That one's really huge.,positive,0.6696
+That's Devonynchus.,neutral,0.7856
+Devonynchus!,neutral,0.6982
+Ahoy!,positive,0.7401
+A boat!,neutral,0.5942
+Ahoy!,positive,0.7401
+They're calling us.,neutral,0.7447
+Ahoy!,positive,0.7401
+Ow!,neutral,0.5515
+"Pretty good, huh?",positive,0.9582
+"Now, Ponyo.",neutral,0.7614
+Hello.,neutral,0.5209
+That's a wonderful boat you have.,positive,0.9632
+"Why, you're Lisa's little boy.",neutral,0.7206
+"He's not little, he's Sosuke.",neutral,0.6737
+This is Ponyo.,neutral,0.807
+I was a fish before.,neutral,0.7053
+A fish?,neutral,0.7679
+Ponyo...that's a nice name.,positive,0.9654
+Have you seen Lisa?,neutral,0.8667
+Lisa?,neutral,0.7
+She's not with you?,neutral,0.6552
+She's at the center.,neutral,0.8244
+The senior center...?,neutral,0.8469
+This is my baby.,positive,0.9358
+"Oh my, what happened?",negative,0.7249
+Is that for us?,neutral,0.8702
+"Give me the cup, dear.",neutral,0.7193
+Thank you.,positive,0.853
+Let's try it.,neutral,0.6248
+It's delicious!,positive,0.9805
+Lisa made it.,positive,0.6076
+It's for the baby.,neutral,0.731
+"Oh, I'm sorry.",negative,0.7477
+He can't handle soup yet.,negative,0.8107
+But this will help me make milk for him.,positive,0.5356
+Lisa gave me her milk too.,neutral,0.8125
+"Ponyo, may I have this soup?",neutral,0.8949
+Sure.,neutral,0.4753
+Thank you.,positive,0.853
+People from the town.,neutral,0.8373
+It's like a festival.,neutral,0.6036
+You there!,neutral,0.4957
+Do you need assistance?,neutral,0.84
+"Thanks, we're okay right now!",positive,0.939
+Then please follow us.,neutral,0.5994
+We're going to the hotel on the peak.,neutral,0.8544
+Okay!,positive,0.6122
+Will do.,positive,0.5231
+The whole town's here.,neutral,0.7816
+I hope everyone's all right.,positive,0.8289
+"Let's go, Ponyo.",positive,0.5682
+Hold on a second.,neutral,0.6573
+Milk!,neutral,0.5737
+Oh my...,neutral,0.5247
+Milk!,neutral,0.5737
+She ate up all the ham.,negative,0.6276
+This will help me make good milk.,positive,0.8745
+"Can you use another candle for your boat, Sosuke?",neutral,0.9241
+Thanks.,positive,0.6284
+Ponyo will make it bigger.,positive,0.7809
+Be careful!,neutral,0.7085
+Thank you both!,positive,0.9619
+"What is it, dear?",neutral,0.8179
+Don't cry.,neutral,0.6662
+Ponyo!,neutral,0.4959
+Sosuke!,neutral,0.6462
+Where's Lisa?,neutral,0.794
+Isn't she with you?,neutral,0.8724
+I'm going to pick her up.,neutral,0.6675
+So she survived that wave?,neutral,0.8636
+"Sosuke, take me with you!",neutral,0.6247
+"Later, Kumiko.",neutral,0.7508
+I'm busy now.,neutral,0.626
+Everyone from the center evacuated to the park.,neutral,0.8403
+Keep safe!,positive,0.7791
+You can do it!,positive,0.9278
+We'll send a boat for them later.,neutral,0.8688
+"Good luck, captain!",positive,0.9616
+"Time for a new candle, Ponyo.",neutral,0.7094
+We're okay.,positive,0.7973
+I have another one.,neutral,0.7126
+Ow!,neutral,0.5515
+It's still pretty hot.,positive,0.9122
+Bye-bye.,neutral,0.5542
+Can you make this candle bigger?,neutral,0.5027
+All right.,neutral,0.4897
+"Are you sleepy, Ponyo?",neutral,0.8449
+Ponyo!,neutral,0.4959
+Ponyo!,neutral,0.4959
+Ponyo!,neutral,0.4959
+Good...it's shallow enough to walk.,neutral,0.5477
+A road!,neutral,0.5289
+It's shrinking!,neutral,0.5198
+Ponyo!,neutral,0.4959
+"Ponyo, wake up!",neutral,0.5986
+Sosuke...,neutral,0.7931
+Don't scare me.,neutral,0.5687
+I thought you were turning into a fish.,negative,0.6241
+Lisa's car!,neutral,0.5659
+"Ponyo, that's her car!",neutral,0.6379
+Lisa!,positive,0.5
+Lisa!,positive,0.5
+Lisa!,positive,0.5
+Lisa!,positive,0.5
+Lisa!,positive,0.5
+Lisa!,positive,0.5
+Here's your boat.,neutral,0.7407
+Your eyes are wet.,neutral,0.526
+Let's find Lisa.,neutral,0.8546
+You forgot your wrap!,neutral,0.4732
+Who needs it?,neutral,0.6521
+"Look, it's a whale!",neutral,0.5539
+My knees don't hurt anymore!,positive,0.578
+What were we so afraid of?,negative,0.6461
+Is this the Other Side?,neutral,0.8227
+Who cares?,negative,0.5474
+It's wonderful.,positive,0.9775
+"Attention, please!",neutral,0.5377
+Gather round.,neutral,0.8512
+Coming!,positive,0.5762
+Shall we?,neutral,0.8486
+It's so nice to run.,positive,0.97
+Meet you there!,positive,0.5702
+The winner!,positive,0.8878
+"You're so fast, Kayo.",positive,0.7952
+"Quiet, everyone!",neutral,0.6847
+The moment of truth is at hand.,neutral,0.7026
+Sosuke and Ponyo are almost here.,neutral,0.7846
+It's so romantic.,positive,0.9488
+Will love triumph?,neutral,0.5763
+I'm so excited!,positive,0.9909
+Quiet!,neutral,0.7241
+"Very soon, you will bear witness to a sacred trial of love.",positive,0.5168
+Mr.,neutral,0.5849
+"Fujimoto, you're not up to something, are you?",negative,0.6189
+"Nonsense, he's her father.",neutral,0.5926
+They'll be fine...,positive,0.6646
+if she doesn't wake up.,neutral,0.523
+Now excuse me!,neutral,0.5133
+I'd like to believe him...,neutral,0.544
+Where's Lisa gone to?,neutral,0.8123
+She's been talking with Ponyo's mother for ages.,neutral,0.8597
+I hope she's okay.,positive,0.7085
+What are they talking about?,neutral,0.7604
+Let's find out.,neutral,0.6291
+Lisa!,positive,0.5
+Lisa!,positive,0.5
+We're all rooting for Sosuke and Ponyo!,positive,0.9142
+Lisa!,positive,0.5
+You must be worried.,negative,0.6812
+Sosuke will be just fine.,positive,0.6826
+He's a strong little boy.,positive,0.8892
+"Thanks, everyone.",positive,0.8316
+He'll need your support.,neutral,0.6991
+"Ponyo, it's a tunnel.",neutral,0.7051
+“STOP” I've been here before.,negative,0.5003
+Ponyo?,neutral,0.7996
+I don't like this place.,negative,0.9771
+Don't let go of my hand.,neutral,0.762
+Ponyo!,neutral,0.4959
+Ponyo!,neutral,0.4959
+Ponyo!,neutral,0.4959
+Please don't die!,neutral,0.4897
+Ponyo!,neutral,0.4959
+"Wake up, Ponyo!",neutral,0.5848
+Let her sleep.,neutral,0.638
+"I've been waiting for you, Sosuke.",neutral,0.594
+Lisa and the old ladies are waiting too.,neutral,0.8509
+Lisa?!,neutral,0.7313
+Won't you come with me?,neutral,0.8757
+You and Ponyo.,neutral,0.7734
+Let's not wake her.,neutral,0.7395
+Sosuke!,neutral,0.6462
+Don't listen to him!,negative,0.8737
+He tricked everyone into going with him.,neutral,0.5316
+Toki!,neutral,0.5987
+But he couldn't fool me!,neutral,0.4945
+"There's no time, I tell you.",neutral,0.5079
+Don't you see what's happening?,neutral,0.621
+"If the Moon comes any closer, we're finished!",negative,0.7303
+Is that the best you can do?,neutral,0.7994
+"Sosuke, come here!",neutral,0.6863
+"Listen to me, Sosuke.",neutral,0.8606
+You're the planet's last hope.,neutral,0.5623
+Don't make me use force.,negative,0.5594
+Ponyo!,neutral,0.4959
+Is this how you treat your father?,negative,0.4989
+Ponyo!,neutral,0.4959
+"Run, Sosuke!",neutral,0.6588
+You don't understand!,negative,0.8352
+You can make it!,positive,0.9028
+Jump!,neutral,0.5308
+Now what?,neutral,0.6057
+Lisa!,positive,0.5
+Sosuke!,neutral,0.6462
+Ponyo!,neutral,0.4959
+Look over there.,neutral,0.7586
+Where are we?,neutral,0.7936
+"So, you are Sosuke.",neutral,0.8444
+Hello.,neutral,0.5209
+Are you Ponyo's mother?,neutral,0.8831
+Yes.,positive,0.461
+I want to thank you for bringing my daughter back to me.,positive,0.9688
+"Ponyo wanted to be like you, but she unleashed a terrible power.",negative,0.6949
+"To become human, she must be loved...",positive,0.5534
+...for who she really is.,neutral,0.8444
+Do you know that Ponyo was a fish?,neutral,0.8447
+Yes.,positive,0.461
+Your blood made her human...almost.,neutral,0.7402
+That's right!,positive,0.6954
+Ponyo licked my cut and made it better.,positive,0.8721
+So that's why she changed!,neutral,0.6937
+Can you accept her as she is?,neutral,0.8215
+I'll always love Ponyo...,positive,0.9736
+"...whether she's a fish, a human...",neutral,0.8658
+...or in between.,neutral,0.7084
+"Come, Ponyo.",neutral,0.7258
+Sosuke has promised to accept you as you are.,neutral,0.7042
+"But first, you must give up your powers.",neutral,0.6501
+Can you do that?,neutral,0.8371
+Kiss this bubble when you return to land...,neutral,0.7941
+...and Ponyo will be a little girl.,neutral,0.8344
+"Way to go, Ponyo!",positive,0.9541
+"Thank you, Ponyo's mother!",positive,0.9534
+Now the planet is safe again.,positive,0.8667
+"Splendid, Sosuke!",neutral,0.6426
+Sosuke!,neutral,0.6462
+"I'm grateful, Lisa.",positive,0.9548
+"Thank you, Gran Mamare.",positive,0.8455
+There you are!,positive,0.6719
+Are you all right?,neutral,0.8301
+"Wait, I'll get the wheelchairs.",neutral,0.775
+"Don't bother, we'll walk.",neutral,0.7253
+It's all so exciting.,positive,0.989
+I believe this is yours.,neutral,0.6059
+Thanks.,positive,0.6284
+I hope you'll forgive me...may I?,positive,0.5332
+Take good care of her.,positive,0.66
+It's Koichi!,neutral,0.5144
+Koichi!,neutral,0.6047
+It's Lisa!,neutral,0.5068
+And there's Sosuke!,neutral,0.5075
+"Look,Ponyo.",neutral,0.7262
+It's Koichi!,neutral,0.5144
+"{\an8}We made this movie Ponyo Ponyo Ponyo, tiny little fish She's a little fish from the deep blue sea Ponyo Ponyo Ponyo, she's a little girl She's a little girl with a round tummy Pitter-patter, hop-hop and jump Look, I have legs!",neutral,0.6009
+I'm gonna run!,neutral,0.5026
+"Squishy-squeeze, wave them around Look, I have hands!",positive,0.5228
+Let's hold them now!,neutral,0.5956
+"When I'm skipping with him My heart does this dance Munch, munch!",positive,0.6683
+"Kiss, hug!",positive,0.6374
+"Oh he's my favorite little boy Rosy-rosy red-red Ponyo Ponyo Ponyo, tiny little fish She's a little fish from the deep blue sea Ponyo Ponyo Ponyo, she's a little girl She's a little girl with a round tummy Studio Ghibli The End English translation by Jim Hubbert and Rieko Izutsu-Vajirasarn English subtitles by Aura",positive,0.8432

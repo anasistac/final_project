@@ -1,0 +1,1096 @@
+text,sentiment,score
+"Once upon a time, in a faraway land, a young prince lived in a shining castle.",positive,0.5991
+"Although he had everything his heart desired, the prince was spoiled, selfish and unkind.",negative,0.8823
+"But then, one winter's night, an old beggar woman came to the castle and offered him a single rose in return for shelter from the bitter cold.",neutral,0.8127
+"Repulsed by her haggard appearance, the prince sneered at the gift and turned the old woman away.",negative,0.6254
+"But she warned him not to be deceived by appearances, for beauty is found within.",neutral,0.5724
+"And when he dismissed her again, the old woman's ugliness melted away to reveal a beautiful enchantress.",neutral,0.5109
+"The prince tried to apologize, but it was too late, for she had seen that there was no love in his heart.",negative,0.6254
+"And as punishment, she transformed him into a hideous beast and placed a powerful spell on the castle and all who lived there.",negative,0.736
+"Ashamed of his monstrous form, the Beast concealed himself inside his castle with a magic mirror as his only window to the outside world.",negative,0.5691
+"The rose she had offered was truly an enchanted rose, which would bloom until his 21st year.",positive,0.8481
+"If he could learn to love another and earn her love in return by the time the last petal fell, then the spell would be broken.",neutral,0.6372
+"If not, he would be doomed to remain a beast for all time.",negative,0.7904
+"As the years passed, he fell into despair and lost all hope, for who could ever learn to love a beast?",negative,0.8143
+"Little town, it's a quiet village Every day like the one before Little town, full of little people Waking up to say...",neutral,0.6646
+"There goes the baker with his tray, like always The same old bread and rolls to sell Every morning just the same Since the morning that we came To this poor provincial town Good morning, Belle.",neutral,0.6134
+"Morning, monsieur.",neutral,0.5349
+Where you off to?,neutral,0.7235
+The bookshop.,neutral,0.7601
+I just finished the most wonderful story about a beanstalk and an ogre and...,positive,0.9751
+That's nice.,positive,0.9712
+"Marie, the baguettes!",neutral,0.557
+Hurry up!,positive,0.5325
+"Look, there she goes The girl is strange, no question Dazed and distracted, can't you tell?",negative,0.4976
+Never part of any crowd 'Cause her head's up on some cloud No denying she's a funny girl that Belle -Bonjour -Good day How is your family?,positive,0.6985
+-Bonjour -Good day How is your wife?,positive,0.5416
+I need six eggs That's too expensive There must be more than this provincial life Belle.,negative,0.726
+Good morning.,positive,0.7194
+I've come to return the book I borrowed.,neutral,0.7767
+Finished already?,neutral,0.7705
+I couldn't put it down.,neutral,0.4495
+Have you got anything new?,neutral,0.8507
+Not since yesterday.,neutral,0.4913
+That's all right.,positive,0.5717
+I'll borrow this one.,neutral,0.7155
+That one?,neutral,0.7192
+But you've read it twice.,neutral,0.6444
+"Well, it's my favorite.",positive,0.9467
+"Far-off places, daring sword fights, magic spells, a prince in disguise.",neutral,0.8137
+"If you like it all that much, it's yours.",positive,0.6168
+"But, sir...",neutral,0.7413
+I insist.,positive,0.5276
+"Well, thank you.",positive,0.8226
+Thank you very much.,positive,0.96
+"Look, there she goes That girl is so peculiar I wonder if she's feeling well With a dreamy, far-off look And her nose stuck in a book What a puzzle to the rest of us is Belle Isn't this amazing?",positive,0.8054
+"It's my favorite part Because you'll see Here's where she meets Prince Charming But she won't discover that it's him Till chapter three Hey, hey!",positive,0.9527
+"Hey, hey, hey!",positive,0.6822
+"Now it's no wonder that her name means beauty Her looks have got no parallel But behind that fair facade I'm afraid she's rather odd Very different from the rest of us She's nothing like the rest of us Yes, different from the rest of us is Belle Wow!",neutral,0.4278
+"You didn't miss a shot, Gaston.",neutral,0.6215
+You're the greatest hunter in the whole world!,positive,0.9694
+I know.,neutral,0.5132
+No beast alive stands a chance against you.,neutral,0.5129
+"And no girl, for that matter.",neutral,0.6041
+"It's true, LeFou.",neutral,0.6099
+And I've got my sights set on that one.,neutral,0.7366
+The inventor's daughter?,neutral,0.8553
+She's the one.,positive,0.7927
+The lucky girl I'm going to marry.,positive,0.9022
+But she...,neutral,0.7433
+The most beautiful girl in town.,positive,0.9871
+"I know, but...",neutral,0.5968
+That makes her the best.,positive,0.9518
+And don't I deserve the best?,neutral,0.5108
+"Well, of course.",neutral,0.6671
+"I mean, you do.",neutral,0.7137
+"Right from the moment when I met her, saw her I said she's gorgeous, and I fell Here in town there's only she Who is beautiful as me So I'm making plans to woo and marry Belle Look, there he goes Isn't he dreamy?",positive,0.8026
+"Monsieur Gaston Oh, he's so cute Be still, my heart I'm hardly breathing He's such a tall, dark, strong and handsome brute -Bonjour -Good day -You call this bacon?",positive,0.9386
+"-What lovely grapes -Some cheese -Ten yards -Excuse me -I'll get the knife -Please let me through -This bread, it's stale -Those fish, they smell -Madame's mistaken There must be more than this provincial life Just watch, I'm going to make Belle my wife Look, there she goes a girl who's strange but special A most peculiar mademoiselle It's a pity and a sin She doesn't quite fit in 'Cause she really is a funny girl A beauty but a funny girl She really is a funny girl That Belle Hello, Belle.",neutral,0.4954
+"Bonjour, Gaston.",neutral,0.692
+"Gaston, may I have my book, please?",neutral,0.8834
+How can you read this?,negative,0.5122
+There's no pictures.,neutral,0.6774
+"Well, some people use their imagination.",neutral,0.5519
+"Belle, it's about time you got your head out of those books and paid attention to more important things.",neutral,0.5203
+Like me.,neutral,0.7012
+The whole town's talking about it.,neutral,0.7812
+It's not right for a woman to read.,negative,0.9315
+Soon she starts getting ideas and thinking.,neutral,0.7562
+"Gaston, you are positively primeval.",positive,0.9078
+"Why, thank you, Belle.",positive,0.8385
+What do you say you and me take a walk over to the tavern and take a look at my trophies?,neutral,0.9316
+Maybe some other time.,neutral,0.8134
+What's wrong with her?,negative,0.9276
+She's crazy.,negative,0.7468
+He's gorgeous.,positive,0.9776
+"Please, Gaston, I can't.",negative,0.8476
+I have to get home to help my father.,neutral,0.8117
+Goodbye.,neutral,0.5621
+That crazy old loon.,negative,0.8516
+He needs all the help he can get.,neutral,0.6773
+Don't talk about my father that way.,negative,0.8324
+Yeah!,positive,0.7406
+Don't talk about her father that way.,negative,0.744
+My father is not crazy.,neutral,0.6308
+He's a genius.,positive,0.8253
+Papa?,neutral,0.6714
+How on earth did that happen?,negative,0.8853
+Doggone it!,neutral,0.4704
+"Are you all right, Papa?",neutral,0.8493
+I'm...,neutral,0.6445
+I'm about ready to give up on this hunk of junk.,negative,0.9313
+You always say that.,neutral,0.5765
+I mean it this time!,positive,0.6624
+I'll never get this boneheaded contraption to work!,negative,0.9681
+"Yes, you will.",positive,0.5515
+And you'll win first prize at the fair tomorrow.,positive,0.7772
+And become a world-famous inventor.,neutral,0.5462
+You really believe that?,negative,0.4839
+I always have.,neutral,0.5484
+"Well, what are we waiting for?",neutral,0.7208
+I'll have this thing fixed in no time.,neutral,0.5727
+Hand me that...,neutral,0.7628
+The dog-legged clincher there.,neutral,0.7808
+"So, did you have a good time in town today?",positive,0.6397
+I got a new book.,positive,0.7572
+"Papa, do you think I'm odd?",neutral,0.7521
+My daughter?,neutral,0.8234
+Odd?,neutral,0.574
+Where would you get an idea like that?,neutral,0.7414
+I don't know.,neutral,0.5667
+It's just that I'm not sure I fit in here.,negative,0.626
+There's no one I can really talk to.,negative,0.7256
+What about that Gaston?,neutral,0.8529
+He's a handsome fella.,positive,0.9451
+"He's handsome, all right, and rude and conceited and...",positive,0.4612
+"Papa, he's not for me.",negative,0.6963
+"Well, don't you worry.",neutral,0.7327
+'Cause this invention's gonna be the start of a new life for us.,positive,0.8898
+I think that's done it.,neutral,0.6804
+"Now, let's give it a try.",neutral,0.621
+It works!,positive,0.8845
+It does?,neutral,0.7777
+It does!,positive,0.6873
+You did it.,positive,0.657
+You really did it!,positive,0.9568
+"Hitch up Philippe, girl.",neutral,0.4974
+I'm off to the fair!,positive,0.7484
+"Goodbye, Papa.",neutral,0.6708
+Good luck.,positive,0.9243
+"Goodbye, Belle.",neutral,0.6024
+Take care while I'm gone.,neutral,0.7113
+We should be there by now.,neutral,0.7875
+Maybe we missed a turn.,negative,0.5461
+I guess I should've taken...,neutral,0.6731
+Wait a minute.,neutral,0.5549
+No.,neutral,0.4936
+Let's go this way.,neutral,0.5304
+"Come on, Philippe, it's a shortcut.",neutral,0.6431
+We'll be there in no time.,positive,0.5624
+This can't be right.,negative,0.948
+"Where have you taken us, Philippe?",neutral,0.8298
+We better turn around.,neutral,0.7051
+Whoa.,neutral,0.6108
+"Whoa, boy.",neutral,0.6289
+"Whoa, now, whoa, Philippe.",neutral,0.6058
+Look out!,neutral,0.6437
+No!,neutral,0.4416
+Whoa!,neutral,0.4812
+"Whoa, boy!",neutral,0.5061
+"Back up, back up, back up!",positive,0.8717
+Good boy.,positive,0.9314
+Good boy.,positive,0.9314
+"That's good, that's...",positive,0.9706
+Back up!,positive,0.6539
+"Steady, steady, now.",neutral,0.7271
+Steady.,neutral,0.6843
+Steady.,neutral,0.6843
+"No, Philippe!",neutral,0.4806
+Philippe?,neutral,0.7236
+Help!,neutral,0.6156
+Is...,neutral,0.7352
+Is someone there?,neutral,0.8302
+Help!,neutral,0.6156
+Hello?,neutral,0.643
+Hello!,positive,0.5738
+Poor fellow must have lost his way in the woods.,negative,0.9379
+Keep quiet.,neutral,0.7487
+Maybe he'll go away.,neutral,0.5796
+Is someone there?,neutral,0.8302
+"Not a word, Lumiere.",neutral,0.5127
+Not one word.,negative,0.5094
+"I don't mean to intrude, but I've lost my horse and I need a place to stay for the night.",negative,0.6106
+"Cogsworth, have a heart.",neutral,0.6832
+"Of course, monsieur, you are welcome here.",positive,0.9431
+Who said that?,neutral,0.6247
+Over here.,neutral,0.6487
+Where?,neutral,0.7096
+Hello.,neutral,0.5209
+Incredible!,positive,0.8879
+"Well, now you've done it, Lumiere.",neutral,0.701
+Splendid.,neutral,0.524
+Just peachy.,positive,0.7341
+How is this accomplished?,neutral,0.8336
+Put me down at once.,negative,0.5731
+Stop that!,negative,0.672
+"Stop that, I say!",negative,0.7086
+"Sir, close that at once!",neutral,0.7166
+Do you mind?,neutral,0.8154
+I beg your pardon.,neutral,0.7086
+It's...,neutral,0.7347
+It's just that I've never seen a clock that...,neutral,0.6098
+"You are soaked to the bone, monsieur.",negative,0.8907
+Come.,neutral,0.5622
+Warm yourself by the fire.,neutral,0.7734
+Thank you.,positive,0.853
+"No, no, no!",negative,0.7057
+You know what the master will do if he finds him here.,neutral,0.8131
+I demand that you stop right there.,negative,0.5582
+"No, no.",negative,0.5318
+Not the master's chair.,neutral,0.6481
+I'm not seeing this.,negative,0.8069
+I'm not seeing this.,negative,0.8069
+"Well, hello there, boy.",neutral,0.6918
+What service.,negative,0.4643
+All right.,neutral,0.4897
+This has gone far enough.,negative,0.6524
+I'm in charge here...,neutral,0.8254
+"How would you like a nice spot of tea, sir?",neutral,0.738
+It'll warm you up in no time.,positive,0.7451
+No.,neutral,0.4936
+No tea.,neutral,0.7183
+No tea!,neutral,0.6302
+"His mustache tickles, Mama.",positive,0.686
+Hello.,neutral,0.5209
+There's a stranger here.,neutral,0.7836
+"Master, allow me to explain.",neutral,0.806
+The gentleman was lost in the woods.,negative,0.4932
+"He was cold and wet, so...",neutral,0.7259
+"Master, I'd like to take this moment to say I was against this from the start.",neutral,0.5005
+It was all his fault.,negative,0.8107
+I tried to stop them.,neutral,0.5781
+Would they listen to me?,neutral,0.8291
+"No, no...",negative,0.5591
+Who are you?,neutral,0.7975
+What are you doing here?,neutral,0.8691
+I...,neutral,0.7305
+I...,neutral,0.7305
+I was lost in the woods and...,neutral,0.5776
+You are not welcome here!,negative,0.9304
+I...,neutral,0.7305
+I'm...,neutral,0.6445
+I'm sorry.,negative,0.6455
+What are you staring at?,neutral,0.7349
+Nothing.,neutral,0.5182
+"So, you've come to stare at the Beast, have you?",neutral,0.8071
+"Please, I meant no harm!",neutral,0.6026
+I just needed a place to stay.,neutral,0.747
+I'll give you a place to stay!,positive,0.7032
+"No, no, please!",negative,0.6554
+No!,neutral,0.4416
+No!,neutral,0.4416
+"Oh, boy.",neutral,0.5503
+"Belle's gonna get the surprise of her life, huh, Gaston?",neutral,0.5164
+"Yep, this is her lucky day.",positive,0.9309
+I'd like to thank you all for coming to my wedding.,positive,0.9736
+"First, I better go in there and propose to the girl.",neutral,0.8246
+"And you, LeFou, now, when Belle and I come out that door...",neutral,0.8325
+I know.,neutral,0.5132
+I know.,neutral,0.5132
+I strike up the band!,neutral,0.6387
+Not yet.,neutral,0.6702
+Sorry.,negative,0.5092
+"Gaston, what a pleasant surprise.",positive,0.9467
+"Isn't it, though?",neutral,0.7639
+I'm just full of surprises.,positive,0.8116
+"You know, Belle, there's not a girl in town who wouldn't love to be in your shoes.",neutral,0.4576
+This is the day...,positive,0.7221
+This is the day your dreams come true.,positive,0.9165
+"What do you know about my dreams, Gaston?",neutral,0.9068
+Plenty!,positive,0.7667
+Here.,neutral,0.5711
+Picture this.,neutral,0.6896
+"A rustic hunting lodge, my latest kill roasting on the fire and my little wife massaging my feet while the little ones play on the floor with the dogs.",neutral,0.7901
+We'll have six or seven.,neutral,0.8254
+Dogs?,neutral,0.7587
+"No, Belle.",neutral,0.5991
+Strapping boys like me.,neutral,0.8302
+Imagine that.,neutral,0.5736
+Do you know who that little wife will be?,neutral,0.8291
+Let me think.,neutral,0.7922
+"You, Belle.",neutral,0.6632
+"Gaston, I'm...",neutral,0.671
+I'm speechless.,negative,0.5014
+I really don't know what to say.,negative,0.767
+Say you'll marry me.,neutral,0.7077
+"I'm very sorry, Gaston, but...",negative,0.6545
+But I just don't deserve you!,negative,0.9441
+"So, how'd it go?",neutral,0.7868
+I'll have Belle for my wife.,neutral,0.6158
+Make no mistake about that.,neutral,0.6013
+Touchy.,neutral,0.6538
+Is he gone?,neutral,0.7581
+Can you imagine?,neutral,0.7968
+He asked me to marry him.,neutral,0.8233
+"Me, the wife of that boorish, brainless...",negative,0.8149
+Madame Gaston Can't you just see it?,neutral,0.7798
+"Madame Gaston His little wife No, sir, not me, I guarantee it I want much more than this provincial life I want adventure in the great wide somewhere I want it more than I can tell And for once it might be grand To have someone understand I want so much more than they've got planned Philippe!",positive,0.7753
+What are you doing here?,neutral,0.8691
+Where's...,neutral,0.7581
+Where's Papa?,neutral,0.7765
+"Where is he, Philippe?",neutral,0.8369
+What happened?,neutral,0.6705
+We have to find him.,neutral,0.7153
+You have to take me to him.,neutral,0.8323
+What is this place?,neutral,0.5225
+"Philippe, please, steady.",neutral,0.6766
+Steady.,neutral,0.6843
+Papa!,neutral,0.5798
+"Couldn't keep quiet, could we?",neutral,0.5227
+"Just had to invite him to stay, didn't we?",neutral,0.8152
+"Serve him tea, sit in the master's chair.",neutral,0.8584
+Pet the pooch.,neutral,0.6203
+I was trying to be hospitable.,neutral,0.5313
+Hello?,neutral,0.643
+Is anyone here?,neutral,0.8348
+Hello?,neutral,0.643
+Papa?,neutral,0.6714
+Papa?,neutral,0.6714
+Are you here?,neutral,0.8176
+"Mama, there's a girl in the castle.",neutral,0.8519
+"Now, Chip, I'll not have you making up such wild stories.",negative,0.575
+"Really, Mama.",neutral,0.783
+I saw her.,neutral,0.7128
+Not another word.,neutral,0.4741
+Into the tub.,neutral,0.6977
+But...,neutral,0.7123
+What?,neutral,0.5653
+A girl.,neutral,0.7368
+I saw a girl in the castle.,neutral,0.8034
+"See, I told you.",neutral,0.5608
+"Irresponsible, devil-may-care, waxy-eared, slack-jawed...",negative,0.8255
+Papa?,neutral,0.6714
+Did you see that?,neutral,0.8016
+It's a girl!,neutral,0.4948
+I know it's a girl.,neutral,0.8128
+Don't you see?,neutral,0.6736
+She's the one.,positive,0.7927
+The girl we have been waiting for.,positive,0.5892
+-She has come to break the spell.,neutral,0.8659
+-Wait a minute.,neutral,0.6228
+Wait a minute.,neutral,0.5549
+Papa?,neutral,0.6714
+Papa?,neutral,0.6714
+Hello?,neutral,0.643
+Is someone here?,neutral,0.8619
+Wait!,neutral,0.6225
+I'm looking for my father.,neutral,0.6849
+I...,neutral,0.7305
+That's funny.,positive,0.8399
+I'm sure there was someone.,neutral,0.7983
+Is anyone here?,neutral,0.8348
+Belle?,neutral,0.7404
+Papa!,neutral,0.5798
+How did you find me?,neutral,0.7967
+Your hands are like ice.,neutral,0.504
+We have to get you out of there.,neutral,0.6177
+"Belle, I want you to leave this place.",negative,0.5388
+Who's done this to you?,neutral,0.5663
+No time to explain.,neutral,0.5771
+You must go.,neutral,0.6195
+Now!,neutral,0.512
+I won't leave you.,neutral,0.6979
+What are you doing here?,neutral,0.8691
+"Run, Belle!",positive,0.569
+Who's there?,neutral,0.8102
+Who are you?,neutral,0.7975
+The master of this castle.,neutral,0.75
+I've come for my father.,neutral,0.722
+Please let him out.,negative,0.488
+Can't you see he's sick?,negative,0.8454
+Then he shouldn't have trespassed here!,negative,0.5876
+But he could die.,negative,0.6272
+"Please, I'll do anything.",positive,0.5877
+There's nothing you can do.,neutral,0.5412
+He's my prisoner.,neutral,0.5376
+There must be some way I can...,neutral,0.5647
+Wait!,neutral,0.6225
+Take me instead.,neutral,0.5502
+You?,neutral,0.6413
+You would take his place?,neutral,0.8424
+"Belle, no!",neutral,0.4921
+You don't know what you're doing!,negative,0.7501
+"If I did, would you let him go?",neutral,0.8238
+Yes.,positive,0.461
+But you must promise to stay here forever.,neutral,0.6262
+Come into the light.,neutral,0.6306
+"No, Belle!",neutral,0.5051
+I won't let you do this!,negative,0.8419
+You have my word.,neutral,0.7467
+Done.,neutral,0.4916
+"No, Belle, listen to me.",neutral,0.539
+I'm old.,negative,0.7936
+I've lived my life.,neutral,0.67
+Wait.,neutral,0.5851
+-Belle!,neutral,0.6196
+-Wait.,neutral,0.6218
+No!,neutral,0.4416
+Please spare my daughter.,neutral,0.4781
+Please!,neutral,0.5394
+She's no longer your concern.,neutral,0.492
+Take him to the village.,neutral,0.829
+Let me out.,neutral,0.7096
+Please let me out!,neutral,0.6108
+Let me out!,neutral,0.6271
+Please!,neutral,0.5394
+Please!,neutral,0.5394
+Master?,neutral,0.7447
+What?,neutral,0.5653
+"Since the girl is going to be with us for quite some time, I was thinking that you might want to offer her a more comfortable room.",neutral,0.5426
+"Then again, maybe not.",neutral,0.6833
+You didn't even let me say goodbye.,negative,0.6476
+I'll never see him again.,negative,0.9227
+I didn't get to say goodbye.,negative,0.6846
+I'll show you to your room.,neutral,0.8273
+My room?,neutral,0.8087
+But I thought...,neutral,0.765
+You wanna...,neutral,0.7671
+You wanna stay in the tower?,neutral,0.8853
+-No.,neutral,0.5275
+-Then follow me.,neutral,0.7931
+Say something to her.,neutral,0.7275
+I hope you like it here.,positive,0.9457
+"The castle is your home now, so you can go anywhere you like, except the west wing.",neutral,0.4886
+What's in the west...,neutral,0.8382
+It's forbidden!,negative,0.794
+"Now, if you need anything, my servants will attend you.",neutral,0.8168
+Dinner.,neutral,0.6847
+Invite her to dinner.,neutral,0.8532
+You will join me for dinner.,neutral,0.71
+That's not a request!,neutral,0.5785
+Who does she think she is?,neutral,0.7457
+That girl has tangled with the wrong man.,negative,0.8721
+No one says no to Gaston.,neutral,0.7312
+Darn right.,negative,0.5687
+Dismissed.,negative,0.6041
+Rejected.,negative,0.5514
+Publicly humiliated.,negative,0.884
+"Why, it's more than I can bear.",negative,0.6598
+More beer?,neutral,0.809
+What for?,neutral,0.7062
+Nothing helps.,negative,0.8701
+-I'm disgraced.,negative,0.923
+"-Who, you?",neutral,0.7647
+Never.,neutral,0.4316
+"Gaston, you've got to pull yourself together.",neutral,0.7301
+"Gosh, it disturbs me to see you, Gaston Looking so down in the dumps Every guy here'd love to be you, Gaston Even when taking your lumps There's no man in town as admired as you You're everyone's favorite guy Everyone's awed and inspired by you And it's not very hard To see why No one's slick as Gaston No one's quick as Gaston No one's neck's as incredibly thick as Gaston For there's no man in town half as manly Perfect, a pure paragon You can ask any Tom, Dick or Stanley And they'll tell you whose team they prefer to be on No one's been like Gaston A kingpin like Gaston No one's got a swell cleft in his chin like Gaston As a specimen, yes, I'm intimidating My, what a guy, that Gaston Give five hurrahs Give 12 hip-hips Gaston is the best and the rest is all drips No one fights like Gaston Douses lights like Gaston In a wrestling match nobody bites like Gaston For there's no one as burly and brawny As you see, I've got biceps to spare -Not a bit of him scraggly or scrawny -That's right And every last inch of me's covered with hair -No one hits like Gaston -Matches wits like Gaston In a spitting match nobody spits like Gaston I'm especially good at expectorating Ten points for Gaston When I was a lad I ate four dozen eggs Every morning to help me get large And now that I'm grown I eat five dozen eggs So I'm roughly the size of a barge No one shoots like Gaston Makes those beauts like Gaston Then goes tromping around wearing boots like Gaston I use antlers in all of my decorating My, what a guy Gaston Help!",neutral,0.4841
+Someone help me!,neutral,0.665
+Maurice?,neutral,0.7768
+Please!,neutral,0.5394
+"Please, I need your help.",neutral,0.7136
+He's got her...,neutral,0.7779
+He's got her locked in the dungeon.,neutral,0.4926
+Who?,neutral,0.6756
+Belle.,neutral,0.6362
+We must go.,neutral,0.6452
+Not...,neutral,0.5979
+Not a minute to lose.,neutral,0.6043
+Whoa!,neutral,0.4812
+"Slow down, Maurice.",neutral,0.6276
+Who's got Belle locked in a dungeon?,neutral,0.5921
+A beast!,positive,0.6313
+"A horrible, monstrous beast!",negative,0.9501
+Is it a big beast?,neutral,0.8629
+Huge.,neutral,0.5735
+"With a long, ugly snout?",negative,0.8884
+Hideously ugly.,negative,0.9535
+"And sharp, cruel fangs?",negative,0.8518
+"Yes, yes!",positive,0.9218
+Will you help me?,neutral,0.8555
+"All right, old man.",neutral,0.748
+We'll help you out.,positive,0.5949
+You will?,neutral,0.8303
+"Thank you, thank you, thank you.",positive,0.9762
+Crazy old Maurice.,negative,0.6308
+He's always good for a laugh.,positive,0.9537
+Crazy old Maurice?,neutral,0.586
+Crazy old Maurice.,negative,0.6308
+"LeFou, I'm afraid I've been thinking A dangerous pastime I know But that wacky old coot is Belle's father And his sanity's only so-so Now, the wheels in my head have been turning Since I looked at that loony old man See, I promised myself I'd be married to Belle And right now, I'm evolving a plan If I...",neutral,0.5406
+Yes?,neutral,0.7116
+Then we...,neutral,0.8176
+"No, would she?",neutral,0.6473
+Guess.,neutral,0.6039
+Now I get it!,neutral,0.4704
+Let's go!,positive,0.8384
+Let's go!,positive,0.8384
+"No one plots like Gaston Takes cheap shots like Gaston Plans to persecute harmless crackpots like Gaston So, his marriage we soon will be celebrating My, what a guy Gaston Will no one help me?",negative,0.4715
+Who is it?,neutral,0.7937
+Mrs.,neutral,0.6144
+"Potts, dear.",neutral,0.6882
+I thought you might like a spot of tea.,positive,0.5902
+But you're...,neutral,0.6447
+You're a...,neutral,0.6777
+Careful.,neutral,0.7294
+This is impossible.,negative,0.8784
+"I know it is, but here we are.",negative,0.6196
+"I told you she was pretty, Mama, didn't I?",neutral,0.606
+"All right, Chip, now, that'll do.",positive,0.5157
+Slowly now.,neutral,0.7203
+Don't spill.,neutral,0.6968
+Thank you.,positive,0.853
+Wanna see me do a trick?,neutral,0.8728
+Chip!,positive,0.5201
+Sorry.,negative,0.5092
+"That was a very brave thing you did, my dear.",positive,0.9426
+We all think so.,neutral,0.6448
+"But I've lost my father, my dreams, everything.",negative,0.8179
+"Cheer up, child.",positive,0.8259
+It'll turn out all right in the end.,positive,0.7576
+You'll see.,neutral,0.6752
+Listen to me jabbering on while there's a supper to get on the table.,neutral,0.7694
+Chip?,neutral,0.7178
+Bye.,neutral,0.5137
+"Well, now, what shall we dress you in for dinner?",neutral,0.9248
+Let's see what I got in my drawers.,neutral,0.7776
+How embarrassing!,negative,0.9436
+Here we are.,neutral,0.5567
+You'll look ravishing in this one.,positive,0.9304
+"That's very kind of you, but I'm not going to dinner.",neutral,0.5588
+But you must.,neutral,0.7026
+Dinner is served.,neutral,0.6128
+What's taking so long?,negative,0.6888
+I told her to come down.,neutral,0.6845
+Why isn't she here yet?,neutral,0.5371
+"Try to be patient, sir.",neutral,0.7246
+The girl has lost her father and her freedom all in one day.,negative,0.9186
+"Master, have you thought that perhaps this girl could be the one to break the spell?",neutral,0.9074
+Of course I have!,positive,0.809
+I'm not a fool.,neutral,0.6745
+Good!,positive,0.9175
+"So, you fall in love with her, she falls in love with you, and poof!",positive,0.6826
+The spell is broken.,negative,0.7805
+We'll be human again by midnight.,positive,0.7499
+"It's not that easy, Lumiere.",negative,0.4671
+These things take time.,neutral,0.7608
+But the rose has already begun to wilt.,neutral,0.7492
+It's no use.,negative,0.4781
+She's so beautiful and I'm...,positive,0.9751
+"Well, look at me!",positive,0.631
+You must help her to see past all that.,neutral,0.6705
+I don't know how.,negative,0.7971
+"Well, you can start by making yourself more presentable.",positive,0.6509
+Straighten up.,neutral,0.5572
+Try to act like a gentleman.,neutral,0.6528
+Yes.,positive,0.461
+"When she comes in, give her a dashing, debonair smile.",positive,0.821
+"Come, come, show me the smile.",positive,0.8347
+But don't frighten the poor girl.,negative,0.5162
+Impress her with your rapier wit.,neutral,0.6988
+But be gentle.,neutral,0.623
+Shower her with compliments.,neutral,0.5564
+But be sincere.,neutral,0.6006
+"And above all, you must control your temper!",neutral,0.6959
+You must control your temper!,neutral,0.6144
+Here she is!,positive,0.724
+Good evening.,positive,0.6769
+"Well, where is she?",neutral,0.7665
+Who?,neutral,0.6756
+"The girl, yes.",neutral,0.5872
+The girl.,neutral,0.6818
+"Well, actually, she's in the process of...",neutral,0.8825
+Circumstances being what they are...,neutral,0.6944
+She's not coming.,negative,0.5093
+What?,neutral,0.5653
+"Oh, dear.",neutral,0.4791
+Your Grace!,positive,0.7613
+Your Eminence!,neutral,0.667
+Let's not be hasty!,neutral,0.569
+I thought I told you to come down to dinner!,neutral,0.7662
+I'm not hungry.,neutral,0.5821
+You'll come out or I'll...,neutral,0.8158
+I'll...,neutral,0.8075
+I'll break down the door!,neutral,0.5833
+"Master, I could be wrong, but that may not be the best way to win the girl's affections.",negative,0.6102
+Please attempt to be a gentleman.,neutral,0.6173
+But she is being so difficult.,negative,0.8035
+"Gently, gently.",neutral,0.6368
+Will you come down to dinner?,neutral,0.9174
+No!,neutral,0.4416
+"Suave, genteel.",neutral,0.5844
+It would give me great pleasure if you would join me for dinner.,positive,0.9775
+"And we say ""please."" Please.",neutral,0.6946
+"No, thank you.",neutral,0.6126
+You can't stay in there forever!,neutral,0.5336
+"Yes, I can.",positive,0.846
+Fine!,positive,0.7965
+Then go ahead and starve!,negative,0.7653
+"If she doesn't eat with me, then she doesn't eat at all!",negative,0.6756
+"Oh, dear.",neutral,0.4791
+"That didn't go very well at all, did it?",negative,0.9482
+"Lumiere, stand watch at the door and inform me at once if there is the slightest change.",neutral,0.8845
+"You can count on me, mon capitaine.",neutral,0.5298
+"Well, we might as well go downstairs and start cleaning up.",neutral,0.7833
+"I ask nicely, but she refuses.",negative,0.6082
+"What does she want me to do, beg?",neutral,0.6976
+Show me the girl.,neutral,0.7453
+"But the master's really not so bad, once you get to know him.",positive,0.7863
+Why don't you give him a chance?,neutral,0.6813
+I don't want to get to know him.,negative,0.9412
+I don't want to have anything to do with him.,negative,0.9296
+I'm just fooling myself.,negative,0.6521
+She'll never see me as anything but a monster.,negative,0.7808
+It's hopeless.,negative,0.8673
+"Oh, no.",negative,0.6307
+"Oh, yes.",positive,0.6818
+"Oh, no.",negative,0.6307
+"Oh, yes, yes, yes.",positive,0.8831
+I've been burned by you before.,negative,0.8044
+Zut alors!,neutral,0.7337
+She has emerged!,positive,0.8022
+"Come on, Chip.",neutral,0.6829
+Into the cupboard with your brothers and sisters.,neutral,0.8387
+But I'm not sleepy.,neutral,0.5507
+"Yes, you are.",positive,0.5381
+"No, I'm not.",neutral,0.6332
+"I work and I slave all day long, and for what?",negative,0.6586
+A culinary masterpiece gone to waste!,neutral,0.3929
+Stop your grousing.,negative,0.8357
+It's been a long night for all of us.,neutral,0.6271
+"Well, if you ask me, she was just being stubborn.",negative,0.4993
+"After all, he did say ""please."" But if the master doesn't learn to control that temper, he'll never break the...",neutral,0.6485
+"Splendid to see you out and about, mademoiselle.",neutral,0.525
+"I am Cogsworth, head of the household.",neutral,0.907
+This is Lumiere.,neutral,0.8181
+"Enchanté, chérie.",neutral,0.6791
+"If there's, stop that, anything we, please, can do to make your stay more comfortable...",neutral,0.6248
+I am a little hungry.,neutral,0.5481
+You are?,neutral,0.7547
+Hear that?,neutral,0.7694
+She's hungry.,neutral,0.6694
+Stoke the fire.,neutral,0.6368
+Break out the silver.,neutral,0.7156
+Wake the china.,neutral,0.7711
+Remember what the master said.,neutral,0.7966
+Pish tosh.,negative,0.6
+I'm not about to let the poor child go hungry.,negative,0.9557
+"All right, fine.",neutral,0.4828
+"Glass of water, crust of bread and then...",neutral,0.8825
+"Cogsworth, I am surprised at you.",negative,0.4873
+She's not a prisoner.,neutral,0.6363
+She's our guest.,neutral,0.7081
+We must make her feel welcome here.,positive,0.8676
+"Right this way, mademoiselle.",neutral,0.8064
+"Well, keep it down.",neutral,0.6513
+"If the master finds out about this, it will be our necks.",negative,0.5169
+"Of course, of course.",neutral,0.5275
+But what is dinner without a little music?,neutral,0.782
+Music?,neutral,0.7835
+It is with deepest pride and greatest pleasure that we welcome you tonight.,positive,0.9879
+"And now, we invite you to relax.",positive,0.6074
+"Let us pull up a chair, as the dining room proudly presents your dinner.",positive,0.6359
+"Be our guest, be our guest Put our service to the test Tie your napkin 'round your neck, chérie And we provide the rest Soup du jour, hot hors d'oeuvres Why, we only live to serve Try the gray stuff, it's delicious Don't believe me?",positive,0.7573
+"Ask the dishes They can sing, they can dance After all, miss, this is France And a dinner here is never second best Go on, unfold your menu Take a glance and then you'll be our guest Oui, our guest Be our guest Beef ragout, cheese soufflé Pie and pudding, en flambé We'll prepare and serve with flair A culinary cabaret You're alone and you're scared But the banquet's all prepared No one's gloomy or complaining While the flatware's entertaining We tell jokes, I do tricks With my fellow candlesticks Und it's all in perfect taste That you can bet Come on and lift your glass You've won your own free pass To be our guest If you're stressed it's fine dining we suggest Be our guest, be our guest Be our guest Life is so unnerving For a servant who's not serving He's not whole without a soul to wait upon Get off!",positive,0.5071
+"Those good old days When we were useful Suddenly, those good old days are gone Ten years we've been rusting Needing so much more than dusting Needing exercise A chance to use our skills Most days we just lay around the castle Flabby, fat and lazy You walked in and oops-a-daisy It's a guest, it's a guest Sakes alive, well, I'll be blessed Wine's been poured and thank the Lord I've had the napkins freshly pressed With dessert, she'll want tea And, my dear, that's fine with me While the cups do their soft-shoeing I'll be bubbling, I'll be brewing I'll get warm, piping hot Heaven sakes, is that a spot?",positive,0.6045
+Clean it up We want the company impressed We've got a lot to do Is it one lump or two?,neutral,0.5516
+"For you, our guest -She's our guest -She's our guest Be our guest Be our guest, be our guest Our command is your request Let's go, people.",neutral,0.5311
+Fun's over.,neutral,0.5054
+Over here.,neutral,0.6487
+Line up.,neutral,0.5917
+"It's 10 years since we've had anybody here And we're obsessed With your meal, with your ease Yes, indeed, we aim to please While the candlelight's still glowing Let us help you, we'll keep going Course by course One by one Till you shout, ""Enough, I'm done!"" Then we'll sing you off to sleep as you digest Tonight, you'll prop your feet up But for now, let's eat up Be our guest Be our guest Be our guest Please be our Guest Bravo!",positive,0.7404
+That was wonderful.,positive,0.9834
+Thank you.,positive,0.853
+"Thank you, mademoiselle.",positive,0.8223
+"Good show, wasn't it?",positive,0.9405
+Everyone!,positive,0.5258
+"My goodness, look at the time.",neutral,0.4795
+"Now it's off to bed, off to bed.",neutral,0.7816
+I couldn't possibly go to bed now.,negative,0.8715
+It's my first time in an enchanted castle.,positive,0.6005
+Enchanted!,positive,0.7328
+Who said anything about the castle being enchanted?,neutral,0.7654
+"It was you, wasn't it?",neutral,0.8042
+I figured it out for myself.,neutral,0.602
+"I'd like to look around, if that's all right.",neutral,0.6068
+Would you like a tour?,neutral,0.8941
+Wait a second.,neutral,0.5776
+Wait a second.,neutral,0.5776
+I'm not sure that's such a good idea.,negative,0.5824
+"We can't let her go poking around in certain places, if you know what I mean.",neutral,0.4939
+Perhaps you'd like to take me.,neutral,0.7394
+I'm sure you know everything there is to know about the castle.,neutral,0.7396
+Well.,neutral,0.6177
+"Actually, I...",neutral,0.8215
+"Yes, I do.",positive,0.5486
+"As you can see, the pseudo-facade was stripped away to reveal the minimalist Rococo design.",neutral,0.8557
+Note the unusual inverted vaulted ceilings.,neutral,0.8464
+This is yet another example of the late-neoclassic Baroque period.,neutral,0.593
+"And, as I always say, if it's not Baroque, don't fix it.",neutral,0.482
+Where was I?,neutral,0.6802
+As you were!,neutral,0.5228
+"Now, then, if I may draw your attention to the flying buttresses above the...",neutral,0.8947
+Mademoiselle?,neutral,0.798
+What's up there?,neutral,0.7716
+Where?,neutral,0.7096
+There?,neutral,0.6682
+Nothing.,neutral,0.5182
+Absolutely nothing of interest at all in the west wing.,negative,0.6808
+"Dusty, dull, very boring.",negative,0.9691
+"So, that's the west wing!",neutral,0.7319
+Nice going.,positive,0.9058
+I wonder what he's hiding up there.,neutral,0.6868
+Hiding?,neutral,0.7482
+The master is hiding nothing.,neutral,0.6846
+Then it wouldn't be forbidden.,neutral,0.7525
+Perhaps mademoiselle would like to see something else?,neutral,0.768
+We have exquisite tapestries dating all the way back to...,positive,0.8436
+Maybe later.,neutral,0.7886
+The gardens.,neutral,0.6658
+Or...,neutral,0.7273
+Or the...,neutral,0.7433
+"The library, perhaps?",neutral,0.8762
+You have a library?,neutral,0.7862
+Yes.,positive,0.461
+Indeed.,neutral,0.6371
+With books.,neutral,0.7875
+Scads of books.,neutral,0.7021
+Mountains of books.,neutral,0.7277
+Forests of books.,neutral,0.7615
+Cascades.,neutral,0.6785
+Cloudbursts.,neutral,0.7668
+Swamps of books.,neutral,0.7324
+More books than you'll ever be able to read in a lifetime.,neutral,0.4305
+Books on every subject ever studied by every author who ever set pen to paper.,neutral,0.8725
+Why did you come here?,neutral,0.6262
+I'm...,neutral,0.6445
+I'm sorry.,negative,0.6455
+I warned you never to come here!,negative,0.7047
+I didn't mean any harm.,neutral,0.6791
+Do you realize what you could have done?,neutral,0.7732
+Please!,neutral,0.5394
+Stop!,negative,0.5341
+Get out!,neutral,0.5983
+No!,neutral,0.4416
+Get out!,neutral,0.5983
+Where are you going?,neutral,0.83
+"Promise or no promise, I can't stay here another minute.",negative,0.6209
+"No, wait, please!",negative,0.464
+"Please, wait!",neutral,0.5043
+No!,neutral,0.4416
+"Here, now.",neutral,0.6012
+Don't do that.,negative,0.6861
+Just hold still.,neutral,0.7257
+That hurts!,negative,0.8804
+"If you'd hold still, it wouldn't hurt as much!",neutral,0.5596
+"Well, if you hadn't have run away, this wouldn't have happened.",neutral,0.5221
+"If you hadn't frightened me, I wouldn't have run away.",neutral,0.5796
+"Well, you shouldn't have been in the west wing!",negative,0.8243
+"Well, you should learn to control your temper.",neutral,0.508
+"Now, hold still.",neutral,0.7735
+This might sting a little.,negative,0.688
+"By the way, thank you for saving my life.",positive,0.9698
+You're welcome.,positive,0.9099
+"I don't usually leave the asylum in the middle of the night, but he said you'd make it worth my while.",neutral,0.5112
+I'm listening.,neutral,0.5667
+It's like this.,neutral,0.6434
+"I've got my heart set on marrying Belle, but she needs a little persuasion.",neutral,0.691
+Turned him down flat.,neutral,0.7531
+Everyone knows her father's a lunatic.,negative,0.9143
+He was in here tonight raving about a beast in a castle.,neutral,0.7809
+Maurice is harmless.,neutral,0.5373
+"The point is, Belle would do anything to keep him from being locked up.",neutral,0.6885
+"Yeah, even marry him.",neutral,0.6847
+"So, you want me to throw her father into the asylum, unless she agrees to marry you.",negative,0.6783
+That is despicable.,negative,0.9465
+I love it.,positive,0.9695
+"If no one will help me, then I'll go back alone.",negative,0.8232
+"Yes, is that everything?",neutral,0.785
+I don't care what it takes.,neutral,0.6104
+"I'll find that castle and somehow, I...",neutral,0.5501
+I'll get her out of there.,negative,0.486
+Belle!,positive,0.5235
+Maurice!,neutral,0.648
+"Oh, well.",neutral,0.6057
+"Guess it's not gonna work, after all.",negative,0.7525
+They have to come back sometime.,neutral,0.7783
+"And when they do, we'll be ready for them.",neutral,0.6974
+"LeFou, don't move from that spot until Belle and her father come home.",neutral,0.8544
+But...,neutral,0.7123
+But I...,neutral,0.7533
+Nuts.,neutral,0.5457
+I've never felt this way about anyone.,negative,0.7497
+I want to do something for her.,positive,0.7482
+But what?,neutral,0.6678
+"Well, there's the usual things.",neutral,0.4707
+"Flowers, chocolates, promises you don't intend to keep.",negative,0.4804
+"No, no.",negative,0.5318
+It has to be something very special.,positive,0.7441
+Something that sparks her interest.,positive,0.7319
+Wait a minute.,neutral,0.5549
+Belle?,neutral,0.7404
+There's something I want to show you.,neutral,0.5022
+"But first, you have to close your eyes.",neutral,0.7324
+It's a surprise.,positive,0.7817
+Can I open them?,neutral,0.8653
+"No, no.",negative,0.5318
+Not yet.,neutral,0.6702
+Wait here.,neutral,0.6363
+Now can I open them?,neutral,0.8082
+All right.,neutral,0.4897
+Now.,neutral,0.5224
+I can't believe it.,negative,0.6368
+I've never seen so many books in all my life.,neutral,0.4692
+You...,neutral,0.6931
+You like it?,neutral,0.7853
+It's wonderful.,positive,0.9775
+Then it's yours.,neutral,0.6544
+Thank you so much.,positive,0.9793
+Would you look at that!,neutral,0.632
+I knew it would work.,positive,0.7136
+What?,neutral,0.5653
+What works?,neutral,0.7977
+It's very encouraging.,positive,0.9735
+Isn't this exciting?,positive,0.9656
+I didn't see anything.,neutral,0.5296
+"Come along, Chip.",neutral,0.587
+There's chores to be done in the kitchen.,neutral,0.6335
+But what are they talking about?,neutral,0.7101
+What's going on?,neutral,0.7289
+"Come on, Mom.",neutral,0.6631
+"There's something sweet and almost kind But he was mean and he was coarse and unrefined And now he's dear and so unsure I wonder why I didn't see it there before She glanced this way I thought I saw And when we touched she didn't shudder at my paw No, it can't be I'll just ignore But then she's never looked at me that way before New and a bit alarming Who'd have ever thought That this could be True That he's no Prince Charming But there's something in him That I simply didn't see -Well, who'd have thought -Well, bless my soul -Well, who'd have known -Well, who, indeed And who'd have guessed they'd come together on their own -It's so peculiar.",neutral,0.5176
+"Wait and see -We'll wait and see A few days more There may be something there that wasn't there before You know, perhaps there is something there that wasn't there before What?",neutral,0.8449
+"There may be something there that wasn't there before What's there, Mama?",neutral,0.8643
+I'll tell you when you're older.,neutral,0.8191
+Tonight is the night.,positive,0.5005
+I'm not sure I can do this.,negative,0.8208
+You don't have time to be timid.,neutral,0.5337
+"You must be bold, daring.",neutral,0.5191
+Bold.,neutral,0.6974
+Daring.,neutral,0.6011
+"There will be music, romantic candlelight provided by myself.",positive,0.6748
+"And when the moment is right, you confess your love.",positive,0.6437
+"Yes, I...",neutral,0.6947
+I...,neutral,0.7305
+I...,neutral,0.7305
+"No, I can't.",negative,0.7151
+"You care for the girl, don't you?",neutral,0.5949
+More than anything.,neutral,0.7005
+"Well, then, you must tell her.",neutral,0.7487
+Voilà!,neutral,0.59
+"You look so, so...",positive,0.5395
+Stupid.,negative,0.9054
+Not quite the word I was looking for.,negative,0.6475
+Perhaps a little more off the top.,neutral,0.7768
+Your lady awaits.,neutral,0.6397
+"Tale as old as time True as it can be Barely even friends Then somebody bends Unexpectedly Just a little change Small to say the least Both a little scared Neither one prepared Beauty and the Beast Ever just the same Ever a surprise Ever as before Ever just as sure As the sun will rise Tale as old as time Tune as old as song Bittersweet and strange Finding you can change Learning you were wrong Certain as the sun Rising in the east Tale as old as time Song as old as rhyme Beauty and the Beast Tale as old as time Song as old as rhyme Beauty and the Beast Off to the cupboard with you now, Chip.",neutral,0.707
+It's past your bedtime.,neutral,0.677
+"Good night, love.",positive,0.9072
+Belle?,neutral,0.7404
+Are you happy here with me?,neutral,0.6323
+Yes.,positive,0.461
+What is it?,neutral,0.75
+"If only I could see my father again, just for a moment.",positive,0.4862
+I miss him so much.,negative,0.4918
+There is a way.,positive,0.5315
+This mirror will show you anything.,neutral,0.7902
+Anything you wish to see.,neutral,0.6221
+"I'd like to see my father, please.",neutral,0.6141
+Papa.,neutral,0.6082
+"Oh, no.",negative,0.6307
+He's sick.,negative,0.9118
+"He may be dying, and he's all alone.",negative,0.901
+Then you must go to him.,neutral,0.8579
+What did you say?,neutral,0.7699
+I release you.,neutral,0.6817
+You're no longer my prisoner.,neutral,0.6179
+You mean I'm free?,neutral,0.7907
+Yes.,positive,0.461
+Thank you.,positive,0.853
+"Hold on, Papa.",neutral,0.795
+I'm on my way.,neutral,0.6416
+Take it with you so you'll always have a way to look back and remember me.,positive,0.7446
+Thank you for understanding how much he needs me.,positive,0.9172
+"Well, Your Highness, I must say everything is going just swimmingly.",positive,0.9413
+I knew you had it in you.,neutral,0.6295
+I let her go.,neutral,0.6444
+"Yes, yes...",positive,0.8343
+You what?,neutral,0.6452
+How could you do that?,negative,0.7418
+I had to.,neutral,0.6465
+"Yes, but...",neutral,0.7712
+But why?,neutral,0.6471
+Because I love her.,positive,0.9618
+He did what?,neutral,0.5914
+"Yes, I'm afraid it's true.",neutral,0.5059
+She's going away?,neutral,0.7151
+But he was so close.,neutral,0.6965
+"After all this time, he's finally learned to love.",positive,0.6628
+That's it then.,neutral,0.5736
+That should break the spell.,neutral,0.6801
+But it's not enough.,negative,0.6687
+She has to love him in return.,positive,0.5713
+Now it's too late.,negative,0.6244
+Papa?,neutral,0.6714
+Papa?,neutral,0.6714
+They're back.,neutral,0.5674
+Belle.,neutral,0.6362
+"It's all right, Papa.",positive,0.686
+I'm home.,positive,0.6493
+I thought I'd never see you again.,negative,0.8275
+I missed you so much!,positive,0.8613
+But the Beast...,neutral,0.778
+Did you...,neutral,0.7401
+How did you escape?,neutral,0.7765
+"I didn't escape, Papa.",neutral,0.6524
+He...,neutral,0.7817
+He let me go.,neutral,0.6964
+That horrible beast?,negative,0.9213
+"But he's different now, Papa.",neutral,0.73
+He's changed somehow.,neutral,0.7939
+Hi!,positive,0.4741
+A stowaway.,neutral,0.6929
+"Why, hello there, little fella.",neutral,0.7184
+Didn't think I'd see you again.,negative,0.673
+"Belle, why'd you go away?",neutral,0.5877
+Don't you like us anymore?,negative,0.5984
+"Chip, of course I do.",neutral,0.5755
+It's just that...,neutral,0.6674
+May I help you?,neutral,0.8346
+I've come to collect your father.,neutral,0.8424
+My father?,neutral,0.7941
+"Don't worry, mademoiselle.",neutral,0.6465
+We'll take good care of him.,positive,0.799
+My father's not crazy!,neutral,0.543
+He was raving like a lunatic!,negative,0.9402
+"We all heard him, didn't we?",neutral,0.6475
+Yes!,positive,0.8097
+"No, I won't let you!",negative,0.5305
+Belle?,neutral,0.7404
+"Maurice, tell us again, old man.",neutral,0.6657
+Just how big was the beast?,neutral,0.8701
+He was...,neutral,0.8157
+"I mean, he was...",neutral,0.8064
+He was enormous!,positive,0.9098
+I'd...,neutral,0.7728
+"I'd say at least eight, no, more like 10 feet!",neutral,0.7616
+"Well, you don't get much crazier than that.",negative,0.6028
+"It's true, I tell you.",neutral,0.5264
+Get him out of here!,negative,0.7761
+Let go of me!,neutral,0.5729
+No!,neutral,0.4416
+You can't do this!,negative,0.8619
+Poor Belle.,negative,0.7747
+It's a shame about your father.,negative,0.895
+"You know he's not crazy, Gaston.",neutral,0.6974
+I might be able to clear up this little misunderstanding if...,neutral,0.618
+If what?,neutral,0.6901
+If you marry me.,neutral,0.7756
+What?,neutral,0.5653
+"One little word, Belle.",neutral,0.6859
+That's all it takes.,neutral,0.5374
+Never!,negative,0.4302
+Have it your way.,neutral,0.6511
+Belle?,neutral,0.7404
+Let go of me!,neutral,0.5729
+My father's not crazy and I can prove it.,positive,0.6485
+Show me the Beast.,neutral,0.7811
+Is it dangerous?,neutral,0.4985
+"No, no, he'd never hurt anyone.",neutral,0.6546
+"Please, I know he looks vicious, but he's really kind and gentle.",positive,0.545
+He's my friend.,positive,0.7442
+"If I didn't know better, I'd think you had feelings for this monster.",negative,0.8972
+"He's no monster, Gaston.",neutral,0.66
+You are!,positive,0.7455
+She's as crazy as the old man.,negative,0.895
+The Beast will make off with your children.,negative,0.6822
+He'll come after them in the night.,neutral,0.8181
+No.,neutral,0.4936
+We're not safe till his head is mounted on my wall!,negative,0.8412
+I say we kill the Beast!,neutral,0.5025
+"We're not safe until he's dead He'll come stalking us at night Set to sacrifice our children To his monstrous appetite He'll wreak havoc on our village If we let him wander free So, it's time to take some action, boys It's time to follow me Through the mist, through the woods through the darkness and the shadows It's a nightmare but it's one exciting ride Say a prayer, then we're there at the drawbridge of a castle And there's something truly terrible inside It's a beast He's got fangs, razor-sharp ones Massive paws, killer claws for the feast Hear him roar, see him foam But we're not coming home Till he's dead, good and dead Kill the Beast!",negative,0.6287
+"No, I won't let you do this.",negative,0.8792
+"If you're not with us, you're against us.",negative,0.707
+Bring the old man!,neutral,0.7
+Get your hands off me!,negative,0.767
+We can't have them running off to warn the creature.,negative,0.5334
+Let us out!,neutral,0.5291
+We'll rid the village of this beast!,neutral,0.5643
+Who's with me?,neutral,0.8306
+I am!,positive,0.8471
+I am!,positive,0.8471
+I am!,positive,0.8471
+"Light your torch, mount your horse Screw your courage to the sticking place We're counting on Gaston to lead the way Through a mist, to a wood where within a haunted castle Something's lurking that you don't see every day It's a beast One as tall as a mountain We won't rest till he's good and deceased Sally forth, tally-ho Grab your sword and your bow Praise the Lord and here we go We'll lay siege to the castle and bring back his head!",neutral,0.6242
+I have to warn the Beast.,neutral,0.717
+This is all my fault.,negative,0.9196
+"Papa, what are we going to do?",neutral,0.8821
+"Now, now.",neutral,0.597
+We'll think of something.,neutral,0.7457
+"We don't like what we don't understand In fact, it scares us And this monster is mysterious at least Bring your guns, bring your knives Save your children and your wives We'll save our village and our lives We'll kill the Beast I knew it.",negative,0.9168
+I knew it was foolish to get our hopes up.,negative,0.7286
+Maybe it would have been better if she'd never come at all.,neutral,0.5831
+Could it be...,neutral,0.8552
+Is it she?,neutral,0.8276
+Sacrebleu!,neutral,0.6428
+Invaders!,neutral,0.6568
+Encroachers.,negative,0.6158
+And they have the mirror.,neutral,0.761
+Warn the master.,neutral,0.7571
+"If it's a fight they want, we'll be ready for them.",neutral,0.7369
+Who's with me?,neutral,0.8306
+Take whatever booty you can find.,neutral,0.7022
+"But remember, the Beast is mine!",positive,0.654
+"Hearts ablaze, banners high We go marching into battle Unafraid, although the danger just increased Raise the flag, sing the song Here we come, we're 50 strong And 50 Frenchmen can't be wrong Let's kill the Beast Pardon me, Master.",neutral,0.5742
+Leave me in peace.,neutral,0.6383
+"But, sir, the castle is under attack.",negative,0.6601
+Kill the Beast!,negative,0.7132
+Kill the Beast!,negative,0.7132
+This isn't working.,negative,0.9433
+"Lumiere, we must do something!",neutral,0.6237
+Wait!,neutral,0.6225
+I know!,neutral,0.4773
+Kill the Beast!,negative,0.7132
+Kill the Beast!,negative,0.7132
+"What shall we do, Master?",neutral,0.9208
+It doesn't matter now.,neutral,0.7248
+Just let them come.,neutral,0.7531
+Kill the Beast!,negative,0.7132
+Kill the Beast!,negative,0.7132
+Kill the Beast!,negative,0.7132
+Now!,neutral,0.512
+Yes!,positive,0.8097
+Here we go!,positive,0.6007
+What the devil?,negative,0.8183
+"Belle, look out!",neutral,0.711
+You guys gotta try this thing.,neutral,0.6116
+"Up here, you scurvy scum.",negative,0.9355
+Now!,neutral,0.512
+And stay out.,neutral,0.7121
+Get up.,neutral,0.6193
+Get up.,neutral,0.6193
+"What's the matter, Beast?",neutral,0.5644
+Too kind and gentle to fight back?,neutral,0.5922
+No!,neutral,0.4416
+Belle.,neutral,0.6362
+"No, Gaston, don't.",neutral,0.5894
+"Let's go, Philippe.",positive,0.6319
+Come on out and fight!,positive,0.634
+"Were you in love with her, Beast?",neutral,0.8563
+Did you honestly think she'd want you when she had someone like me?,neutral,0.6501
+"It's over, Beast!",neutral,0.5395
+Belle is mine!,positive,0.8898
+Let me go.,neutral,0.6545
+Let me go.,neutral,0.6545
+"Please, don't hurt me.",negative,0.6371
+I'll do anything.,positive,0.5825
+Anything!,positive,0.6035
+Get out.,neutral,0.4694
+Beast!,negative,0.4999
+Belle.,neutral,0.6362
+Belle?,neutral,0.7404
+You came back.,neutral,0.5969
+You...,neutral,0.6931
+You came back.,neutral,0.5969
+Of course I came back.,positive,0.5253
+I couldn't let them...,negative,0.6704
+This is all my fault.,negative,0.9196
+If only I'd gotten here sooner.,neutral,0.6469
+Maybe it's better...,neutral,0.5326
+It's better this way.,positive,0.7166
+Don't talk like that.,negative,0.8663
+You'll be all right.,positive,0.6033
+We're together now.,positive,0.6693
+"Everything's going to be fine, you'll see.",positive,0.7828
+At least I got to see you one last time.,positive,0.7941
+No.,neutral,0.4936
+No.,neutral,0.4936
+Please.,neutral,0.6087
+Please.,neutral,0.6087
+Please don't leave me.,neutral,0.5564
+I love you.,positive,0.9643
+"Belle, it's me.",neutral,0.7218
+It is you.,neutral,0.6484
+Lumiere.,neutral,0.6391
+Cogsworth.,neutral,0.7052
+Mrs.,neutral,0.6144
+Potts!,neutral,0.5457
+Look at us.,neutral,0.7119
+Mama.,neutral,0.6222
+Mama.,neutral,0.6222
+"Oh, my goodness.",neutral,0.455
+It is a miracle.,positive,0.8379
+L'amour.,neutral,0.7325
+"Well, Lumiere, old friend.",neutral,0.8066
+Shall we let bygones be bygones?,neutral,0.6295
+"Of course, mon ami.",neutral,0.696
+I told you she would break the spell.,neutral,0.6789
+"I beg your pardon, old friend, but I believe I told you.",neutral,0.7247
+"No, you didn't.",neutral,0.5394
+I told you.,neutral,0.5209
+"You most certainly did not, you pompous, paraffin-headed pea-brain!",negative,0.8442
+"En garde, you overgrown pocket watch!",negative,0.79
+Take that.,neutral,0.6566
+Stop shoving.,negative,0.538
+"Are they gonna live happily ever after, Mama?",positive,0.4888
+"Of course, my dear.",neutral,0.5837
+Of course.,neutral,0.5552
+Do I still have to sleep in the cupboard?,neutral,0.6374
+Certain as the sun Rising in the east Tale as old as time Song as old as rhyme Beauty and the Beast Tale as old as time Song as old as rhyme Beauty and the Beast,neutral,0.8191

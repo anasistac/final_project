@@ -1,0 +1,968 @@
+text,sentiment,score
+"Studio Ghibli, Nippon Television Network, Dentsu, Hakuhodo DYMP, Walt Disney Japan, Mitsubishi and Toho present Planning & Screenplay by Hayao Miyazaki Produced by Toshio Suzuki Based on the Original Graphic Novel by Chizuru Takahashi & Tetsuro Sayama Screenplay by Keiko Niwa Music by Satoshi Takebe FROM UP ON POPPY HILL “Summer of Farewells” Performed by Aoi Teshima “Ue wo Muite Aruko” Performed by Kyu Sakamoto Character Design - Katsuya Kondo Imaging - Atsushi Okui Sound Design Koji Kasamatsu Masami Nagasawa Junichi Okada Keiko Takeshita Rumi Hiiragi Yuriko Ishida Jun Fubuki Takashi Naito Shunsuke Kazama Nao Omori Teruyuki Kagawa Directed by Goro Miyazaki The pot is bubbling The rice is steaming The cutting board is standing by The tofu is jiggly The eggs are slippery The natto is sticky as can be Drop the eggs in a frying pan Stir the miso in a pot Pile the rice in a server Everything is ready to go Time to wake up the house Get everyone to the table Now dig in, eat hearty It's another sunny day Another beautiful breakfast together And I made it all for you Hurry up, dig in now But be sure to taste every bite Another beautiful breakfast together And I made it all for you Hurry up, dig in now But be sure to taste every bite Morning!",neutral,0.506
+Good morning.,positive,0.7194
+Is Sora up yet?,neutral,0.8945
+Still in front of the mirror.,neutral,0.6955
+Good morning.,positive,0.7194
+Morning.,positive,0.5075
+Night shift again?,neutral,0.736
+And tonight too.,neutral,0.7995
+Shall I save dinner for you?,neutral,0.8993
+"Yes, thanks.",positive,0.8316
+That's real service.,neutral,0.5521
+The hospital's short-handed.,neutral,0.5163
+I got a hole in my sock!,negative,0.8185
+Leave it by the sewing machine.,neutral,0.7059
+More holes?,neutral,0.6783
+My socks keep shrinking.,negative,0.7808
+This is for you.,neutral,0.5981
+Pack me a jumbo lunch.,neutral,0.7321
+Don't you eat enough already?,negative,0.4952
+"Here Riku, have my fried egg.",neutral,0.8452
+All right!,positive,0.7464
+"You need it more, Dr.",neutral,0.5847
+Hokuto.,neutral,0.6832
+Who's the doctor here?,neutral,0.8117
+You drown everything in soy sauce.,negative,0.8491
+I like it that way.,positive,0.673
+Me too.,neutral,0.696
+"Breakfast is ready, Hiro.",neutral,0.7047
+"Good morning, Hana.",positive,0.707
+Good morning.,positive,0.7194
+You can share your mother's.,neutral,0.8356
+Thanks.,positive,0.6284
+Can I make you some tea?,neutral,0.8685
+"No thanks, I've had some.",neutral,0.6057
+Good morning.,positive,0.7194
+Good morning.,positive,0.7194
+Thanks.,positive,0.6284
+"Please go ahead, everyone.",positive,0.5142
+Let's eat!,positive,0.6007
+You're late.,negative,0.542
+I can't get my hair right.,negative,0.9073
+You look very pretty.,positive,0.9789
+I'm starving.,negative,0.7862
+"Evening rounds again, Dr.",neutral,0.8763
+Hokuto?,neutral,0.7406
+Yes.,positive,0.461
+I don't know how you keep up this pace.,negative,0.8976
+See you tomorrow.,neutral,0.6884
+Bye.,neutral,0.5137
+"Good morning, Tomoko.",positive,0.7825
+Morning.,positive,0.5075
+Need a lift?,neutral,0.8459
+"Thanks, I'll walk.",positive,0.5803
+Suit yourself.,neutral,0.6569
+Can you hang the laundry?,neutral,0.8038
+Of course.,neutral,0.5552
+See you this afternoon.,neutral,0.696
+"Bye, then.",neutral,0.5717
+Wait up.,neutral,0.5216
+KONAN ACADEMY There she is.,neutral,0.7715
+Morning.,positive,0.5075
+Look what's in the school paper.,neutral,0.7243
+There's a poem about you.,neutral,0.7461
+Who else raises flags every morning?,neutral,0.5779
+"FAIR GIRL, WHY DO YOU SEND YOUR THOUGHTS TO THE SKY?",negative,0.7623
+THE WIND CARRIES THEM ALOFT TO MINGLE WITH THE CROWS TRIMMED WITH BLUE YOUR FLAGS FLY AGAIN TODAY See?,neutral,0.812
+It must be about you.,neutral,0.783
+I guess.,neutral,0.6235
+So it's about you.,neutral,0.7481
+Try a note in a bottle next time.,neutral,0.7713
+Back off Math Club creep!,negative,0.8836
+He practically lives at the clubhouse.,neutral,0.8978
+That's right.,neutral,0.569
+All rise!,positive,0.7398
+We grabbed a table.,neutral,0.7645
+See you there.,neutral,0.6097
+Who ordered the curry noodles?,neutral,0.8679
+"Nobuko, over here!",neutral,0.6526
+I'm famished.,negative,0.5098
+"What, curry udon again?",negative,0.5184
+Why not?,neutral,0.6867
+I like it.,positive,0.9082
+"Anyway, you're one to talk.",neutral,0.6929
+So?,neutral,0.6591
+I like bread.,positive,0.8574
+Umi's lunches look so good.,positive,0.9878
+You should try making your own.,neutral,0.7811
+"I could, I just don't have enough time.",neutral,0.4551
+What are those guys up to now?,neutral,0.8537
+And...up!,neutral,0.4724
+"One, two.",neutral,0.7335
+"One, two.",neutral,0.7335
+"One, two...",neutral,0.8069
+"All right, drop the banners.",neutral,0.7245
+LATIN QUARTER ANTI-DEMOLITION LEAGUE It ripped!,neutral,0.7267
+Go.,neutral,0.5352
+Go for it!,positive,0.8496
+"Look this way, you guys.",neutral,0.7708
+That was cool.,positive,0.9791
+Are you okay?,neutral,0.7918
+So stupid...,negative,0.9548
+I'm home.,positive,0.6493
+Welcome back.,positive,0.8949
+"Thanks, Tomoko.",positive,0.5878
+My pleasure.,positive,0.9392
+That should do it.,positive,0.5319
+Today's fish was really cheap.,neutral,0.5134
+Thanks.,positive,0.6284
+I think I'll deep fry it.,neutral,0.5972
+I have to see Grandmother.,neutral,0.7595
+Grandmother?,neutral,0.7676
+It's me.,neutral,0.605
+Come in.,neutral,0.744
+In the black again this month.,neutral,0.8958
+You're managing things beautifully.,positive,0.8211
+Only because you're covering Tomoko's wages for us.,neutral,0.7008
+It's nothing.,neutral,0.5951
+"I'd have hired her anyway, even without the boarders.",neutral,0.7808
+But isn't this too much work for you?,neutral,0.5512
+I worry sometimes.,negative,0.698
+It doesn't feel so lonely with everyone here.,neutral,0.4898
+I know.,neutral,0.5132
+But still...,neutral,0.6988
+"It makes me so sad, watching you raise those flags every day.",negative,0.969
+No one knows how much you miss your father.,negative,0.5571
+I hope you find someone wonderful soon.,positive,0.9584
+Then you won't need those flags anymore.,neutral,0.539
+Mrs.,neutral,0.6144
+Matsuzaki?,neutral,0.796
+Come in.,neutral,0.744
+I'm finished for the day.,neutral,0.4789
+"Thank you, Tomoko.",positive,0.8572
+I should get dinner going.,neutral,0.7395
+That was quite a stunt.,neutral,0.6127
+No kidding.,neutral,0.5869
+Some of the girls are even starting a fan club.,neutral,0.7943
+What's his name?,neutral,0.8237
+Shun Kazama.,neutral,0.6793
+He's a live wire.,neutral,0.6912
+The electrician's son?,neutral,0.8073
+"Hiro, you're so dense.",negative,0.9055
+"‘Fair girl, why do you send Your thoughts to the sky?’ Thus the Principality of Wallachia was hemmed in...",neutral,0.6965
+"by the Ottoman Turks and Russia, and its territory was coveted by both.",neutral,0.7005
+SAVE OUR CLUBHOUSE FROM DEMOLITION Umi!,neutral,0.5039
+Sora?,neutral,0.666
+What's going on?,neutral,0.7289
+I bought this for 30 yen.,neutral,0.8528
+30 yen just for that?,neutral,0.7539
+Isn't he cool?,positive,0.9226
+I've got to have his autograph.,neutral,0.5055
+Please come with me.,positive,0.5194
+I've never been inside the clubhouse.,neutral,0.581
+Neither have I.,neutral,0.5427
+I'm not going in there.,negative,0.569
+Please!,neutral,0.5394
+No way.,negative,0.6397
+"Come on, just this once.",neutral,0.6345
+Come on...,neutral,0.6855
+It goes without saying that the Constitutional Party must take responsibility for their words.,neutral,0.7068
+"Especially in this era of political cabinets, it is their duty to implement the policies which they promised to the people before they were appointed.",neutral,0.707
+Ready?,neutral,0.6724
+"By doing so, the cabinet will be fulfilling its purpose.",neutral,0.5604
+Excuse me?,neutral,0.5234
+Today's spots are very distinct!,positive,0.5969
+And they form a straight line.,neutral,0.7757
+A textbook magnetic field.,neutral,0.7859
+Excuse me.,neutral,0.4804
+What?,neutral,0.5653
+We're looking for the school newspaper office.,neutral,0.9037
+"Third floor, same room as the Archaeology Club.",neutral,0.8958
+Thanks.,positive,0.6284
+...losing all their trust.,negative,0.732
+"They proclaim all sorts of policies, but if you take a better look at them, you will find that these so-called policies are meaningless and empty.",negative,0.8375
+Don't they ever clean this place?,negative,0.9595
+They have neither the sincerity nor the passion to implement any of them!,negative,0.8108
+"If you disagree with my observations, it doesn't matter who you are...",neutral,0.5624
+SENIOR MATH CLUB Hey.,neutral,0.8906
+"Hi, we're looking for the Archaeology Club.",neutral,0.9023
+Upstairs.,neutral,0.7442
+Look for the Lit Club sign.,neutral,0.8788
+Thanks.,positive,0.6284
+"I THINK, THEREFORE I AM At last, inquiring minds!",positive,0.5585
+The Philosophy Club wants you.,neutral,0.7134
+New members!,positive,0.6034
+How long has it been?,neutral,0.7953
+My struggle was not in vain.,neutral,0.5329
+"We're just heading for the Archaeology Lit Club, actually.",neutral,0.9009
+Now don't be shy.,neutral,0.7491
+Shall we discuss existentialism?,neutral,0.8793
+Or perhaps you prefer Nietzsche?,neutral,0.701
+Chem Club!,neutral,0.6241
+How dare you disturb our contemplation?,negative,0.9373
+"Better run, you guys.",neutral,0.5104
+You'll be there all day.,neutral,0.6058
+"Show some respect, you second-rate alchemists.",negative,0.8845
+At least we do experiments.,neutral,0.7324
+Your ideas can't even be proved.,negative,0.7041
+‘New poets!,neutral,0.6006
+"Draw energy from clouds, light, storms...’ ‘Show us the direction humanity should take...’ ‘A Copernicus for a new age, to set us free...’ CQ!",neutral,0.7232
+CQ!,neutral,0.5823
+This is a high school student from Japan.,neutral,0.9185
+LITERATURE CLUB LATIN QUARTER WEEKLY This is it.,neutral,0.6792
+Matsuzaki.,neutral,0.762
+Yamazaki...,neutral,0.7747
+"Hey, Shun!",neutral,0.6736
+Couple of VIPs to see you.,neutral,0.756
+Welcome to the Lit Club.,positive,0.7897
+Or was it the Archaeology Club?,neutral,0.8715
+Don't tell me you're here about that rag we publish.,neutral,0.5401
+"Knock it off, Mizunuma.",neutral,0.6266
+Come in and close the...,neutral,0.896
+They'll shut us down!,negative,0.7214
+We're down to two members.,neutral,0.7822
+The Archaeology Club is doomed.,negative,0.904
+Can you sign this?,neutral,0.8458
+"Do it for her, hero.",neutral,0.4989
+Thank you!,positive,0.9538
+Your hand...,neutral,0.7878
+Just a cat scratch.,neutral,0.6461
+This isn't from the jump.,neutral,0.7511
+A cat...?,neutral,0.8361
+"Wait, could you cut some stencils for Shun?",neutral,0.9025
+We're all pretty busy with the anti-demolition campaign.,neutral,0.6193
+You're the little sister?,neutral,0.8046
+"Yes, I'm Sora Matsuzaki.",neutral,0.7742
+"You help them, Umi.",neutral,0.7157
+My handwriting is terrible.,negative,0.9431
+You're joking.,neutral,0.5779
+Why should I...,neutral,0.6681
+PHYSICS MIDTERM FORECAST!,neutral,0.6894
+You're a junior.,neutral,0.6644
+Got Suzuki for physics?,neutral,0.874
+Suzuki?,neutral,0.7543
+Yes.,positive,0.461
+Then you need this.,neutral,0.7488
+Mizunuma's exam forecasts are usually spot on.,positive,0.634
+But not guaranteed.,neutral,0.608
+Bring your own luck to the test.,neutral,0.8199
+See you at six.,neutral,0.7134
+Shall we go?,neutral,0.8586
+"Oh, yes!",positive,0.8692
+"Miss Matsuzaki, I'd better see you out.",neutral,0.6813
+Our resident philosopher might ambush you.,neutral,0.6893
+"Oh, thank you!",positive,0.9614
+From here to the end.,neutral,0.6545
+NEW DICTIONARY FRENCH - JAPANESE We've got to do something.,neutral,0.6907
+"Yes, for the honor of those who went before us!",positive,0.7839
+THE KONAN NEWSPAPER LATIN QUARTER FREEDOM TO GROW OUT OUR HAIR!,neutral,0.6621
+"THE KONAN NEWSPAPER WHAT THE NEW GENERATION SHOULD LOOK LIKE Meeting, Shun.",neutral,0.8696
+"Care to join us, Matsuzaki?",neutral,0.8886
+It's the anti-demolition meeting.,neutral,0.7396
+Is it that late?,neutral,0.8262
+I finished.,neutral,0.5873
+"Thanks, that really helps.",positive,0.9546
+Meeting!,neutral,0.6208
+All hands on deck.,neutral,0.6564
+Time for today's meeting.,neutral,0.8864
+I'm home.,positive,0.6493
+"Hi, Umi.",neutral,0.6948
+I'm running late.,negative,0.6745
+Let's do curry.,neutral,0.6567
+Can you cut the vegetables?,neutral,0.6685
+Sure.,neutral,0.4753
+I'm back.,positive,0.7539
+We were waiting.,neutral,0.7052
+"Riku, I need some pork.",neutral,0.7843
+Can you run down for me?,neutral,0.8254
+"What, right now?",neutral,0.7952
+Sora?,neutral,0.666
+But the program just started.,neutral,0.6891
+You didn't ask Tomoko to get some?,neutral,0.7172
+I used it for lunches.,neutral,0.8628
+"Start the rice in 10 minutes, okay?",neutral,0.9105
+Okay.,neutral,0.5844
+Shopping?,neutral,0.7986
+Sort of.,neutral,0.6431
+Hop on.,neutral,0.558
+"Bottom of the hill, right?",neutral,0.7458
+"Don't worry, my hand's okay.",positive,0.7787
+I can use the brake just fine.,positive,0.5419
+How was your meeting?,neutral,0.8909
+Still going strong.,positive,0.7301
+But I've got curfew.,neutral,0.6007
+Did you finish printing the paper?,neutral,0.8637
+You must be kidding.,negative,0.5921
+I'll do it tomorrow before school.,neutral,0.7632
+"Listen, Shun.",neutral,0.8244
+Can I ask you something?,neutral,0.8681
+That poem in the paper...,neutral,0.8052
+You were saying?,neutral,0.7346
+"No, it's okay.",positive,0.5775
+Thanks.,positive,0.6284
+400 grams of sliced pork.,neutral,0.6886
+Two to go.,neutral,0.6054
+Thank you.,positive,0.853
+Here you go.,neutral,0.581
+240 yen.,neutral,0.7921
+Here.,neutral,0.5711
+Thank you.,positive,0.853
+Come again.,neutral,0.6621
+Thanks.,positive,0.6284
+Dig in.,neutral,0.6856
+I need energy to get home.,neutral,0.7719
+Where's your house?,neutral,0.7649
+By the harbor.,neutral,0.6966
+"Gosh, that's far.",negative,0.658
+See you.,neutral,0.6398
+Thank you!,positive,0.9538
+This is nice.,positive,0.9823
+Can I come in?,neutral,0.8819
+Don't you feel well?,neutral,0.4913
+"Go on ahead, Sora.",neutral,0.5908
+I'm coming in.,neutral,0.783
+Wow...,positive,0.6449
+I shouldn't paint at night.,negative,0.7345
+The colors are all wrong.,negative,0.9522
+It's beautiful.,positive,0.9599
+What's this?,neutral,0.7517
+That tug goes by a lot.,neutral,0.668
+I think it's answering your flags.,neutral,0.7627
+Guess you can't see the tug from there.,neutral,0.512
+Answering my message?,neutral,0.8412
+I need food.,neutral,0.704
+Good morning.,positive,0.7194
+Good morning.,positive,0.7194
+All printed up.,neutral,0.7123
+Your handwriting's great.,positive,0.9322
+Thanks.,positive,0.6284
+Listen...,neutral,0.7524
+Can I help with anything else?,neutral,0.8762
+Of course.,neutral,0.5552
+But I can't stay late.,neutral,0.4803
+I'll give you some stencils.,neutral,0.8092
+You can transfer copy at home.,neutral,0.8714
+Thanks.,positive,0.6284
+There's a debate after school.,neutral,0.8288
+Why don't you come?,neutral,0.6843
+"Sorry, I'm busy today.",negative,0.7038
+Bye.,neutral,0.5137
+"Umi, wait!",neutral,0.6221
+Let's get ice cream.,positive,0.7559
+No club meeting?,neutral,0.7431
+It was canceled for the debate.,negative,0.6657
+"Sorry, Tomoko's off today.",neutral,0.582
+I have to be back early.,neutral,0.7941
+"Come on everybody, the debate's starting.",neutral,0.7503
+Come on everybody...,neutral,0.625
+THE LATIN QUARTER SHOULD BE PRESERVED!,neutral,0.6603
+"Good, hold it right there.",neutral,0.5956
+This'll get rough.,negative,0.5937
+Afternoon.,neutral,0.5444
+Heading home?,neutral,0.8784
+Got some nice flounder fillets.,positive,0.8952
+"Okay, I'll take some.",neutral,0.717
+Your mom back yet?,neutral,0.8602
+Not yet.,neutral,0.6702
+I'll come back later!,positive,0.5907
+What's going on?,neutral,0.7289
+We've had peace for nearly 10 years.,neutral,0.5049
+The Olympics are coming soon.,neutral,0.6227
+It's a whole new era.,positive,0.7856
+Japan is changing radically.,neutral,0.8161
+We must build a new society on the ruins of the old.,neutral,0.5841
+A new democracy!,positive,0.5768
+Tearing down the Latin Quarter and building a new clubhouse is a historical necessity.,neutral,0.7231
+And the students want it.,neutral,0.7462
+Umi!,neutral,0.5561
+What's happening?,neutral,0.7337
+I don't know exactly.,neutral,0.6965
+We surveyed the students about the new clubhouse.,neutral,0.9226
+80 percent of the student body want to rebuild.,neutral,0.6013
+I believe we must accept the board's plan!,positive,0.6582
+You're like the old men who run this country...,negative,0.922
+just blindly following the crowd.,neutral,0.562
+Silence!,neutral,0.6404
+I have the floor.,neutral,0.66
+Who cares about percentages when you're wrong?,negative,0.7016
+Blockheads!,negative,0.4774
+Wait your turn!,neutral,0.6628
+Is this the tyranny of the majority?,negative,0.5857
+You can't grasp the meaning of democracy.,negative,0.7214
+Want to demolish something?,negative,0.6707
+Demolish your own heads.,negative,0.8642
+I have the floor!,neutral,0.5629
+Destroy the old and you destroy our memory of the past.,negative,0.8047
+Don't you care about the people who lived and died before us?,negative,0.8018
+There's no future for people...,negative,0.8964
+who worship the future and forget the past.,negative,0.5955
+Democracy doesn't mean you can ignore the minority.,neutral,0.5216
+Throw the anarchists out!,negative,0.8119
+Scrum!,neutral,0.6633
+Eject them!,negative,0.813
+"Stand fast, men!",neutral,0.518
+Get off the stage.,negative,0.5804
+You're history!,positive,0.5333
+Yeah!,positive,0.7406
+"Do something, chairman!",neutral,0.5556
+We won't back down!,positive,0.6647
+A white flower was blooming That day long ago In my homeland far away When at last we parted You looked away And didn't say a word I remember your long braids And the sadness in my heart As that white flower bloomed And the sadness in my heart As that white flower bloomed So what did you think?,neutral,0.6124
+It was amazing.,positive,0.9657
+Everybody's so passionate.,positive,0.8543
+Debates are always like that.,neutral,0.609
+Most everyone thinks the clubhouse should go.,neutral,0.7806
+Mizunuma's fighting a losing battle.,negative,0.5346
+You think?,neutral,0.7519
+Maybe you could clean the place up.,neutral,0.5849
+"It's old, but it's such a nice building.",positive,0.9435
+Make it like new again.,positive,0.5996
+Invite the girls to come see it.,positive,0.5635
+Then they'll get it.,neutral,0.6347
+Maybe you're right.,neutral,0.6445
+But the guys think all that dust is part of history.,negative,0.4998
+The physics midterm forecast was a big hit.,negative,0.8948
+Everybody's waiting for the math forecast.,neutral,0.7948
+Me too.,neutral,0.696
+Thanks.,positive,0.6284
+You've been a big help.,positive,0.8973
+See you soon.,neutral,0.5414
+So long.,neutral,0.5661
+Umi!,neutral,0.5561
+Thanks.,positive,0.6284
+Oh no...the fish!,negative,0.7671
+...then everyone started singing.,neutral,0.7036
+The teachers were totally fooled.,negative,0.8384
+It sounds like nothing's changed since I graduated.,negative,0.4876
+Your president Mizunuma is my classmate's little brother.,neutral,0.777
+Was his brother a genius too?,neutral,0.8349
+Sister.,neutral,0.7488
+She's an astrophysicist.,neutral,0.8027
+Wow...,positive,0.6449
+What's all the excitement in here?,neutral,0.5296
+Great idea.,positive,0.9346
+This is the best.,positive,0.9862
+I'll slice some cheese.,neutral,0.7466
+Can I taste it?,neutral,0.8478
+"Sorry, too young.",negative,0.7766
+"Umi, why don't we invite some Konan graduates...",neutral,0.7814
+to my farewell party?,neutral,0.8957
+Who?,neutral,0.6756
+You know...the guys.,neutral,0.6798
+Guys?,neutral,0.8
+Hey.,neutral,0.5456
+H -O -K -U -T...,neutral,0.7542
+Hokuto.,neutral,0.6832
+You read signal flags?,neutral,0.7578
+The gate's open.,neutral,0.7186
+Coming.,neutral,0.6437
+Why not get married and start a practice right here?,neutral,0.8526
+We'd have to move out!,neutral,0.6325
+You'll be married by then.,neutral,0.7813
+I'd better start looking.,neutral,0.6777
+Bet you find a real nice guy.,positive,0.8089
+You're the best.,positive,0.972
+The trustees are the problem.,negative,0.8786
+The principal's a good guy.,positive,0.8053
+He goes where the wind blows.,neutral,0.8333
+The chairman's an old fox.,negative,0.6536
+When's the principal going to quit?,neutral,0.627
+"I think we can handle them, but we need a strategy.",neutral,0.6849
+"Even with a strategy, what can we actually do?",neutral,0.5773
+We need more glasses.,neutral,0.7337
+I'll wash some.,neutral,0.7944
+"Here, take this out.",neutral,0.55
+All right.,neutral,0.4897
+The sushi's here.,neutral,0.7812
+Finally!,positive,0.7644
+This building is 60 years old.,neutral,0.5225
+It used to be a hospital.,neutral,0.6931
+My great-grandfather loved cats.,positive,0.6607
+"Compared to the clubhouse, it looks like it was built yesterday.",neutral,0.6164
+You really take good care of it.,positive,0.8481
+So I guess your dad must've been a doctor too?,neutral,0.7283
+"No, he was a ship captain.",neutral,0.7233
+From this valley They say you are going We will miss your bright eyes And your smile Far from us You are taking the sunshine So your mom married a sailor.,neutral,0.5354
+Grandma and Grandpa were totally against it.,negative,0.675
+They tried to stop her.,neutral,0.4945
+So Mom ran away and they eloped.,neutral,0.7199
+I bet that took guts.,negative,0.5675
+I heard your mom's a professor.,neutral,0.7321
+And the signal flags...,neutral,0.7973
+Your dad taught you?,neutral,0.7716
+"Yes, when I was little.",neutral,0.7184
+He said they helped him find his way back to us.,neutral,0.6866
+So I raised them every day.,neutral,0.8072
+I'd raise them from the balcony until his ship docked again.,neutral,0.8405
+I never missed a day.,positive,0.632
+Then his ship sank in the Korean War.,negative,0.8032
+And that was that.,neutral,0.5342
+But I never stopped raising those flags.,neutral,0.7152
+"After I moved here, I wouldn't stop crying.",negative,0.4924
+There was nowhere to raise Dad's flags.,neutral,0.5132
+So Grandpa built me that flagpole.,neutral,0.8181
+I'll open the curtains.,neutral,0.7436
+This used to be Grandpa's office.,neutral,0.8356
+Now it's my mom's study.,neutral,0.7243
+It looks like a library.,neutral,0.6862
+This is your family?,neutral,0.7108
+Yes.,positive,0.461
+Your father?,neutral,0.7575
+That's Grandpa.,neutral,0.7672
+My dad's right there.,neutral,0.6801
+Isn't he handsome?,positive,0.8234
+That's when they got married.,neutral,0.8476
+This is the picture I really like.,positive,0.9712
+"SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO Yuichiro Sawamura...?",neutral,0.8835
+That's my dad.,neutral,0.6492
+Matsuzaki is my mom's name.,neutral,0.8479
+"Come on, it's speech time.",neutral,0.7476
+We better go down.,neutral,0.5169
+I'm back.,positive,0.7539
+You're late.,negative,0.542
+You'll worry your mother.,negative,0.6053
+"Shun, what about dinner?",neutral,0.8945
+I already ate.,neutral,0.7106
+He swings...Nagashima strikes out!,neutral,0.7978
+"SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO Yuichiro Sawamura...",neutral,0.8824
+Thanks for coming.,positive,0.9593
+What's going on?,neutral,0.7289
+"Welcome, volunteers.",positive,0.8331
+The Latin Quarter is all yours.,neutral,0.7851
+You have our deepest thanks...,positive,0.8879
+for helping us to preserve this magnificent cultural landmark.,positive,0.8875
+"Remember, men.",neutral,0.7087
+The heavy lifting is up to you.,neutral,0.7559
+Let's do it!,positive,0.8692
+My shrine to Reason!,positive,0.5431
+"No exceptions, that's the rule.",neutral,0.6226
+"Okay, ready.",neutral,0.5576
+Here we go.,neutral,0.5885
+Ready...,neutral,0.7323
+"Be careful, will you?",neutral,0.7925
+"Hey, watch it!",neutral,0.5969
+1st Year Math...2nd Year Math...,neutral,0.8557
+These are old exams.,neutral,0.5572
+We use those for forecasts.,neutral,0.8471
+Here's Dr.,neutral,0.7693
+Hokuto's math final.,neutral,0.8457
+She got a perfect score.,positive,0.8542
+Take over for me.,neutral,0.744
+We need everything moved.,neutral,0.7152
+I'll give you a hand.,neutral,0.6063
+"Heads up, Matsuzaki.",neutral,0.7072
+Sorry.,negative,0.5092
+Mizunuma said to pitch anything we're not sure we need.,neutral,0.6095
+It's so filthy.,negative,0.9216
+Didn't you guys ever clean?,neutral,0.6228
+Not since I've been here.,neutral,0.6495
+We better bring the badminton girls tomorrow.,positive,0.6379
+Please do.,neutral,0.5934
+"Sora, I'm going now.",neutral,0.8268
+Okay.,neutral,0.5844
+I'll be home by dinner.,neutral,0.7645
+ONE STEP FORWARD Did something happen?,neutral,0.885
+Not a thing.,negative,0.7012
+See you tomorrow.,neutral,0.6884
+"Dad, can I ask you something?",neutral,0.8795
+I'm working.,neutral,0.6326
+Make it short.,neutral,0.6969
+Yuichiro Sawamura.,neutral,0.8226
+"He's my real father, right?",neutral,0.729
+"SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO We've been over that.",neutral,0.7615
+You're my son.,neutral,0.6219
+It was blowing hard the night Sawamura brought you.,neutral,0.6476
+He had his Family Register with him.,neutral,0.8545
+We'd just lost a child of our own.,negative,0.8965
+"Next thing I knew, your mother was nursing you.",neutral,0.7256
+She wouldn't let you go.,neutral,0.6658
+Sawamura was a good sailor.,positive,0.7538
+His supply ship sank during a battle in the Korean War.,negative,0.7552
+"Until the end, he helped us out.",positive,0.6098
+You remind me of him more every day.,positive,0.743
+But you're still our son.,neutral,0.758
+"Thanks, Dad.",positive,0.7757
+Is it out there?,neutral,0.832
+Not yet.,neutral,0.6702
+Guess it's not coming by today.,negative,0.5299
+THE LATIN QUARTER REBORN!,neutral,0.7352
+May I...?,neutral,0.8499
+"Come in, Umi.",neutral,0.8376
+You're really leaving.,neutral,0.5172
+Thanks for all your help.,positive,0.9661
+I wish I could see you off.,negative,0.506
+"Go on, I'll be fine.",positive,0.6142
+We'll miss you.,neutral,0.526
+I'll drop by now and then.,neutral,0.8291
+You'd better get to school.,neutral,0.682
+Good luck with Shun.,positive,0.8723
+Take care.,neutral,0.6356
+"Extra, extra!",positive,0.6834
+Extra!,positive,0.5386
+Extra edition of The Latin Quarter Weekly.,neutral,0.8971
+We'll need your help today.,neutral,0.7017
+Latin Quarter gets a facelift!,neutral,0.5431
+"Extra, extra!",positive,0.6834
+Here.,neutral,0.5711
+I'll be there again today.,neutral,0.5168
+Thanks.,positive,0.6284
+Hi.,neutral,0.5326
+You're working hard.,positive,0.7218
+"Hey, see you there, okay?",neutral,0.6469
+"Here, Matsuzaki.",neutral,0.7451
+"Extra, extra!",positive,0.6834
+"Extra, extra!",positive,0.6834
+Get your Latin Quarter.,neutral,0.6691
+Extra!,positive,0.5386
+Extra!,positive,0.5386
+"Next label, please.",neutral,0.7197
+Okay.,neutral,0.5844
+NI-2 KOKUBUNJI RUINS He's so brave.,positive,0.7339
+This is great.,positive,0.9817
+Let's go look.,neutral,0.6665
+"KONAN ACADEMY If you don't like me, just say so.",negative,0.581
+"SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO Yuichiro Sawamura.",neutral,0.8398
+He's my real father.,positive,0.6172
+It's like some cheap melodrama.,negative,0.8851
+I don't understand.,negative,0.9146
+Dad told me years ago.,neutral,0.8054
+I even checked at City Hall.,neutral,0.8627
+But then...,neutral,0.7173
+We're brother and sister.,positive,0.5785
+What should we do?,neutral,0.8749
+We forget whatever it was we felt about each other.,neutral,0.6383
+"We'll just be friends, like before.",positive,0.5356
+"Sora, did something happen to Umi at school?",neutral,0.8316
+"No, at least I don't think so.",neutral,0.5921
+Are you sure?,neutral,0.8481
+That dinner tonight was pretty strange.,negative,0.7359
+And she was soaked.,neutral,0.6479
+Something must've happened.,neutral,0.6413
+She's never come home that late.,neutral,0.6487
+"Umi, the bath's ready.",neutral,0.728
+Not tonight.,negative,0.6513
+Don't you feel well?,neutral,0.4913
+Umi...,neutral,0.6346
+Umi...,neutral,0.6346
+Umi...,neutral,0.6346
+Umi...,neutral,0.6346
+"Good morning, Umi.",positive,0.7874
+Did you sleep well?,neutral,0.8515
+Mom?,neutral,0.6889
+When did you come back?,neutral,0.8437
+Don't be silly.,neutral,0.5529
+I've been here all along.,neutral,0.7383
+"Umi, I'm hoisting the flags.",neutral,0.8084
+Come give me a hand.,neutral,0.6449
+Dad...?,neutral,0.7569
+I'll be home for a long time.,positive,0.6369
+You're such a big girl now.,positive,0.7606
+Need more supplies?,neutral,0.8602
+Just ask this guy.,neutral,0.7942
+He's in construction.,neutral,0.5152
+"Come on, no more freebies.",negative,0.4729
+Why not?,neutral,0.6867
+Business is good.,positive,0.9039
+Hope you guys win.,positive,0.9398
+Thank you.,positive,0.853
+Unbelievable.,negative,0.8109
+We owe this to Dr.,neutral,0.486
+Hokuto.,neutral,0.6832
+"No, even more to Umi.",neutral,0.6138
+She's our goddess of good luck.,positive,0.9322
+"Hi, guys.",neutral,0.5352
+Hi.,neutral,0.5326
+This is practically a construction site.,negative,0.4859
+What are you doing?,neutral,0.8242
+Give me that for a sec.,neutral,0.7366
+Let me show you how the pros do it.,neutral,0.7869
+Incredible!,positive,0.8879
+My dad's a plasterer.,negative,0.967
+Beautiful...,positive,0.892
+What's that?,neutral,0.7331
+"The wall, I mean.",neutral,0.6795
+What?,neutral,0.5653
+Hey.,neutral,0.5456
+That's it for today.,neutral,0.5965
+Thanks for staying late.,positive,0.7937
+You don't have to go back?,neutral,0.7406
+Sora's covering for me.,neutral,0.8156
+Can I help out with anything?,neutral,0.7597
+Could you do this?,neutral,0.8725
+Can I have two days?,neutral,0.8158
+"That'll really help, thanks.",positive,0.93
+See you.,neutral,0.6398
+So long.,neutral,0.5661
+LATIN QUARTER VISIT THE NEW LATIN QUARTER!,neutral,0.7373
+MAJORITY OF GIRLS OPPOSE DEMOLITION!,neutral,0.5413
+MIDTERM RESULTS ANNOUNCED TEST FORECAST VINDICATED!,neutral,0.863
+MAJORITY OF ALL STUDENTS OPPOSE DEMOLITION!,neutral,0.5775
+"Ready, everybody?",neutral,0.7709
+"Umi, don't go.",negative,0.5246
+"Shun, it's bad news.",negative,0.8643
+The board just voted to tear us down.,negative,0.9071
+The principal won't listen to reason.,negative,0.6731
+All our hard work!,positive,0.764
+They won't even come?,negative,0.6997
+Then they'd have to back down.,neutral,0.5686
+Right!,positive,0.5541
+Mob the principal's office!,neutral,0.6842
+Let's go straight to the chairman.,neutral,0.8051
+Of the Tokumaru Foundation?,neutral,0.8977
+He's pretty hard to see.,negative,0.518
+You guys go see him.,neutral,0.6383
+Tell him how it is.,neutral,0.6815
+"Yes, please go.",positive,0.7592
+"Mizunuma, we've got to go to Tokyo.",neutral,0.8478
+Please!,neutral,0.5394
+"Please, Mizunuma!",neutral,0.6943
+It's worth a shot.,positive,0.6936
+"Umi, we need you too.",neutral,0.6633
+"Tell him, Umi!",neutral,0.788
+"Umi, good luck tomorrow.",positive,0.9075
+Good morning.,positive,0.7194
+Good morning.,positive,0.7194
+Did you skip class?,neutral,0.7105
+"No, I told them yesterday I'd be absent.",neutral,0.6006
+Then we'd better get going.,neutral,0.634
+FOR A SUCCESSFUL OLYMPICS MAKE TOKYO BEAUTIFUL Let's give it our best shot.,positive,0.9668
+"Yes, that's what they say.",neutral,0.6606
+No appointment?,neutral,0.7318
+We're appealing directly to Mr.,neutral,0.5255
+Tokumaru.,neutral,0.6697
+Something about a direct appeal.,neutral,0.7971
+"Yes, students from Konan Academy.",neutral,0.8104
+Three of them.,neutral,0.5795
+All right.,neutral,0.4897
+Take the elevator to the fourth floor and wait there.,neutral,0.8665
+Fourth floor.,neutral,0.5786
+Don't forget to sign in.,neutral,0.6792
+One name is fine.,neutral,0.5304
+Are you the Konan students?,neutral,0.8892
+Yes.,positive,0.461
+The president's very busy.,neutral,0.6303
+I can't guarantee he'll have time for you.,neutral,0.5286
+We're sorry to disturb him.,neutral,0.5296
+We didn't think he'd agree to an appointment.,negative,0.5581
+You may just be wasting your time...,negative,0.8829
+but please wait here if you like.,neutral,0.6423
+We'll wait!,positive,0.6142
+"Oh come on, Kimura has the best pastries.",positive,0.9618
+Nakamura's hard to beat.,neutral,0.6961
+I can't believe you'd say that.,negative,0.8219
+You don't know your pastries.,negative,0.5446
+Thank you.,positive,0.853
+It's as plain as the nose on your face.,negative,0.617
+"ACCOUNTING DEPARTMENT Come on in, kids.",neutral,0.7282
+Thank you.,positive,0.853
+Excuse us.,neutral,0.5495
+Yeah?,neutral,0.7381
+"Ah, yeah.",neutral,0.5937
+Hang on.,neutral,0.7189
+Have a seat.,neutral,0.6978
+Be with you in a minute.,neutral,0.6257
+So you see how it is.,neutral,0.6072
+"Yes, give him my regards.",positive,0.5537
+Okay.,neutral,0.5844
+Bye.,neutral,0.5137
+Sit.,neutral,0.5599
+"Now, why aren't you kids in school?",negative,0.7288
+We escaped.,positive,0.5222
+Escaped?,neutral,0.8167
+I did that a lot myself.,neutral,0.8249
+"You're here about your clubhouse, I suppose.",neutral,0.853
+"Yes, we'd like to ask you to come and inspect it yourself.",neutral,0.7854
+You're welcome any time.,positive,0.8936
+What year are you?,neutral,0.8204
+I'm a junior.,neutral,0.7624
+Umi Matsuzaki.,neutral,0.8003
+I help out with the school paper.,neutral,0.8307
+What do you care about that old shack?,negative,0.6537
+We all love it.,positive,0.8398
+We spent hours making it look new.,positive,0.5152
+Please see for yourself.,neutral,0.7878
+You cleaned it up?,neutral,0.703
+What does your father do?,neutral,0.7964
+He was a ship captain in the Korean War.,neutral,0.8483
+His ship hit a mine.,neutral,0.5368
+A supply ship?,neutral,0.7745
+Yes.,positive,0.461
+I see.,neutral,0.5826
+"It must've been hard for your mother, raising you alone.",negative,0.7158
+She did a fine job.,positive,0.9215
+Thank you.,positive,0.853
+"All right, I'll go.",neutral,0.6004
+"TRUTH, GOODNESS AND BEAUTY Thank you!",positive,0.9711
+It's me.,neutral,0.605
+What's on tomorrow?,neutral,0.8862
+"Let's see, that's in the evening.",neutral,0.8014
+Move the rest to Friday.,neutral,0.8623
+It's settled.,positive,0.4759
+Tomorrow afternoon.,neutral,0.8276
+I'll contact your principal and do an official inspection tour.,neutral,0.9069
+Some grownups are pretty cool.,positive,0.9629
+Don't count your chickens.,neutral,0.5018
+I'm glad we came.,positive,0.9513
+I have to swing by my uncle's place.,neutral,0.8839
+See you tomorrow.,neutral,0.6884
+What are you doing after graduation?,neutral,0.9242
+I can't afford much tuition.,negative,0.8032
+I'll apply to a national university.,neutral,0.7946
+What about the Weekly?,neutral,0.8721
+I'll find somebody to take over after things are settled.,neutral,0.8565
+What about you?,neutral,0.7871
+I haven't decided.,neutral,0.6524
+"I'd like to be a doctor, though.",neutral,0.5654
+Are you the one who wrote that poem?,neutral,0.8224
+I saw you raising your flags every morning from my dad's tug.,neutral,0.7075
+I can't see the tug passing by from the garden.,neutral,0.6155
+That's why I never noticed you were answering me.,negative,0.5913
+Shun?,neutral,0.7449
+"Listen, I...",neutral,0.8127
+Those flags were a message to my dad.,neutral,0.8579
+I think he sent you to me.,neutral,0.858
+That's what I want to believe.,positive,0.6658
+"I'm in love with you, Shun.",positive,0.9599
+Umi...,neutral,0.6346
+"Even if we're related, even if you're my brother...",neutral,0.8065
+my feelings will never change.,neutral,0.5811
+I feel the same about you.,neutral,0.8194
+I'm back.,positive,0.7539
+Let's try it.,neutral,0.6248
+Mom!,neutral,0.5075
+"Umi, I'm home.",neutral,0.5544
+Finally!,positive,0.7644
+How was America?,neutral,0.7772
+I was busy learning every day.,neutral,0.5873
+"Any boyfriends yet, Sora?",neutral,0.8922
+Not yet.,neutral,0.6702
+"This is great stuff, Mom.",positive,0.9842
+It's called jerky.,neutral,0.5043
+Is it pork?,neutral,0.8082
+"Hiro, it says beef on the package.",neutral,0.632
+Mom?,neutral,0.6889
+You're up pretty late.,neutral,0.6223
+I wanted to ask you something.,neutral,0.8436
+"Ask away, then.",neutral,0.6959
+I'm wide awake.,neutral,0.5927
+Sorting through these books woke me up even more.,positive,0.7583
+There's this boy at school.,neutral,0.8372
+His name is Shun Kazama.,neutral,0.8145
+He came for the farewell party.,neutral,0.8649
+I showed him Dad's picture.,neutral,0.8187
+He had the same photo.,neutral,0.8205
+He says his real father is Yuichiro Sawamura.,neutral,0.9034
+This one?,neutral,0.7349
+"SAWAMURA YUICHIRO, TACHIBANA HIROSHI, ONODERA YOSHIO I'm afraid this is all a little bit complicated.",negative,0.7192
+I told you about how your father and I eloped.,neutral,0.6834
+"You remember, don't you?",neutral,0.7214
+Our first place was that second-floor apartment.,neutral,0.8022
+Yuichiro was away a lot.,neutral,0.674
+I was pregnant with you and working on my degree.,neutral,0.8167
+I loved school so much.,positive,0.9736
+I was determined to do well.,positive,0.7803
+Yuichi...,neutral,0.8124
+"Yuichiro, whose baby is that?",neutral,0.8665
+It's Tachibana's boy.,neutral,0.7347
+He's ours now.,neutral,0.666
+Tachibana was killed in an accident on a repatriation ship.,negative,0.8559
+His wife died giving birth.,negative,0.7019
+The Bomb killed their relatives.,negative,0.929
+"If we don't register him as ours, he'll end up in an orphanage.",negative,0.74
+Yuichiro registered the baby as his son and brought him home.,neutral,0.866
+The war had just ended.,neutral,0.6342
+It was happening everywhere.,neutral,0.6419
+But I was already pregnant.,neutral,0.6841
+There was no way I could raise him.,negative,0.776
+"Yuichiro's friend lost a child, so we gave the baby up.",negative,0.6381
+Is he doing well?,neutral,0.8513
+I'm so glad.,positive,0.981
+Your father was so good-hearted.,positive,0.8201
+Maybe just a little impulsive.,negative,0.6482
+"Without his help, I couldn't have finished school.",neutral,0.5596
+But what if Shun was really Dad's son?,neutral,0.8448
+If he was really Yuichiro's son?,neutral,0.8979
+I'd like to meet him.,positive,0.8255
+Does he look like this picture?,neutral,0.8823
+Umi...,neutral,0.6346
+See you tonight.,neutral,0.6835
+Have a nice day.,positive,0.9792
+Welcome to the Latin Quarter.,positive,0.6295
+LATIN QUARTER WELCOMES CHAIRMAN TOKUMARU I never realized this building was so impressive.,positive,0.9349
+"Thank you, sir.",positive,0.8905
+What are you studying?,neutral,0.8628
+Sir!,neutral,0.6178
+The Astronomy Club has studied sunspots for 10 years.,neutral,0.8987
+10 years?,neutral,0.751
+And what did you discover?,neutral,0.845
+"The sun is very old, and our lifespan is short.",negative,0.6357
+No discoveries so far!,positive,0.5105
+Excellent answer.,positive,0.6066
+"I THINK, THEREFORE I AM The Philosophy Club?",neutral,0.8383
+Wouldn't you like a brand new clubhouse?,neutral,0.8461
+What about your junior members?,neutral,0.8725
+"Sir, we philosophers can be content with just a barrel.",neutral,0.7406
+Diogenes!,neutral,0.6853
+Very good.,positive,0.9631
+"Principal, your students are really quite impressive.",positive,0.979
+Shun Kazama?,neutral,0.836
+Yes.,positive,0.461
+"Hello, Dad?",neutral,0.7757
+The third man in the photo is here.,neutral,0.9189
+He can tell you about your father.,neutral,0.7795
+His ship leaves at four o'clock.,neutral,0.9062
+He won't be back for months.,negative,0.5724
+Get down here!,neutral,0.6116
+"Should the world sink Beneath the indigo waves Stand fast, sink not Beneath that horizon Stand fast against the flood Like a great range of mountains With pinnacles thrust high Into the winds of the future Should the world sink Beneath the indigo waves Stand fast, sink not Beneath that horizon My friends, you have shown me the Latin Quarter's true value.",neutral,0.7626
+How can we educate the young without protecting our culture?,neutral,0.5339
+I'll just find a different site for the new building.,neutral,0.8123
+All right!,positive,0.7464
+"Umi, you did it.",positive,0.6353
+We all did it.,neutral,0.7151
+Awesome!,positive,0.9582
+Magnificent!,positive,0.8046
+SENIOR MATH CLUB On to the next experiment.,neutral,0.8835
+"Umi, we owe this to you.",positive,0.724
+But I didn't do anything special.,neutral,0.6192
+Fixing things up was your idea.,neutral,0.5617
+She's right.,neutral,0.514
+"Thank you, Umi.",positive,0.8899
+Thank you!,positive,0.9538
+Good for you.,positive,0.932
+Umi.,neutral,0.5686
+Umi!,neutral,0.5561
+The perfect couple.,positive,0.9176
+"Please excuse them, sir.",neutral,0.5478
+Something very important is happening to both of them.,positive,0.9165
+They have to hurry.,neutral,0.5666
+Escape...,neutral,0.7571
+It's great to be young.,positive,0.9663
+KONAN ACADEMY Shun!,neutral,0.7622
+Give us a ride.,neutral,0.6514
+Umi?,neutral,0.6309
+"Don't worry Umi, I'll get you there in time.",positive,0.5613
+We'd better run.,neutral,0.7227
+Thanks!,positive,0.8715
+"Good luck, Umi.",positive,0.9232
+"Come on, Shun.",neutral,0.7542
+Hurry!,neutral,0.5702
+Thanks.,positive,0.6284
+That's my dad's tug.,neutral,0.7644
+"Here they are, captain.",neutral,0.7204
+Push our departure back 15 minutes.,neutral,0.9001
+So you're Tachibana's boy.,neutral,0.8387
+And you must be Sawamura's daughter.,neutral,0.8679
+Both fine-looking youngsters.,positive,0.8291
+"It's Shun, right?",neutral,0.8632
+Your father was Hiroshi Tachibana.,neutral,0.8318
+"Front row, fourth from the right.",neutral,0.788
+You can see Sawamura next to him.,neutral,0.9002
+We three were close friends.,positive,0.6267
+"Take the seat of honor, Tachibana.",neutral,0.8104
+Why me?,neutral,0.5319
+You're our leader.,positive,0.773
+You belong there.,neutral,0.5522
+"All right, let's do it.",positive,0.7188
+"Just don't die before me, okay?",neutral,0.6509
+Same goes for you.,neutral,0.8315
+Here we go.,neutral,0.5885
+I was away at sea when your parents passed on.,neutral,0.6204
+Otherwise I'd have done exactly what Sawamura did.,neutral,0.6391
+Meeting you two is like seeing my old friends again.,positive,0.7529
+Thank you both.,positive,0.9221
+I've never been so happy.,positive,0.907
+"Across the shining sea, A ship disappears in the sunlight Its horn trails a note of farewell If I walk down that gentle slope Will I feel a breeze the color of summer?",neutral,0.7322
+My love is a melody I sing it high and low My love is a seagull That soars and swoops If I call out to you at twilight Will I see you there my sweet?,positive,0.7311
+"Swaying branches along the path Leave farewell shadows on the ground Leave farewell shadows on the ground A weather vane rooster, an old chapel Will I see a city Steeped in summer hues?",neutral,0.8189
+Yesterday's love is my tears They dry and vanish with time Tomorrow's love is a refrain Words without end If we meet at twilight Will you hold me in your arms?,neutral,0.6104
+Translation by Jim Hubbert and Rieko Izutsu-Vajirasarn Subtitles by Aura A Studio Ghibli Film THE END Events and characters depicted in this film are fictional.,neutral,0.8118
