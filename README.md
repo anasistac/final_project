@@ -19,7 +19,7 @@ Week 1:
 - Start collecting scripts and subtitles for selected movies: Francesca begins collecting and cleaning movie scripts and subtitles and files will be labeled with studio, title, and year
 
 Week 2
-- Francesca completes cleaning and formatting all text files
+- Francesca completes cleaning and formatting all text files 
 - Violeta begins coding for lexical analysis and sentiment analysis
 - Ana starts preparing topic modeling setup (tokenization, preprocessing)
 
