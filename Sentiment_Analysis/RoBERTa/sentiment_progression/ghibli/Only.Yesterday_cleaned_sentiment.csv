@@ -1,0 +1,1400 @@
+text,sentiment,score
+"ONLY YESTERDAY With ten days off, I figured you'd go abroad.",neutral,0.7319
+"But you're off to Yamagata, right?",neutral,0.8737
+Yes.,positive,0.461
+Broke up with your boyfriend?,neutral,0.5675
+I just prefer the countryside.,neutral,0.5748
+See ya!,positive,0.6017
+Bye!,neutral,0.6142
+Let's go to your place!,positive,0.6684
+No way.,negative,0.6397
+Why?,neutral,0.612
+Because...,neutral,0.7594
+Later!,neutral,0.5128
+Did you get good grades?,neutral,0.7841
+"No, but I don't care.",neutral,0.6133
+How come?,neutral,0.6759
+"As soon as I get home, we're traveling to Grandma's.",neutral,0.7675
+So I won't get yelled at for ages.,neutral,0.5264
+Lucky you!,positive,0.9378
+Are you going away too?,neutral,0.8366
+"Yeah, to Nagano.",neutral,0.7715
+"How about you, Taeko?",neutral,0.8742
+I'm not sure.,neutral,0.6886
+My dad bought a summer home.,neutral,0.7355
+Wow...,positive,0.6449
+that's great.,positive,0.9812
+Such a bad grade in math again.,negative,0.9547
+"But I got a ""B"" in science.",neutral,0.6747
+Are we going away for the vacation?,neutral,0.9125
+Not really.,neutral,0.5599
+Take me someplace.,neutral,0.6868
+I'll take you to a movie.,neutral,0.6
+"How about ""The Crane Lady""?",neutral,0.8918
+Not that.,neutral,0.5311
+I mean to the country...,neutral,0.7165
+The country?,neutral,0.6524
+Like Grandma's country house.,neutral,0.7843
+Grandma lives with us.,neutral,0.8367
+Grandpa's then...,neutral,0.8597
+He's dead.,negative,0.7273
+"We don't have relatives in the country, so don't ask.",neutral,0.5436
+My family had lived in Tokyo for generations.,neutral,0.8582
+I envied friends who had family in the countryside.,neutral,0.5833
+It's too late to book.,neutral,0.501
+All hotels will be full.,neutral,0.7418
+But I really want to go...,positive,0.845
+What about Onoya?,neutral,0.8641
+Huh?,neutral,0.6584
+We're regulars.,neutral,0.6936
+They'd have a room for us.,neutral,0.7101
+Where's that?,neutral,0.7016
+Good idea.,positive,0.8804
+Taeko's never been there.,neutral,0.6534
+That's right.,neutral,0.569
+Is it in the mountains?,neutral,0.8757
+By the sea?,neutral,0.8554
+It's in Atami.,neutral,0.7984
+Atami?,neutral,0.7251
+You get to ride the bullet train.,neutral,0.6905
+"Sure, you'll love it.",positive,0.9392
+Atami...,neutral,0.7135
+It's great!,positive,0.984
+Lots of different hot springs...,neutral,0.7241
+There's the huge Roman Bath.,neutral,0.8172
+"And other little ones, like the Swan Bath and the Violet Bath.",neutral,0.8502
+The beautiful Violet Bath!,positive,0.9561
+The Violet Bath...,neutral,0.8799
+Oh yes.,positive,0.7542
+It's fantastic.,positive,0.9664
+"You love hot springs, right?",positive,0.8095
+"Since Father's working, you four go.",neutral,0.7547
+What?,neutral,0.5653
+Us?,neutral,0.7271
+Go too?,neutral,0.7859
+I'm amazed you show up every morning.,positive,0.9232
+Everyone else has left town.,neutral,0.7933
+Aren't you going anywhere?,neutral,0.8225
+"Yes, I am.",positive,0.5893
+Where?,neutral,0.7096
+Atami.,neutral,0.6499
+Atami?,neutral,0.7251
+What's in Atami?,neutral,0.8461
+Hot springs.,neutral,0.6723
+It's good timing.,positive,0.8906
+We're going away next week to visit relatives.,neutral,0.8617
+No one will be around for ages.,negative,0.5347
+Hello.,neutral,0.5209
+Okajima residence.,neutral,0.71
+Nanako?,neutral,0.7086
+It's Taeko.,neutral,0.7826
+I leave today.,neutral,0.8416
+Any messages for your husband's family?,neutral,0.8603
+Not really.,neutral,0.5599
+Just bring them something.,neutral,0.7747
+Maybe cookies.,neutral,0.7543
+Say it's from us and I'll pay you back.,neutral,0.7869
+Don't worry about it.,neutral,0.6917
+How's Mom?,neutral,0.7665
+She's out today.,neutral,0.8873
+She was mad you turned down that guy's proposal.,negative,0.6605
+"""At 27, that's the best offer she's going to get!"" It's all she talks about.",positive,0.8842
+She's got a point.,neutral,0.7235
+You're not young anymore.,neutral,0.5058
+"Oh, yeah?",neutral,0.6854
+Definitely.,positive,0.5482
+You've got to settle down eventually.,neutral,0.7322
+"By the way, did you really work in the fields last year?",neutral,0.9151
+"Yes, harvesting rice.",neutral,0.8461
+"This year, I'm picking safflower.",neutral,0.6935
+Safflower?,neutral,0.8082
+"Thanks to you, I finally have family in the countryside.",positive,0.9233
+"So, I'm making the most of it!",positive,0.9346
+Give me a break!,negative,0.5433
+"Rather than stay in that old house, why not treat yourself to a fancy hotel for once?",neutral,0.5971
+Maybe you'd meet a nice boy.,positive,0.736
+No way.,negative,0.6397
+You mean a hotel like Onoya?,neutral,0.8323
+Onoya?,neutral,0.7071
+Not that again!,negative,0.7267
+You've got to get over it.,neutral,0.5776
+Let go of that baggage from the past!,neutral,0.504
+"My sisters, of course, would never go to a place like Atami.",negative,0.5461
+Grandma...,neutral,0.7511
+Almost done?,neutral,0.8367
+Let's go to another bath.,neutral,0.703
+We just went.,neutral,0.7452
+Only to the Swan Bath.,neutral,0.8503
+"Bored to tears, I went alone to the Brothers Grimm Bath, the Mermaid Bath, the Lemon Bath, and the Violet Bath, one after the other.",neutral,0.5237
+It's enormous!,positive,0.9048
+"When I got to the Roman Bath, my head was spinning.",neutral,0.6954
+It's amazing...,positive,0.9537
+And I fainted.,negative,0.6409
+"And with that, my trip was over.",neutral,0.6719
+Followed by endless weeks of vacation.,positive,0.5133
+Jump on both feet.,neutral,0.7028
+Now your arms and legs.,neutral,0.6945
+"The other day, my sisters and I were reminiscing.",positive,0.5561
+We couldn't stop laughing as the memories came flooding back.,positive,0.9409
+Had one before?,neutral,0.8057
+"No, it's my first time.",neutral,0.6924
+I'm the one who asked for it.,neutral,0.7088
+"Yeah, we know.",neutral,0.5714
+Where did you buy it?,neutral,0.8031
+Senbikiya in Ginza.,neutral,0.7747
+Must have been expensive.,negative,0.7037
+How do we eat it?,neutral,0.7331
+Slice it into rings.,neutral,0.715
+But how?,neutral,0.6636
+I don't know.,neutral,0.5667
+Didn't you ask in the store?,neutral,0.8003
+We'll eat it next Sunday.,neutral,0.6911
+Why not now?,neutral,0.7341
+We don't know how.,negative,0.4864
+I'll have a banana.,neutral,0.7715
+Me too.,neutral,0.696
+Strange fruit they have in those hot countries.,neutral,0.7109
+I'm home!,positive,0.8585
+I know how to eat the pineapple!,neutral,0.487
+Really?,neutral,0.6008
+I'll take that.,positive,0.4977
+Mind your fingers.,neutral,0.658
+Wouldn't a carving knife be best?,neutral,0.8229
+What a nice smell.,positive,0.9634
+It smells so good.,positive,0.9828
+I see.,neutral,0.5826
+Get plates.,neutral,0.5946
+Quick.,neutral,0.5475
+Okay.,neutral,0.5844
+Let us eat.,neutral,0.7281
+It's chewy.,neutral,0.5092
+Nothing special.,neutral,0.6843
+Not so sweet.,negative,0.7744
+Nothing like the canned stuff.,negative,0.6596
+Live long enough and you see lots of different things.,neutral,0.5868
+You can have mine.,neutral,0.6525
+Mine too.,neutral,0.7784
+It's delicious...,positive,0.958
+Don't force yourself.,neutral,0.5631
+You'll get a stomachache.,negative,0.8597
+What a letdown.,negative,0.9395
+Bananas taste much better.,positive,0.7722
+You're so right.,positive,0.8121
+Bananas are still the king of fruit.,positive,0.7911
+I'll have one now.,neutral,0.65
+If you had to deceive me I wish that you had deceived me Until my death A red-ruby...,negative,0.6659
+The king of fruit is...,neutral,0.6326
+"the banana, after all.",neutral,0.6981
+BEST SELLING PRODUCT The year I fainted at the baths and had my first pineapple...,neutral,0.4919
+"the Beatles came to Japan, and started the rock 'n' roll band and electric guitar craze.",neutral,0.8301
+"My sister Nanako, a freshman in art school, was up on all the trends.",neutral,0.8098
+"Yeah, the Beatles' lyrics are great.",positive,0.959
+"When she wore a mini-skirt, she'd cover her bottom going up the stairs.",neutral,0.8607
+"My clever sister, Yaeko, was crazy about some Takarazuka actress.",positive,0.5656
+Yaeko...,neutral,0.7114
+I told you to knock!,neutral,0.6709
+My sisters' memories are mainly of fashion and pop trends.,neutral,0.8525
+"For them, 1966 is the height of nostalgia.",neutral,0.5496
+Whereas I was only ten years old.,neutral,0.7289
+My favorite band had yet to debut...,positive,0.7971
+My only memories are the back and forth between school and home.,neutral,0.6351
+Mine was pinned on the wall!,neutral,0.6051
+That's nice.,positive,0.9712
+And it might be entered in an essay contest.,neutral,0.8488
+The teacher said to take good care of it.,neutral,0.5496
+I'd be so happy...,positive,0.9723
+You didn't finish lunch again.,negative,0.5674
+Why do you hide the pickles inside the bread?,negative,0.5076
+'Cause I hate them.,negative,0.9325
+I've got to throw it away.,negative,0.8596
+What a waste.,negative,0.9211
+Such a picky eater!,negative,0.8249
+I'd rather you were a good eater than a good essay writer.,negative,0.5506
+How can you drink that horrible stuff?,negative,0.9706
+Milk's okay.,positive,0.5906
+It's onions I hate.,negative,0.9541
+I'm leaving carrots so I've got no choice.,neutral,0.6049
+Who decided we can only leave one thing?,neutral,0.5482
+Shall I drink it?,neutral,0.8989
+Would you?,neutral,0.7379
+You'll eat my onions next time?,neutral,0.534
+Thank you.,positive,0.853
+Carrots?,neutral,0.7854
+We're allowed one thing!,neutral,0.5592
+Two bowls is gross.,negative,0.96
+People who run in the hall when the hall monitor says stop should be punished.,negative,0.8347
+How are you gonna do that?,neutral,0.5759
+They shouldn't do it.,negative,0.7982
+That's right.,neutral,0.569
+You might bump into someone.,neutral,0.7899
+If I bumped into you I'd bounce a mile!,neutral,0.5237
+Get lost!,negative,0.5289
+Oof.,negative,0.6614
+Running is no big deal.,neutral,0.7075
+I agree!,positive,0.8596
+Let's change the rule.,neutral,0.7758
+But we already decided.,neutral,0.7562
+What's the big deal?,neutral,0.7005
+Raise your hand if you want to speak.,neutral,0.8751
+Here!,positive,0.5584
+Miss Tani.,neutral,0.699
+"The hall monitor should chase the offenders, catch them and punish them.",negative,0.7103
+Me!,positive,0.5348
+"Hey, me!",positive,0.574
+Mr.,neutral,0.5849
+Suzuki.,neutral,0.7215
+Then the hall monitor should also be punished for running.,negative,0.7513
+He's right!,positive,0.7507
+He's right!,positive,0.7507
+Way to go!,positive,0.953
+He's right.,neutral,0.5232
+Miss Tani.,neutral,0.699
+The hall monitor shouldn't be punished because...,negative,0.57
+it's like a policeman chasing a speeding car.,negative,0.5957
+Any objections?,neutral,0.6773
+A policeman?,neutral,0.7085
+No more running.,neutral,0.7265
+"So, the hall monitor can chase offenders.",neutral,0.5856
+Any other issues?,neutral,0.7093
+Here.,neutral,0.5711
+Miss Tani.,neutral,0.699
+Her again.,neutral,0.5324
+Busybody.,neutral,0.6207
+Be quiet.,neutral,0.6991
+Some people don't finish lunch.,negative,0.6152
+I just read an article on the Vietnam War.,neutral,0.6257
+There are many unfortunate people overseas.,negative,0.9012
+We're very lucky.,positive,0.9429
+Lucky to have you near me!,positive,0.9803
+We should be grateful for our food.,positive,0.908
+"We're allowed to leave one thing on our plates, but I think it's wrong!",negative,0.8087
+Goody two-shoes.,neutral,0.4734
+It can't hurt to leave one thing.,neutral,0.6258
+Let's all leave milk...,neutral,0.7634
+Give it to someone else...,neutral,0.6526
+Of course.,neutral,0.5552
+People hide leftovers in bread.,neutral,0.5212
+That's cheating!,negative,0.8855
+I hate school food.,negative,0.9772
+Order!,neutral,0.5343
+"If you want to speak, raise your hand!",neutral,0.7563
+What a revolting situation.,negative,0.9556
+"That night in bed, after chatting to my sisters, more memories from fifth grade came rushing back.",neutral,0.6441
+Our pet dog...,neutral,0.735
+School sports day...,neutral,0.7799
+Being scared by gross horror comics...,negative,0.8624
+longing for an electric pencil sharpener...,neutral,0.8142
+"So many little details, one after the other...",neutral,0.6522
+"playing in my head like a movie, almost overpowering me.",neutral,0.5413
+Is there a Miss Okajima here?,neutral,0.9276
+That's her.,neutral,0.6603
+Show me!,neutral,0.514
+No!,neutral,0.4416
+Hirota in our class says he likes you.,positive,0.5876
+Let's go.,positive,0.5876
+We'll say we told you.,neutral,0.7387
+Hurry!,neutral,0.5702
+Come on!,positive,0.6006
+Told you.,neutral,0.6111
+Where is it?,neutral,0.7381
+Over there.,neutral,0.6481
+SHUJI HIROTA AND TAEKO OKAJIMA It's true!,positive,0.7945
+What's he like?,neutral,0.8344
+No idea.,neutral,0.5984
+"Me, neither.",neutral,0.4977
+"Taeko, you sure you don't know him?",neutral,0.7147
+No...,neutral,0.5715
+of course not...,negative,0.5121
+Not at all.,negative,0.5896
+Which one is Hirota?,neutral,0.859
+It's the Room Five girls.,neutral,0.8744
+"Hirota, they're looking for you.",neutral,0.8132
+"Yes, I'm here!",positive,0.8652
+Don't write silly things on the wall.,negative,0.6981
+Taeko told us to tell you.,neutral,0.7944
+I didn't write anything.,neutral,0.5437
+You said you liked Okajima in Room Five.,neutral,0.7887
+You did.,neutral,0.6356
+"So, we wrote it for you.",neutral,0.7781
+I love you so much But you're so far away Like a distant star Goodbye.,positive,0.5218
+A far distant star Taeko!,neutral,0.7081
+We just went to see Hirota.,neutral,0.8198
+We told him not to write things on walls.,neutral,0.5173
+Tsuneko!,neutral,0.6847
+"Ah, no running.",neutral,0.6434
+Aren't you glad?,positive,0.5464
+ROOM FOUR Wasn't it funny?,neutral,0.5855
+Over here.,neutral,0.6487
+See?,neutral,0.6904
+That's him.,neutral,0.676
+What?,neutral,0.5653
+Hirota likes Taeko?,neutral,0.8867
+He's amazing.,positive,0.9749
+A real star.,positive,0.6799
+You mean baseball?,neutral,0.7352
+Only Tono can hit his pitches.,neutral,0.8315
+Really?,neutral,0.6008
+Our team plays his in the next game.,neutral,0.868
+"Go, go, Hirota!",positive,0.6984
+"Go for it, Tono!",positive,0.8566
+"Hit it, Tono!",neutral,0.4958
+Kill it!,negative,0.5619
+"Go for it, Hirota!",positive,0.8434
+Taeko's watching you!,neutral,0.7492
+"Hit it, Tono!",neutral,0.4958
+"Way to go, Hirota!",positive,0.9489
+Strike him out!,negative,0.6882
+Don't you dare cheer their side!,negative,0.6939
+Of course not!,negative,0.4423
+"Go, go, Tono!",positive,0.7173
+"Go, go, Tono!",positive,0.7173
+"Go, go, Tono!",positive,0.7173
+"Hiro, Hiro, Hirota!",neutral,0.5937
+Go Hirota!,positive,0.6702
+Hit it!,positive,0.5697
+One leg stance!,neutral,0.6616
+Strike!,neutral,0.5956
+Strike!,neutral,0.5956
+Strike!,neutral,0.5956
+You're out!,neutral,0.456
+Wow!,positive,0.8599
+"Way to go, Hirota!",positive,0.9489
+"Way to go, Hirota!",positive,0.9489
+I knew nothing about baseball.,negative,0.6458
+But even I could tell he was superb.,positive,0.6945
+"Go, go, Hirota!",positive,0.6984
+"What's up, Taeko?",neutral,0.8437
+"Between the cold and the excitement, I ran to the bathroom five times.",neutral,0.5041
+"Over here, over here!",neutral,0.4842
+Saved!,positive,0.7697
+GIRLS' BATHROOM Game!,neutral,0.7015
+Five to three.,neutral,0.6099
+Room Four wins.,neutral,0.5911
+Thank you for the game.,positive,0.9799
+You were great Hirota!,positive,0.9718
+Good job.,positive,0.903
+You were amazing!,positive,0.9835
+It was all your fault.,negative,0.8132
+How come?,neutral,0.6759
+You don't know anything.,negative,0.6716
+"If Tono couldn't get a hit off him, then how was I supposed to?",neutral,0.5184
+That's right.,neutral,0.569
+You missed it and they scored three runs.,neutral,0.6854
+That's not true.,negative,0.6974
+Good game.,positive,0.895
+Coach said he'd buy us ice cream.,neutral,0.621
+Really?,neutral,0.6008
+Great!,positive,0.9232
+"Hirota, you should go see her.",neutral,0.5558
+"Yeah, you should.",positive,0.5532
+I'm going home.,neutral,0.7013
+"What's the matter, Taeko?",neutral,0.7378
+"Look, she left.",neutral,0.562
+Um...,neutral,0.6851
+that stuff...,neutral,0.7057
+on the wall...,neutral,0.761
+Rainy days or...,neutral,0.8643
+cloudy or sunny days...,neutral,0.735
+which do you like best?,neutral,0.8204
+Cloudy.,neutral,0.7035
+Me too!,positive,0.5757
+Rainy days or cloudy or sunny days.,neutral,0.8216
+Which do you like best?,neutral,0.8258
+Me too.,neutral,0.696
+I didn't intend for ten-year-old me to come on this trip.,negative,0.8177
+"But somehow, once she showed up, she wouldn't leave me alone.",negative,0.5367
+But why fifth-grade me?,neutral,0.5633
+"Second hour, all boys play baseball, all girls to PE.",neutral,0.8769
+-How come?,neutral,0.7159
+"-Baseball, great!",positive,0.9604
+-Why?,neutral,0.6446
+-Do we have to miss PE?,negative,0.4979
+Today I'm going to talk about something very important.,positive,0.7627
+"You'll finish grade school, then junior high, then high school.",neutral,0.7866
+Then become grown-ups and have babies.,neutral,0.5635
+A woman's body prepares to have babies.,neutral,0.8367
+Did you know?,neutral,0.7783
+Really?,neutral,0.6008
+"Mom told me when I was in fourth grade, since I'm precocious.",neutral,0.7391
+Precocious?,neutral,0.7846
+That's right.,neutral,0.569
+She said tall girls or big girls get their periods early.,neutral,0.7662
+I bet those other girls already have theirs.,neutral,0.7833
+Are you gonna buy them?,neutral,0.8401
+I am.,neutral,0.5352
+I knew it.,neutral,0.5054
+"You'll buy them too, right?",neutral,0.783
+Well...,neutral,0.7051
+yeah.,neutral,0.5112
+I think you should.,positive,0.5163
+The nurse said we all need them eventually.,neutral,0.7849
+That's true.,neutral,0.5093
+The girls are buying underpants in the infirmary.,negative,0.5322
+Did you know?,neutral,0.7783
+No.,neutral,0.4936
+But why?,neutral,0.6471
+How come you're buying underpants?,negative,0.5258
+It's because...,neutral,0.7604
+Umm...,neutral,0.7118
+Why is the school selling underpants?,negative,0.798
+Are they for swimming?,neutral,0.899
+GIRLS' BATHROOM You told Nakayama?,neutral,0.8741
+Why did you do that?,neutral,0.5146
+You shouldn't tell boys.,neutral,0.5409
+It's supposed to be our secret.,neutral,0.8091
+It's because she likes him.,neutral,0.5272
+Did he ask you?,neutral,0.8325
+What's going on?,neutral,0.7289
+She told Nakayama about periods.,neutral,0.8815
+No!,neutral,0.4416
+He'll tell everyone.,neutral,0.7843
+I told you to keep it secret.,neutral,0.7571
+You trust him?,neutral,0.8064
+Right.,neutral,0.5665
+Right.,neutral,0.5665
+Oh no...,negative,0.677
+Boys are disgusting.,negative,0.9759
+Now they'll be looking up our skirts.,neutral,0.5858
+Panties.,negative,0.5534
+Saved.,neutral,0.5114
+Pervert!,negative,0.7912
+Looking up skirts was all the rage and periods became an obsession.,neutral,0.5637
+You got your period!,neutral,0.5158
+Cut it out!,negative,0.53
+Second period break.,neutral,0.6558
+Idiot.,negative,0.9233
+Ouch.,negative,0.6772
+Come here!,positive,0.5968
+You have your period.,neutral,0.5709
+"No, I don't!",neutral,0.5166
+It's all Rie's fault.,negative,0.7665
+I'm sorry.,negative,0.6455
+What for?,neutral,0.7062
+For telling Nakayama.,neutral,0.805
+It doesn't matter.,neutral,0.6715
+The nurse said it's very important.,positive,0.6494
+I know.,neutral,0.5132
+They started when I was in fourth grade.,neutral,0.8723
+Really?,neutral,0.6008
+That's why I get to skip PE sometimes.,negative,0.5026
+Having your periods lets you skip PE?,neutral,0.5428
+Mom said I should.,neutral,0.5907
+He even said he felt sorry for us.,negative,0.7841
+You told him about skipping PE?,neutral,0.8001
+He promised not to tell the others.,neutral,0.7976
+Now they'll think all girls who skip PE are on their periods!,negative,0.588
+You think so?,neutral,0.8204
+Of course!,positive,0.7768
+PLEASE EXCUSE TAEKO FROM GYM CLASS BECAUSE OF HER COLD PARENT-TEACHER CONTACT BOOK I'm not missing PE.,neutral,0.5844
+Your cold will get worse.,negative,0.9653
+Then I'll stay home.,neutral,0.789
+No.,neutral,0.4936
+You don't have a fever.,neutral,0.5957
+Then I'm going to PE.,neutral,0.7679
+"Fine, go ahead.",neutral,0.5585
+Don't blame me if it gets worse.,negative,0.757
+See you later.,neutral,0.6937
+When did she become so fond of Phys Ed?,neutral,0.6559
+You're bright red.,positive,0.6391
+She's right.,neutral,0.514
+Are you okay?,neutral,0.7918
+I have a cold.,negative,0.8739
+You have a fever.,negative,0.6396
+You should skip PE.,negative,0.5286
+"Yeah, you should.",positive,0.5532
+I'll go tell the teacher.,neutral,0.7773
+"No, don't.",neutral,0.4771
+Why not?,neutral,0.6867
+Mom already wrote a note.,neutral,0.8065
+There's no problem then.,neutral,0.7291
+Right?,neutral,0.736
+Out of the way!,neutral,0.6684
+Ouch!,negative,0.6507
+I'm missing PE too.,negative,0.7864
+Just like you.,neutral,0.5643
+They're so lucky.,positive,0.929
+"I wish I could play, too.",positive,0.6411
+Do you...,neutral,0.7127
+are you on your period?,neutral,0.7034
+Yes.,positive,0.461
+I'm not.,neutral,0.561
+I have a cold.,negative,0.8739
+I know.,neutral,0.5132
+You're sick.,negative,0.9363
+Just sick.,negative,0.9288
+That's all.,neutral,0.5908
+Periods aren't a disease.,negative,0.5036
+I could still play...,positive,0.4953
+I'm gonna catch a period!,neutral,0.6196
+"Don't touch it, don't touch it!",negative,0.5466
+That was close.,neutral,0.6996
+Almost caught it...,neutral,0.7335
+"Over here, over here!",neutral,0.4842
+"""Catch a period""!",neutral,0.6684
+What a silly thing to say.,negative,0.8905
+It's no laughing matter!,positive,0.5708
+Taeko?,neutral,0.7313
+SHOES CONTAINER It's the period pair!,neutral,0.6732
+"No, we're not!",neutral,0.5372
+Stupid boys.,negative,0.959
+You're so relaxed about it.,positive,0.6087
+Mom said it's nothing to be ashamed of.,neutral,0.6545
+"I guess so, but...",neutral,0.7337
+"Like it or not, a caterpillar must first...",neutral,0.8595
+live as a chrysalis before it turns into a butterfly.,neutral,0.8664
+Maybe I remember those days because...,neutral,0.7905
+I am going through a chrysalis phase once again.,neutral,0.7389
+Something definitely changed when I started working.,neutral,0.7281
+At work and at play we girls were livelier and more spirited than the guys.,positive,0.8555
+It was like we'd finally found our wings.,positive,0.6796
+"But looking back now, maybe we were just flapping them pointlessly.",neutral,0.6411
+Perhaps fifth-grade me was tagging along with a message for me to ponder and to rethink my life.,neutral,0.8791
+"Anyway, I decided to sleep the rest of the way.",neutral,0.8302
+ENTRANCE Ouch!,neutral,0.5096
+"EMERGENCY EXIT ENTRANCE Excuse me, has the Tokyo train left?",neutral,0.7836
+Was that your train?,neutral,0.8657
+No...,neutral,0.5715
+"Taeko Okajima, right?",neutral,0.8783
+"Yes, that's correct...",positive,0.7052
+Thank goodness.,positive,0.88
+The car's this way.,neutral,0.7969
+"Excuse me, but who are you?",neutral,0.7326
+You don't remember?,neutral,0.6301
+Of course you don't.,negative,0.5021
+I'm Toshio.,neutral,0.7172
+Kazuo's second cousin.,neutral,0.7417
+"Oh, I see...",neutral,0.7015
+What's so funny?,positive,0.5633
+Nothing.,neutral,0.5182
+Sorry.,negative,0.5092
+I thought you were trying to steal my bag.,negative,0.5873
+That's terrible.,negative,0.9433
+Didn't I ask your name?,neutral,0.7437
+"Yes, you did.",neutral,0.5797
+I just thought...,neutral,0.8079
+Sorry...,negative,0.5148
+I beg your pardon.,neutral,0.7086
+No problem.,positive,0.6487
+Where's Kazuo?,neutral,0.7734
+He asked me last night to come pick you up.,neutral,0.8972
+It's been raining?,neutral,0.7073
+"Yeah, but it'll clear today.",neutral,0.501
+I should've used my dad's car.,neutral,0.5397
+But I like mine better.,positive,0.6381
+It's a little tight.,neutral,0.5915
+May I leave it on?,neutral,0.8556
+Sure.,neutral,0.4753
+This is unusual music.,neutral,0.6911
+It's a Hungarian group.,neutral,0.8883
+Hungarian?,neutral,0.7894
+You know a lot about it?,neutral,0.8438
+A little.,neutral,0.6442
+It's farmer's music.,neutral,0.7575
+I like it because I'm a farmer.,positive,0.8167
+Cool.,positive,0.842
+Right?,neutral,0.736
+Remember last year's party at the farmhouse?,neutral,0.8552
+"A bunch of guys turned up, right?",neutral,0.8145
+Maybe you don't remember.,neutral,0.6535
+They came to check out the girl from Tokyo.,neutral,0.9048
+I was one of them.,neutral,0.6716
+"Watch out, jerk!",negative,0.8477
+I heard you're picking safflower.,neutral,0.7989
+Do you dye fabric?,neutral,0.855
+No.,neutral,0.4936
+I'm just curious.,neutral,0.7498
+Safflower's kind of unusual.,neutral,0.6817
+"Well, maybe not for you.",negative,0.5122
+It's known as a famous local product but...,neutral,0.6773
+hardly anyone grows it.,negative,0.4827
+Wasn't it big in the old days?,neutral,0.8043
+"For the merchants, sure.",neutral,0.7541
+"They got rich, but for farmers, it was just another crop.",neutral,0.4659
+"Do you know: ""I wonder whose skin in the future This crimson flower will touch"" The famous Basho poem?",neutral,0.855
+I read it before coming.,neutral,0.7299
+Is that so?,neutral,0.7823
+I only learned it last night.,neutral,0.7937
+I also read that the flower pickers couldn't afford to wear the rouge they made.,negative,0.6646
+Is that where you had the barbecue?,neutral,0.8684
+"There'll be another this year, too.",neutral,0.7846
+Are market reforms making agriculture difficult?,negative,0.5572
+Absolutely.,neutral,0.465
+"As things go, Japanese farming might just collapse, all of a sudden, one day.",negative,0.8616
+"But then again, anything worth struggling for will be hard work.",neutral,0.5621
+Isn't it the same in the city?,neutral,0.8282
+Yes.,positive,0.461
+But fewer people live for their work.,negative,0.5745
+What about you?,neutral,0.7871
+Me?,neutral,0.707
+I don't live for my job but I don't hate it either.,negative,0.4807
+I could farm 24 hours a day.,neutral,0.6637
+It's fascinating to raise living things.,positive,0.9462
+You have livestock?,neutral,0.7216
+Not that.,neutral,0.5311
+"We've got some animals, but I'm talking about rice, apples, cherries.",neutral,0.8131
+They're all living things.,neutral,0.6241
+"If we take good care of them, I feel like they'll do their best for us.",positive,0.8456
+Listen to me preach.,neutral,0.7404
+Not at all.,negative,0.5896
+I get what you mean.,neutral,0.6748
+"To tell the truth, I used to work in an office.",neutral,0.8261
+I only just started farming.,neutral,0.7817
+Is that right?,neutral,0.7966
+That's why I'm so enthusiastic.,positive,0.9694
+It's very important.,positive,0.7125
+I quit work and joined my friend's organic farm.,positive,0.5952
+"People said I'm nuts, but I don't regret it.",neutral,0.5119
+Organic farm?,neutral,0.8145
+"""Grown with no artificial chemicals whatsoever."" Just blood, sweat and tears!",neutral,0.4467
+"We use all natural stuff, no pesticides or anything.",neutral,0.5041
+"I've seen the labels: ""No chemicals used"".",neutral,0.7526
+But it's not just that.,neutral,0.7456
+We bring out the plant's life force.,positive,0.64
+It's cool...,positive,0.9583
+like lending nature a hand.,neutral,0.6595
+"Sounds easy, but it's damn hard work.",negative,0.685
+I was told to take you straight to the fields.,neutral,0.7812
+"Yes, I'm starting right away.",positive,0.5721
+Not going to rest?,neutral,0.5606
+Don't you pick the flowers early while the thorns are still soft?,neutral,0.7528
+"That's right, but...",neutral,0.7965
+I'm trying to become an early riser.,neutral,0.7719
+That's why I took the night train.,neutral,0.8493
+You're certainly eager.,positive,0.7599
+There it is!,positive,0.5116
+Good morning!,positive,0.8619
+"Great to have you back, Taeko.",positive,0.9853
+Thanks for having me.,positive,0.9429
+"Grandma, you're looking well.",positive,0.8765
+"Welcome back, dear.",positive,0.9508
+Aren't you tired?,neutral,0.6964
+"No, not at all.",negative,0.5545
+We made your bed just in case.,neutral,0.7604
+That's okay.,positive,0.7336
+"Look, I'm raring to go!",positive,0.8719
+Wearing work pants too!,neutral,0.6224
+That's all I brought.,neutral,0.755
+Young people here don't wear them anymore.,negative,0.5407
+"You look like the real thing, Taeko.",positive,0.8246
+That's right.,neutral,0.569
+Taeko!,neutral,0.5092
+Don't!,neutral,0.497
+And so began my second taste of country life.,neutral,0.7879
+How could this yellow flower produce such a bright red?,neutral,0.5313
+They told me a sad tale from the old days.,negative,0.6923
+"The girls didn't have gloves, and their bare hands would get pricked by the thorns.",negative,0.8446
+It was their blood that made the red so deep.,neutral,0.7328
+I could imagine the resentment they must've felt toward the fancy city girls.,negative,0.6662
+To make a handful of rouge took nearly sixty baskets of petals.,neutral,0.8795
+This rouge was literally worth its weight in gold.,positive,0.8284
+"The petals are washed, trodden, then exposed to the air and the sun.",neutral,0.8383
+"As the petals oxidize, they gradually tum red.",negative,0.5
+"After a few more days, fermentation turns them bright red and they become sticky.",neutral,0.6875
+"Pounded, wrung into balls and sun-dried, they finally become the basic ingredient of rouge.",neutral,0.8894
+The liquid from the pressing wasn't wasted either.,neutral,0.6271
+The red pigment in the yellow broth was used to dye fabric.,neutral,0.902
+Let's go dye our cloth.,neutral,0.8007
+Safflower do your best.,neutral,0.5069
+Cheer me up with your pretty color.,positive,0.9635
+"For those village girls, with no chance of wearing make-up or kimonos, safflower dye brought color into their drab lives.",neutral,0.4875
+The yellow pigment dissolves in water leaving the fabric a light pink.,neutral,0.8529
+So pretty!,positive,0.9835
+"Machines now take away some of the work, but the petals still need to be picked every day.",neutral,0.662
+"Rouge cakes soon go moldy, and the flowers wait for no one.",neutral,0.6896
+"No sooner are you done picking, than they bloom again.",neutral,0.6732
+"When the rains come, work continues into the early hours.",neutral,0.6944
+Each day flew by.,neutral,0.5553
+"Pleasantly tired, I thought about the flower pickers of old.",negative,0.5502
+"If I could've worked like this as a child, my school essays would've been really interesting.",positive,0.812
+"Mom, I need 5,000 yen.",neutral,0.75
+"5,000 yen?",neutral,0.8152
+I can't give you that.,negative,0.6088
+You said you'd buy me new sneakers.,neutral,0.794
+Are they that expensive?,negative,0.5727
+Nonsense.,negative,0.5721
+They're Pumas.,neutral,0.6797
+Pumas?,neutral,0.7543
+It's a brand.,neutral,0.684
+I'm not sure.,neutral,0.6886
+There must be cheaper ones.,neutral,0.7002
+How about the ones you've got?,neutral,0.809
+Nobody wears them now.,negative,0.4989
+Everyone's getting Pumas.,neutral,0.7318
+Who's everyone?,neutral,0.7939
+"Kako, Megu, Yachan, Nonchan.",neutral,0.7793
+That's only four people.,neutral,0.7742
+Everyone's wearing them!,positive,0.5593
+No.,neutral,0.4936
+You never do your chores.,negative,0.7491
+Did you ask for a dress for your Barbie doll again?,neutral,0.7686
+Didn't you promise to ask only for Christmas and your birthday?,neutral,0.7747
+You always spoil her.,negative,0.9022
+"Is that right, Taeko?",neutral,0.8796
+"All of a sudden, the ten-year-old me was back.",neutral,0.6333
+But...,neutral,0.7123
+Yaeko got a kimono and it wasn't even her graduation.,neutral,0.6641
+It's for the tea ceremony.,neutral,0.8446
+"You keep asking for lots of little stuff, we get one or two big things.",neutral,0.6686
+Right?,neutral,0.736
+Yep.,neutral,0.5607
+Stop that.,negative,0.6958
+Always picky about food.,negative,0.5972
+"Dad loves the onions, right?",positive,0.6964
+Yes.,positive,0.461
+"Anyway, that kimono will be yours in the end.",neutral,0.6022
+Always hand-me-downs.,neutral,0.6405
+Some people don't get anything.,negative,0.9158
+Exactly.,neutral,0.5663
+Then give me that patent leather purse.,neutral,0.7388
+Didn't you give it to her yet?,neutral,0.775
+You're too old for that.,negative,0.7495
+Give it to her.,neutral,0.7156
+I don't want it.,negative,0.8988
+Keep the stupid purse.,negative,0.881
+Then I won't give it to you.,negative,0.5429
+I'm not buying you a new one.,negative,0.5447
+Fine.,neutral,0.5034
+Good.,positive,0.7732
+I actually really like it.,positive,0.9756
+I hate it.,negative,0.9558
+Ready for dinner.,neutral,0.6067
+Take this away.,negative,0.7341
+"See, has to be thrown away.",negative,0.7875
+What a waste.,negative,0.9211
+Don't throw it away!,neutral,0.5054
+"Please, Mother.",neutral,0.7506
+It's your fault.,negative,0.8178
+Finish it yourself next time.,neutral,0.6785
+You three are so selfish.,negative,0.9749
+"Father, buy me a patent leather purse.",neutral,0.7504
+Yaeko won't give me hers.,neutral,0.5559
+You said you didn't want it.,negative,0.4977
+"Yeah, but...",neutral,0.6867
+"You said it, you have to live with it.",neutral,0.737
+Hurry up and get ready.,neutral,0.7236
+I'll wear these!,positive,0.8885
+Why is Yaeko coming?,neutral,0.7624
+You said it was just the three of us.,neutral,0.8003
+Because I finished my homework.,neutral,0.6178
+Is that a problem?,neutral,0.5998
+It's Chinese food.,neutral,0.7749
+The more the merrier.,positive,0.8149
+Grandma's not coming.,neutral,0.5103
+She doesn't eat greasy food.,negative,0.678
+"If you don't want to come, stay here.",neutral,0.5081
+"We're going, Taeko.",neutral,0.6722
+"Come on, slowpoke.",negative,0.5273
+I don't have a purse.,negative,0.5555
+Lend her that patent leather one.,neutral,0.7948
+Here.,neutral,0.5711
+Ouch.,negative,0.6772
+Let's go.,positive,0.5876
+I'm not going.,negative,0.7507
+Okay.,neutral,0.5844
+"Let's go, Mother.",neutral,0.5566
+Stay with Grandma then.,neutral,0.8411
+"Not coming, Taeko?",neutral,0.5967
+"No, I'm not.",neutral,0.6332
+We're off then.,neutral,0.7152
+I'm coming too!,positive,0.6998
+No shoes!,neutral,0.6118
+"Father, please.",neutral,0.7231
+A button came off.,neutral,0.7093
+"We didn't go out, of course.",neutral,0.711
+My face was swollen and a cold towel didn't stop the stinging.,negative,0.9006
+"That night I couldn't sleep, wondering why it was always me.",negative,0.7537
+"Figuring I must've been adopted, I cried myself to sleep.",neutral,0.4908
+Was it the first time he hit you?,neutral,0.8083
+"Yes, the first and only time.",positive,0.5632
+Dad slaps me often...,negative,0.7968
+"well, sometimes.",neutral,0.6497
+Maybe that's easier.,neutral,0.5031
+"When it's only once, you can't stop thinking why.",neutral,0.5668
+It's hard to imagine you as a selfish brat.,negative,0.8239
+A spoiled brat.,negative,0.9145
+"I wasn't just fussy about onions, either.",neutral,0.6842
+Now I don't feel like I'm that bad.,negative,0.4701
+Wait a second!,neutral,0.5677
+Your poor mom.,negative,0.8413
+I shouldn't encourage you.,negative,0.7878
+I'm giving up on the Pumas.,negative,0.833
+Good girl.,positive,0.9283
+Maybe I'll slip you some pocket money.,neutral,0.8436
+Yay!,positive,0.904
+Hey!,neutral,0.5279
+100 yen each.,neutral,0.8678
+Taeko...,neutral,0.7323
+Tomorrow...,neutral,0.8473
+Let's go for a drive to Zao.,neutral,0.7519
+Zao?,neutral,0.694
+Yes.,positive,0.461
+"You went to Yamadera last year, right?",neutral,0.919
+The family said it was okay.,neutral,0.5038
+The views at Zao were beautiful.,positive,0.9838
+But Zao had become famous and touristy.,neutral,0.6132
+How come you're not married?,neutral,0.63
+Do you find that strange?,neutral,0.7533
+"Well, no, not really.",neutral,0.587
+Lots of women work now.,neutral,0.6676
+Most of my friends are single.,neutral,0.7467
+"Oh, is that right?",neutral,0.7269
+That's right.,neutral,0.569
+I see.,neutral,0.5826
+It's true.,neutral,0.5889
+Right.,neutral,0.5665
+Really.,neutral,0.6346
+It's very common.,neutral,0.7146
+Toshio?,neutral,0.7588
+"In elementary school, could you divide fractions?",neutral,0.8769
+"When they said reverse the numerator and denominator, could you do it?",neutral,0.8295
+I don't remember.,neutral,0.635
+I wasn't bad at math though.,neutral,0.4995
+I see.,neutral,0.5826
+Lucky you.,positive,0.7083
+I bet you don't remember because it was easy.,neutral,0.5767
+Maybe.,neutral,0.6051
+Why do you ask?,neutral,0.6762
+It seems that people who could do it went on to have easy lives.,neutral,0.5034
+"One girl, completely average...",negative,0.7274
+"not even good at math, always could do it perfect right away.",negative,0.4334
+She grew up really normal and now is married with two kids.,neutral,0.5351
+I was no good at it.,negative,0.7832
+Not smart enough to know when to quit.,negative,0.7893
+"ROOM FIVE, TAEKO OKAJIMA, 25 POINTS Before the test...",neutral,0.8993
+we had art class.,neutral,0.8097
+And...,neutral,0.7343
+um...,neutral,0.627
+we did blow pictures.,neutral,0.761
+Blow pictures?,neutral,0.8381
+Yes.,positive,0.461
+We drop paint on the paper...,neutral,0.7569
+and blow patterns in it.,neutral,0.735
+And?,neutral,0.6804
+"You blow like this, really hard, right?",negative,0.5761
+Yes?,neutral,0.7116
+"So, I got a headache.",negative,0.8591
+From blowing so hard.,neutral,0.5297
+That's why you did so badly?,negative,0.9003
+That's right.,neutral,0.569
+I see.,neutral,0.5826
+Do you know the answers now?,neutral,0.7899
+The correct answers?,neutral,0.8041
+Have Yaeko help you with them.,neutral,0.8666
+Yaeko?,neutral,0.7069
+That's right.,neutral,0.569
+"Or Nanako, whichever.",neutral,0.7782
+I'll ask Nanako.,neutral,0.8553
+Nanako's not back yet.,neutral,0.6489
+Can I wait till after dinner?,neutral,0.7399
+I'll ask Yaeko...,neutral,0.8743
+Mother!,neutral,0.5851
+Mother!,neutral,0.5851
+Mother!,neutral,0.5851
+What is this?,neutral,0.6891
+How on earth...,negative,0.7899
+Please teach her.,neutral,0.6857
+She doesn't seem to get it.,negative,0.7677
+But this is beyond belief!,negative,0.7498
+That's why I'm asking you.,neutral,0.8469
+Is she alright in the head?,neutral,0.7994
+Just help her.,neutral,0.6097
+Normally this is easy.,positive,0.466
+But that child's not normal!,negative,0.9452
+"Taeko, your sister's going to help.",neutral,0.6449
+"You had a headache from blowing, didn't you?",negative,0.5254
+Sit.,neutral,0.5599
+Say your times table from the top.,neutral,0.7884
+I know that.,neutral,0.5676
+I'm in fifth grade already!,neutral,0.5049
+Then why so many mistakes?,negative,0.8182
+It's dividing fractions.,neutral,0.7153
+Just flip the top and the bottom and multiply.,neutral,0.7911
+"They taught you that, right?",neutral,0.6976
+Then why do you get it wrong?,negative,0.724
+"Yaeko, one step at a time.",neutral,0.6994
+What's dividing a fraction by a fraction anyway?,neutral,0.712
+Two-thirds of an apple divided by a quarter means...,neutral,0.8562
+"how this would be divided among four people, right?",neutral,0.8369
+"So, it's one, two, three, four, five, six...",neutral,0.8689
+"one-sixth each, right?",neutral,0.8224
+"No, no, no, no.",negative,0.7082
+That's multiplication.,neutral,0.5729
+How come it's less when you multiply?,neutral,0.5993
+Two-thirds of an apple divided by a quarter...,neutral,0.8467
+Anyway!,positive,0.6684
+Forget about apples.,neutral,0.5042
+Just remember to invert and multiply.,neutral,0.7911
+Is her sister in Takarazuka?,neutral,0.9074
+"No, S.K.D.",neutral,0.6785
+"She got a ""D"" in math.",neutral,0.7371
+"A ""D""?",neutral,0.7655
+"Yes, and just barely.",neutral,0.5844
+"If she got half right, it'd be worth scolding her.",neutral,0.5945
+Right.,neutral,0.5665
+Should you get her IQ checked?,neutral,0.8162
+They said it was fine when she started.,neutral,0.7173
+Maybe she turned dumb?,negative,0.7802
+Remember she fell down the stairs as a baby?,negative,0.5323
+"Right, in her walker!",neutral,0.5541
+I thought she was dead.,negative,0.6315
+It was just a bump.,neutral,0.7538
+It's affecting her now.,neutral,0.5193
+That's it!,positive,0.5892
+Nonsense.,negative,0.5721
+She's just no good at math.,negative,0.9575
+She chats too much in class.,negative,0.7408
+If she'd just listen...,neutral,0.7632
+Even an idiot can do it.,negative,0.8342
+Only two more years until junior high.,positive,0.5033
+"Two-thirds of this apple, divided by a quarter...",neutral,0.8446
+I can't even picture it.,negative,0.5952
+"Two-thirds of this, into a quarter makes it...",neutral,0.8566
+"Even now, dividing fractions is difficult.",negative,0.6391
+We farmers give up too easily.,negative,0.9242
+We just yield to the flow and follow what they do in the cities.,neutral,0.8376
+Let's rethink the real meaning of prosperity.,neutral,0.7243
+Return to the old ways of farming.,neutral,0.7854
+You made me jump...,neutral,0.5429
+"So, that explains the organic farming?",neutral,0.7699
+I'm just quoting my friend.,neutral,0.8004
+But I agree with it.,positive,0.5262
+It's great the way you hold onto your memories of math class.,positive,0.9656
+It wasn't meant to impress you.,negative,0.6245
+"People say you work in a great place, but I could never give myself up to it completely.",positive,0.5957
+I really admire your devotion to farming.,positive,0.9661
+You're being sarcastic?,neutral,0.5209
+Of course not!,negative,0.4423
+There aren't many people like you.,neutral,0.4803
+"Farming's in total decline, right?",negative,0.5544
+So we can't just carry on as normal.,neutral,0.547
+We've got to think about the future.,neutral,0.7671
+"We help each other out, cheer one another along, otherwise we can't keep it up.",positive,0.5562
+"Taeko, do you ski?",neutral,0.8717
+I've been with friends a few times.,neutral,0.579
+Come next winter.,neutral,0.6987
+I'll teach you.,neutral,0.6393
+Are you good?,neutral,0.7581
+I'm not too bad.,positive,0.6568
+But I'm an instructor here.,neutral,0.8162
+An instructor?,neutral,0.8278
+You must be great.,positive,0.8962
+All my friends are too.,neutral,0.5599
+"At last, we're in the middle of nowhere.",neutral,0.6294
+"""Nowhere"", huh?",neutral,0.6056
+Sorry.,negative,0.5092
+I didn't mean it like that.,neutral,0.6112
+Interesting point though.,positive,0.7877
+"City people see the trees and rivers and are grateful for ""nature"".",positive,0.7465
+But what you see here is all made by man.,neutral,0.5492
+By man?,neutral,0.746
+Farmers.,neutral,0.7448
+That wood?,neutral,0.7246
+Yes.,positive,0.461
+Those trees?,neutral,0.7781
+Yes.,positive,0.461
+That stream?,neutral,0.7953
+Yes.,positive,0.461
+"Every bit has its history, not just the fields and rice paddies, someone's great-great-grandpa planted it, or cleared it, gathered firewood or picked mushrooms there.",neutral,0.8748
+I see.,neutral,0.5826
+Mankind battles nature and gets stuff from it.,neutral,0.7174
+"They evolve together, and it created this scenery.",positive,0.5199
+"So without man, this wouldn't exist?",neutral,0.5961
+Farmers can't exist without nature.,neutral,0.7005
+So they've always taken great care to give her a helping hand in return.,positive,0.7845
+A collaboration between man and nature...,neutral,0.5766
+That's the heart of country life.,neutral,0.5888
+That's why I feel so at home.,positive,0.7145
+"I didn't grow up here, but somehow always felt...",neutral,0.6662
+my soul was at home here.,neutral,0.5506
+So that's it...,neutral,0.735
+My back aches.,negative,0.879
+What's so great about organic farming?,positive,0.8633
+Only the theory.,neutral,0.6856
+Like I said...,neutral,0.6946
+giving nature a hand is hard work.,neutral,0.6905
+Things haven't changed in a hundred years.,negative,0.6328
+"No, even ""organic"" rice uses weed killer.",negative,0.9124
+There's not enough labor to weed by hand.,negative,0.5035
+You're really working hard.,positive,0.8794
+How about some tea?,neutral,0.8706
+Fantastic.,positive,0.7759
+I felt like having a break.,neutral,0.7199
+Toshio let me try a variety of things...,neutral,0.7787
+until I felt I knew all about country life.,neutral,0.7381
+How wonderful.,positive,0.9559
+"""Behold, the crows fly home.",neutral,0.7221
+"First one..."" At last I can say this in the right setting.",positive,0.6127
+It was my line in a school play.,neutral,0.79
+"I was ""Village Child A"".",neutral,0.7706
+"Oh, I see.",neutral,0.609
+I only ever had small roles too.,neutral,0.7958
+"And you, Naoko?",neutral,0.8114
+"Only lead roles, since there are so few of us.",neutral,0.665
+These days people leave and go to the cities.,neutral,0.5468
+And now there are fewer kids.,negative,0.5144
+I see.,neutral,0.5826
+But getting the big roles must be fun.,positive,0.7145
+Not really.,neutral,0.5599
+I prefer sports.,positive,0.5495
+I'm a pretty fast runner.,positive,0.8226
+Good for you.,positive,0.932
+I was always mediocre.,negative,0.8764
+"The sports version of ""Village Child A"".",neutral,0.835
+"Still, I'll never forget that line as long as I live.",positive,0.6147
+It was going to make me a star.,positive,0.5668
+A star?,neutral,0.7615
+Yes.,positive,0.461
+What kind of star?,neutral,0.7696
+That tiny role?,neutral,0.7527
+Yes.,positive,0.461
+Even though you weren't the lead?,neutral,0.7452
+Yes.,positive,0.461
+Because I was the most enthusiastic.,positive,0.93
+'Cause you were the cutest?,positive,0.9177
+"No, not that!",negative,0.5222
+I rehearsed endlessly in front of the mirror.,neutral,0.7508
+"Even for ""Village Child A""...",neutral,0.8019
+"The line was so short, I felt something was missing.",negative,0.8322
+"""Behold, the crows fly home.",neutral,0.7221
+"First one..."" I know.",neutral,0.7299
+You made up more!,neutral,0.4297
+Exactly.,neutral,0.5663
+"Look up there, the crows fly home.",neutral,0.7755
+First one...,neutral,0.7787
+Then two...,neutral,0.7653
+Then three...,neutral,0.7725
+Then four...,neutral,0.7816
+"Farewell, dear crows.",neutral,0.5109
+You take care now.,neutral,0.8227
+-And your teacher loved it.,positive,0.7775
+-Just the opposite.,negative,0.6864
+Very good everyone.,positive,0.9729
+But let's stick to the script.,neutral,0.8043
+After all that.,neutral,0.6409
+"It wasn't a good line, so I didn't mind.",neutral,0.512
+I wasn't discouraged at all.,positive,0.4687
+I realized that I could act even when there were no lines.,positive,0.6574
+"Behold, the crows fly home.",neutral,0.753
+First one.,neutral,0.6531
+Then two.,neutral,0.6252
+Then three.,neutral,0.6251
+Then four.,neutral,0.6328
+That was all.,neutral,0.6232
+It was worth the effort.,positive,0.7879
+"""Village Child A"" was a hit.",neutral,0.5922
+Believe it or not.,neutral,0.721
+People asked if I'd had lessons.,neutral,0.8253
+Teachers praised me...,positive,0.8274
+Then something amazing happened.,positive,0.947
+Anyone home?,neutral,0.7341
+Coming.,neutral,0.6437
+And then the dynamite blew up right in my face!,negative,0.4491
+Right in my face!,neutral,0.5278
+What?,neutral,0.5653
+Our Taeko?,neutral,0.8727
+"Yes, but-- We need a girl to star in our college play.",neutral,0.7388
+"As a service to the community, please let your daughter perform.",positive,0.5824
+A star!,positive,0.7459
+We'd rehearse Saturday afternoons.,neutral,0.8948
+We wouldn't take too long.,neutral,0.7086
+"Well, but...",neutral,0.7252
+Of course we'd bring her straight home.,neutral,0.635
+I'll be in a real play.,neutral,0.6754
+Not with a bunch of kids but with real grown-ups!,neutral,0.6163
+I'll be a star!,positive,0.8665
+"Oh, oh, oh, oh What a wonderful day Cock-a-doodle-doo!",positive,0.9857
+Cock-a-doodle-doo!,neutral,0.5174
+Cock-a-doodle-doo!,neutral,0.5174
+Cock-a-doodle-doo!,neutral,0.5174
+Cock-a-doodle-doo!,neutral,0.5174
+Mother!,neutral,0.5851
+So?,neutral,0.6591
+So?,neutral,0.6591
+A nice boy from the university wants you in their drama.,positive,0.8482
+You were so good in the school play.,positive,0.9727
+And?,neutral,0.6804
+And?,neutral,0.6804
+He practically begged me!,neutral,0.5756
+"Wow, that's great!",positive,0.9892
+At least you're good at something.,positive,0.632
+She writes good essays too.,positive,0.8785
+She's certainly better at that than she is at math.,neutral,0.5189
+That's right.,neutral,0.569
+That's right.,neutral,0.569
+"I was the lead in ""The Poor Sparrow"" but no one came to see me.",negative,0.5598
+"You see, you see!",neutral,0.4993
+Are you going to do it?,neutral,0.8732
+This could lead to a career.,positive,0.6429
+Join the Takarazuka Revue!,neutral,0.7098
+"Start rehearsing now, it's perfect timing.",positive,0.8495
+Acting is out.,neutral,0.7411
+Show business people are no good.,negative,0.9713
+"""Show business""...",neutral,0.6965
+Don't exaggerate...,neutral,0.6215
+That's right.,neutral,0.569
+It's...,neutral,0.7347
+I said no.,negative,0.4807
+Dinner.,neutral,0.6847
+Father's so stubborn.,negative,0.8764
+Why did you have to mention a career?,negative,0.5424
+Can I bathe first?,neutral,0.8726
+Sure.,neutral,0.4753
+Or Takarazuka?,neutral,0.8609
+Or show business?,neutral,0.8208
+You know Dad...,neutral,0.8035
+"Why did you say that, Nanako?",neutral,0.6487
+That's enough.,neutral,0.4946
+"Poor boy, poor boy Don't you feel sorry for me?",negative,0.9144
+We won't take much of her time.,neutral,0.6686
+"I know, but...",neutral,0.5968
+I beg you.,neutral,0.5567
+She's rather shy...,neutral,0.601
+The timid type...,neutral,0.6334
+Sorry you came so far for nothing.,negative,0.8077
+"Poor boy, poor boy Such a long way from home Poor boy Aoki's going to play the part instead.",negative,0.9038
+I see.,neutral,0.5826
+She's boasting to everyone.,neutral,0.5747
+I see.,neutral,0.5826
+Today her mom met her at school to get her changed into a fancy dress.,neutral,0.8634
+A frilly thing out to here...,neutral,0.6849
+Taeko?,neutral,0.7313
+Don't tell anyone you got the first offer.,neutral,0.6992
+Because that would hurt Aoki very much.,negative,0.855
+Do you understand?,neutral,0.7232
+Do you understand?,neutral,0.7232
+Breaking through the waves Shooting through the clouds Where is it heading?,neutral,0.8736
+Hyokkori Pumpkin Island?,neutral,0.903
+Where will it take us?,neutral,0.8675
+"Something special waits for us Just over the horizon There'll be hard times There'll be sad times But we'll never lose heart We hate to cry, so let's laugh instead Let's go!",positive,0.8248
+Hyokkori Pumpkin Island!,neutral,0.7459
+Hyokkori Pumpkin Island!,neutral,0.7459
+Hyokkori Pumpkin Island!,neutral,0.7459
+Poor little Taeko.,negative,0.7391
+I joined the drama group in high school.,neutral,0.8984
+I couldn't forget what had happened.,neutral,0.5805
+And then?,neutral,0.6786
+"It was a lot of fun, acting and all...",positive,0.9739
+but it wasn't for me.,negative,0.5944
+As for becoming a star...,neutral,0.7849
+that was a joke.,neutral,0.6434
+But...,neutral,0.7123
+I guess dads are the same all over.,neutral,0.566
+"When I was in high school, I so wanted to live in Tokyo.",positive,0.6082
+I even wrote to my cousin about universities there.,neutral,0.8563
+Did you really?,neutral,0.7475
+I gave up.,negative,0.738
+But it annoyed me to hear other guys bragging about life in Tokyo.,negative,0.9047
+"Not anymore, though.",neutral,0.5885
+I respect my dad.,positive,0.8357
+He's an expert farmer.,neutral,0.7184
+But I know how you felt.,neutral,0.657
+Mine's just a funny story.,positive,0.7301
+"No, it's the same, I understand.",neutral,0.714
+"""But we'll never lose heart, we hate to cry, so let's laugh instead"".",positive,0.484
+I also watched Hyokkori Pumpkin Island.,neutral,0.8295
+Really?,neutral,0.6008
+Machine Gun Dandy was so cool.,positive,0.9799
+He was my hero!,positive,0.9023
+Of course.,neutral,0.5552
+Those songs were full of encouragement.,positive,0.9098
+What was that other one?,neutral,0.8414
+If today's no good You'll have tomorrow If tomorrow's no good You'll have the next day If that's no good There'll be another There's always a tomorrow What a weird song!,negative,0.4837
+"That song, about putting things off, Toshio took in a positive, affirmative way.",positive,0.6811
+I liked his approach to life.,positive,0.9333
+You're leaving tomorrow?,neutral,0.8865
+Yes.,positive,0.461
+Thank you for having me for so long.,positive,0.9619
+"Thank you, my dear.",positive,0.9375
+Do you like it here?,neutral,0.8758
+Very much.,neutral,0.6315
+I feel so at home.,positive,0.8923
+Glad to hear it.,positive,0.9633
+I've lived here all my life.,neutral,0.7745
+Been to Tokyo just once.,neutral,0.859
+For your sister's wedding.,neutral,0.8654
+You think it's better here?,neutral,0.7553
+Without a doubt.,neutral,0.5831
+"Tokyo's packed with cars, buildings...",neutral,0.5861
+People shouldn't live like that.,negative,0.9481
+This is a different world.,neutral,0.5325
+"You really like it here, then?",neutral,0.5886
+Yes.,positive,0.461
+"The nice surroundings, the kind people...",positive,0.9292
+Taeko.,neutral,0.6758
+Why don't you come and live here?,neutral,0.7062
+With Toshio?,neutral,0.878
+"Since his brother moved to Tokyo, why don't you stay here and marry Toshio?",neutral,0.8055
+Granny!,neutral,0.6616
+Mother...,neutral,0.6758
+you've gone too far!,negative,0.8675
+Taeko's shocked.,neutral,0.7057
+Please think it over.,neutral,0.5645
+Don't pay any attention.,negative,0.7067
+She's joking.,neutral,0.6319
+"Joking, right, Granny?",neutral,0.7664
+No.,neutral,0.4936
+I'm serious.,neutral,0.6308
+Don't tell me you wouldn't like it.,negative,0.5249
+It's not a matter of what we'd like...,neutral,0.6655
+Of course we'd love it.,positive,0.9489
+But Taeko's a city person.,neutral,0.8428
+Of course.,neutral,0.5552
+But she loves it here.,positive,0.8116
+"She works so hard on the land, it's a joy to watch.",positive,0.9646
+There'd be nothing better than her marrying Toshio.,positive,0.6042
+You're being rude.,negative,0.9374
+You're embarrassing her.,negative,0.9408
+She's got a decent job in Tokyo.,positive,0.7969
+"Besides, she's older than him.",neutral,0.6732
+There are jobs in Yamagata too.,neutral,0.7911
+Please don't be angry.,neutral,0.5701
+"Most of the young wives work these days, so...",neutral,0.8136
+What are you talking about?,neutral,0.7887
+She's only been here twice on vacation.,neutral,0.7786
+Suddenly bringing this up...,neutral,0.7082
+You're upsetting her.,negative,0.8893
+So you're against it?,neutral,0.651
+I didn't say that.,neutral,0.6224
+I said let's be realistic.,neutral,0.7798
+We don't even know how Toshio feels.,negative,0.5739
+One look at him and it's obvious.,neutral,0.6709
+Don't dismiss it before we've asked her.,neutral,0.757
+Taeko!,neutral,0.5092
+Let her be.,neutral,0.6288
+See what you did.,neutral,0.7173
+You can't rush these things.,neutral,0.5663
+I don't think I was wrong.,neutral,0.7448
+I'd never even thought of being a farmer's wife.,negative,0.7113
+"I was strangely moved, even imagining it might be possible.",positive,0.6931
+"If only I could've replied: ""I'd love to"", like in the movies.",positive,0.539
+But I couldn't.,negative,0.585
+"Suddenly my love of the country, and my play-farming, seemed so phony.",negative,0.4904
+Declaring my love for country life based on a ten-day vacation now felt embarrassing.,negative,0.713
+Then with no warning...,neutral,0.5862
+everyone seeing right through me.,neutral,0.7121
+It was unbearable.,negative,0.9058
+I ain't shaking hands with you.,neutral,0.6621
+That shirt he wore today...,neutral,0.8546
+-What about it?,neutral,0.8034
+-Tanaka's old shirt.,neutral,0.8278
+Don't tell anyone.,neutral,0.6981
+"When it's his turn to feed the ducks, he takes the bread home.",neutral,0.9078
+Did you see his hands?,neutral,0.8327
+Glad he's not sitting next to me.,positive,0.5538
+Poor Taeko.,negative,0.7773
+Have him switch places.,neutral,0.7721
+He should sit with the boys.,neutral,0.8644
+"Right, Taeko?",neutral,0.8608
+I don't mind.,neutral,0.6624
+You shouldn't talk like that.,negative,0.9062
+You don't mind?,neutral,0.8003
+Don't be a goody-goody.,negative,0.4745
+Don't you dare tell anyone what we said.,negative,0.6094
+I'll beat you up!,negative,0.8507
+Don't go!,negative,0.5225
+What are you doing out here?,neutral,0.8508
+Nothing.,neutral,0.5182
+Taking a walk.,neutral,0.8259
+You're getting wet.,neutral,0.5893
+"Quick, get in.",neutral,0.6918
+A little souvenir.,neutral,0.663
+Some of Mom's pickles.,neutral,0.7705
+Please don't go back yet.,neutral,0.5
+Why not?,neutral,0.6867
+Just drive...,neutral,0.7573
+anywhere.,neutral,0.6123
+Something wrong?,negative,0.6818
+I knew a boy named Abe.,neutral,0.8421
+He came from another school.,neutral,0.8491
+He sat next to me.,neutral,0.8363
+"He once said, ""I ain't shaking hands with you."" His family was poor.",negative,0.6156
+He never had any sports gear.,neutral,0.5756
+Always picking his nose or wiping it on his sleeve...,neutral,0.6178
+"And if I complained or even dared frown at him, he'd threaten to hit me.",negative,0.7991
+I hated it.,negative,0.9321
+"I longed for the end of the term, so we could change seats.",neutral,0.7339
+"I hated holding hands in dance class, hated having to lend him my homework.",negative,0.9506
+The girls gossiped and called him names.,negative,0.7449
+But I wouldn't join in.,negative,0.5992
+I thought it was terrible to talk behind his back.,negative,0.9553
+But one day...,neutral,0.7652
+he was transferred in the middle of the term.,neutral,0.8312
+The teacher made us all shake hands and say goodbye.,neutral,0.7286
+A feeling of disgust swept the room.,negative,0.9121
+His hands were filthy.,negative,0.8805
+"Walking around, shaking hands with us, he looked so nervous.",negative,0.543
+"Back at his own desk, only I was left.",neutral,0.8031
+"When I held out my hand he said, ""I ain't shaking hands with you."" ""I ain't shaking hands with you."" I hated him the most.",negative,0.9536
+He knew that.,neutral,0.6351
+That's why he didn't shake my hand.,neutral,0.6781
+Did something happen at the farmhouse?,neutral,0.8657
+Ever since I was little...,neutral,0.7543
+I just pretend to be nice.,neutral,0.5389
+Nothing's changed.,neutral,0.6263
+"You're strange, today.",negative,0.5534
+Not the usual you.,negative,0.5402
+"I don't know what happened, but...",neutral,0.5677
+It's nothing to do with that.,neutral,0.6926
+I'm sorry.,negative,0.6455
+I just feel bad about what happened.,negative,0.9627
+I think that boy was stupid.,negative,0.9753
+Maybe he didn't shake your hand because he liked you.,neutral,0.6971
+"No, he liked the class president.",neutral,0.6204
+He was always acting tough with me.,neutral,0.5585
+"Hands in pockets, spitting, swearing, swaggering along, showing off.",negative,0.7972
+Exactly.,neutral,0.5663
+I know how he feels.,neutral,0.5933
+"When I was little, I used to tease the girl I liked.",neutral,0.5631
+That's not it.,negative,0.756
+He shook hands with everyone but me.,neutral,0.6518
+There's the problem.,negative,0.8206
+Girls never understand how boys feel.,negative,0.7147
+As if you know...,neutral,0.6863
+"Let me guess, then...",neutral,0.8486
+He wasn't that tough.,neutral,0.5026
+He couldn't bully any boys.,negative,0.4926
+He had no friends.,negative,0.6842
+"You sat next to him, an easy target.",neutral,0.6207
+He wanted you to think he was tough.,neutral,0.6552
+No way he wanted to shake hands with everyone.,negative,0.4959
+He only acted tough around you.,neutral,0.648
+MARGARET Don't be filthy!,neutral,0.5258
+I felt so guilty and so sorry for him that I began copying him.,negative,0.9194
+"Too late though, huh?",negative,0.6098
+I couldn't take back the pain I caused him.,negative,0.841
+It's stopped raining.,neutral,0.5272
+"Oh, yes.",positive,0.6818
+The moon's out.,positive,0.6179
+Sometimes at night you see raccoon dogs here.,neutral,0.8492
+Shall we go back?,neutral,0.8708
+They must be worried about me.,negative,0.5568
+This'll be the talk of the town.,positive,0.6857
+I'm sorry.,negative,0.6455
+You've been so kind.,positive,0.8731
+"I wonder what happened at the house, though?",neutral,0.8678
+"Please, for my sake, don't ask anyone.",neutral,0.5101
+Shall I play that music?,neutral,0.9049
+"I began to think of my feelings for him, and of his feelings for me, for the very first time.",neutral,0.806
+How was he able to sort out my mixed-up thoughts ?,neutral,0.6727
+How come I let him get so close?,negative,0.6694
+Somehow he seemed older than me.,neutral,0.7345
+He was the one I wanted to shake hands with.,positive,0.6577
+Just shake hands?,neutral,0.8663
+What was this feeling?,neutral,0.8457
+My mind raced as I sat beside him.,neutral,0.7584
+Have you got everything?,neutral,0.7363
+"Yes, I'm fine.",positive,0.8892
+We'll see you in the winter.,neutral,0.7837
+I'll do my farming homework.,neutral,0.8147
+What about skiing?,neutral,0.8732
+That just takes practice.,neutral,0.7302
+"Consider what I said, Taeko.",neutral,0.8079
+What's that?,neutral,0.7331
+What?,neutral,0.5653
+That's our secret.,neutral,0.7981
+Something was strange yesterday.,neutral,0.6452
+Sorry.,negative,0.5092
+"Next time I'll be fine, I'll leave the ten-year-old me at home.",positive,0.4857
+Wait for me!,neutral,0.5696
+"Take care, Naoko.",neutral,0.7134
+Goodbye.,neutral,0.5621

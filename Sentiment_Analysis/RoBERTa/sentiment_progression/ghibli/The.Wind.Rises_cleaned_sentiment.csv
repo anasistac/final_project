@@ -1,0 +1,1326 @@
+text,sentiment,score
+The Wind Rises The wind is rising!,positive,0.8195
+We must try to live.,neutral,0.7023
+"Paul Valery Jiro, here it is.",neutral,0.8702
+Would it be alright if I borrow it?,neutral,0.8253
+It's not Japanese.,neutral,0.6122
+That's okay.,positive,0.7336
+I have a dictionary.,neutral,0.7086
+"Alright then, give it a try.",neutral,0.7155
+Thank you.,positive,0.853
+Knock it off.,neutral,0.4563
+"Stay out of it, Jiro!",neutral,0.6366
+Go home!,neutral,0.5346
+Now!,neutral,0.512
+Jiro...,neutral,0.7029
+"He's half your size, Katayama.",neutral,0.6655
+Ah...you look quite the hero.,positive,0.8289
+"No, I just slipped and fell.",negative,0.608
+Fighting is never justified.,negative,0.5753
+"Yes, mother.",neutral,0.5383
+Alright.,neutral,0.5707
+now you can go have your snack.,neutral,0.7486
+Thanks.,positive,0.6284
+"Jiro, you're home!",positive,0.7326
+Welcome home.,positive,0.9274
+"Oh, Jiro , now we can pick some bamboo grass.",neutral,0.7702
+Jiro!,neutral,0.5601
+"Wait, where are you going?",neutral,0.8264
+You promised to pick bamboo grass today.,neutral,0.7343
+I got homework.,negative,0.4781
+What kind of homework is that?,negative,0.6622
+It's an English magazine.,neutral,0.7831
+"Oh, look at that stupid moustache.",negative,0.9276
+He's a very famous Italian aircraft designer.,positive,0.6923
+His name is Caproni.,neutral,0.796
+"Wow, it says he's a count.",neutral,0.5335
+What happened?,neutral,0.6705
+Your face is scratched.,negative,0.8725
+"Leave it alone, Kayo!",neutral,0.5879
+You should put iodine on it.,neutral,0.6765
+I'll do it for you.,positive,0.6243
+Would you cut it out!,neutral,0.7979
+What are you doing up here?,neutral,0.8676
+You're not suppose to be up here.,negative,0.7934
+Where are your glasses?,neutral,0.7071
+I heard you can fix your eyesight by focusing very intently on the stars.,positive,0.6721
+Mom will be mad if you're not in your bed.,negative,0.7208
+I see a shooting star!,positive,0.7207
+"Oh, there's another one.",neutral,0.7267
+"Ah, they're pretty.",positive,0.9589
+"Oh, look at that one!",positive,0.48
+"Wow, there's so many of them.",positive,0.7752
+I'm a Japanese boy.,neutral,0.7965
+I'm dreaming.,neutral,0.6581
+I think this is my dream.,positive,0.7061
+"This is my dream, you know.",positive,0.6412
+I think it's mine too.,neutral,0.6987
+Your dream?,neutral,0.8285
+"Listen, Japanese boy.",neutral,0.7246
+So you think we are sharing this dream?,neutral,0.8421
+I hope so.,positive,0.6228
+"You're Count Caproni, aren't you?",neutral,0.8686
+I've been reading all about you.,neutral,0.7344
+Interesting.,positive,0.7793
+"Yes, this is a dream.",positive,0.687
+This world is a dream.,neutral,0.4751
+Welcome to my kingdom.,positive,0.7485
+I'm honored.,positive,0.9664
+Look at them.,neutral,0.6794
+They will bomb an enemy city.,negative,0.878
+Most of them will never return.,negative,0.8126
+"Well, it'll all be over very soon.",neutral,0.5157
+"Come on up, Japanese boy.",neutral,0.6818
+This is my true dream.,positive,0.9452
+"When the war is over, I'll build this.",neutral,0.6566
+What do you think?,neutral,0.809
+"Magnificent, isn't she?",positive,0.5491
+Let's take off.,neutral,0.5884
+"Instead of bombs, she'll carry passengers.",neutral,0.6475
+I find dreams are a good way to see my designs.,positive,0.9485
+I can go anywhere.,positive,0.6583
+"Come on, walk along the spar, Japanese boy.",neutral,0.8666
+Look at that.,neutral,0.6637
+"She's beautiful, yes?",positive,0.9699
+"Yes, incredible.",positive,0.8985
+She'll carry a hundred people across the Atlantic.,neutral,0.7778
+Mr.,neutral,0.5849
+"Caproni, may I ask you a question?",neutral,0.8971
+I know I can't be a pilot because of my eyesight.,negative,0.838
+"If I'm not a pilot, can I still design airplanes?",neutral,0.6649
+"Japanese boy, I've been around planes all my life.",neutral,0.7446
+You know how many I've flown?,neutral,0.8351
+None!,neutral,0.5322
+Not any one!,negative,0.5442
+Many can fly a plane but I design them.,neutral,0.7819
+I create airplanes and so can you.,neutral,0.661
+An aeronautical engineer!,neutral,0.669
+Yes!,positive,0.8097
+"But remember this, Japanese boy.",neutral,0.7912
+Airplanes are not tools for war.,negative,0.7231
+They are not for making money.,negative,0.7748
+Airplanes are beautiful dreams.,positive,0.9376
+Engineers turn dreams into reality.,neutral,0.6665
+Yes!,positive,0.8097
+Arrivederci.,neutral,0.717
+We'll meet again.,neutral,0.5398
+"Jiro, you were talking in your sleep.",neutral,0.6917
+You were smiling.,positive,0.7607
+"You must be having the most wonderful dream, Jiro.",positive,0.9815
+"Mother, I'm going to be an aeronautical engineer.",neutral,0.7337
+"Oh, that does sound like a good dream.",positive,0.9203
+(sigh) He told me that airplanes are beautiful dreams.,positive,0.7526
+So I'm going to make beautiful airplanes.,positive,0.9068
+"Excuse me Miss, please, take my seat.",neutral,0.589
+"Pardon me, sir.",neutral,0.6943
+I insist.,positive,0.5276
+(French) The wind feels wonderful.,positive,0.9761
+"Miss, you'll lose your hat.",negative,0.8767
+I got it.,positive,0.4689
+Miss!,neutral,0.5062
+Miss!,neutral,0.5062
+Hold on!,neutral,0.6471
+Are you all right?,neutral,0.8301
+Safe!,positive,0.73
+Nice catch.,positive,0.8453
+You speak French?,neutral,0.7703
+"""Le vent se lève."" It's a French poem.",neutral,0.7779
+"""Il faut tenter de vivre."" ""Le vent se lève.",neutral,0.7517
+"Il faut tenter de vivre."" ""The wind is rising.",neutral,0.6289
+"We must try to live."" Earthquake.",neutral,0.745
+Get away!,neutral,0.4684
+The boiler's going to blow!,negative,0.532
+What's wrong?,negative,0.7724
+Her leg.,neutral,0.7001
+"Here, let me see.",neutral,0.6744
+Ah...,neutral,0.6794
+"Be brave, Kinu.",neutral,0.5184
+It's broken.,negative,0.745
+She won't be able to walk.,negative,0.7759
+"Miss, the boiler.",neutral,0.6145
+"Please save yourself, go!",neutral,0.5182
+That's nonsense.,negative,0.859
+Nothing's going to explode.,neutral,0.473
+We need to brace her leg.,neutral,0.8208
+"This will hurt a little, relax.",negative,0.6467
+She can't walk on this.,negative,0.7945
+Where do you live?,neutral,0.7941
+In Ueno.,neutral,0.7457
+"Don't worry, I'll get you there.",positive,0.605
+Fire.,neutral,0.5794
+Let's go.,positive,0.5876
+What about your luggage?,neutral,0.8262
+It's not important.,negative,0.5527
+I'm so sorry.,negative,0.8012
+You alright?,neutral,0.7507
+Okay.,neutral,0.5844
+Better hurry.,neutral,0.6092
+"Here, my mother made me this shirt.",neutral,0.7902
+You must be thirsty.,negative,0.6555
+"Don't worry, it's clean.",positive,0.6627
+The well's almost dry...,negative,0.6059
+and for you?,neutral,0.7655
+Please.,neutral,0.6087
+The fire hasn't reached Ueno and I'm heading for the university.,neutral,0.7236
+"So, I can take you there.",neutral,0.7221
+"And help bring someone, from my house.",neutral,0.8295
+"Then we should get going, now.",neutral,0.7249
+"Kinu, look after my suitcase.",neutral,0.7417
+Okay.,neutral,0.5844
+We'll bring someone to get you home.,neutral,0.8103
+I promise.,neutral,0.5038
+Stay strong.,positive,0.673
+Okay.,neutral,0.5844
+I will.,positive,0.4827
+Thank you very much for helping us.,positive,0.985
+Take care of her.,neutral,0.7462
+"But wait, at least tell us your name.",neutral,0.7042
+What a great guy.,positive,0.9664
+"Who was he, Kinu?",neutral,0.8663
+"Well, it isn't Jiro.",neutral,0.6424
+You picked a lovely day to come back.,positive,0.9075
+"How bad is it, Honjo?",negative,0.8478
+Bad enough.,negative,0.8694
+The whole east side is burning.,negative,0.8486
+We grabbed everything we could carry out of the library.,neutral,0.6629
+Got a smoke?,neutral,0.8082
+A flying door?,neutral,0.8132
+Don't see that everyday.,neutral,0.5208
+We'll never gonna stop the fire now.,negative,0.7278
+Tokyo's finished.,neutral,0.5198
+It's as beautiful as it was in the dream.,positive,0.963
+I can't really believe he built it.,negative,0.7187
+Cut!,neutral,0.5802
+Cut!,neutral,0.5802
+Cut!,neutral,0.5802
+Damn wind's picking up.,negative,0.5327
+We need to hurry.,neutral,0.5792
+"What do you think, Japanese boy?",neutral,0.876
+Is the wind still rising?,neutral,0.9065
+"Yes, it's a gale.",neutral,0.7197
+"Well then, you must live.",neutral,0.7107
+"""Le vent se lève."" ""II faut tenter de vivre."" Jiro, let's eat.",neutral,0.7746
+"Look, even the new buildings are old-fashioned.",neutral,0.555
+If the streets are a little wider.,neutral,0.7769
+So?,neutral,0.6591
+The airplanes are still old.,neutral,0.5751
+Welcome!,positive,0.8957
+"Oh look, Mackerel again?",neutral,0.6468
+"Yeah, it's always good.",positive,0.9433
+Always.,neutral,0.4727
+"Always the same lunch, always the same Mackerel.",neutral,0.6416
+"Kina, can you help me?",neutral,0.8594
+Coming up!,neutral,0.5427
+"Meanwhile, other countries are building metal planes.",neutral,0.5958
+We're 10 years behind and you're still stuck with Mackerel.,negative,0.7812
+What is that?,neutral,0.7507
+"Beautiful, isn't it?",positive,0.9515
+Look at that wonderful curve.,positive,0.9388
+Only you would get a thrill from fish bones.,neutral,0.4931
+"Come on, finish up.",neutral,0.5139
+I need a coffee.,neutral,0.7247
+What on earth is Jiro working so hard on?,negative,0.6853
+Fish bones.,neutral,0.6148
+Is Mr.,neutral,0.7407
+Horikoshi back from lunch?,neutral,0.9247
+Jiro!,neutral,0.5601
+"Honjo, listen to this.",neutral,0.8326
+The NACA has a standard wing cross-section just like the curve of this fish bone.,neutral,0.8532
+Maybe the Americans eat mackerel too.,neutral,0.5053
+"Jiro, you got a visitor.",neutral,0.7058
+Yes?,neutral,0.7116
+"A young lady came by and brought this package for you, Mr.",neutral,0.719
+Horikoshi.,neutral,0.7051
+"You were out, so she left it with me.",neutral,0.7922
+I see.,neutral,0.5826
+Thank you very much.,positive,0.96
+"Ah, is that a present from your girlfriend, Jiro?",neutral,0.8261
+"Can it, freshman, and give me a smoke.",neutral,0.7554
+Jiro!,neutral,0.5601
+Let him go.,neutral,0.5066
+"Oh, Mr.",neutral,0.6857
+Horikoshi.,neutral,0.7051
+"Yes, Mam?",neutral,0.8521
+You've a guest waiting for you upstairs.,neutral,0.7359
+It's a young lady.,neutral,0.6714
+"Huh, young lady?",neutral,0.8033
+Hello?,neutral,0.643
+"Finally, where were you?",neutral,0.8132
+"Kayo, I'm sorry.",negative,0.5852
+Completely forgot.,negative,0.575
+I'm not surprise!,positive,0.4732
+Where's mother?,neutral,0.707
+At uncle's.,neutral,0.8023
+Is she staying there?,neutral,0.9008
+Just for a night.,neutral,0.6721
+"Kayo, you've gotten so tall and very pretty too.",positive,0.9741
+You're so insensitive.,negative,0.9708
+I'm still mad at you 'cause you never come home!,negative,0.8521
+"Oh, the sun is already down.",neutral,0.5239
+I'm going to be late.,negative,0.6866
+I'll tell them it's my fault.,negative,0.5641
+Don't worry.,positive,0.5337
+We'll take the penny steamer.,neutral,0.8284
+I think she must really like you.,positive,0.7998
+"I don't know, it's been over two years.",negative,0.4906
+Didn't you ever try to see her again?,neutral,0.6138
+I did.,neutral,0.5961
+I went back after the fire was out.,neutral,0.8372
+Her house has burnt down.,negative,0.8849
+That's terrible.,negative,0.9433
+"Here, let's catch this one.",neutral,0.5868
+"Are you cold, Kayo?",neutral,0.754
+I'm fine.,positive,0.8
+I didn't think Tokyo would recover so quickly.,negative,0.5541
+"Jiro, maybe I can stay here with you?",neutral,0.773
+Father won't let me live here by myself.,negative,0.8464
+"Well, I might be at Nagoya by the time you come.",neutral,0.9052
+With an airplane company?,neutral,0.8406
+I hope so.,positive,0.6228
+Men have it so good.,positive,0.9136
+Why can't I live in Tokyo and go to medical school?,negative,0.6429
+Medical school?,neutral,0.7539
+You should— I think you'd be a great doctor.,positive,0.9008
+I think so too.,neutral,0.5933
+"When I'm home for New Years, I'll talk to father about it.",neutral,0.8568
+"Oh, thank you.",positive,0.8409
+"Hey, Jiro!",neutral,0.5729
+Heavy?,neutral,0.767
+Yep.,neutral,0.5607
+Glad you made it.,positive,0.9274
+Me too.,neutral,0.696
+We are just getting started.,neutral,0.6012
+We certainly are.,positive,0.5768
+"Well, they are probably heading for the city to look for work.",neutral,0.8273
+There are dozens of of them.,neutral,0.7438
+And there will be hundreds more.,neutral,0.7574
+"Ah, looks like we lost another bank.",negative,0.7832
+"Tough time is coming, Hachi.",neutral,0.6383
+It's awful.,negative,0.9264
+I'm so sad.,negative,0.917
+There were rumors.,neutral,0.6034
+The economy's in the tank.,negative,0.8868
+"I hate to break to you Jiro, but so is our new employer.",negative,0.4919
+Mitsubishi Internal Combustion Engine CO.,neutral,0.8693
+You know the pressure we are under.,neutral,0.5425
+We needed you here over a month ago.,neutral,0.573
+"But sir, I was told I could start anytime in April.",neutral,0.8797
+Then you should've been here in March!,neutral,0.6715
+"Yes, sir.",positive,0.4808
+I got a very important assignment for you.,positive,0.7575
+"Yes, sir.",positive,0.4808
+"It's the design for the wing strut fitting and by the way, it's already late!",neutral,0.5629
+"Yes, sir.",positive,0.4808
+I need the plan in the shop as soon as possible.,neutral,0.8507
+Do what you have to do.,neutral,0.7167
+"Yes, sir.",positive,0.4808
+Here.,neutral,0.5711
+Let's get you ?,neutral,0.8074
+specification.,neutral,0.6496
+Follow me.,neutral,0.6722
+This will be your desk.,neutral,0.8067
+"It's imported, nobody likes it.",negative,0.9393
+Maybe you will.,neutral,0.741
+"Yes, sir.",positive,0.4808
+"Work goes here, hat goes there.",neutral,0.7121
+"Yes, sir.",positive,0.4808
+Listen up!,neutral,0.5893
+This is the new engineer on the Falcon Project.,neutral,0.9068
+It's that genius we've been hearing all about.,neutral,0.5492
+Name?,neutral,0.7102
+Genius.,positive,0.6147
+Jiro Horikoshi.,neutral,0.754
+I'm very happy to be here.,positive,0.9911
+234.1 Get to work.,neutral,0.8175
+"Yes, sir.",positive,0.4808
+"234.1 And the rest of you, get back to work!",neutral,0.6379
+"Jiro, Jiro.",neutral,0.7416
+Let's eat.,neutral,0.6905
+Let's go see the assembly floor.,neutral,0.7021
+Could we maybe have lunch first?,neutral,0.8545
+Maybe Kurokawa simply hates you.,negative,0.8966
+Why else would he have you design that strut on your first day?,neutral,0.5907
+"Two, please.",neutral,0.6559
+Excuse me.,neutral,0.4804
+Could we ask a slight favor?,neutral,0.8792
+"Wow, it's really coming along.",positive,0.9611
+Thank you again for making time for us on your break.,positive,0.9795
+No problem at all.,positive,0.5966
+You young engineers should visit here more often.,positive,0.607
+"Honjo, look, the strut has already been installed.",neutral,0.8293
+I knew it.,neutral,0.5054
+"Kurokawa is obviously just hazing you, unless his fitting is better than yours...",negative,0.7224
+Mr.,neutral,0.5849
+Kurokawa is always tough on new employees.,negative,0.5792
+"Honjo, come up here and take a look.",neutral,0.8727
+Something is not right.,negative,0.9521
+What do you think?,neutral,0.809
+It looks all right to me.,positive,0.7862
+"No, this isn't good.",negative,0.9674
+It got the same problem with my design.,negative,0.7526
+Then it must be bad.,negative,0.7545
+"Foreman, lunch's over.",neutral,0.7323
+What's going on?,neutral,0.7289
+Quiet!,neutral,0.7241
+They are working.,positive,0.6891
+I love it!,positive,0.9838
+Airplanes are fascinating!,positive,0.9733
+"Yea, fascinating but we're late.",neutral,0.449
+Young man.,neutral,0.6216
+"This is our boss, Mr.",neutral,0.6571
+Hattori.,neutral,0.6641
+This is his first assignment?,neutral,0.8459
+"Strut fitting for the Falcon Project, sir.",neutral,0.6928
+Not what I've expected.,negative,0.828
+What am I looking at here?,neutral,0.7731
+"Sir, the steel leaf-spring will ease the stress from the wing.",neutral,0.6896
+"This wire expands and contracts, absorbing the forces that act on the wing.",neutral,0.8752
+I have it running thru' the strut and anchoring it on the fuselage.,neutral,0.8735
+That means that we would have to entirely re-design the length of the wing!,neutral,0.5909
+You're right.,positive,0.4782
+"I'll run the calculations tonight, sir.",neutral,0.8763
+You're wasting your time.,negative,0.9398
+Where's the assignment that I gave you this morning?,neutral,0.7622
+"Right here, sir.",neutral,0.7294
+I finished it.,neutral,0.554
+Well done.,positive,0.8491
+"What do you think, Kurokawa?",neutral,0.8632
+It's perfect.,positive,0.8799
+Turn in your work as soon as you're done!,neutral,0.5822
+"Yes, sir.",positive,0.4808
+"What a day, I'm heading out.",positive,0.9258
+Me too.,neutral,0.696
+"Wild guess, you already finished Kurokawa's homework?",neutral,0.7514
+Just about.,neutral,0.5757
+What's the oxen for?,neutral,0.8204
+"Oh, they haul the prototypes to the field.",neutral,0.7981
+Takes them two days to drag it out there.,neutral,0.6969
+You believe that?,neutral,0.6784
+That's how backward we are.,negative,0.9439
+I don't know.,neutral,0.5667
+I like them.,positive,0.9064
+Here she comes.,neutral,0.6979
+Almost here!,positive,0.559
+Almost here!,positive,0.559
+Damn it!,negative,0.7449
+Tell me you got it?,neutral,0.749
+13.3 seconds.,neutral,0.6547
+146 knots.,neutral,0.7071
+Blast.,negative,0.6503
+She needs more horse power.,neutral,0.819
+She deserves better.,neutral,0.5086
+"Hey, Kurokawa!",neutral,0.6852
+"Yes, sir?",neutral,0.8216
+A word with the clients.,neutral,0.7875
+Gentlemen?,neutral,0.855
+Well done.,positive,0.8491
+"Yea, your Falcon is one hell of a plane!",positive,0.4732
+And I bet Mitsubishi couldn't do it.,negative,0.5601
+Now I'm buying drinks!,neutral,0.5089
+Power dive.,neutral,0.6773
+He's trying to break 200 knots.,neutral,0.8723
+The chute!,neutral,0.5863
+Go get him!,positive,0.5534
+Mr.,neutral,0.5849
+"Kurokawa, let's investigate what happened when the weather clears.",neutral,0.904
+It would be easier.,neutral,0.4932
+How's the pilot?,neutral,0.7698
+He's okay.,positive,0.7644
+That's good.,positive,0.963
+"Let's go, Mr.",neutral,0.5023
+Kurokawa.,neutral,0.7074
+We'll regroup for Falcon Two.,neutral,0.8282
+Here you'll be straight with me.,neutral,0.7084
+Do you think the strut fitting failed?,neutral,0.5665
+No.,neutral,0.4936
+I think the problem here is much deeper and more complicated than we thought.,negative,0.7553
+I'll never forget what I saw today.,positive,0.8187
+It's like an endless road is opened up before my eyes.,positive,0.7307
+There won't be a Falcon Two.,neutral,0.6717
+The Army has decided to go with the competing design.,neutral,0.8831
+Today was our last shot to change their minds.,neutral,0.7951
+We'll have to shift course.,neutral,0.8505
+"We're gonna to design and build the heavy bomber, with help from the Germans.",neutral,0.731
+You're going to Germany to study Junker's design.,neutral,0.8186
+I recommended you.,positive,0.6871
+Still open?,neutral,0.8296
+"Ah, welcome back.",positive,0.9578
+Your usual?,neutral,0.752
+"Yea, but 2 slices this time.",neutral,0.7941
+Coming up.,neutral,0.7103
+Here you go.,neutral,0.581
+Who looks after them?,neutral,0.7533
+"Well, their parents work late.",negative,0.5583
+They wait there every night.,neutral,0.7232
+I feel bad closing the place up.,negative,0.9584
+I see.,neutral,0.5826
+"Well, thanks.",positive,0.6758
+See you tomorrow.,neutral,0.6884
+Are you hungry?,neutral,0.8081
+I've 2 slices of sponge cake.,neutral,0.7309
+You can have them.,neutral,0.6516
+"It's okay, I just bought them.",positive,0.5945
+"Go ahead, take it.",neutral,0.7256
+Come on!,positive,0.6006
+Jiro?,neutral,0.7022
+Wake up!,positive,0.4975
+I heard they axed the Falcon Project.,negative,0.5921
+I need details.,neutral,0.7274
+Sponge cake again?,neutral,0.7566
+How do you stay alive?,neutral,0.7925
+What did you expect?,neutral,0.6907
+"Did you think she was just going to smile and say ""thank you, sir"" Of course not.",neutral,0.5145
+"Well, maybe I did.",neutral,0.7924
+"Well, if you're looking for a mouth to feed, there happen to be plenty of other hungry kids in this neighborhood.",negative,0.5622
+And their parents are probably hungrier.,negative,0.5876
+It's shameful.,negative,0.9259
+I bet it's gonna get worse before it gets better.,negative,0.8592
+I don't understand why this country is so poor.,negative,0.9782
+"Poor Jiro, stuck in his happy dreams.",negative,0.5741
+"For what Japan is paying the Germans, they could feed every man, woman and child a mountain of sponge cake.",negative,0.5871
+"But if this country wants airplanes, then I'm gonna make the most of it.",positive,0.4743
+Really?,neutral,0.6008
+They're sending you too?,neutral,0.8098
+They told me today.,neutral,0.7911
+That's great.,positive,0.98
+The fact is this poor country pays us a lot of money to design war planes.,negative,0.9223
+Embrace the irony.,neutral,0.5532
+I'm going to Tokyo tomorrow to get married.,neutral,0.859
+Marry?,neutral,0.8288
+"To work hard at the office, you need a family at home.",neutral,0.6925
+More irony for you.,negative,0.7238
+Goodnight.,neutral,0.502
+These tight-fisted Germans aren't letting us see any of Dr.Junker's work.,negative,0.8268
+I don't see any oxen.,neutral,0.5984
+"Jiro, the airstrip's right next to the plant.",neutral,0.8751
+"Wow, everything's so big.",positive,0.9521
+It's the G-38.,neutral,0.846
+Is this what we're buying?,neutral,0.8152
+"Yep, to convert to a bomber.",neutral,0.7889
+Who's The Army planning to bomb with this one?,neutral,0.6216
+"America, probably.",neutral,0.7394
+Not that they could.,neutral,0.5683
+This is something.,neutral,0.5523
+It's amazing.,positive,0.9511
+Look.,neutral,0.6185
+Passengers sit in the wings.,neutral,0.7886
+It would be a shame to put bombs there.,negative,0.9165
+"That's the job, pal.",neutral,0.6898
+This is our chance to get the all-metal technology.,positive,0.6924
+What?,neutral,0.5653
+They're not letting us in?,negative,0.6706
+Beautiful.,positive,0.9154
+Take your hands off.,neutral,0.531
+You've been slamming doors on our faces all day.,neutral,0.4761
+You Japanese copy everything.,negative,0.6394
+All these technology belong to Germany.,neutral,0.6927
+"Oh, I get it.",neutral,0.5706
+So you're afraid we'll actually improve it!,negative,0.4724
+"Honjo, let me talk to them.",neutral,0.8427
+(German) We have a license to your technology.,neutral,0.7846
+Therefore we officiallly have a right to be in this hangar examining these airplanes.,neutral,0.8241
+"I understand you're just doing your job, but please understand I'm just doing mine.",neutral,0.6383
+"When I saw Dr.Junkers' single-engine plane, I had to get a closer look.",neutral,0.7674
+"I'm not a soldier, simply an engineer admiring a fellow engineer's work.",neutral,0.5724
+"And as soldier, my orders are not to leave you Japanese unattended.",neutral,0.5256
+That's Dr.,neutral,0.7371
+Junkers.,neutral,0.558
+What an engineer.,neutral,0.4945
+Dr.,neutral,0.6263
+Junkers gave you permission to go inside.,neutral,0.8304
+"So Jiro, what do you think?",neutral,0.8658
+There's more vibration than I expected.,neutral,0.6097
+Our bosses are kids in a candy store.,negative,0.577
+"Hey, you two should let the Army reps sit here, okay?",neutral,0.7969
+"Yes, sir.",positive,0.4808
+"Just one moment, please.",neutral,0.607
+"It's fantastic, what a fortress.",positive,0.962
+"Look, you can walk thru' the wing.",neutral,0.6936
+It's amazing.,positive,0.9511
+It's like being inside a power plant.,neutral,0.496
+Guten tag.,neutral,0.76
+We've permission to be here from Dr.,neutral,0.7779
+Junkers.,neutral,0.558
+Would you mind telling us a bit about your station?,neutral,0.9105
+Here is the engineer's station.,neutral,0.8176
+It's such a marvelous aircraft.,positive,0.9687
+"Young man, you can't go any further.",neutral,0.5354
+"We understand, my friend.",neutral,0.5982
+Are you seeing this?,neutral,0.8723
+It's incredible.,positive,0.9314
+A triumph of German industrial technology.,positive,0.6303
+"Junkers let us in, the Germans shut us out!",neutral,0.4723
+These specs are useless!,negative,0.9576
+"Jiro, give me a cigarette.",neutral,0.7354
+Jiro!,neutral,0.5601
+Give me a smoke.,neutral,0.7383
+We're out.,neutral,0.5502
+It's cold outside but this room is quite cozy.,positive,0.9194
+You know that Junkers make these radiators too?,neutral,0.7866
+"Funny, they look just like his planes with such strong paralel lines.",neutral,0.4956
+Hmm...,neutral,0.7168
+"Okay, I get it.",neutral,0.6198
+"German's technology is so superior that they can put wings on anything and fly it, including their damn radiators.",positive,0.5378
+"Jiro, just give it a rest, please.",neutral,0.6909
+We can't learn anything from these government specs.,negative,0.7849
+They're nothing but a bunch of pretty numbers.,neutral,0.4322
+"""This technology belongs to Germany."" Honjô, maybe we don't need their technology after all.",neutral,0.5078
+Wood and canvas could be just as good as metal.,positive,0.8593
+"Jiro, we cannot be stuck in the past forever.",neutral,0.5098
+We're already 20 years behind!,negative,0.6198
+Let's get some air.,neutral,0.7387
+My brain is going to explode.,negative,0.7859
+It's as if we were a hare chasing a tortoise with a 20-year lead.,neutral,0.5518
+"But in our little story, the hare doesn't sleep.",neutral,0.7546
+We can close the gap but how could we beat it?,neutral,0.6119
+We're too far behind.,negative,0.8338
+We'll always be chasing it.,neutral,0.7322
+But what other choice do we have?,neutral,0.5956
+Keep running and catch up someday?,neutral,0.8237
+I wonder if there's a different way to run.,neutral,0.8521
+What is it?,neutral,0.75
+"Schubert's ""Winter Journey"".",neutral,0.867
+"Well, that's perfect for us.",positive,0.8864
+Masterpiece of misery memoir.,negative,0.7064
+What was that?,neutral,0.7857
+Secret Police.,neutral,0.7073
+We saw them in the hangar.,neutral,0.8136
+Jiro?,neutral,0.7022
+"Jiro, I'm done.",neutral,0.5461
+The bath is yours.,neutral,0.705
+Dead to the world...,neutral,0.4889
+because he thinks he's shouldering the future of Japanese aviation.,neutral,0.7099
+There's a telegram from headquarters.,neutral,0.8771
+Come in.,neutral,0.744
+No need.,neutral,0.6467
+Some of us will be returning to Japan right away.,neutral,0.9087
+You're staying here in Germany.,neutral,0.8172
+Jiro will continue west and return to Japan.,neutral,0.9205
+West?,neutral,0.7115
+They want him to see the world.,neutral,0.6929
+Alone?,neutral,0.7629
+Mr.,neutral,0.5849
+Caproni.,neutral,0.6478
+Is the wind still rising?,neutral,0.9065
+"Yes sir, it sure is.",neutral,0.507
+Then it's a perfect time to embark on my final flight.,positive,0.9087
+Join me.,neutral,0.495
+"Wait, you're retiring?",neutral,0.7393
+It's a pretty big jump.,positive,0.5843
+"Come on, jump!",neutral,0.5408
+Why are you sitting there?,neutral,0.63
+Let's go!.,positive,0.765
+There's a hatch underneath the fuselage.,neutral,0.8315
+Hurry up!,positive,0.5325
+"Yes, sir.",positive,0.4808
+"Let him through, girls.",neutral,0.7536
+Up here!,positive,0.5834
+Come in!,neutral,0.5217
+Yeh!,neutral,0.5151
+Yeh!,neutral,0.5151
+These are all my workers and their families.,neutral,0.7044
+Practically the whole village.,neutral,0.84
+I thought we take a little journey before we deliver this bomber to the government.,negative,0.5465
+What do you think?,neutral,0.809
+Incredible!,positive,0.8879
+It's like a building out of ancient Rome.,neutral,0.6687
+This plane is too big to be used for fighting but the military has a weakness for big things.,negative,0.8365
+Japan can never build anything as grand and as beautiful as this.,positive,0.5782
+The country is too poor and backward Inspiration is more important than scale.,negative,0.7729
+Inspiration unlocks the future.,positive,0.8264
+Technology eventually catches up.,neutral,0.6502
+That's my family.,positive,0.5343
+We Italians are very poor as well.,negative,0.9369
+Too many mouths to feed.,negative,0.7639
+"Hey, settle down or the bottom will fall out.",negative,0.5595
+Come on.,neutral,0.5758
+Be careful.,neutral,0.7332
+This may be a dream but you can still lose your head.,negative,0.4853
+"Which would you choose, a world with pyramids or without?",neutral,0.864
+What do you mean?,neutral,0.7294
+"Humanity has always dreamt of flight, but the dream is cursed.",negative,0.7733
+My aircrafts are destined to become tools for slaughter and destruction.,negative,0.9588
+I know.,neutral,0.5132
+"But still, I chose a world with pyramids in it.",neutral,0.6716
+Which world will you choose?,neutral,0.8505
+I just want to create beautiful airplanes.,positive,0.9283
+Like that?,neutral,0.6782
+Very graceful.,positive,0.856
+I have a long way to go.,negative,0.6142
+I don't even have an engine or a cockpit yet.,neutral,0.5467
+Bravo!,positive,0.8278
+A beautiful dream.,positive,0.9442
+This is my last design.,neutral,0.8496
+Artists are only creative for ten years.,neutral,0.5487
+We engineers are no different.,neutral,0.6407
+"Live your ten years well, Japanese boy.",positive,0.4933
+"Jiro, let's go get some coffee.",neutral,0.7165
+But I gotta go to a...,neutral,0.693
+Cancel it.,negative,0.5793
+This is a very tall order.,neutral,0.5554
+They're always tall.,neutral,0.7572
+"How long have you been here, Jiro?",neutral,0.8736
+Jiro!,neutral,0.5601
+How long have you been here?,neutral,0.8399
+Five years.,neutral,0.5895
+"Jiro, we're going to bid for the Navy's carrier base fighter.",neutral,0.919
+We think we're ready to beat the Navy's chief designer.,neutral,0.6211
+It's a plum job.,neutral,0.5993
+It's a plum job!,positive,0.624
+What do you think?,neutral,0.809
+"Leave it to me, sir.",neutral,0.7027
+Good.,positive,0.7732
+"I'd like Honjo on the team, sir.",positive,0.5332
+Not a good idea.,negative,0.8725
+You'd just end up competing.,negative,0.5627
+Friendships are always more important.,positive,0.8004
+"Relax, finish your coffee.",neutral,0.7003
+"My check, please.",neutral,0.7334
+Kurokawa.,neutral,0.7074
+We've got other plans for your friend Honjo.,neutral,0.7417
+Damn these Japanese engines!,negative,0.8807
+Damn these short runways.,negative,0.8655
+I brought some clean uniforms.,neutral,0.5408
+"Oh, thank you very much.",positive,0.9544
+These are clean uniforms.,positive,0.6954
+"Yes, we are ready.",positive,0.698
+Man overboard!,negative,0.5087
+Stop!,negative,0.5341
+Whoa!,neutral,0.4812
+(cheering on) Father!,positive,0.6445
+Bravo!,positive,0.8278
+That was a nice catch.,positive,0.9556
+It nearly took you away.,negative,0.6101
+Are you all right?,neutral,0.8301
+I'm fine.,positive,0.8
+Thank you.,positive,0.853
+I'll make sure that it stays grounded.,neutral,0.6736
+"Yes, sir.",positive,0.4808
+I feel bad.,negative,0.898
+I wanted to say thank you.,positive,0.7492
+Nice young man.,positive,0.9145
+Don't worry.,positive,0.5337
+He's staying at our hotel.,neutral,0.8873
+You'll have a chance to say thank you.,positive,0.7162
+"What is it, dear?",neutral,0.8179
+There's something about that man who caught the parasol.,neutral,0.6996
+"Oh, he seems to be here by himself.",neutral,0.6729
+I'm very sorry.,negative,0.7422
+Please don't go.,negative,0.6949
+I was giving thanks to the spring.,positive,0.7502
+I asked it to bring you here.,neutral,0.7856
+I asked it to bring you to me.,neutral,0.7397
+You haven't changed at all from that day years ago.,neutral,0.4868
+You look just the same.,neutral,0.4881
+We were so grateful for your help after the earthquake.,positive,0.9295
+I wanted to see you again and thank you.,positive,0.9669
+"Oh, I remember.",neutral,0.5888
+My name is Nahoko Satomi.,neutral,0.8065
+I'm Jiro Horikoshi.,neutral,0.8061
+This umbrella is useless.,negative,0.9557
+Are you all right?,neutral,0.8301
+"Oh, I'm fine.",positive,0.7305
+Kinu searched for you for years.,neutral,0.7292
+Then she found you just before she got married.,neutral,0.8255
+She cried with joy after she dropped off your shirt.,positive,0.8098
+"You see, you were our knight in shining armor.",positive,0.5968
+Your knight?,neutral,0.829
+"You, I think I remember you were on a white horse.",neutral,0.8716
+"Well, I'm not doing much now to keep you dry.",negative,0.5461
+It's okay.,positive,0.7313
+I don't mind at all.,positive,0.559
+Kinu will be so excited when I tell her.,positive,0.9785
+I found our hero again.,positive,0.9085
+"Oh, your painting is ruined.",negative,0.9489
+"No, it's not.",neutral,0.5608
+I'll always remember this day when I look at it.,positive,0.8786
+"Well, look, it's clearing up.",positive,0.674
+It's like another land!,positive,0.7413
+"Oh, Jiro, look!",neutral,0.5478
+I almost forgot what rainbows look like.,neutral,0.4693
+"Life is wonderful, isn't it?",positive,0.984
+"Oh, we should go.",positive,0.5976
+My father's probably worried sick.,negative,0.8392
+There he is.,neutral,0.6553
+Father!,neutral,0.5548
+Come with me.,neutral,0.6166
+I would really love to introduce you.,positive,0.9676
+Of course.,neutral,0.5552
+You're soaking wet.,neutral,0.627
+"No, no, I'm fine.",positive,0.6648
+I was just with Mr.,neutral,0.818
+"Horikoshi, he saved me again.",positive,0.8303
+Jiro Horikoshi.,neutral,0.754
+I'm Satomi.,neutral,0.7643
+"It's so very good to meet you, Mr.",positive,0.9913
+Horikoshi.,neutral,0.7051
+May I sit here?,neutral,0.9043
+Certainly.,neutral,0.5264
+German tobacco.,neutral,0.684
+I've been saving it.,neutral,0.6541
+Last one.,neutral,0.69
+I understand.,neutral,0.5501
+Japanese cigarette always taste like home to me.,positive,0.8686
+"You must've visited Germany, yes?",neutral,0.7779
+Perhaps to Dessau?,neutral,0.9091
+"Oh, you must be Sherlock Holmes.",neutral,0.5579
+You read magazines.,neutral,0.5344
+German magazines about airplanes.,neutral,0.8006
+All Japanese engineers visit Dessau.,neutral,0.8986
+"It's elementary, my dear Watson.",neutral,0.7259
+You cracked the case.,neutral,0.5834
+Dr.,neutral,0.6263
+Junkers is in trouble.,negative,0.701
+In trouble?,neutral,0.5551
+He fights the hand that feeds him and he will lose.,negative,0.8535
+He fights Mr.,neutral,0.784
+Hitler's government?,negative,0.55
+The Nazis are a gang of hoodlums.,negative,0.9565
+This is quite a good place.,positive,0.9635
+No mosquitoes.,neutral,0.6436
+Not too hot.,neutral,0.5162
+Good watercress.,positive,0.5172
+A good place to forget bad things.,positive,0.759
+Isn't that right?,neutral,0.7058
+Cigarette?,neutral,0.8074
+I'm afraid they're Japanese.,negative,0.7381
+Thank you.,positive,0.853
+It is a nice night.,positive,0.9725
+"""Hier ist der Zauberberg."" ""The Magic Mountain"" by Thomas Mann?",neutral,0.8461
+"Yes, a good place for forgetting.",positive,0.624
+Make a war in China.,negative,0.5872
+Forget it.,negative,0.5068
+Make a puppet state in Manchuria.,neutral,0.6273
+Forget it.,negative,0.5068
+Quit the League of Nations.,negative,0.6904
+Forget it.,negative,0.5068
+Make the world your enemy.,negative,0.7438
+Forget it.,negative,0.5068
+Japan will blow up.,negative,0.577
+Germany will blow up too.,negative,0.6118
+Do you think Germany will go to war again?,neutral,0.5005
+Yes.,positive,0.461
+They must be stopped.,negative,0.7729
+I'm sorry to keep you waiting.,negative,0.7205
+Naoko has a fever.,negative,0.5191
+We'll have to cancel our dinner plans.,negative,0.8013
+"Oh, I'm sorry to hear that.",negative,0.8266
+I hope that she feels better soon.,positive,0.8524
+The doctor will be here soon.,neutral,0.8866
+I must go.,positive,0.5061
+"""Who has seen the wind?"" ""Neither I nor you."" ""But when the leaves hang trembling, the wind is passing through."" Let the wind carry these wings, carry these wings to you.",neutral,0.7823
+Jiro?,neutral,0.7022
+Naoko!,neutral,0.5861
+Be careful!,neutral,0.7085
+Nice catch.,positive,0.8453
+Bravo!,positive,0.8278
+Bravo!,positive,0.8278
+"Well, is your daughter feeling better?",neutral,0.726
+"Yes, thank you, much better.",positive,0.9696
+Wonderful.,positive,0.9073
+This is the magic mountain.,neutral,0.6315
+It cures everyone.,positive,0.656
+I think you're right.,positive,0.6299
+"At the begining, this young man was very gloomy.",negative,0.7262
+Now he is very happy because he's in love.,positive,0.977
+Yes.,positive,0.461
+But summer love is seasonal.,positive,0.5154
+You will go down the mountain and forget all about it.,neutral,0.5708
+That's not true.,negative,0.6974
+"This love of yours, it wouldn't be about my daughter, right?",neutral,0.6721
+"Yes sir, I love her very much.",positive,0.9772
+"And I sincerely hope you'll approve, Mr Satomi.",positive,0.8892
+"Well, I don't, uh...",neutral,0.6265
+Father!,neutral,0.5548
+I would very much like to have your approval too.,positive,0.9061
+"Now, that's a beauty.",positive,0.9291
+"But Jiro, there's something I need you to understand.",neutral,0.8345
+Anything.,neutral,0.6404
+My mother died of tuberculosis two years ago.,negative,0.9363
+And now I have it too.,neutral,0.7218
+"Naoko, I'm in love with you.",positive,0.9476
+Nothing ever going to stop me.,neutral,0.6315
+I've loved you since the day the wind brought you to me.,positive,0.8737
+Will you please marry me.,neutral,0.6898
+Yes.,positive,0.461
+But I first I'm gonna get well.,positive,0.7133
+Will you please wait for me?,neutral,0.8358
+"I'll, even if it's gonna take a hundred years.",neutral,0.702
+Congratulations.,positive,0.9434
+He is a nice young man and your daughter is wonderful.,positive,0.979
+This is a summer to remember.,positive,0.8705
+If it isn't the long lost Jiro!,neutral,0.5432
+Honjo!,neutral,0.5649
+When did you get back?,neutral,0.8266
+Two days ago.,neutral,0.7535
+"Hot, isn't it?",neutral,0.4891
+"Come, take a look at this.",neutral,0.8055
+She's beautiful.,positive,0.9712
+Good clean lines.,positive,0.828
+"They gave me free rein, so I designed something radical.",neutral,0.5912
+But it won't mount to anything if she doesn't fly.,neutral,0.6
+"Oh, I'm sure she'll fly.",positive,0.5511
+I feel the wind rising.,neutral,0.7543
+"Honjo, you've closed the gap and in one huge step.",positive,0.7895
+My plane was just a tin duckling.,negative,0.8447
+But here's an idea for you.,neutral,0.7644
+I thought of it too late to implement on my plane.,negative,0.7153
+It's a way to reduce drag by using flathead screws on all the access hatches and the fueling port.,neutral,0.6471
+Maintenance will be easy with a hinge on one side.,positive,0.511
+I think a spring of this diameter should be fine.,positive,0.7209
+"Jiro, that's it!",neutral,0.6099
+"What a great idea, as usual.",positive,0.9489
+You should use it.,neutral,0.5275
+"Thanks pal, but not this time.",neutral,0.622
+"I'll keep these, but I won't use them before you.",neutral,0.7871
+Your idea belongs in your next plane.,positive,0.5501
+"Thanks, Honjo.",positive,0.7376
+You're welcome.,positive,0.9099
+You better hurry up.,neutral,0.6411
+Jiro!,neutral,0.5601
+Where are you?,neutral,0.7606
+Mr.,neutral,0.5849
+Kurokawa.,neutral,0.7074
+Jiro.,neutral,0.635
+Get back to the office!,neutral,0.6247
+Thanks.,positive,0.6284
+I'm coming!,positive,0.6213
+Come to the house for a drink next time.,neutral,0.8286
+Sure!,positive,0.7762
+"Jiro, you pedal.",neutral,0.7402
+The Secret Police are looking for you.,neutral,0.6527
+"Oh, what?",neutral,0.5104
+Did you hear me?,neutral,0.7578
+The fight crime boys.,neutral,0.7611
+But why me?,neutral,0.6159
+Didn't ask.,neutral,0.6639
+I told them you were away.,neutral,0.6313
+They're just pretending to leave.,negative,0.5204
+We won't fall for that.,negative,0.5542
+You work up here today.,neutral,0.8577
+I've arranged it.,neutral,0.7282
+But why would they possibly be after me?,neutral,0.5251
+I don't understand.,negative,0.9146
+They've already arrested some of my friends.,negative,0.6713
+None of them understood why.,negative,0.5702
+Enter.,neutral,0.6615
+Here's your stuff.,neutral,0.7121
+I think we got everything.,positive,0.7577
+I can go back and check.,neutral,0.7699
+"Nah, just leave it and go.",neutral,0.6504
+"Jiro, the flange is here!",neutral,0.6528
+Can't wait to see it!,positive,0.9849
+It's perfect.,positive,0.8799
+Sure is.,neutral,0.4584
+I wish we had that a year ago.,neutral,0.5496
+"So, what do you think, Jiro?",neutral,0.8742
+"Our next plane won't just be a duckling, it'll be a full-grown duck.",neutral,0.6381
+A full metal duck.,negative,0.495
+Mr.,neutral,0.5849
+"Kurokawa, what do you think?",neutral,0.8503
+I hope you youngsters appreciate the luxury of extruded aluminum alloy.,positive,0.8269
+"That's it, now back to work!",neutral,0.5313
+"Alright, the coast looks clear.",positive,0.7655
+"Okay, Jiro.",neutral,0.7606
+"You should keep a low profile for a few days, just in case.",neutral,0.8365
+We'll try to smooth things over.,neutral,0.6909
+I'll put you up at my house.,neutral,0.8084
+Can we stop at my apartment first?,neutral,0.8891
+I've to check my mail.,neutral,0.7365
+Is it sensitive?,neutral,0.74
+"Yes, it's very sensitive.",neutral,0.6554
+The police will be opening all your mail.,neutral,0.5314
+It's from my fiancée.,neutral,0.8265
+This is outrageous.,negative,0.9138
+These things shouldn't happen in a modern country.,negative,0.9205
+You're engaged?,neutral,0.8801
+You're a human after all.,neutral,0.6497
+I thought you would marry an airplane!,neutral,0.5165
+I don't find that very funny!,negative,0.9222
+Of course it's not funny.,negative,0.7979
+The police are waiting for you at your apartment.,neutral,0.6515
+"If they want to read your love letters, let them!",neutral,0.5352
+"Jiro, we need you to focus on the fighter project.",neutral,0.8118
+That's why we sent you away to rest after the crash.,neutral,0.5297
+The company will do everything to protect you.,positive,0.6768
+If you keep your mind in your work.,neutral,0.6173
+I can't bear being apart from you.,negative,0.916
+Why do you suppose the police are looking for Mr.,neutral,0.7157
+Castorp?,neutral,0.7617
+He left so suddenly.,negative,0.5311
+I pray everyday that he managed to leave Japan safely.,positive,0.6433
+"Jiro, you've a telephone call.",neutral,0.812
+The telephone is over there.,neutral,0.7614
+"Thank you, Mrs.",positive,0.8423
+Kurokawa.,neutral,0.7074
+Hello?,neutral,0.643
+Jiro?,neutral,0.7022
+It's me.,neutral,0.605
+You have a telegram.,neutral,0.7327
+Yes?,neutral,0.7116
+Your landlord received it two days ago.,neutral,0.8945
+We just brought it in here now.,neutral,0.817
+Would you please read it to me?,neutral,0.8961
+Now?,neutral,0.6853
+"Yes ""Nahoko...has had a lung...heh, heh...",neutral,0.7042
+hemorrhage.,neutral,0.7009
+"Satomi."" Jiro?",neutral,0.8686
+Are you still there?,neutral,0.8359
+Thank you.,positive,0.853
+I've to go now.,neutral,0.7314
+"Jiro, wait!",neutral,0.7011
+What is it?,neutral,0.75
+Mrs.,neutral,0.6144
+"Kurokawa, please, I need to know the quickest way to get to Tokyo!",neutral,0.7908
+Tokyo?,neutral,0.8237
+Today?,neutral,0.8017
+"Yes, it's an emergency.",neutral,0.6276
+I have to be there as soon as possible.,neutral,0.5095
+Alright.,neutral,0.5707
+"If you take the noon bus, then you'll just be able to catch the express.",neutral,0.7249
+716.1 I'll send someone to hold the bus for you.,neutral,0.844
+Go get your things.,neutral,0.6183
+Thank you.,positive,0.853
+Jiya!,neutral,0.592
+Darling!,neutral,0.6014
+I'm sorry I wasn't here sooner.,negative,0.6806
+You'll catch it.,neutral,0.6674
+You're beautiful.,positive,0.9641
+I love you.,positive,0.9643
+Jiro?,neutral,0.7022
+Through the garden?,neutral,0.8526
+"Come in, father.",neutral,0.7556
+"Father, look who's here?",neutral,0.752
+Jiro.,neutral,0.635
+He came all the way from Nagoya but can't stay for long.,neutral,0.6068
+"I'll be sure to use the front door the next time I come Hah, the garden, it's faster.",positive,0.5666
+"Okay, garden it is.",neutral,0.7145
+"Take care, my darling.",positive,0.6632
+Sleep well.,neutral,0.5175
+"Goodnight, sir.",neutral,0.5867
+I'll see you out.,neutral,0.7137
+You better hurry if you gonna catch the last train.,neutral,0.7433
+"I wish I could look after her, Mr.",neutral,0.6725
+Satomi.,neutral,0.6962
+She seems so tired.,negative,0.7776
+The last thing Naoko wants is to be a burden to you.,negative,0.7278
+You better go.,neutral,0.6627
+Naoko?,neutral,0.6434
+Are you alright?,neutral,0.8015
+"I'm going to the sanatorium in the mountain, the one the doctor recommended.",neutral,0.8495
+Why?,neutral,0.612
+It's so far and I don't want you to be alone.,neutral,0.5333
+"Because I want to get better, father.",positive,0.6914
+I want to have a life with Jiro.,positive,0.5221
+Just made it.,positive,0.6836
+The whole board is waiting.,neutral,0.7885
+"So, are you ready?",neutral,0.798
+"Gentleman, I'll do my best.",positive,0.5951
+Now you'll see the Navy.,neutral,0.6984
+They're the client.,neutral,0.6441
+"Gentleman, I'll do my best.",positive,0.5951
+You weren't even listening.,negative,0.6922
+Nope.,neutral,0.4866
+So I gave up on that idea.,negative,0.6789
+"Very well, they're late.",neutral,0.5798
+Jiro's in the middle of a review with the design team.,neutral,0.8871
+I wanted this design to use the latest aeronautical advances.,positive,0.6009
+Take a look.,neutral,0.8216
+Retractable undercarriage!,neutral,0.6435
+It's built to reach 270 knots.,neutral,0.8445
+270 knots?,neutral,0.7943
+That's 500 kilometers per hour!,neutral,0.6288
+But the Navy only asked for 220 knots.,neutral,0.6362
+220 will be obselete by next week.,neutral,0.8877
+The wing load is 120 kilos per square meter.,neutral,0.8497
+Minimal drag will be the key.,neutral,0.82
+"I pushed the design to the limit of technology, with split flaps and slats on the leading edges.",neutral,0.643
+We can do it!,positive,0.9284
+When do we start?,neutral,0.8399
+But the weight becomes the big problem.,negative,0.7702
+"One solution would be, we could leave out the guns.",neutral,0.7355
+"So, I decided to put this design back on the shelf.",neutral,0.8406
+"This is refreshing, delightful.",positive,0.9847
+He nearly had it.,neutral,0.6779
+But we're not giving up because our engines are underpowered.,neutral,0.5472
+"We'll build a light, strong air frame.",positive,0.6403
+We'll cut every ounce of excess weight and minimize drag with a smooth skin.,neutral,0.4988
+"We're going to build an all-metal fighter, like nothing the world has ever seen!",positive,0.7753
+I have a question!,neutral,0.7711
+Mr.,neutral,0.5849
+"Hirayama, please.",neutral,0.7736
+This is Mr.,neutral,0.7759
+"Hirayama, he's our production engineer.",neutral,0.8849
+"Thank you, sir.",positive,0.8905
+He's going to tell us about the new rivets that he's developing.,neutral,0.7378
+I believe it's technically possible to match the strength of conventional rivets with flush rivets.,neutral,0.5189
+What's he talking about?,neutral,0.7937
+A new way to cut drag.,neutral,0.7721
+"We're going to skin the entire plane with flush rivets to produce a nimble, fast aircraft.",neutral,0.62
+Question!,neutral,0.6347
+I have a question!,neutral,0.7711
+"I must say, that was interesting.",positive,0.935
+It was inspiring.,positive,0.9452
+"Miss Satomi, today's letter.",neutral,0.8487
+Thank you.,positive,0.853
+"Chief, you've a phone call.",neutral,0.7541
+I'll have to call him back.,neutral,0.8435
+I think it's an emergency.,neutral,0.5922
+"Hello, Mr.",neutral,0.6597
+Satomi.,neutral,0.6962
+"Good to hear from you, sir.",positive,0.978
+"Yes, yes, what?",neutral,0.6474
+Jiro!,neutral,0.5601
+I'm here now.,neutral,0.7629
+Jiro!,neutral,0.5601
+I'm here.,neutral,0.4972
+"You alright, my love?",neutral,0.5576
+Can you walk?,neutral,0.85
+Come.,neutral,0.5622
+I've to go back.,neutral,0.7028
+I just needed to see you.,positive,0.5816
+"No, don't go back.",neutral,0.5157
+We should be together.,positive,0.7654
+"Oh, you must be Naoko.",neutral,0.705
+Please to meet you.,positive,0.7602
+I'm so glad you're here.,positive,0.9875
+Jiro.,neutral,0.635
+Mr.,neutral,0.5849
+"Kurokawa, we've a request.",neutral,0.8211
+"We've plenty of room, dear.",positive,0.7033
+"I know we've the room, that's not the problem.",neutral,0.7137
+I simply can't approve an unmarried couple living under this roof.,negative,0.9674
+Then we'll marry tonight.,neutral,0.7272
+Mr.,neutral,0.5849
+"Kurokawa, Mrs.",neutral,0.7954
+"Kurokawa, will you please be our witnesses.",neutral,0.8781
+What?,neutral,0.5653
+Tonight?,neutral,0.8574
+"Of course we'll, dear.",positive,0.5157
+"Naoko travelled all this way, it's the least we can do.",neutral,0.7543
+My doctors know about this and my father has given his blessing.,positive,0.787
+"Please, help us.",neutral,0.5322
+"The bride and I have a lot of work to do, and so do you.",neutral,0.7525
+"Come, Naoko.",neutral,0.7847
+"Oh, don't mind him, he's always like that.",neutral,0.6669
+"If you care about her at all, Jiro, you'll send her back on the morning train.",neutral,0.6616
+"I'll have to give up the fighter project, Mr.",negative,0.6597
+"Kurokawa, because I would go with her.",neutral,0.5626
+Is that your heart or your ego talking?,neutral,0.6307
+Naoko doesn't have much time.,negative,0.4842
+We've made our decision.,neutral,0.7736
+I see.,neutral,0.5826
+All right.,neutral,0.4897
+So I guess it's on with wedding!,neutral,0.5148
+Here they come.,neutral,0.6808
+She's coming!,neutral,0.5337
+Hear me!,neutral,0.6847
+I bring to you a lovely maiden who has come from the mountain to be with her beloved.,positive,0.8728
+She has given up everything for him.,neutral,0.4956
+What say you?,neutral,0.7229
+Hear me!,neutral,0.6847
+The man I present is an insensitive charcoal head without even a home to call his own.,negative,0.9626
+"but if that's what she wants, she can come in.",neutral,0.8208
+"And then, they shall exchange the sacred vows.",neutral,0.9203
+You're beautiful.,positive,0.9641
+Mr.,neutral,0.5849
+"Kurokawa, Mrs.",neutral,0.7954
+Kurokawa.,neutral,0.7074
+"All Jiro and I've in this world is each other, I cannot thank you enough for your kindness.",positive,0.9773
+We will never forget our debt to you.,positive,0.4764
+"Nonsense, there's absolutely no debt to repay.",neutral,0.5683
+We're both so happy that you've found each other.,positive,0.9815
+"Aren't we, dear?",neutral,0.7555
+"Um...hmm, you both are very, very brave!",positive,0.9394
+You must be exhausted.,negative,0.8043
+I feel like I'm in a wonderful dream.,positive,0.9797
+Feel like the room is spinning.,neutral,0.6049
+You should try to get some rest.,neutral,0.7667
+Come here.,neutral,0.6825
+Are you sure?,neutral,0.8481
+Come here.,neutral,0.6825
+Kayo!,neutral,0.5374
+You're going to tell me you completely forgotten I was coming?,neutral,0.4993
+"Yes, I completely forgot you were coming.",neutral,0.5282
+You're so insensitive.,negative,0.9708
+Congratulations on finishing medical school.,positive,0.9539
+Congratulations on your marriage to Naoko.,positive,0.9549
+I've come to thank Mr.,positive,0.7278
+and  Mrs.,neutral,0.7471
+Kurokawa on behalf of the entire family.,neutral,0.8526
+Are they still up?,neutral,0.8476
+They've gone to bed.,neutral,0.7223
+"So, you've met Naoko?",neutral,0.8592
+Yes.,positive,0.461
+"Jiro, what're you going to do?",neutral,0.8731
+She's alone in that room all day.,neutral,0.6107
+You won't know it because you come home so late!,neutral,0.4993
+Do you know she puts rouge on her cheek so that you won't worry?,neutral,0.7821
+"Naoko condition is much worse than you think, Jiro.",negative,0.9092
+I know because at school I watch these people...,negative,0.6155
+She's my sister now.,neutral,0.8067
+I really like her.,positive,0.9692
+How can you do this to her?,negative,0.8026
+Does Naoko really have to stay here?,neutral,0.7797
+Yes.,positive,0.461
+She does because each day together is very precious to us now.,positive,0.9604
+Get some rest.,neutral,0.6043
+We can talk more in the morning.,neutral,0.598
+I'm glad you're here.,positive,0.9659
+I'm home.,positive,0.6493
+I must have dozed off.,neutral,0.6795
+Go back to sleep.,neutral,0.6581
+Thank you.,positive,0.853
+Did you see your sister?,neutral,0.833
+Yes.,positive,0.461
+I like her a lot.,positive,0.958
+So confident and strong.,positive,0.9152
+She has got such a bright future ahead of her.,positive,0.9752
+I told her I wanted her to be my doctor.,neutral,0.7776
+"She brought me a gift from your mother, this nightgown and robe.",neutral,0.5229
+"See, she made it for me.",positive,0.559
+Is that too bright?,neutral,0.5846
+"No, it's fine.",positive,0.5352
+I have to finish the design by tomorrow.,neutral,0.8092
+Your Mackerel bones?,neutral,0.8147
+You remembered.,neutral,0.6651
+I think I may have a way to make it a bit lighter.,positive,0.6258
+Come a little closer.,neutral,0.7044
+Give me your hand.,neutral,0.6384
+This is nice.,positive,0.9823
+"I really like looking at you while you're working, Jiro.",positive,0.9608
+"On a contest for one-handed slide rule users, I'd win first prize for sure.",positive,0.8309
+"Look at that, I can make each rib half an ounce lighter.",positive,0.6478
+You can?,neutral,0.8212
+That's good.,positive,0.963
+"Thirty ribs, that almost make a pound.",neutral,0.7433
+"See, I knew it.",neutral,0.5589
+You were better when you're holding my hand.,positive,0.7965
+You're right.,positive,0.4782
+If only I could leave my hand right here for a test flight.,neutral,0.7041
+"You my dear, should get some sleep.",neutral,0.7
+Don't let go.,neutral,0.7024
+"No, I won't let go.",neutral,0.6097
+I need a cigarette.,negative,0.5084
+Can I let go for a minute?,neutral,0.8303
+"No, smoke here.",neutral,0.6575
+It's not good for you.,negative,0.961
+I don't care.,neutral,0.5509
+"Hey, Honjo.",neutral,0.7201
+Can I take a look?,neutral,0.8644
+Sure.,neutral,0.4753
+I hear good things about your heavy bomber.,positive,0.8956
+"Ah, it's not bad.",positive,0.8364
+"Jiro, she's beautiful.",positive,0.9646
+The infamous flush riveting.,neutral,0.4804
+Feels a little rough.,negative,0.7374
+"Yea, we're still learning how to do it.",neutral,0.7255
+"Well, you'll get it.",neutral,0.7221
+You already left the Germans behind.,negative,0.5478
+I'm still stuck with them.,negative,0.7637
+"This design is classic Jiro, right down to the Mackerel bones.",neutral,0.5358
+"Jiro, is it alright if I use your flush rivets and that spring-loaded hatch.",neutral,0.8829
+"Um...hmm, of course.",neutral,0.7994
+Skeched a redesign?,neutral,0.8731
+"Yeah, I wanted to redo the whole thing, but they only let me touch the fuselage.",neutral,0.4996
+"But, what about the wings?",neutral,0.8422
+That's what keeps me up at night.,neutral,0.5271
+"The wings still carry all the fuel and I can't shield them because she has to fly over 1,800 miles.",negative,0.4883
+It's already too heavy.,negative,0.6448
+We can't even add an ounce of weight.,negative,0.639
+"So without a redesign, Japan's first advance bomber only needs two or three hits and she will burn like a torch.",negative,0.517
+And who are they going to bomb with it?,neutral,0.632
+China.,neutral,0.6377
+Russia.,neutral,0.5827
+Britain.,neutral,0.6649
+The Netherlands.,neutral,0.7488
+America.,neutral,0.5524
+Japan will blow up.,negative,0.577
+We're not arms merchants.,neutral,0.6553
+We just want to build good aircraft.,positive,0.665
+That's right.,neutral,0.569
+"Good night, pal.",positive,0.7565
+Try to get some sleep.,neutral,0.743
+You too.,neutral,0.7345
+"Boss, I'm calling it a day.",neutral,0.7207
+"Good night, sir.",positive,0.5514
+Good night.,positive,0.5576
+Welcome home.,positive,0.9274
+My plane is finished.,negative,0.7787
+Now we'll see how she flies.,neutral,0.8045
+Congratulations.,positive,0.9434
+You worked so hard.,positive,0.7174
+The oxen are taking her way to the field now.,neutral,0.9018
+I'll probably have to spend the next few nights there.,neutral,0.7271
+"You must be tired, my love.",neutral,0.5645
+Just a little.,neutral,0.6822
+She will fly beautifully.,positive,0.8859
+"Hmm, she will.",neutral,0.8413
+I couldn't have done it without you here.,neutral,0.482
+"I love you, Jiro.",positive,0.9739
+Naoko...,neutral,0.6403
+I'm off.,neutral,0.6762
+Good luck.,positive,0.9243
+What are you doing up?,neutral,0.8355
+"I'm feeling so much better today, Mrs.",positive,0.9774
+"Kurokawa, I thought I'd take a walk.",neutral,0.8714
+"Be careful, don't tire yourself out.",neutral,0.6088
+I know.,neutral,0.5132
+The room's still a mess but I'll straighten it up when I get back.,negative,0.6385
+"All right but remember, Kayo's coming soon to be here for her brother's celebration.",positive,0.7875
+Yes.,positive,0.461
+I'll be back soon.,positive,0.5875
+Please come inside.,neutral,0.8015
+"Oh, no.",negative,0.6307
+she left us letters!,neutral,0.575
+This letter is for me.,positive,0.5469
+Says she's going back to the sanatorium!,neutral,0.5221
+I'll find her.,neutral,0.6842
+No!,neutral,0.4416
+Let her go.,neutral,0.5006
+We shouldn't do anything until after Naoko's train leaves.,neutral,0.5392
+She wants him to always remember her as she was.,neutral,0.6459
+"Wonderful, just look at her, true Japanese fighter.",positive,0.9546
+What about speed?,neutral,0.8347
+How she do?,neutral,0.7021
+"The numbers, they're off the charts.",positive,0.4721
+We're checking them again.,neutral,0.7952
+How fast is she?,neutral,0.848
+240.,neutral,0.628
+Two forty?,neutral,0.7924
+Fantastic!,positive,0.9316
+What a fighter.,positive,0.6936
+"Hey, Jiro.",neutral,0.7225
+Jiro!,neutral,0.5601
+She flies like a dream.,positive,0.5695
+Thank you.,positive,0.853
+"So, we meet again, Japanese boy.",neutral,0.7982
+Mr.,neutral,0.5849
+Caproni...,neutral,0.7224
+I remember this place.,neutral,0.7621
+This is where we first met in our kingdom of dreams.,neutral,0.6304
+Now it's the land of the dead.,negative,0.5485
+"Not quite but in some ways, yes.",neutral,0.6444
+"But what about your ten years in the sun, did you live them well?",neutral,0.7863
+Yes.,positive,0.461
+"Things fell apart in the end, though.",negative,0.8365
+That's what happen when you lose a war.,negative,0.843
+There's your fighter.,neutral,0.6502
+"Truly, truly a masterful design.",positive,0.8023
+Not a single one returned.,negative,0.493
+There was nothing to return to.,negative,0.6331
+"Airplanes are beautiful curse of dreams, waiting for the sky to swallow them up.",positive,0.4903
+Someone is waiting for you.,neutral,0.5982
+Naoko...,neutral,0.6403
+She's been waiting here for a long time.,neutral,0.7097
+"You must live, darling.",positive,0.4956
+You must live...,neutral,0.6626
+"She was beautiful, like the wind.",positive,0.9761
+Thank you.,positive,0.853
+Thank you.,positive,0.853
+You must live.,neutral,0.6501
+"But now, shall we drop by my house?",neutral,0.8946
+I've some very excellent wine.,positive,0.9671
+"A Tribute to Jiro Horikoshi and Tatsuo Hori Voices Hideaki Anno Miori Takimoto A white sloping path Runs up into the sky A gently swaying, misty haze Surrounding and holding Unnoticed by anyone, all alone Soaring upwards Not afraid of anything Dancing up Longing to be in the sky Speeding through the sky A whole life, a vapor trail Even before dying From that window, up high Watching the sky Now no one understands No one would understand All they could think was...",neutral,0.7439
+"""Too young"" Yet...",negative,0.5467
+"happy Longing to be in the sky Speeding through the sky A whole life, a vapor trail Longing to be in the sky Speeding through the sky A whole life, a vapor trail Theme Song Yumi Arai Music Joe Hisaishi Executive Producer Koji Hoshino Producer Toshio Suzuki A Studio Ghibli Film Original Story and Screenplay Written and Directed by Hayao Miyazaki The End",neutral,0.686

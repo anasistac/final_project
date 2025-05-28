@@ -1,0 +1,2295 @@
+text,sentiment,score
+Okay.,neutral,0.5844
+"My turn, my turn.",neutral,0.6585
+I got one.,neutral,0.5021
+"Great, but can you make it a little more challenging this time?",positive,0.5451
+Okay.,neutral,0.5844
+Check this out.,neutral,0.8391
+I spy with my little eye...,neutral,0.7624
+something yellow...,neutral,0.8375
+"and round, and it eats dots.",neutral,0.6254
+"Seriously, Ralph?",negative,0.6007
+"Yeah, seriously.",neutral,0.6048
+You're never gonna get it.,negative,0.6881
+"Well, obviously, it's Pac-Man.",neutral,0.6098
+"No, that's not...",neutral,0.5937
+Why is that obvious?,negative,0.5614
+Name one other thing in this whole arcade that is yellow and round and eats dots.,neutral,0.5581
+I can name two things.,neutral,0.7027
+Ms.,neutral,0.6034
+Pac-Man and Baby Pac-Man.,neutral,0.7809
+Boom!,positive,0.6967
+I accept your apology.,neutral,0.5306
+"Yeah, you're right.",neutral,0.4803
+Okay.,neutral,0.5844
+But was it Pac-Man?,neutral,0.8711
+"Yeah, you got me.",neutral,0.5352
+Knew it.,neutral,0.5259
+"All right, riddle me this...",neutral,0.7824
+do you or do you not think that Zangief waxes?,neutral,0.7333
+No way.,negative,0.6397
+Look at the guy.,neutral,0.6337
+He looks like a yeti.,negative,0.5367
+I don't know.,neutral,0.5667
+"I mean, if the fur were confined to his chest, I might agree...",neutral,0.6124
+but look at those two very specific tuffets of shin hair...,neutral,0.8446
+poking out of his boots.,neutral,0.6804
+"That does not just happen, Ralph.",neutral,0.5848
+That is a choice.,neutral,0.6903
+"You're totally right, kid.",positive,0.7269
+He's baby smooth everywhere else.,neutral,0.6778
+I rest my case.,neutral,0.7646
+My mind is blown!,positive,0.9031
+Let's go get a root beer.,positive,0.5144
+"Okay, let's see what you got, kid.",neutral,0.8017
+Nice one.,positive,0.9014
+Okay.,neutral,0.5844
+I think I got one in the chamber.,neutral,0.7758
+Gross.,negative,0.8209
+Thank you.,positive,0.853
+"Hey, wanna sneak into Tron?",neutral,0.8663
+Doesn't that game have a virus?,negative,0.7306
+No.,neutral,0.4936
+I'm sure they fixed it.,neutral,0.5507
+I'm gonna beat my speed record!,positive,0.8555
+"Hey, wait for me!",neutral,0.5602
+Ralph.,neutral,0.6965
+Yeah?,neutral,0.7381
+I don't think they fixed the game.,negative,0.8235
+No.,neutral,0.4936
+Help!,neutral,0.6156
+"Hey, Tron!",neutral,0.6561
+Tronny!,neutral,0.5659
+Tronny boy!,positive,0.5679
+Help!,neutral,0.6156
+"Do you realize we're basically just, like, zeroes and ones...",neutral,0.6862
+floating around the universe like tiny specks of dust?,neutral,0.7671
+"Like, doesn't the very nature of our existence make you wonder...",neutral,0.6876
+if there's more to life than this?,neutral,0.6272
+Why would I wonder if there's more to life when the life I got is perfect?,neutral,0.4585
+"I mean, sure.",neutral,0.6437
+Doesn't look so hot on paper.,negative,0.6794
+I'm just a bad guy from some old video game who wrecks a building.,negative,0.8802
+"And yeah, for 27 years, I was a total zero without any friends.",negative,0.751
+"But now, I got a best friend...",positive,0.8514
+who just happens to be the coolest kid in the whole arcade.,positive,0.9513
+"Aw, thanks, pal.",positive,0.5875
+Watch this.,neutral,0.7605
+Home run!,positive,0.8321
+"All right, let's go watch the sunrise.",positive,0.7161
+"Are you really saying there's not one single, solitary thing...",neutral,0.5472
+about your life that you would change?,neutral,0.8496
+"Well, think about it.",neutral,0.7465
+You and me get to goof off all night long.,positive,0.5304
+"Litwak shows up, we go to work, we put in our hours.",neutral,0.8362
+Then the arcade closes and we get to do it all over again.,neutral,0.6126
+The only thing I might do different in that scenario...,neutral,0.8072
+would be not having to go to work.,neutral,0.6242
+"Other than that, I wouldn't change a thing.",neutral,0.7671
+"Hey, where'd our sunrise go?",neutral,0.8664
+"All right, let's get you plugged in.",neutral,0.5397
+That's a plug-in alert.,neutral,0.7651
+Litwak hasn't plugged in a new game in forever.,neutral,0.5096
+Let's go see what it is!,positive,0.733
+Yeah!,positive,0.7406
+Excuse us.,neutral,0.5495
+Excuse us.,neutral,0.5495
+Minor emergency.,neutral,0.642
+"Hey, Felix, Calhoun, what's getting plugged in?",neutral,0.8975
+"Well, Ralph, Sonic thinks it's gonna be a new pinball machine.",neutral,0.7687
+"What do you think, lady love?",neutral,0.8861
+I'll bet you a shiny nickel it's a blood pressure machine.,neutral,0.7169
+Kids love those things.,positive,0.8789
+Please be a racing game.,neutral,0.6935
+Please be a racing game.,neutral,0.6935
+Please be a racing game.,neutral,0.6935
+"""Whiffee""?",neutral,0.8292
+"Or, ""Wifey""?",neutral,0.8121
+"Well, it's either wiffle ball, or an arranged marriage game.",neutral,0.661
+"It's actually pronounced ""Wi-Fi,"" Ralph.",neutral,0.7698
+"Yeah, that's what I said.",neutral,0.6909
+And Wi-Fi is the Internet...,neutral,0.6933
+which is an online community where human beings go to shop...,neutral,0.8431
+and play games and socialize.,neutral,0.769
+Fun!,positive,0.9304
+"Oh, no, it is not.",neutral,0.5439
+"That sign right there says ""Wi-Fi."" What it should say is ""Die-Fi."" That's a little humor there.",neutral,0.5858
+"But seriously, the Internet is nothing to laugh at.",negative,0.7875
+"It is new, it is different, and therefore we should fear it.",neutral,0.5255
+"So keep out, for Pete's sake, and get to work.",neutral,0.4613
+The arcade's about to open.,neutral,0.7839
+"Figures, we finally get something new plugged in...",positive,0.6003
+and we're not even allowed to go in there.,negative,0.7995
+Totally not fair.,negative,0.9325
+A new racing game would've been cool.,positive,0.9369
+Something wrong with your game?,negative,0.8823
+"No, no.",negative,0.5318
+It's just every bonus level's been unlocked.,neutral,0.5959
+I know every shortcut.,neutral,0.5979
+"Man, I'd kill for even just a new track.",neutral,0.4833
+New track?,neutral,0.8724
+"You already got, like, three choices.",neutral,0.7696
+"Yeah, I know, but don't you ever wish something new and different...",neutral,0.5897
+would happen in your game?,neutral,0.8467
+Nope.,neutral,0.4866
+Really?,neutral,0.6008
+"Well, agree to disagree.",neutral,0.7631
+"Wait, I don't wanna disagree.",neutral,0.6074
+"No, no.",negative,0.5318
+It's just a fancy way to say we don't have to argue about it.,neutral,0.5987
+We're arguing?,neutral,0.5409
+I don't wanna argue.,neutral,0.4761
+Relax.,neutral,0.6769
+Stop making it a thing.,negative,0.614
+Go to work.,neutral,0.6873
+"I'll see you tonight, stench vessel.",negative,0.6364
+All right.,neutral,0.4897
+"She wants a new track, I'll give her a new track.",neutral,0.6141
+"Come on, Nafisa!",neutral,0.6413
+Let's play Sugar Rush!,positive,0.5091
+"Pick Vanellope, Swati.",neutral,0.8782
+She's got the best superpower.,positive,0.9578
+"Yeah, the glitch.",neutral,0.6344
+I love her.,positive,0.9773
+"Drivers, start your engines.",neutral,0.7599
+"You're gonna lose today, Princess.",negative,0.8733
+"While, yes, I am technically a princess, Taffyta...",neutral,0.6482
+I'd rather you just think of me as plain old Vanellope...,neutral,0.6168
+the racer who's about to kick your butt.,neutral,0.6038
+"Three, two, one, go!",positive,0.6435
+"And pardon me, excuse me, coming through.",neutral,0.716
+"And one, two, three gumballs right on cue.",neutral,0.7393
+"Yeah, I love it when she glitches.",positive,0.6865
+Excuse me.,neutral,0.4804
+I must have fallen asleep.,neutral,0.5398
+"Oh, fun.",positive,0.7913
+I'm winning.,positive,0.8675
+Vanellope takes a huge lead.,positive,0.7838
+No one's gonna catch her now.,negative,0.5014
+She's gonna love this.,positive,0.9676
+Right on time.,neutral,0.5811
+What?,neutral,0.5653
+"""Looking for something new...",neutral,0.7867
+"""and different?",neutral,0.6973
+"""Then take this track."" Ralph, you old son-of-a-gun.",negative,0.7248
+I'd say I got a little time for a detour.,neutral,0.8133
+"Hey, look, I think I unlocked a new track.",positive,0.7778
+Never seen that before.,neutral,0.593
+This is awesome!,positive,0.9888
+"Hey, thanks, Ralph!",positive,0.9316
+You're welcome!,positive,0.9671
+"Get back up on the track, Swati.",neutral,0.7311
+You're going to lose.,negative,0.8803
+I can't.,negative,0.7719
+It's like it's driving itself.,neutral,0.5032
+What is wrong with this thing?,negative,0.9735
+What?,neutral,0.5653
+"No, no!",negative,0.6435
+Kid!,neutral,0.4803
+"Oh, no, no, no, no, no!",negative,0.8618
+Kid!,neutral,0.4803
+Kid!,neutral,0.4803
+"Oh, kid, I'm so sorry, are you okay?",negative,0.6604
+"Oh, my gosh.",negative,0.4733
+What an amazing track!,positive,0.9851
+"Thank you, Ralph!",positive,0.9682
+"Thank you, thank you, thank you!",positive,0.9861
+You're welcome!,positive,0.9671
+You know I take my duty as your hero very seriously.,positive,0.6232
+Wait a minute.,neutral,0.5549
+You took a serious doody where?,neutral,0.6342
+"Vanellope, get up here.",neutral,0.7831
+We have a situation.,neutral,0.713
+Mr.,neutral,0.5849
+"Litwak, the Vanellope racer wasn't working...",negative,0.8078
+and I think maybe I turned the wheel too hard.,negative,0.6925
+I'm real sorry.,negative,0.6577
+"It's okay, Swati.",positive,0.5576
+I think I can get it back on there pretty easy.,positive,0.8293
+"What did you do, Ralph?",neutral,0.8455
+Nothing.,neutral,0.5182
+Leave him alone.,negative,0.5137
+He was just trying to make the game more exciting.,positive,0.7965
+"Yeah, why don't you relax, Taffyta?",neutral,0.621
+Litwak will fix it.,neutral,0.7425
+"All right, on you...",neutral,0.6716
+Okay.,neutral,0.5844
+Still not a problem.,neutral,0.7119
+He'll just order a new part.,neutral,0.7971
+"Well, I'd order a new part...",neutral,0.7562
+but the company that made Sugar Rush went out of business years ago.,negative,0.6017
+I can try to find one on the Internet.,neutral,0.8036
+Good idea.,positive,0.8804
+Me too.,neutral,0.696
+"Good luck, that'll be like finding a needle in a...",neutral,0.4902
+I found one!,positive,0.8743
+On ebay!,positive,0.607
+Really?,neutral,0.6008
+How about that?,neutral,0.785
+See?,neutral,0.6904
+Those kids have it under control.,neutral,0.605
+They're just gonna get another wheel from the eboy.,neutral,0.8329
+Are you kidding me?,negative,0.6195
+How much?,neutral,0.7888
+That's more than this game makes in a year.,neutral,0.6834
+"I hate to say it, but my salvage guy is coming on Friday...",neutral,0.5447
+and it might be time to sell Sugar Rush for parts.,neutral,0.8715
+Where's he going?,neutral,0.8483
+Litwak's gonna unplug the game.,neutral,0.5913
+Get out of here!,negative,0.7254
+"Go, scram, let's go, run!",positive,0.5561
+"Go, run, run, run, run!",positive,0.6332
+Let's go!,positive,0.8384
+Run!,neutral,0.5537
+Gangway!,neutral,0.6795
+"Yeah, you heard him, gangway!",neutral,0.5732
+Stop it!,negative,0.5914
+No running!,neutral,0.6307
+"What are you people doing out of your game, for Peter's sake?",negative,0.6682
+The arcade is open!,positive,0.7605
+Sugar Rush is getting unplugged.,neutral,0.8256
+We're homeless!,negative,0.7209
+"Yeah, yeah, we're homeless!",negative,0.4334
+"Oh, what are we going to do?",neutral,0.7147
+"Y'all, calm down, calm down.",neutral,0.5827
+Get a hold of yourselves.,neutral,0.6819
+I don't want to be gameless.,negative,0.6228
+An unplugging.,neutral,0.7949
+Good Lord.,positive,0.4871
+I haven't seen this many gameless characters since Space Invaders went down.,negative,0.498
+Where are we gonna live?,neutral,0.7122
+"Well, you can stay here until the arcade closes, I guess...",neutral,0.806
+and then we'll figure out where the heck we're gonna put you all.,negative,0.6613
+Okay.,neutral,0.5844
+Here we go.,neutral,0.5885
+I raided Gene's fridge.,neutral,0.7158
+"Good news, he's got pie.",positive,0.8947
+"Took a bunch of his pillows and junk, too.",neutral,0.6329
+"I'm thinking we make a fort up here, or like a yurt.",neutral,0.8762
+Or we could take these pillows...,neutral,0.8465
+"If we stack them right, we can make an igloo out of pillows.",neutral,0.6632
+Like a pillow igloo.,neutral,0.6037
+Pigloo.,neutral,0.5641
+Pigloo!,neutral,0.5931
+"So what do you think, kid?",neutral,0.8517
+"Fort, yurt, or the obvious best choice, pigloo?",neutral,0.6802
+I can't believe I don't have a game anymore.,negative,0.8624
+"I mean, like, what am I gonna do all day?",neutral,0.5717
+What?,neutral,0.5653
+"Come on, are you kidding?",negative,0.6362
+"You sleep in, you do no work, then you go to Tapper's with me every night.",neutral,0.8425
+I've literally just described paradise.,neutral,0.4687
+But I loved my game.,positive,0.9212
+"Oh, come on.",neutral,0.4954
+You were just bellyaching about the tracks being too easy.,negative,0.549
+"No, that doesn't mean I didn't love it.",neutral,0.4196
+"Yeah, sure, it was kind of predictable...",negative,0.5566
+but still I never really knew what might happen in a race.,neutral,0.6278
+"And it's that, it's that feeling, that not-knowing-what's-coming-next feeling.",neutral,0.4869
+That's the stuff.,neutral,0.5733
+That feels like life to me.,positive,0.7861
+"And if I'm not a racer, Ralph...",neutral,0.6545
+what am I?,neutral,0.6637
+"Well, you're my best friend.",positive,0.9108
+That's not enough.,negative,0.7832
+Hey.,neutral,0.5456
+"No, I just...",neutral,0.6278
+"I'm sorry, I know I'm being weird.",negative,0.7004
+I think maybe I just need to be alone right now.,negative,0.5531
+Okay.,neutral,0.5844
+"I'll meet you over at Tapper's in a little while, I guess.",neutral,0.8241
+If you want.,neutral,0.6788
+"All right, now...",neutral,0.5353
+we found some good homes for so many of our chums from Sugar Rush...,positive,0.9542
+and we're just hoping a few more of you will open your doors...,positive,0.6868
+and your hearts to those in need.,neutral,0.7173
+"Well, I suppose that large green olive will fit in nicely with my decor.",positive,0.8543
+I'm a sour ball.,negative,0.7855
+"Well, beggars can't be choosers, can they?",negative,0.7823
+"Come along, condiment.",neutral,0.7237
+Mm-kay.,neutral,0.6158
+Marvelous.,positive,0.9062
+That just leaves the racers.,neutral,0.7734
+"We're, like, adorable.",positive,0.9639
+You sure are.,neutral,0.4902
+"So, any takers?",neutral,0.8385
+Anyone?,neutral,0.6897
+"Felix, I know we've never once talked about having a family before, but...",neutral,0.7123
+"I know, it feels like the kind of thing you just jump into with both feet...",neutral,0.6846
+and nary a plan.,neutral,0.5217
+Felix and I will give them sanctuary.,positive,0.5576
+Can I get a quick word with you two?,neutral,0.904
+"Look, I get it.",neutral,0.6248
+"You've been married six years, you're looking to spice things up...",neutral,0.648
+"but trust me, adopting 15 children is the wrong kind of spice.",negative,0.8396
+Those things are basically feral.,negative,0.9005
+"Pardon me, sir, but those youngsters are lambs.",negative,0.8248
+"Lost little lambs in need of two kind, caring shepherds.",neutral,0.5578
+That's right.,neutral,0.569
+"Besides, how hard can parenting be?",negative,0.7573
+You treat the child like your best friend...,neutral,0.5469
+you give them everything they want...,positive,0.5134
+and you just love their little socks off.,positive,0.4272
+"Right, Tammy?",neutral,0.8274
+Darn-tootin'.,negative,0.5964
+Come and get it.,neutral,0.5964
+Get your own candle.,neutral,0.7489
+"Hey, Mom, why does your lame TV only have one channel?",negative,0.8762
+"Well, hate to say I told ya...",negative,0.6617
+"Hey, Tapper?",neutral,0.8442
+"No, Ralph.",neutral,0.5382
+I haven't seen Vanellope.,neutral,0.5311
+Not since the last time you asked me 30 seconds ago.,neutral,0.6209
+Sorry.,negative,0.5092
+I'm just worried about her.,negative,0.7806
+"She's glitching like crazy, and acting super insecure.",negative,0.8916
+"And get this, she said...",neutral,0.8113
+being friends with me wasn't enough for her.,negative,0.4943
+Not enough?,negative,0.5904
+I'm a great friend!,positive,0.9798
+"Right, Tapper?",neutral,0.8439
+Right?,neutral,0.736
+I'm sorry.,negative,0.6455
+Who's acting insecure?,negative,0.7287
+"Ralph, come on.",neutral,0.6555
+The kid just lost her game.,negative,0.9572
+Give her a break.,neutral,0.6006
+There you are...,neutral,0.72
+Oh.,neutral,0.5443
+"Hey, Ralph.",neutral,0.7094
+"Hey, Felix.",neutral,0.6854
+Since when do you drink root beer?,neutral,0.7856
+Since tonight.,neutral,0.8398
+"Yeah, I hear you, buddy.",neutral,0.667
+"Hey, listen.",neutral,0.7728
+This one was supposed to be for Vanellope.,neutral,0.8613
+I guess you can have it.,neutral,0.6914
+Doesn't look like she's coming.,negative,0.4884
+Thanks.,positive,0.6284
+"You know, I can't help but think this whole mess is somehow...",negative,0.6874
+partially my fault.,negative,0.6709
+It figures.,neutral,0.7229
+Just when my life was perfect.,neutral,0.4246
+"Mine was, too.",neutral,0.7803
+"But, hey, now I'm a father of 15.",neutral,0.711
+Isn't that just a blessing?,positive,0.9325
+Eeeee-oh-boy!,neutral,0.5293
+Wait.,neutral,0.5851
+"What'd you say, Felix?",neutral,0.8579
+Isn't that just a blessing?,positive,0.9325
+"No, the weird sound thing.",neutral,0.5369
+Eeeee-oh-boy?,neutral,0.676
+Yeah.,neutral,0.5491
+"Sorry, say it again?",negative,0.5995
+Eeeee-oh-boy.,neutral,0.5564
+Eeeee-oh-boy!,neutral,0.5293
+Eee-oh-boy!,neutral,0.5411
+Eee-boy!,neutral,0.5147
+Say it again?,neutral,0.7465
+Eeeee-oh-boy!,neutral,0.5293
+Eeeee-oh-boy.,neutral,0.5564
+Eeeee-oh-boy...,neutral,0.6376
+eboy!,neutral,0.4866
+eboy!,neutral,0.4866
+eboy!,neutral,0.4866
+eboy?,neutral,0.6548
+eboy?,neutral,0.6548
+eboy.,neutral,0.5384
+Yeah.,neutral,0.5491
+"What are you getting at there, Ralph?",neutral,0.8588
+That kid out in the arcade said there was a steering wheel part...,neutral,0.7038
+"on the Internet, it's something called eboy or...",neutral,0.8645
+ebay!,positive,0.5524
+"That's it, it was ebay!",positive,0.7072
+"Ralph, are you thinking about going to the Internet and finding that part?",neutral,0.8585
+Getting that part's the only thing that's gonna fix the game...,neutral,0.4901
+and that's the only thing that's gonna make Vanellope happy again.,positive,0.8861
+"And if Sugar Rush is fixed, all those lovable scamps living in my house...",negative,0.6276
+and destroying my sanity will have homes of their own again!,negative,0.6958
+"Ralph, this is an important mission.",positive,0.6748
+A noble mission!,positive,0.9045
+I will cover for you.,neutral,0.6422
+"Thanks, pal.",positive,0.7613
+"Ralph, what about your tab?",neutral,0.8535
+You owe me for the root beer.,neutral,0.6601
+"Oh, Felix is gonna cover for me.",neutral,0.7453
+"Drinks on the house, everybody!",neutral,0.5296
+Felix is paying.,neutral,0.7904
+Eeeee-oh-boy.,neutral,0.5564
+Boo!,negative,0.7525
+"Ralph, what is wrong with you?",negative,0.9354
+"Start churning butter and put on your church shoes, little sister...",neutral,0.7791
+'cause we're about to blast off!,positive,0.7572
+What are you even talking about?,negative,0.715
+We're going to the Internet.,neutral,0.7637
+What?,neutral,0.5653
+"Yeah, to find the part to fix your game.",neutral,0.6496
+No way!,negative,0.6254
+"Yeah, I probably should've just said, ""We're going to the Internet."" We're going to the Internet!",neutral,0.5093
+"Yeah, we are!",positive,0.8081
+"Hey, Surge, are we glad to see you.",positive,0.9706
+We want to report some malfeasance over by the Whac-A-Mole.,negative,0.7906
+"Yeah, we saw some undesirables causing a real donnybrook over there.",negative,0.744
+Heck no.,negative,0.554
+Not on my watch.,negative,0.5284
+Appreciate the tip.,positive,0.9114
+"So, all we gotta do is find this eboy place.",neutral,0.7727
+ebay.,neutral,0.5629
+"Right, ebay.",neutral,0.6387
+"So we go there, get the steering wheel...",neutral,0.847
+we have it delivered to Litwak before Friday.,neutral,0.8652
+He'll fix your game.,neutral,0.5354
+Everything goes back to the way it was.,neutral,0.7721
+Boom!,positive,0.6967
+Happily ever after.,positive,0.819
+"This is a shockingly sound, well-thought-out idea for you, Ralph.",positive,0.9178
+No offense.,neutral,0.6719
+I know.,neutral,0.5132
+And none taken.,neutral,0.6942
+Here it comes.,neutral,0.6108
+"Ladies and gentlemen, boys and girls...",neutral,0.8271
+I give you the Internet!,neutral,0.503
+The Internet is not nearly as impressive as how Sonic described it.,negative,0.7283
+"Yeah, I gotta admit, I'm underwhelmed.",negative,0.8656
+Where do you think they keep their ebay?,neutral,0.819
+Beats me.,neutral,0.4927
+"Hello, anybody here?",neutral,0.7735
+Anyone?,neutral,0.6897
+Hello!,positive,0.5738
+We're looking for ebay!,positive,0.5975
+"Did you hear that, kid?",neutral,0.6676
+Sweet echo.,positive,0.7221
+Check this out.,neutral,0.8391
+"Okay, connect to network.",neutral,0.7785
+Bingo.,neutral,0.6668
+"Password is ""high score"" with a zero instead of an ""o."" Yes.",neutral,0.6115
+And we are online.,neutral,0.7924
+"Ralph, look.",neutral,0.6998
+Cool.,positive,0.842
+Mood lighting.,neutral,0.8138
+That's a gremlin!,negative,0.5052
+Stay away!,neutral,0.5098
+It's a gremlin!,negative,0.4601
+It looks like a tiny Mr.,neutral,0.7008
+Litwak.,neutral,0.6695
+IP address 415-1037-483.,neutral,0.6787
+Cool!,positive,0.9343
+"Come on, Ralph, let's follow him!",positive,0.5766
+"Hey, wait for me!",neutral,0.5602
+"Kid, come back!",positive,0.5575
+Wait!,neutral,0.6225
+Hey!,neutral,0.5279
+Don't leave without me!,neutral,0.5264
+Vanellope!,neutral,0.5688
+I can't breathe.,negative,0.8604
+I don't fit.,negative,0.8738
+Kid!,neutral,0.4803
+Ralph!,neutral,0.5827
+Isn't this great?,positive,0.9196
+"No, it is not!",neutral,0.4796
+"No, no, no.",negative,0.6471
+Sweet mother of monkey milk!,positive,0.479
+"Kid, I don't think we're in Litwak's anymore.",negative,0.6035
+"We most certainly are not, friendo.",neutral,0.5738
+We are in the Internet!,neutral,0.4868
+"Come on, Ralph!",positive,0.5423
+Holy cow!,negative,0.6371
+Look at all this stuff.,negative,0.57
+This is the most beautiful miracle I've ever seen.,positive,0.9868
+But it's so big.,positive,0.4722
+It goes on forever and ever.,neutral,0.729
+How are we possibly gonna find ebay out there?,neutral,0.6939
+"Hey, kid.",neutral,0.6533
+"Kid, don't worry.",neutral,0.5472
+I'm sure there's someone out here who could give us directions.,neutral,0.7649
+Look at that little egg guy.,negative,0.4736
+He's got on one of those hats that smart people wear.,neutral,0.5126
+I bet he could help us.,neutral,0.5161
+Come on.,neutral,0.5758
+"Welcome back to the search bar, madam.",positive,0.7246
+I hope you were able to find a satisfactory breakfast burrito...,positive,0.8143
+based upon the search results I provided this morning.,neutral,0.9294
+What can KnowsMore help you find now?,neutral,0.8982
+Where can I find ballet...?,neutral,0.8161
+Ballet shoes?,neutral,0.8779
+Ballet classes?,neutral,0.8999
+Ballet folklorico?,neutral,0.8783
+...tights?,neutral,0.781
+Girls' size small.,neutral,0.7014
+"Little Madeline's trying ballet now, is she?",neutral,0.8777
+I hope this lasts longer than the soccer phase.,neutral,0.515
+"I found 23 million results for ballet tights, girls' size small.",neutral,0.6972
+Isn't that interesting?,positive,0.8299
+Redirecting to DesmondsTutus.com.,neutral,0.8807
+They never say thank you.,negative,0.5147
+"Oh, hello, sir.",neutral,0.718
+"Interesting, you don't seem to have a search history.",neutral,0.6318
+"Well, let's start one for you.",neutral,0.7062
+What can KnowsMore help you find today?,neutral,0.8504
+Um...,neutral,0.6851
+Umbrella.,neutral,0.7309
+Umbrage.,neutral,0.6793
+Umami.,neutral,0.6949
+Uma Thurman.,neutral,0.8732
+No.,neutral,0.4936
+Noah's Ark.,neutral,0.8694
+No Doubt.,neutral,0.7311
+Nordstrom Rack.,neutral,0.8599
+Err.,neutral,0.6043
+Ergonomics.,neutral,0.6209
+Urban Outfitters.,neutral,0.8196
+"Urkel, played by Jaleel White.",neutral,0.8998
+Looks like no one put Humpty Dumpty together again.,negative,0.7679
+This guy's a little soft-boiled.,negative,0.7519
+I'm pretty sure he's just trying to guess what you're gonna say.,neutral,0.6537
+Yes.,positive,0.461
+"I'm sorry, but my autofill is a touch aggressive today.",negative,0.8526
+Let me try.,neutral,0.7033
+ebay Sugar Rush steering wheel.,neutral,0.8586
+I only found one result for your query.,neutral,0.7572
+Isn't that interesting?,positive,0.8299
+What?,neutral,0.5653
+How did you...?,neutral,0.8378
+The Internet's very intuitive.,positive,0.7417
+"Thank you, Mr.",positive,0.8504
+KnowsMore.,neutral,0.7416
+"Well, you're welcome.",positive,0.9131
+Redirecting to ebay.,neutral,0.8697
+I like her.,positive,0.9142
+What a delightful girl.,positive,0.9722
+Slow traffic will be fined for speeds less than three megabytes per second.,negative,0.8215
+"Wow, I guess we know where to go if we ever need a pair of goggles.",positive,0.5389
+There's a whole building full of them.,neutral,0.7107
+There it is!,positive,0.5116
+ebay!,positive,0.5524
+"Ralph, we're really gonna do it.",positive,0.8188
+We're actually gonna save my game.,positive,0.869
+Told you not to worry.,neutral,0.7354
+We just gotta keep our eyes on the prize and stay focused.,positive,0.7219
+Get rid of belly fat using this one weird trick.,neutral,0.6391
+I love weird tricks.,positive,0.8083
+Sassy housewives want to meet you.,neutral,0.6929
+They do?,neutral,0.7528
+"Congratulations, you're a winner!",positive,0.9895
+Really?,neutral,0.6008
+These ten child stars went to prison.,negative,0.8533
+Number six will amaze you.,positive,0.6783
+That sounds interesting.,positive,0.9461
+Wanna get rich playing video games?,neutral,0.6328
+Click here to find out how.,neutral,0.8646
+"Ralph, come on!",neutral,0.5904
+But there's a lot of cool stuff here.,positive,0.9563
+"I'll be right here if you change your mind, brother.",neutral,0.8277
+"How about you, lady?",neutral,0.8362
+You wanna get rich playing video games?,neutral,0.5537
+"Ladies and gentlemen, the next item up...",neutral,0.8853
+a black velvet painting of a sorrowful kitten.,neutral,0.6308
+Bidding starts at 49.99.,neutral,0.8847
+"850 for the beaver, the beautifully taxidermied beaver...",positive,0.7445
+...a gently used artificial hip...,neutral,0.8554
+and the bidding's open at $10.,neutral,0.8966
+Do I hear 20?,neutral,0.8191
+Do I hear 350?,neutral,0.7391
+Who'll give me 350?,neutral,0.869
+"50, 50, 50 now.",neutral,0.7351
+Who'll give me 350?,neutral,0.869
+400!,positive,0.5586
+"Going once, going twice and sold!",neutral,0.6633
+The tortilla chip shaped like international superstar Beyoncé Knowles...,neutral,0.6044
+goes for 400.,neutral,0.782
+Yay!,positive,0.904
+So happy.,positive,0.9813
+Are you understanding how this game works?,neutral,0.6889
+I think all you have to do is yell out the biggest number...,neutral,0.5662
+and then you win this stuff.,neutral,0.5549
+And I thought Q*bert's game was weird.,negative,0.9323
+"Hey, kid, hop up here...",neutral,0.741
+and see if you can tell where they keep their steering wheels.,neutral,0.8095
+There's a bunch of sports memberabilia.,neutral,0.7801
+"And big baby clothes called ""lingerie."" Go to the right, move right.",neutral,0.6708
+There's a row with a bunch of old video game junk!,negative,0.6787
+There it is!,positive,0.5116
+There it is!,positive,0.5116
+I see it!,positive,0.5335
+Someone else is trying to win it.,neutral,0.6175
+Come on!,positive,0.6006
+"Hurry, let's go!",positive,0.7463
+We got 275.,neutral,0.5551
+"And with 30 seconds left in the auction, we have 275.",neutral,0.8581
+Move!,neutral,0.5512
+Move!,neutral,0.5512
+Hey!,neutral,0.5279
+That's ours!,positive,0.7425
+Out of the way!,neutral,0.6684
+Do I hear a three?,neutral,0.7844
+I'll give you three!,positive,0.682
+I got three!,positive,0.7134
+Can I get a 305?,neutral,0.853
+305?,neutral,0.6888
+Can I get a 3-5?,neutral,0.8885
+305.,neutral,0.6236
+"305, can I get a 310?",neutral,0.8444
+Can you bid 310?,neutral,0.885
+310.,neutral,0.6261
+315.,neutral,0.6317
+320.,neutral,0.6562
+325.,neutral,0.6601
+"Oh, man, this guy is good.",positive,0.9775
+He keeps coming up with numbers like it's nothing.,neutral,0.4902
+I have three-and-a-quarter.,neutral,0.7131
+Do I hear 350?,neutral,0.7391
+350?,neutral,0.7578
+350?,neutral,0.7578
+Watch this.,neutral,0.7605
+"1,000!",neutral,0.4979
+"1,000!",neutral,0.4979
+"We now have a bid of 1,000!",neutral,0.7131
+"Way to go, kid!",positive,0.9674
+That is a huge number.,positive,0.6046
+Thank you.,positive,0.853
+Check this out.,neutral,0.8391
+"15,000!",neutral,0.6298
+"15,000!",neutral,0.6298
+Do I hear 15-5?,neutral,0.8315
+15-fiver!,neutral,0.7019
+16!,neutral,0.513
+17!,neutral,0.4935
+18!,positive,0.5128
+20!,positive,0.5071
+23!,positive,0.5292
+25!,positive,0.5192
+27!,positive,0.4791
+27 and one!,neutral,0.5745
+And sold!,neutral,0.595
+"For 27,001...",neutral,0.8419
+to the barefoot hobo in the broken overalls.,negative,0.5814
+"Hey, that's me!",positive,0.66
+We won!,positive,0.9367
+We won!,positive,0.9367
+Congratulations.,positive,0.9434
+Here's your voucher for auction item 197324579.,neutral,0.8913
+Please take it to checkout for processing.,neutral,0.8756
+"So, we are set to ship one Sugar Rush steering wheel...",neutral,0.8716
+"to a Litwak's Family FunLand in Los Aburridos, California.",neutral,0.8983
+Yep!,positive,0.7079
+"With expedited shipping, that should arrive Wednesday morning.",positive,0.5966
+That's two whole days before Litwak scraps your game.,neutral,0.662
+We're way ahead of schedule.,positive,0.8215
+We rule!,positive,0.6427
+I'll just need a credit card number.,neutral,0.8074
+"Sorry, what's a credit card number?",neutral,0.656
+A credit card number.,neutral,0.7039
+Number.,neutral,0.5982
+Right.,neutral,0.5665
+Seven.,neutral,0.557
+Excuse me?,neutral,0.5234
+"Sorry, no.",negative,0.5791
+"You're right, ridiculous.",negative,0.6502
+I meant 11.,neutral,0.6908
+Those aren't credit card numbers.,neutral,0.6522
+I'm pretty sure they are.,positive,0.4916
+"How exactly do you intend to pay for this item, sir?",neutral,0.7709
+"You owe $27,001.",negative,0.7331
+What?,neutral,0.5653
+Dollars?,neutral,0.7761
+Dollars like money?,neutral,0.7139
+"Yes, and if you don't have a credit card...",neutral,0.6969
+"we also accept PayPal, Venmo, ProPay, SquareCash and BuzzzyBucks.",positive,0.5286
+You're gonna laugh.,positive,0.6426
+Okay.,neutral,0.5844
+"So this big galoot, he left his wallet at home.",neutral,0.6106
+"Yeah, yeah, I did leave my wallet at home, in my wallet room.",neutral,0.7384
+And the door's locked.,neutral,0.629
+Look.,neutral,0.6185
+If you don't pay within 24 hours...,negative,0.6371
+you will be in violation of the unpaid item policy...,negative,0.8068
+"you will forfeit the bid, and you will lose this item.",negative,0.7856
+Next!,positive,0.5032
+"Hey, buddy, you going to eboy?",neutral,0.8401
+"Well, I got some free advice for you.",neutral,0.6418
+Don't.,neutral,0.5122
+What a scam!,negative,0.9214
+"We were so close, and we would have gotten...",neutral,0.5313
+"Look, their signs aren't even real!",negative,0.7976
+What the heck?,negative,0.8687
+Dang Internet.,negative,0.9072
+"Oh, man, oh, man, oh, man.",neutral,0.5097
+"Hey, kid.",neutral,0.6533
+What's going on?,neutral,0.7289
+What's wrong?,negative,0.7724
+"If I don't have a steering wheel, I don't have a game, I'm gameless.",negative,0.6811
+There's only one steering wheel in the whole Internet...,neutral,0.6702
+and we blew our chance to get it.,negative,0.7848
+We blew it!,negative,0.4168
+"Hey, hey, hey, calm down.",neutral,0.5936
+"We came here to save your game, and that's what we're gonna do.",neutral,0.5203
+Right.,neutral,0.5665
+Okay?,neutral,0.7124
+"Okay, yeah.",neutral,0.6096
+There you go.,neutral,0.5283
+"Now look, all we got to do...",neutral,0.731
+is figure out a way to earn a little bit of moola.,neutral,0.8306
+"We're video game characters, Ralph.",neutral,0.6989
+We don't have moola.,negative,0.5379
+Unless you can think of some magical way to get rich playing video games.,neutral,0.5439
+Wanna get rich playing video games?,neutral,0.6328
+Click right here to find out how.,neutral,0.8565
+"Back off, pop-up!",negative,0.4684
+"Right this way, miss.",neutral,0.7604
+Dang pop-up blockers.,negative,0.7091
+Why does everybody gotta be so mean?,negative,0.967
+There he is!,positive,0.6753
+Thank goodness you're still here!,positive,0.9724
+"Me and my friend here, we got 24 hours to make $27,001...",neutral,0.7199
+or she loses her game.,negative,0.7347
+"Yeah, can you please tell us how to get rich playing video games?",neutral,0.5385
+You bet!,neutral,0.5087
+"Come on, click here, and I'll take you to my website.",neutral,0.7355
+"You got an ample carriage there, buster.",neutral,0.6846
+Causing a little drag.,neutral,0.6113
+Sorry.,negative,0.5092
+You're getting close to the edge.,neutral,0.5654
+You see the...?,neutral,0.8142
+The edge.,neutral,0.6935
+The edge!,neutral,0.562
+"By the way, my name is JP Spamley...",neutral,0.8651
+and I'd like to welcome the both of you to the Spamley family.,positive,0.9707
+"All right, step into my parlor.",neutral,0.8265
+This is your website?,neutral,0.8022
+"I know what you're thinking, not to worry.",neutral,0.7255
+My anti-virus guy was just here.,neutral,0.7451
+Clean as a...,neutral,0.7397
+Dang it!,negative,0.6034
+"Oh, my gosh.",negative,0.4733
+That's embarrassing.,negative,0.9432
+"Anyway, I know it's a bit of a mess...",negative,0.7035
+"Hey, Gord!",positive,0.4974
+"But I do have a system here, I really do.",neutral,0.601
+If I can just find that...,neutral,0.7054
+Gord!,neutral,0.5566
+I just got to find this list.,neutral,0.7347
+There you are.,neutral,0.6276
+These guys are looking to get rich playing video games.,neutral,0.5313
+"What do you got for them, partner?",neutral,0.8433
+Thank you.,positive,0.853
+"""Fishwife's amulet, Wizard Quest, three dollars."" ""Foxhole hammer, Zombie Crusades, five dollars""?",neutral,0.776
+"Now, those there are some of your more commonplace, low-dollar items.",neutral,0.8397
+"Can you back up a sec, Mr.",neutral,0.8052
+Spamley?,neutral,0.7734
+You're saying if we find the Golden Cleats from Pro League Soccer...,neutral,0.8553
+we find those and bring them back here to you...,neutral,0.8143
+then a human being in the real world will pay us $15?,negative,0.5142
+"Yes, ma'am.",neutral,0.5793
+Welcome to the exciting world of loot hunting.,positive,0.9113
+Folks go into games...,neutral,0.7339
+they harvest the most coveted items...,neutral,0.7636
+and they sell them on my website to the highest bidder.,neutral,0.7262
+"Okay, but here's the thing...",neutral,0.7429
+we need like a buttload of money.,neutral,0.6161
+"So, do you have any more lucrative items, maybe?",neutral,0.8838
+Gord!,neutral,0.5566
+Gord!,neutral,0.5566
+There you are.,neutral,0.6276
+"Thank you, buddy.",positive,0.8828
+You're such a nice guy.,positive,0.9606
+"Is $40,000 lucrative enough for you?",neutral,0.7314
+It's more than enough.,positive,0.8323
+"I got a guy in Des Moines, Iowa...",neutral,0.8887
+who will pay 40 grand for Shank's car...,neutral,0.5743
+from a game called Slaughter Race.,neutral,0.8734
+A racing game?,neutral,0.8452
+That's right.,neutral,0.569
+Slaughter Race is the most popular online racing game out there.,positive,0.9599
+"However, it is wicked dangerous.",negative,0.9128
+We ain't afraid of danger.,neutral,0.7366
+This kid's the best racer in the whole world.,positive,0.9781
+"We'll get you that car, no problemo.",positive,0.5374
+Slaughter Race!,negative,0.7004
+Enter at your own risk.,neutral,0.6436
+"Okay, this game is kind of amazing.",positive,0.9876
+"Meh, the attention to detail is pretty impressive.",positive,0.957
+I don't think I've ever been in a game with smog before.,negative,0.7124
+Nice kitty.,positive,0.9272
+Nice kitty.,positive,0.9272
+"Easy, boy.",neutral,0.5504
+Easy.,positive,0.5068
+Let's just find Shank's car and get outta here.,neutral,0.5868
+Agreed.,neutral,0.5332
+Look.,neutral,0.6185
+Look.,neutral,0.6185
+There it is.,neutral,0.5908
+That car is gorgeous.,positive,0.9766
+No wonder it's worth so much.,positive,0.692
+"Aw, sugar.",negative,0.6259
+Players.,neutral,0.7002
+They beat us to it.,neutral,0.5111
+31 hours of continuous gameplay...,neutral,0.8611
+and we've finally found Shank's car.,neutral,0.6195
+Let's jack this ride.,neutral,0.5904
+"Oh, yeah, DirtySocks, it's on.",neutral,0.5369
+Jim!,neutral,0.5033
+Jimmy?,neutral,0.663
+"You're not playing that horrible game again, are you?",negative,0.9186
+"No, Grandma!",neutral,0.566
+I'm doing my homework.,neutral,0.7143
+"Okay, like I said...",neutral,0.7688
+Let's jack this ride.,neutral,0.5904
+"Well, well, well.",neutral,0.6646
+"While the cat was away, these mice tried to play.",neutral,0.6269
+"Hey, I think that might be Shank.",neutral,0.7612
+"Listen up, mice...",neutral,0.5625
+anyone who tries to play with this cat's ride is gonna get got.,negative,0.7756
+"You're going down, Shank.",negative,0.7562
+Pyro.,neutral,0.579
+Give those punks the works.,negative,0.735
+With pleasure.,positive,0.8856
+End of the road!,neutral,0.6222
+Gosh dang it!,negative,0.4789
+Now we gotta start all over.,neutral,0.5434
+"Ralph, maybe...",neutral,0.8547
+"Hey, where are you going?",neutral,0.8866
+I am scared.,negative,0.8252
+"If we get burned up in here, that's it, we're dead, we're gone.",negative,0.9
+"So, I think we should get outta here right now.",negative,0.7502
+"No, wait, wait.",neutral,0.5196
+I have an idea.,neutral,0.72
+"Hey, Shank?",neutral,0.7804
+"What's up, Pyro?",neutral,0.7742
+Do you ever reckon we're going a bit too hard on the players?,negative,0.6129
+"Honestly, no, I don't.",neutral,0.5461
+"Of course, I have empathy for players like DirtySocks537 and BabeRaham_Linkin...",neutral,0.5792
+"but if we just let them win, where's the life lesson?",negative,0.5452
+You know?,neutral,0.6494
+"Yeah, but to Pyro's point...",neutral,0.7785
+"I mean, those players work so hard to get here.",neutral,0.5698
+"I hear you, Felony...",neutral,0.7562
+but imagine a game without challenges.,neutral,0.6661
+The same predictable thing every single time...,negative,0.8357
+who wants that?,neutral,0.6942
+Shank's right.,neutral,0.7382
+I just saw a really insightful TED talk...,positive,0.9531
+and I can't really remember what the guy said.,negative,0.5287
+It was more about how he made me feel.,neutral,0.8329
+"But I think, ultimately, the point was...",neutral,0.8425
+"I honor your journeys, guys.",positive,0.9125
+"And we honor yours, Butcher Boy.",positive,0.5677
+Thank you.,positive,0.853
+"Hey, Shank, did you ever wonder what it would be like...",neutral,0.8016
+if someone actually did get your car?,neutral,0.7916
+"Well, I know one thing...",neutral,0.6701
+whoever does will have to be the best of the best.,positive,0.7891
+"Good day to you, madam.",positive,0.9403
+Who are you?,neutral,0.7975
+I'm here from the Department of Noise.,neutral,0.748
+"And the thing is, we've been getting some complaints down at HQ.",negative,0.7317
+Larry's the one who takes the calls.,neutral,0.7535
+"Anyways, someone told Larry...",neutral,0.7713
+that we've been hearing a lot of gun sounds and screaming sounds...,negative,0.4947
+and what-have-you.,neutral,0.6542
+That sort of thing.,neutral,0.6433
+This is nice.,positive,0.9823
+Where have you been all my life?,neutral,0.6368
+So I came to check on things.,neutral,0.8626
+"I'm sorry, who did you say you were again?",negative,0.6417
+I'm Larry?,neutral,0.7686
+You said Larry took the call.,neutral,0.7799
+"Good job, Larry!",positive,0.9545
+"Yeah, worked like a charm!",positive,0.9423
+Are you kidding me?,negative,0.6195
+Someone got Shank's car?,neutral,0.7318
+And I need yours.,neutral,0.7673
+Sorry.,negative,0.5092
+I'm just gonna go.,neutral,0.7112
+This is the worst day of my life!,negative,0.9819
+It's a shame we have to leave so soon.,negative,0.9443
+This game is cool.,positive,0.9852
+Just get us out of here so we can get this car to Spamley and get paid.,neutral,0.6683
+No problem.,positive,0.6487
+Look at this guy coming in hot.,positive,0.8135
+"You mess with the bull, you get the horns, little girl!",negative,0.6314
+"You still have value, Butcher Boy.",positive,0.5474
+"Oh, no!",negative,0.6841
+It's that Shank lady.,neutral,0.6927
+She looks upset.,negative,0.7513
+"Don't worry, I'll lose her.",neutral,0.5799
+Where are you going?,neutral,0.83
+"Kid, get back on the track.",neutral,0.6866
+I'm gonna lose my cookies.,negative,0.8834
+There is no track.,neutral,0.7061
+I can drive anywhere.,neutral,0.521
+"Kid, she's coming up right behind us.",neutral,0.8281
+"Oh, hello!",positive,0.542
+I believe you have something of mine.,neutral,0.7146
+"Yeah, come and get it.",neutral,0.6027
+This girl can drive.,neutral,0.4991
+Would you hurry up and lose her?,neutral,0.4913
+I'm trying!,positive,0.6773
+"Hang on, chumbo!",neutral,0.6221
+I don't like this!,negative,0.9701
+"Mother Hubbard, this lady can really drive.",neutral,0.4867
+"Kid, fire!",neutral,0.4793
+Do you see the fire?,neutral,0.7765
+Dead end!,neutral,0.4491
+Dead end!,neutral,0.4491
+Not for me.,negative,0.7815
+"Bye-bye, Shanky.",neutral,0.5961
+Yeah!,positive,0.7406
+That's the stuff.,neutral,0.5733
+"Good job, kid.",positive,0.9085
+"Oh, yeah, I feel like me again.",positive,0.8822
+One exit straight ahead.,neutral,0.6309
+You're not gonna lose me that easy.,neutral,0.4751
+How did you...?,neutral,0.8378
+You might wanna keep your eyes on the road.,neutral,0.7986
+Kid!,neutral,0.4803
+"Yo, Department of Noise, get out of my car!",negative,0.8375
+"Oh, man, what are we gonna do?",negative,0.5017
+"You just stay put, don't panic.",neutral,0.6655
+I'm gonna talk to her.,neutral,0.8258
+"Ralph, be careful.",neutral,0.7164
+It's fine.,positive,0.5682
+This is what heroes do.,positive,0.7039
+My bottom is stuck.,negative,0.8341
+This car is not designed for a big boy.,negative,0.8648
+I'll tell you that.,neutral,0.6103
+Hi.,neutral,0.5326
+You guys really thought you could just steal my car?,negative,0.8362
+"Well, let me tell you what's gonna happen now.",neutral,0.7729
+"No, wait, listen.",neutral,0.6187
+We aren't normally car thieves.,neutral,0.5323
+"My friend here, she's a candy kart racer.",neutral,0.5238
+You should see her racing around her sweet little track...,positive,0.7062
+in her cookie wafer car we built together.,neutral,0.7226
+"And, well, the thing is, her perfect little game broke...",negative,0.7396
+and it was my fault...,negative,0.8097
+so we're here to try to fix it...,neutral,0.711
+"and we need money to do that, and someone was gonna pay us money...",neutral,0.6478
+"to steal your car, and so we took it.",neutral,0.6598
+"Okay, okay.",neutral,0.4838
+You can stop crying.,neutral,0.5028
+Though I do respect your wonderful display of vulnerability.,positive,0.8858
+Thank you.,positive,0.853
+"I get it, I do.",neutral,0.6515
+"Friendship is everything to us, too.",positive,0.8693
+"Right, guys?",neutral,0.8266
+Word.,neutral,0.6047
+We're like family.,positive,0.6963
+That's really great.,positive,0.9842
+"So, does this mean we can keep your car?",neutral,0.801
+Absolutely not.,negative,0.6824
+But I do want to help.,positive,0.5287
+"Hey, you got your phone on you?",neutral,0.7773
+You know it.,neutral,0.5489
+Let's make a video.,neutral,0.6882
+"Pyro, hit big boy with the blow and go.",neutral,0.7911
+I'd love to.,positive,0.8995
+Wait.,neutral,0.5851
+What's the...?,neutral,0.7277
+What are you doing?,neutral,0.8242
+"Say something, first thing that comes to your mind.",neutral,0.8239
+I'm gonna wreck it!,negative,0.4427
+Good.,positive,0.7732
+All right.,neutral,0.4897
+Turn it off.,neutral,0.5429
+What the heck did you do that for?,negative,0.8487
+Yeah.,neutral,0.5491
+There are much better ways to make money on the Internet than stealing cars...,negative,0.458
+such as becoming a BuzzzTube star.,neutral,0.8293
+Am I supposed to know what that is?,neutral,0.6942
+"Oh, come on.",neutral,0.4954
+Everybody knows BuzzzTube.,neutral,0.6573
+It's the video-sharing site.,neutral,0.8207
+I'm just starting your account...,neutral,0.7575
+"All right, there you go.",neutral,0.6256
+"If this thing goes viral, you can make a lot of money.",positive,0.7903
+"A friend of mine, chick named Yesss...",neutral,0.7354
+she's the head algorithm over there.,neutral,0.7423
+Tell her I sent you.,neutral,0.8019
+Yesss will hook you up.,neutral,0.5166
+"Wow, that's really nice of you.",positive,0.9885
+"I'm not sure if ""nice"" is the right word.",negative,0.4858
+"Well, thank you.",positive,0.8226
+"I should be thanking you, little sister.",positive,0.7161
+That race was fun.,positive,0.9318
+"Well, thank you again.",positive,0.9441
+"While we're talking shop, what move did you do to get through that tunnel of fire?",neutral,0.8832
+"Was it a power drift into a drift jump, maybe, or...?",neutral,0.9125
+Maybe.,neutral,0.6051
+If you ever wanna come back for a rematch...,neutral,0.8814
+I'd be happy to kick your butt again.,positive,0.7076
+See you.,neutral,0.6398
+Show-off.,neutral,0.671
+"Man, oh, man, that place was scary.",negative,0.8576
+I know.,neutral,0.5132
+It was so exciting!,positive,0.991
+"No, exciting is when you smile.",positive,0.7674
+"Scary is when you clench your butt, and my butt is still clenched.",negative,0.6854
+"Come on, are you honestly telling me...",neutral,0.5191
+that Shank lady wasn't the coolest person you ever met?,neutral,0.5315
+Cool?,neutral,0.7106
+Name one cool thing about her.,positive,0.8153
+"Let's see, she looks cool, she talks cool...",positive,0.9163
+"she drives cool, her hair is cool, her car is cool...",positive,0.9577
+"Wait a minute, are you saying my hair isn't cool?",negative,0.522
+What?,neutral,0.5653
+No!,neutral,0.4416
+I'm just saying the game was next-level.,neutral,0.5076
+There was no one telling you what to do or where to go.,neutral,0.7053
+"Hey, just where do you think you're going?",neutral,0.9014
+To BuzzzTube.,neutral,0.8126
+It's this way.,neutral,0.7216
+"No, no, no.",negative,0.6471
+We're going back to Spamley's.,neutral,0.8502
+He can give us some easier loot to find.,positive,0.5687
+"No, we're supposed to see Shank's friend.",neutral,0.6236
+Come on.,neutral,0.5758
+I don't trust that Shank one bit.,negative,0.8771
+"Well, I do.",neutral,0.6811
+"Well, I...",neutral,0.7943
+"Hello, mister.",neutral,0.6644
+Who are you?,neutral,0.7975
+I'm your friendly ebay alert messenger.,positive,0.5322
+An actual eboy.,neutral,0.524
+Just here to let you know your bid expires in eight hours.,neutral,0.8724
+Eight hours.,neutral,0.6078
+"Okay, thanks, eboy.",positive,0.5871
+"You got it, Jackson!",positive,0.8287
+"Chumbo, if we nickel-and-dime it with Spamley...",neutral,0.8374
+it will take 20 years to make enough money to buy the wheel.,negative,0.5721
+"All right, fine.",neutral,0.4828
+We'll do it your way.,neutral,0.6183
+"But I'm telling you right now, that BuzzzTube place is a terrible idea.",negative,0.9564
+"Man, there are all kinds of videos in here.",neutral,0.6098
+"Yeah, if you like babies and cats.",neutral,0.6169
+"Look, there's you!",positive,0.7544
+"Oh, yeah.",neutral,0.5585
+I'm gonna wreck it!,negative,0.4427
+I wonder why those little guys are giving your video all those hearts?,neutral,0.6068
+Because obviously they love me.,positive,0.7392
+I told you this place was a good idea.,positive,0.6822
+"Yeah, sure you did, doof.",neutral,0.5408
+"Now, who we supposed to see about getting paid again?",negative,0.5698
+The head algorithm.,neutral,0.6612
+Her name is Yesss.,neutral,0.7162
+No.,neutral,0.4936
+No.,neutral,0.4936
+No.,neutral,0.4936
+"Uninspired, clichéd...",negative,0.8318
+YouTube's got this one.,neutral,0.536
+Chewbacca Dad?,neutral,0.8263
+Really?,neutral,0.6008
+"Yeah, it's like Chewbacca Mom, but it's a daddy.",neutral,0.6287
+No!,neutral,0.4416
+Heyo!,neutral,0.5207
+Are you the head of Al Gore?,neutral,0.797
+I am the head algorithm of BuzzzTube...,neutral,0.855
+which means I curate the content...,neutral,0.8655
+at the Internet's most popular video-sharing site.,positive,0.7578
+"Which means, I don't have time to trifle...",neutral,0.4848
+"with every shoeless, mouth-breathing hobo that trundles into my office.",negative,0.7819
+"Call security, Maybe.",neutral,0.7173
+Yes.,positive,0.461
+"But, Yesss, this is the leaf blower guy.",neutral,0.6272
+Who?,neutral,0.6756
+The man with the undulating jowls.,neutral,0.7715
+So?,neutral,0.6591
+His video has 1.3 million hearts.,positive,0.8132
+Well!,positive,0.5741
+Why didn't you tell me I was in the presence of a genius?,neutral,0.6166
+Grab him a drink.,neutral,0.7567
+"Yeah, this lady named Shank...",neutral,0.7631
+she actually made the video.,neutral,0.807
+She's the one who told us to come see you.,neutral,0.8091
+No wonder your video's so dope.,positive,0.8262
+Shank is for real cool.,positive,0.9356
+Right?,neutral,0.736
+She is not.,neutral,0.5096
+I'm the cool one getting all the hearts.,positive,0.797
+"Well, that's right, you big baby.",neutral,0.5177
+Yeah.,neutral,0.5491
+What'd you say your name was?,neutral,0.8288
+"Ralph, Wreck-It Ralph.",neutral,0.5965
+"Well, Wreck-It Ralph, you are trending!",positive,0.8257
+And these are for you.,neutral,0.7522
+"Hearts, hearts, hearts, hearts.",positive,0.5589
+"Hearts, hearts, hearts!",positive,0.8155
+"Hearts, hearts, hearts!",positive,0.8155
+Yes!,positive,0.8097
+Hearts!,positive,0.5857
+Not to buzzkill the lovefest you guys got going on here...,neutral,0.5924
+"but Shank kinda told us that viral videos can make, like, actual money?",neutral,0.7394
+"Oh, hearts are money, honey.",neutral,0.588
+Your Buzzzy account converts hearts into dollars.,neutral,0.7229
+Ka-ching!,neutral,0.6914
+"$43,000!",neutral,0.6817
+"Kid, we only needed 27,001.",neutral,0.6714
+We're done.,neutral,0.5549
+"Oh, no, no, no.",negative,0.746
+That's $43.,neutral,0.7322
+43?,neutral,0.6558
+"That's not even half of 27,001.",negative,0.4783
+And we only have eight hours left to save my game.,neutral,0.5209
+"I hate to say it, but that ain't happening.",negative,0.7857
+Your video is tapped out.,negative,0.8918
+But I thought I was trenching?,neutral,0.5703
+Trending.,neutral,0.7299
+You were.,neutral,0.6614
+But that was 15 seconds ago.,neutral,0.6815
+"Now, you're not.",neutral,0.5336
+"Thanks for stopping by, though.",positive,0.9074
+"What are we gonna do, kid?",neutral,0.8076
+"All right, pal, I have an idea.",neutral,0.6789
+And hear me out.,neutral,0.7582
+What if we go back to Slaughter Race and I ask Shank really...,neutral,0.8976
+"No, no, no.",negative,0.6471
+We're not going back to that death trap.,negative,0.7566
+"Yesss, what if I made you a whole bunch of videos...",neutral,0.5699
+of me doing all kinds of them crazy things?,neutral,0.6212
+You mean saturate the market?,neutral,0.683
+That could get you a lot of hearts fast.,neutral,0.5972
+Have you thought this through at all?,neutral,0.7721
+What do you plan on even doing in these videos?,neutral,0.8755
+I'll just copy whatever's popular.,neutral,0.7135
+Genius.,positive,0.6147
+"Yo, Maybe, what's trending right now?",neutral,0.8848
+Let's have a lookie-lookie.,positive,0.6523
+"As usual, human suffering is number one...",negative,0.9171
+followed by hot pepper eating challenges...,neutral,0.8653
+video game walkthroughs...,neutral,0.8671
+screaming goats are back...,neutral,0.5654
+"unboxings, cooking demos, makeup tutorials...",neutral,0.8375
+"and lastly, bee puns.",neutral,0.6377
+"Let's ""bee"" friends.",neutral,0.5365
+"Two weeks in a row, guys.",neutral,0.8219
+That's a fortnight of bee puns.,neutral,0.6044
+He won't be doing any bee puns.,neutral,0.5594
+They're beneath you.,negative,0.928
+"Oh, I'm doing a bee pun.",neutral,0.7185
+"Yes, I am.",positive,0.5893
+"And I'm eating a hot pepper, and I'm putting on makeup...",neutral,0.6931
+and whatever else it takes!,neutral,0.6627
+"Because, kid, we came here to save your game and we're gonna do it.",positive,0.5812
+I love it!,positive,0.9838
+That is what the Internet was made for!,positive,0.4805
+"Now, let's get to work.",neutral,0.6609
+Seen it.,neutral,0.6909
+Saw that one.,neutral,0.6631
+Seen it.,neutral,0.6909
+Seen it.,neutral,0.6909
+"Yo, McNeely, you remember Wreck-It Ralph?",neutral,0.7639
+That bad guy from the old video game?,neutral,0.6642
+"Yeah, exactly.",neutral,0.5121
+I'm gonna send you a super random video.,neutral,0.7776
+"Check it out, dude.",neutral,0.8476
+"Yeah, I'll give it a heart.",positive,0.6167
+Whatever.,neutral,0.5607
+"Hey, everybody, welcome to Up To the Meme-ent!",positive,0.8721
+"I'm your host, Dani Fernandez.",neutral,0.8552
+"Nobody knows who's making them, but the whole world is going bonkers...",negative,0.6888
+over a series of truly bizarre videos...,neutral,0.5122
+starring '80s-era bad guy Wreck-It Ralph.,neutral,0.7255
+Check out what everyone is buzzing about...,neutral,0.6478
+over at BuzzzTube.com.,neutral,0.8589
+"Hey, guys, Wreck-It Ralph here...",neutral,0.5364
+with the ghost pepper challenge.,neutral,0.856
+Supposed to be spicy.,neutral,0.8219
+We'll see about that.,neutral,0.6756
+That's not so...,neutral,0.5425
+"Oh, it's very hot!",positive,0.945
+Make it stop!,negative,0.5396
+"Yo, McNeely, another one just dropped.",neutral,0.7337
+"Check it out, dude.",neutral,0.8476
+Where are these things coming from?,neutral,0.53
+"Hey, Josey, did you see the pepper challenge?",neutral,0.8883
+Not yet.,neutral,0.6702
+I'm watching the one where he just smacks his lips.,neutral,0.7066
+It's disgusting.,negative,0.9511
+You don't want any real hard lines.,negative,0.5332
+"You just want to blend that out there, like this...",neutral,0.8115
+"And that, my friends, is how you achieve the perfect cat eye.",positive,0.829
+I always start with the hootnanny.,neutral,0.7455
+Shift it into a floss.,neutral,0.7435
+And now I finish with a hot Marat.,neutral,0.5295
+"Follow along with me, and I'm gonna give this little cloud a little friend...",positive,0.6508
+in the form of a tree.,neutral,0.7842
+Everybody needs a friend.,neutral,0.553
+Look at these guys.,negative,0.567
+"Look at this one, sleeping under his ear.",neutral,0.5778
+You couch potatoes.,negative,0.915
+Wake up.,neutral,0.6348
+We've been baking at about 950 degrees now for six hours...,neutral,0.8615
+so she should be ready.,neutral,0.7147
+Voilà!,neutral,0.59
+Burnt pie!,neutral,0.5681
+Let's have a little whiff of this here.,neutral,0.8089
+"My hair, my hair!",neutral,0.5846
+My hair!,neutral,0.6425
+This man is on fire.,positive,0.6741
+Literal and figurative fire.,neutral,0.7868
+But he still needs 200 million hearts in the next five hours...,neutral,0.7109
+or this beautiful child loses her game.,negative,0.5763
+That's why I'm on to phase two...,neutral,0.7986
+"you, my elite Pop-Up Army.",neutral,0.6196
+I need you out there popping up...,neutral,0.5161
+and getting clicks all over the Internet.,neutral,0.6857
+"I'm talking Tumblr, Instagram, Mashable.",neutral,0.6128
+Be my pied pipers and lead that beautiful traffic to BuzzzTube...,positive,0.7577
+because Wreck-It Ralph needs his hearts.,neutral,0.6571
+"Hey, mister!",neutral,0.6408
+"Hey, yeah, yeah, yeah, yeah, you, you.",neutral,0.613
+You don't wanna miss this.,positive,0.467
+It's the latest Wreck-It Ralph video.,neutral,0.7522
+Click it.,neutral,0.6133
+Click it!,positive,0.5236
+"Man oh Manischewitz, that looks so fun.",positive,0.9833
+"Yesss, can I be a pop-up?",positive,0.5799
+I don't know.,neutral,0.5667
+Can you be annoyingly aggressive?,negative,0.8902
+I don't know.,neutral,0.5667
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+Can I?,neutral,0.8084
+"Yes, you're perfect.",positive,0.9463
+Here.,neutral,0.5711
+Thank you!,positive,0.9538
+"If you're going, I wanna go.",neutral,0.5472
+"No, baby, you've got to stay here and be my movie star.",neutral,0.6341
+What?,neutral,0.5653
+"No, no, no.",negative,0.6471
+Me and the kid are like shoes and socks.,neutral,0.7349
+Or peanut butter and bacon.,neutral,0.8321
+One cannot exist without the other.,neutral,0.5968
+"Go on, kid, tell her.",neutral,0.6447
+It's true.,neutral,0.5889
+"In fact, it's so true that we will be fine if we're apart for a minute.",positive,0.8545
+"Come on, pal.",neutral,0.6823
+It's my game we're trying to save.,neutral,0.6834
+I just wanna get out there and be useful.,positive,0.7632
+But without me?,neutral,0.6979
+What if you get lost?,neutral,0.5239
+You're just a kid.,negative,0.7501
+And you're some mature adult?,neutral,0.712
+"Well, I'm bigger.",positive,0.5052
+"Don't be insecure, big fella.",neutral,0.6614
+She's not gonna get lost.,neutral,0.6551
+I promise.,neutral,0.5038
+She'll be in my personal web browser.,neutral,0.7444
+And your app comes with BuzzzFace...,neutral,0.7127
+so you can keep in touch anywhere on the Internet.,neutral,0.5046
+"See, I'll be fine.",positive,0.7074
+"I know, I just...",neutral,0.5583
+We haven't been apart in like six years.,neutral,0.6245
+I'm going to miss you.,negative,0.5114
+"You'll be fine, too.",positive,0.7414
+"The more hearts your videos get, the faster we'll get the wheel.",positive,0.6097
+And then we can go home.,neutral,0.6898
+"Look, we'll be celebrating at Tapper's this time tomorrow, buddy.",positive,0.9472
+"Yeah, I guess you're right.",neutral,0.632
+Bye!,neutral,0.6142
+"Be careful, huh?",neutral,0.7542
+Don't be a dummy.,negative,0.637
+So where exactly are you sending her?,neutral,0.8112
+Since candy girl comes from an arcade game...,neutral,0.7677
+I'm thinking she'd be good in the gaming district.,positive,0.87
+"Oh, no, no, no, no.",negative,0.8404
+Bad idea.,negative,0.8468
+"Those games are dangerous, and they rot your brain.",negative,0.9712
+Why don't we send her somewhere a little more totally different than that...,negative,0.4924
+and nowhere near there?,neutral,0.5615
+Let's see.,neutral,0.607
+Family Friendly Fansites.,neutral,0.505
+"That sounds safe, and she is technically a princess...",positive,0.5929
+so how about this one here with the sweet little pink castle?,positive,0.6239
+I love it.,positive,0.9695
+"Okay, I'll redirect our newest pop-up to OhMyDisney.com.",neutral,0.6747
+"Jeez Louise, this place is bonkers!",negative,0.925
+To infinity and beyond!,positive,0.8087
+Come on.,neutral,0.5758
+Princesses and cartoon characters?,neutral,0.8254
+Lame.,negative,0.8059
+"Hey, easy there.",neutral,0.5712
+"I mean, no offense or anything.",neutral,0.6948
+"Well, time to get to work.",neutral,0.6959
+And for your final question.,neutral,0.7839
+"""My friends would describe me as?"" ""Smart, funny, kind, or brave."" Kind, I guess?",neutral,0.5396
+"Based on your answers, your princess BFF is Snow White!",neutral,0.733
+I do believe our friendship will be the fairest of them all!,positive,0.9688
+"Hey, wanna meet my BFF?",neutral,0.7185
+It's Wreck-It Ralph.,neutral,0.6056
+Just click here to see his new video.,neutral,0.7244
+Thank you.,positive,0.853
+"Yeah, in Captain America: The First Avenger...",neutral,0.7015
+"Red Skull refers to Yggdrasil, the World Tree, Guardian of Wisdom and Fate.",neutral,0.9293
+"Are we to believe, sir, that you are a descendant of that tree?",neutral,0.8063
+I am Groot.,neutral,0.6944
+"Okay, okay.",neutral,0.4838
+Thank you very much.,positive,0.96
+What is Drax really like?,neutral,0.8784
+I am Groot.,neutral,0.6944
+Thank you.,positive,0.853
+Yeah.,neutral,0.5491
+Are you a conifer or a fruit-bearing tree?,neutral,0.8976
+Excuse me.,neutral,0.4804
+I'll take this one.,neutral,0.5001
+"He is Groot, I am Vanellope, click here to meet Wreck-It Ralph.",neutral,0.6837
+This is almost too easy.,neutral,0.4219
+"Hey, do you have a permit for that pop-up?",neutral,0.8886
+That's unauthorized clickbait.,negative,0.809
+"You're coming with us, kid.",neutral,0.7369
+She's getting away.,neutral,0.6561
+This way.,neutral,0.6722
+"Step aside, citizen.",neutral,0.6334
+"Sorry, mister!",negative,0.5168
+"Hey, can't you read?",negative,0.4899
+Cast members only!,neutral,0.6547
+I think she went down this way.,negative,0.6713
+Come on.,neutral,0.5758
+Roger that.,neutral,0.6495
+Did you see a kid come through here?,neutral,0.82
+She came running through here like a headless hen.,negative,0.4912
+Any sign of her?,neutral,0.8151
+"No, maybe she went down to the Air Bud pavilion.",neutral,0.8716
+Come on.,neutral,0.5758
+Let's check it out.,neutral,0.7459
+Hi!,positive,0.4741
+"Ladies, I can explain.",neutral,0.8226
+"See, I'm a princess, too.",neutral,0.5555
+"Wait, what?",neutral,0.5943
+Yeah.,neutral,0.5491
+Princess Vanellope Von Schweetz...,neutral,0.8914
+of the Sugar Rush Von Schweetzes.,neutral,0.8543
+I'm sure you've heard of us.,neutral,0.8081
+It'd be embarrassing for you if you haven't.,negative,0.7457
+What kind of a princess are you?,negative,0.4946
+What kind?,neutral,0.77
+Do you have magic hair?,neutral,0.9208
+No.,neutral,0.4936
+Magic hands?,neutral,0.8601
+No.,neutral,0.4936
+Do animals talk to you?,neutral,0.8178
+No.,neutral,0.4936
+Were you poisoned?,neutral,0.5823
+No!,neutral,0.4416
+Cursed?,neutral,0.5089
+No!,neutral,0.4416
+Kidnapped or enslaved?,negative,0.583
+No!,neutral,0.4416
+Are you guys okay?,neutral,0.7755
+Should I call the police?,neutral,0.6634
+Then I have to assume you made a deal with an underwater sea witch...,neutral,0.6459
+where she took your voice in exchange for a pair of human legs?,neutral,0.699
+No!,neutral,0.4416
+"Good Lord, who would do that?",negative,0.7662
+Have you ever had True Love's Kiss?,neutral,0.8782
+Ew!,negative,0.8387
+Barf!,neutral,0.5507
+Do you have daddy issues?,negative,0.5185
+I don't even have a mom.,negative,0.6043
+Neither do we!,neutral,0.5529
+And now for the million-dollar question.,neutral,0.6626
+Do people assume all your problems got solved because a big strong man showed up?,neutral,0.5428
+Yes!,positive,0.8097
+What is up with that?,negative,0.5473
+She is a princess!,positive,0.9176
+Who made your gown?,neutral,0.8142
+I've never seen anything quite like it.,neutral,0.4321
+This old thing?,neutral,0.6801
+I'd so love to have one of my own.,positive,0.9532
+As would I.,neutral,0.7494
+Me too!,positive,0.5757
+So cool.,positive,0.9736
+Best outfit ever!,positive,0.9857
+"I want one too, you guys!",positive,0.9323
+I'll get my mice on this.,neutral,0.6955
+So this is love.,positive,0.8532
+"All hail Princess Vanellope, the queen of comfy!",positive,0.9246
+"Yay, Vanellope!",positive,0.9234
+Of all the thingamabobs in this entire world...,negative,0.5714
+I never thought I'd get to wear a real...,negative,0.637
+what's it called again?,neutral,0.8126
+"Oh, yeah.",neutral,0.5585
+Shirt.,neutral,0.7221
+I once had a dream that I might wear a shirt...,neutral,0.837
+Wait!,neutral,0.6225
+What's going on?,neutral,0.7289
+She's singing.,neutral,0.5811
+"Yeah, but there was like music and a spotlight.",neutral,0.7964
+"Wait, you all saw it too, right?",neutral,0.8054
+That's what happens when a princess sings about her dreams.,neutral,0.6929
+That's never happened to me.,neutral,0.4791
+"I mean, not even once.",neutral,0.5607
+Why don't you give it a try?,neutral,0.8167
+What is it you really want?,neutral,0.8217
+Sing about that.,neutral,0.7873
+Okay.,neutral,0.5844
+Sure.,neutral,0.4753
+I could do that.,positive,0.716
+Let's see.,neutral,0.607
+"Oh, steering wheel Oh, steering wheel Oh, yes, I want a steering wheel Well, there is a lot to unpack here.",neutral,0.5376
+"So, this steering wheel you sing of, that's a metaphor?",neutral,0.6629
+"No, no, no, it's not a metaphor.",neutral,0.5887
+I literally want a steering wheel.,positive,0.6642
+I think the issue is I was a little pitchy.,negative,0.8088
+Maybe a little.,neutral,0.7246
+But sometimes your song can't start...,neutral,0.5009
+until you go someplace to reflect.,neutral,0.8099
+What works for some of us...,neutral,0.7561
+is finding a form of water and staring at it.,neutral,0.8616
+What?,neutral,0.5653
+"Yes, I like to stare at a wishing well!",positive,0.8166
+I stare at the ocean.,neutral,0.6613
+Horse trough.,neutral,0.7622
+Soap bubbles!,positive,0.7961
+"Wait, you're saying if I just stare at some water...",neutral,0.7539
+Important water.,neutral,0.6201
+Right.,neutral,0.5665
+Of course.,neutral,0.5552
+"""Important water."" I stare at the important water...",neutral,0.7514
+and somehow magically I'll start singing about my dream?,neutral,0.5908
+For sure.,neutral,0.5574
+"Yeah, I don't think so, ladies, but thanks.",neutral,0.5659
+"Five minutes, Princesses.",neutral,0.8055
+"Another ""Which Disney Princess Are You?"" quizlet starts in five minutes.",neutral,0.8401
+"Okay, thank you.",positive,0.7884
+"I guess it's back to the gowns, girls.",neutral,0.6907
+"It was lovely to meet you, Vanellope.",positive,0.9879
+And best of luck finding your song.,positive,0.9249
+What did she just say?,neutral,0.7167
+We don't know.,neutral,0.6352
+We can't understand her.,negative,0.8797
+She's from the other studio.,neutral,0.8634
+"Hi, everybody.",neutral,0.5465
+Wreck-It Ralph here...,neutral,0.6139
+with a little box I'm gonna open.,neutral,0.7746
+Let's see what we got here.,neutral,0.7
+"A ""Pancake Milkshake Fun Set."" Got a little heft to it.",neutral,0.5508
+Something wobbling around in there.,neutral,0.7712
+Wonder if we got the kitty or the bunny.,neutral,0.8711
+Let's open it up.,neutral,0.6081
+Open sesabees!,neutral,0.6786
+"Man, who would've guessed a bee pun would be the thing to put us over the top?",negative,0.6347
+That's the Internet for you.,neutral,0.6745
+"All right, it is uploading.",neutral,0.7084
+"Hey, mister!",neutral,0.6408
+"Hi, eboy.",neutral,0.6207
+Just here to let you know your bid does expire in 30 minutes.,neutral,0.8418
+"Thanks, little eboy.",positive,0.694
+"You got it, chairman.",positive,0.4896
+"You hear that, Yesss?",neutral,0.7693
+We don't have a lot of time left.,neutral,0.5094
+Okay.,neutral,0.5844
+We just gotta...,neutral,0.7685
+"No, no, no.",negative,0.6471
+No!,neutral,0.4416
+Not you!,negative,0.6347
+What?,neutral,0.5653
+Why are you angry at the lollipop?,negative,0.7856
+What does that mean?,neutral,0.7731
+The file's not loading.,negative,0.8588
+"If this doesn't load, we're not gonna make it.",negative,0.9008
+You don't have enough hearts.,negative,0.7194
+"Ralph, where are you going?",neutral,0.8584
+I'm going down to the floor to get some hearts.,neutral,0.7993
+Genius!,positive,0.8207
+Good thinking.,positive,0.8317
+"Now someone get me tech support in here, stat!",neutral,0.5704
+Only one person.,neutral,0.7463
+"Hey, guys, come and check out my video, you're gonna love it.",positive,0.9884
+"Right, right over here.",neutral,0.7249
+"Yep, here we go.",neutral,0.6254
+What are you...,neutral,0.7613
+You guys!,positive,0.7657
+A cat?,neutral,0.7886
+You're gonna like this better than some dusty old cat.,positive,0.7156
+What?,neutral,0.5653
+"Give me that hose, partner.",neutral,0.6969
+"You know you love me, give me those hearts.",positive,0.801
+There we go.,neutral,0.5761
+"Hey, folks, where are you going?",neutral,0.8946
+Give my video a heart.,positive,0.5652
+That's it.,neutral,0.5321
+Let's see who's in here.,neutral,0.8284
+Hello?,neutral,0.643
+Anybody in here?,neutral,0.7895
+What the heck is this place?,negative,0.9629
+Some kind of libary?,negative,0.4991
+"""Wreck-It Ralph is back."" Hey, they're talking about me.",neutral,0.5234
+"Gee whiz, the Internet is so positive.",positive,0.9598
+"""Fix-It Felix, Jr.",neutral,0.7806
+"was my favorite game."" Mine, too.",positive,0.911
+"""Ralph's videos stink."" What?",negative,0.9232
+"""So stupid."" ""Ralph is the worst."" ""I hate him."" ""He's so fat and ugly."" ""Just a worthless bum, alone on a pile of bricks."" Yo, Ralph, you in here, dude?",negative,0.9804
+"Hey, I got to show you...",neutral,0.6
+First rule of the Internet...,neutral,0.7836
+do not read the comments.,negative,0.7056
+I should have told you that.,neutral,0.5638
+Look.,neutral,0.6185
+This place can bring out the worst in some people...,negative,0.9391
+but you gotta ignore all this.,neutral,0.5106
+"This isn't about you, Ralph.",neutral,0.5015
+It's about them.,neutral,0.6245
+I don't care.,neutral,0.5509
+It's fine.,positive,0.5682
+People hated me my whole life for being the bad guy.,negative,0.9529
+It's just a good reminder that this is the only heart that really matters.,positive,0.95
+Vanellope gave me this...,neutral,0.7886
+and as long as she likes me...,neutral,0.5167
+I don't need anybody else.,neutral,0.5687
+And I sure don't need the Internet.,neutral,0.5546
+Hold on.,neutral,0.6407
+It's not all bad.,positive,0.753
+The Internet can also be a place...,neutral,0.7328
+where you find a steering wheel at one website...,neutral,0.7766
+and make enough money to buy it at another one.,neutral,0.8219
+"Congratulations, Ralph.",positive,0.9595
+You did it.,positive,0.657
+"Wait, really?",neutral,0.5738
+"Yes, check your Buzzzy account.",neutral,0.831
+"You needed 27K, you got over 30 grand!",positive,0.596
+"Oh, my gosh!",neutral,0.3784
+This is great!,positive,0.9881
+"Thank you, Yesss.",positive,0.9579
+I couldn't have done it without you!,positive,0.6268
+That's really true.,positive,0.7514
+"Hey, eboy?",neutral,0.8028
+"What do you need, ace?",neutral,0.8526
+Can you give me a ride?,neutral,0.8236
+"Let's hop along, Cassidy.",positive,0.5145
+"Come on, song, come on.",neutral,0.5458
+I'm reflecting.,neutral,0.8047
+What is it that I want?,neutral,0.817
+What is my quest?,neutral,0.8603
+What is my dream?,neutral,0.8657
+"Well, ladies, I tried.",neutral,0.6616
+"No song for this princess, I guess.",neutral,0.4828
+How does this thing work?,neutral,0.652
+"Hey, kid, can you see me?",neutral,0.8034
+Yeah!,positive,0.7406
+"Yeah, you're right there.",neutral,0.6146
+We did it!,positive,0.8999
+We got the money!,positive,0.6934
+"No way, Ralph!",negative,0.5556
+That's great!,positive,0.9855
+I'm on my way to ebay right now with the eboy.,neutral,0.526
+"We're almost there, champ.",positive,0.8049
+"Good work, eboy.",positive,0.9385
+"Hey, meet me out in front of ebay in five minutes, okay?",neutral,0.7678
+"Okay, I'll see you soon.",neutral,0.5723
+"We're going home, kid!",positive,0.5294
+Our lives can finally get back to normal.,positive,0.721
+"Wow, I can't believe it.",positive,0.6682
+I get to go home.,neutral,0.5757
+"So, I guess that's it.",neutral,0.6601
+I guess I just wanted a steering wheel.,neutral,0.587
+"And now, I got it, so...",neutral,0.6883
+whoo-hoo.,positive,0.7219
+Slaughter Race?,neutral,0.513
+What can it be that calls me to this place today?,neutral,0.8436
+This lawless car ballet?,negative,0.6775
+What can it be?,neutral,0.8123
+Am I a baby pigeon sprouting wings to soar?,neutral,0.8739
+Was that a metaphor?,neutral,0.8028
+"Hey, there's a dollar store Look!",positive,0.7007
+I'm rhyming My spirits climbing As I'm called through this fog of mace To this place called Slaughter Race Welcome back Watch your head Hate to see you end up dead Let's get this party rollin' Is that appliance stolen?,neutral,0.6277
+We have Fallen wires Dumpster fires Creepy clowns And burning tires That great white in the sewer You'll be happy that you knew her Fin bump!,negative,0.4793
+"Dogs and cats, they sure taste great With a side of license plate Some find us deplorable Well, I think you're adorable We may be a motley crew But our hearts ring true And just for you, a face tattoo Slaughter Race My heart's in flight And wow, it's a blast Feels like my dreams are real at last No trace of a frown upon your face Flying so fast Setting the pace Living the life Loving the chase Now is the time Here is the place This Slaughter Race!",positive,0.9268
+"I know I should go But home feels so slow These roads are paved with dreams Happy dreams, not creepy clown dreams What would Ralph say If it turns out I stay?",neutral,0.5297
+"In this place called Slaughter Race In this place called Slaughter Race That old, tired laptop moving at a sloth speed?",negative,0.5346
+Bid on a new one today!,positive,0.6002
+Do you wanna get rich playing video games?,neutral,0.6496
+Click here to...,neutral,0.8731
+Ralph.,neutral,0.6965
+Ralph!,neutral,0.5827
+"Hey, there.",neutral,0.605
+"Hey, Spamley.",neutral,0.6934
+"What's the good word, brother?",neutral,0.7862
+"Well, the good word is I just paid for the steering wheel...",positive,0.5864
+and we are going home.,neutral,0.7076
+Congratulations.,positive,0.9434
+Thanks.,positive,0.6284
+"Hey, have you seen Vanellope anywhere?",neutral,0.9174
+Your little chum?,negative,0.6145
+"No, no, I haven't.",neutral,0.5862
+Hope she's not lost.,neutral,0.6606
+Let me try to reach her on this doohickey.,neutral,0.872
+See over there?,neutral,0.7941
+Over that mountain?,neutral,0.8209
+Yeah.,neutral,0.5491
+That's the Sequoia Speedway.,neutral,0.8786
+It's gonna be unlocked next month.,neutral,0.596
+"Hey, what are you doing in that awful game with her?",negative,0.8494
+I think the track will end...,neutral,0.6936
+right over there.,neutral,0.5957
+"Yo, it's gonna be so tight.",positive,0.5471
+I love it.,positive,0.9695
+"Hey, can I tell you something that I don't think I could ever tell Ralph?",neutral,0.5357
+Of course.,neutral,0.5552
+I know it sounds crazy...,negative,0.4751
+"but the second I walked into this game, it felt...",neutral,0.6715
+"Well, it felt like home.",positive,0.617
+"I mean, more than Sugar Rush ever did.",neutral,0.7125
+"Oh, yeah?",neutral,0.6854
+How so?,neutral,0.763
+'Cause it's like my dream.,positive,0.4872
+It's full of weirdos...,negative,0.9397
+and the racing is super dangerous...,negative,0.8858
+and you never know what's gonna happen next.,neutral,0.6157
+"I mean, back home, I know exactly what's gonna happen next...",neutral,0.6147
+because Ralph's dream is to do the same thing every day.,neutral,0.6705
+Here's something I wish I'd learned years ago.,neutral,0.56
+There is no law saying best friends have to have the same dreams.,neutral,0.7034
+You know?,neutral,0.6494
+Yeah.,neutral,0.5491
+"You are a very wise person, Shank.",positive,0.904
+"And a good friend, too.",positive,0.8107
+Thank you.,positive,0.853
+"Around here, peeps like to say, ""Shank you."" You know, after you go home and your life gets back to normal...",neutral,0.6171
+you are always welcome here.,positive,0.9477
+"But that's the thing, I want this to be my normal.",neutral,0.6593
+I want this to be my life.,positive,0.844
+I can't go home now.,negative,0.8718
+I just can't.,negative,0.8616
+Wow.,positive,0.7094
+"You know, where I come from, that's called a kick in the face.",neutral,0.5692
+I can't believe it.,negative,0.6368
+A straight-up donkey kick to the teeth.,negative,0.8869
+She's supposed to be my best friend.,positive,0.5932
+"No, this can't be right.",negative,0.9436
+"No, she's been brainwashed.",negative,0.8927
+That's what this is.,neutral,0.6626
+Because the Vanellope I know would never abandon me like that.,neutral,0.5865
+I gotta get her out of there now.,negative,0.5302
+"Hey, easy now, tiger.",neutral,0.6221
+I admire the impulse...,positive,0.8019
+but you charge in there like some white knight...,neutral,0.7079
+she's liable to hold it against you.,neutral,0.5243
+So what?,neutral,0.6823
+I'm supposed to just let her stay in a game that's obviously bad for her?,negative,0.8953
+Of course not.,negative,0.5204
+Then how do I make her leave?,neutral,0.6406
+She thinks it's so cool and exciting in there.,positive,0.9855
+Unless you know how I can make the game boring or...,negative,0.7438
+Wait.,neutral,0.5851
+"You know about viruses and stuff, right, Spamley?",neutral,0.5807
+Who's asking?,neutral,0.7899
+"Back home, me and the kid used to goof off in this game called Tron.",neutral,0.6465
+But then it got a virus that made the motorbikes go slow...,negative,0.7989
+and then Vanellope stopped wanting to hang out in there.,neutral,0.5028
+"So, is there a way to do something like that to Slaughter Race?",neutral,0.8696
+There's ways.,neutral,0.6528
+Follow me.,neutral,0.6722
+I got mothers' maiden names...,neutral,0.818
+"social security numbers, PIN numbers...",neutral,0.8021
+"Now, this area down here is what's called the Darknet.",neutral,0.8424
+A lot of shady characters hang out down here...,negative,0.7112
+so try to keep a low profile.,neutral,0.7348
+Gord!,neutral,0.5566
+There you are.,neutral,0.6276
+"Now Gord here, he's dabbled in virus-making.",neutral,0.6912
+"But his cousin, this guy we're gonna go see...",neutral,0.8112
+"Double Dan, this dude is a virus-making machine.",negative,0.936
+Here we go.,neutral,0.5885
+Are you sure this is safe?,neutral,0.8314
+Is it safe?,neutral,0.8214
+Of course it is.,neutral,0.6118
+"Just whatever you do, do not look at his little brother.",negative,0.5572
+He has a little brother?,neutral,0.8818
+Double Dan!,neutral,0.5781
+Long time no see.,neutral,0.4874
+Who are you?,neutral,0.7975
+JP Spamley.,neutral,0.7062
+We met one time over at Friendster...,neutral,0.7975
+which tells you it had to be a long time ago.,neutral,0.6116
+What are you looking at?,neutral,0.8173
+Nothing.,neutral,0.5182
+Are you looking at my brother?,neutral,0.8444
+"No, sir.",neutral,0.53
+Don't you look at my little brother.,negative,0.4935
+"No, I wasn't.",neutral,0.6606
+He's very self-conscious!,negative,0.5014
+You?,neutral,0.6413
+What are you doing here?,neutral,0.8691
+The reason I came to your neck of the face...,neutral,0.8199
+"I mean, there's a face in your neck.",neutral,0.7358
+I mean woods.,neutral,0.7397
+Neck of the woods.,neutral,0.71
+The reason I'm here is 'cause I...,neutral,0.6178
+"Well, I heard a little tumor, rumor...",neutral,0.5476
+I heard a rumor that you could give me a harmless virus kind of thing...,neutral,0.6686
+that might be able to slow down the Slaughter Race game?,neutral,0.8421
+"Oh, yeah.",neutral,0.5585
+My cousin Gordon told me that you wanted to crash it.,neutral,0.6638
+Crash it?,neutral,0.7029
+No!,neutral,0.4416
+"No, no, no.",negative,0.6471
+I don't want anyone getting hurt.,negative,0.838
+If there's a way to just...,neutral,0.7789
+I don't know...,neutral,0.5618
+just make the cars go slow or something...,neutral,0.5015
+so the game is boring...,negative,0.9539
+and my friend comes back home to me.,positive,0.5951
+Allow me to introduce you to Arthur.,neutral,0.8338
+"Easy there, boy.",neutral,0.5792
+He's keen.,positive,0.5232
+Arthur's what I call an insecurity virus.,negative,0.8828
+Means he looks for little flaws and weaknesses that make a program insecure.,negative,0.8071
+"You release him into that Slaughter Race game, Arthur will find some defect in the code.",neutral,0.5682
+Then he'll copy that defect and spread it all over the game...,negative,0.4917
+"until everything becomes, quote, unquote, ""boring""...",negative,0.8243
+just like you wanted.,neutral,0.6643
+Okay.,neutral,0.5844
+Just to be super clear here...,neutral,0.7315
+"no one gets hurt, right?",neutral,0.6432
+Are you stupid?,negative,0.9246
+Well...,neutral,0.7051
+Because the only way anyone gets hurt...,negative,0.8173
+is if you are stupid.,negative,0.9126
+All you have to do...,neutral,0.7969
+is make sure the virus stays in Slaughter Race.,neutral,0.5502
+Right.,neutral,0.5665
+Don't be stupid.,negative,0.6706
+Make sure it doesn't get out of Slaughter Race.,neutral,0.7058
+Goiter it.,neutral,0.5918
+Got it!,positive,0.8332
+Got it.,positive,0.5088
+Get out!,neutral,0.5983
+"Thank you, you're a cyst face.",positive,0.7968
+Out!,neutral,0.505
+"I mean, assistance.",neutral,0.7863
+Thank you for your cyst face...,positive,0.943
+Assistance.,neutral,0.7446
+Get out!,neutral,0.5983
+Goodbye!,neutral,0.5805
+Fiddlesticks!,neutral,0.6314
+"Well, that's game.",neutral,0.6558
+Beginner's luck.,neutral,0.7582
+"Come on, kid.",neutral,0.6217
+I know a hustle when I see one.,neutral,0.6168
+Player's on the way.,neutral,0.807
+"Thanks, Bob.",positive,0.7653
+Let's roll!,positive,0.7385
+"Game faces on, guys.",neutral,0.7363
+Show time.,neutral,0.6604
+You ready for your first race?,neutral,0.8267
+Yeah.,neutral,0.5491
+I think so.,neutral,0.547
+"Hey, don't be nervous.",neutral,0.691
+You're gonna be great.,positive,0.9494
+"Yeah, no, I know.",negative,0.6193
+I'll be fine.,positive,0.6359
+"You didn't tell Ralph yet, did you?",neutral,0.712
+Not exactly.,neutral,0.613
+"Come on, V.",neutral,0.6303
+He's your best friend.,positive,0.8516
+You gotta let him know you're planning on staying here for a while.,neutral,0.8604
+I know.,neutral,0.5132
+But he's gonna get really upset.,negative,0.7846
+"Yeah, he might, but you guys...",neutral,0.7848
+"you'll talk, you'll work it out, you'll figure it out.",neutral,0.5746
+"Yeah, but what if we don't?",neutral,0.688
+What if his feelings get hurt so bad...,negative,0.8862
+he won't wanna be my friend anymore?,negative,0.6851
+Look.,neutral,0.6185
+All friendships change...,neutral,0.7996
+but the good ones...,positive,0.6208
+they get stronger because of it.,positive,0.8012
+"Shank, I hate to bother you...",negative,0.7439
+but the player is waiting.,neutral,0.7416
+"I'm not gonna tell you what to do, kid.",neutral,0.6142
+It's your call.,neutral,0.7113
+"Yeah, okay.",positive,0.5509
+All right.,neutral,0.4897
+Let's race.,neutral,0.6509
+Scanning for insecurities.,negative,0.6052
+Scanning for insecurities.,negative,0.6052
+"""Precious Car-go."" Deliver the car to Bert's Chop Shop...",neutral,0.709
+but watch out for Shank and her crew.,neutral,0.7881
+Power drift into a drift jump!,neutral,0.6846
+I saw it!,neutral,0.5207
+You're amazing!,positive,0.9862
+Thank you.,positive,0.853
+Scanning for insecurities.,negative,0.6052
+Looks like we're not finished.,neutral,0.6039
+"Come on, V.",neutral,0.6303
+Ralph?,neutral,0.7668
+Okay.,neutral,0.5844
+Relax.,neutral,0.6769
+Relax!,neutral,0.5313
+I'll just call him after the race.,neutral,0.8564
+It'll be okay.,positive,0.6307
+Ralph will be fine.,positive,0.5646
+Insecurity detected.,negative,0.8007
+Copying insecurity.,negative,0.5098
+Distributing insecurity.,negative,0.7578
+Distributing insecurity.,negative,0.7578
+Distributing insecurity.,negative,0.7578
+Distributing...,neutral,0.8077
+What is happening?,neutral,0.6402
+"What's going on, Spamley?",neutral,0.816
+The whole place is going crazy.,negative,0.6257
+I thought that virus was just supposed to slow down her car.,negative,0.5244
+It was.,neutral,0.6107
+It must've found something real unstable in there.,negative,0.6914
+It's her glitch.,neutral,0.6923
+Game reboot begins in 60 seconds.,neutral,0.8878
+"Hey, Ralph, you can't go in there.",negative,0.5584
+They're gonna reboot the game...,neutral,0.7677
+and anything that doesn't belong in there will be deleted.,negative,0.7169
+"Yeah and if I don't get her outta there, Vanellope's gonna die!",negative,0.7457
+"Come on, kid.",neutral,0.6217
+The game's crashing.,negative,0.9211
+Let's go.,positive,0.5876
+I think it's my glitch.,neutral,0.6907
+"I'm sorry, I didn't mean to destroy your game.",negative,0.8297
+"We'll be fine, but your code isn't part of this game.",neutral,0.6045
+We got to get you out of here now.,neutral,0.5064
+Follow me to the exit.,neutral,0.7896
+"No, no!",negative,0.6435
+Kid!,neutral,0.4803
+"Kid, where are you?",neutral,0.7332
+"The server is rebooting, Ralph.",neutral,0.5784
+Both of you have to get out of here now.,negative,0.7376
+"Kid, I got you.",neutral,0.5064
+I got you.,positive,0.4731
+Game reboot...,neutral,0.8524
+"in five, four, three...",neutral,0.8576
+"two, one.",neutral,0.6668
+Reboot in progress.,neutral,0.8484
+"Come on, Vanellope.",neutral,0.6825
+Wake up.,neutral,0.6348
+Come on.,neutral,0.5758
+"Don't leave me, kid.",neutral,0.5698
+Ralph?,neutral,0.7668
+There you are.,neutral,0.6276
+"You okay, kid?",neutral,0.7976
+"Ralph, I messed up so bad.",negative,0.9229
+No.,neutral,0.4936
+"No, you didn't, it's okay.",positive,0.4888
+This is all because of me and my glitch.,neutral,0.4938
+I should've just stayed with you...,neutral,0.5799
+instead of following some stupid dream.,negative,0.8742
+I've ruined everything.,negative,0.9329
+"No, kid, no.",negative,0.5925
+Look.,neutral,0.6185
+I didn't mean for it to happen like this.,negative,0.8758
+It was not supposed to be this bad.,negative,0.8937
+You didn't mean for what to happen?,neutral,0.5422
+"I mighta, kinda sorta put a...",neutral,0.8414
+harmless little virus in the game.,negative,0.6782
+A virus?,neutral,0.5006
+You did this?,neutral,0.7617
+I wouldn't have done anything if I hadn't heard you tell Shank...,neutral,0.5635
+that you wanted to live in Slaughter Race forever.,neutral,0.7632
+So you were spying on me?,neutral,0.5989
+Hey.,neutral,0.5456
+You're not exactly innocent here.,neutral,0.5171
+You were gonna ditch everybody and abandon Sugar Rush.,neutral,0.5245
+"Oh, please.",neutral,0.636
+I'm one of 16 racers.,neutral,0.8836
+They'd never miss me.,neutral,0.5559
+What about me?,neutral,0.8172
+Why would I ever spend another second with you...,negative,0.9454
+after what you did?,neutral,0.6804
+No!,neutral,0.4416
+No.,neutral,0.4936
+"Vanellope, where are you going?",neutral,0.8924
+Wherever you're not.,neutral,0.6012
+Wait a minute.,neutral,0.5549
+I can explain.,neutral,0.6901
+No!,neutral,0.4416
+You will not follow me.,negative,0.5797
+"Vanellope, please...",neutral,0.7797
+A friend would never do what you did.,negative,0.596
+Never!,negative,0.4302
+So you leave me alone!,neutral,0.5063
+"Vanellope, no, no, no!",negative,0.6885
+Please!,neutral,0.5394
+Please!,neutral,0.5394
+What did I do?,neutral,0.6951
+Scanning for insecurities.,negative,0.6052
+"Vanellope, come on, don't leave me!",neutral,0.5435
+Insecurity detected.,negative,0.8007
+Copying insecurity.,negative,0.5098
+"No, no, no.",negative,0.6471
+Distributing insecurity.,negative,0.7578
+Come on.,neutral,0.5758
+Where is it?,neutral,0.7381
+No.,neutral,0.4936
+You are such an idiot.,negative,0.9756
+"What is your problem, Ralph?",negative,0.6158
+"I told you, don't follow me.",negative,0.5765
+Friend?,neutral,0.7922
+Cut that out.,negative,0.6482
+You're scaring me.,negative,0.9102
+Friend!,positive,0.5438
+What the...?,negative,0.5313
+Friend?,neutral,0.7922
+Friend!,positive,0.5438
+Sweet mother of Ralph!,positive,0.8984
+"In breaking news, the Internet is under assault...",negative,0.8754
+as a massive denial-of-service attack...,negative,0.8295
+crashes servers across the web.,neutral,0.5156
+The Wreck-It Ralph virus is fast-moving and destructive.,negative,0.9085
+Friend?,neutral,0.7922
+Friend?,neutral,0.7922
+Experts are still trying to understand who or what the virus's intended target may be.,neutral,0.6973
+Friend.,neutral,0.6934
+Friend.,neutral,0.6934
+Friend!,positive,0.5438
+Friend!,positive,0.5438
+"I found 130 results for ""Where does my high school girlfriend live now?"" You're welcome.",positive,0.6683
+Mr.,neutral,0.5849
+KnowsMore!,neutral,0.5967
+"Oh, delightful!",positive,0.9594
+"You're that courteous little cherub who says ""please"" and ""thank you."" What can KnowsMore help you find today?",positive,0.6455
+There's a whole...,neutral,0.7938
+"Whole Foods, a hole in the ozone...",negative,0.8095
+A Whole Lotta Love by British rockers Led Zeppelin?,neutral,0.6809
+No!,neutral,0.4416
+No!,neutral,0.4416
+There's a whole bunch of Ralphs chasing me.,neutral,0.54
+Friend...,neutral,0.7927
+This would probably be an appropriate time for me to shutter my site.,neutral,0.6844
+How long you think before they get in here?,neutral,0.8145
+Precisely one second.,neutral,0.7086
+"Hey, hey, hey!",positive,0.6822
+It's me!,positive,0.662
+It's the real me!,positive,0.6148
+Ralph?,neutral,0.7668
+My apologies.,neutral,0.5435
+I followed those things here.,neutral,0.8448
+"I think they're looking for you, kid.",neutral,0.6733
+"Yeah, you think?",neutral,0.7954
+What did you do?,neutral,0.8065
+I'm so sorry.,negative,0.8012
+I don't how this happened.,negative,0.8973
+"Well, I think it's fairly obvious.",neutral,0.576
+It happened because an insecurity virus cloned...,negative,0.5846
+"all of your needy, clingy, self-destructive behavior.",negative,0.9578
+The very behavior which left unchecked can destroy friendships...,negative,0.8917
+"and in this particular case, the entire Internet!",neutral,0.5463
+KnowsMore!,neutral,0.5967
+You have all the answers.,neutral,0.5657
+Official query...,neutral,0.844
+what do I do if clones of me are trying to capture my friend?,neutral,0.7009
+Search.,neutral,0.6908
+I find two results for your query.,neutral,0.8103
+Either you put all the clones in therapy.,neutral,0.4985
+Not very realistic.,negative,0.8227
+"Or, the anti-virus district is surrounded by a gate made from security software.",neutral,0.7536
+If Vanellope could somehow lead all of the clones through the gate...,neutral,0.809
+they would be deleted all at once.,negative,0.5886
+Sort of a co-dependent pied piper situation.,neutral,0.8354
+Wait.,neutral,0.5851
+We know a pied piper.,neutral,0.7133
+We do?,neutral,0.7459
+Yesss.,neutral,0.4416
+Who?,neutral,0.6756
+Yesss!,positive,0.8356
+"Yeah, but who is it?",neutral,0.7502
+"Oh, you mean Yesss!",neutral,0.5334
+"Thanks for your help, KnowsMore.",positive,0.9423
+"It's a bit of an empty gesture at this point, wouldn't you say?",negative,0.5562
+Guess I forgot to tell Ralph that when you break the Internet...,negative,0.578
+you don't literally have to break the Internet.,neutral,0.5301
+I can't believe he did this.,negative,0.9219
+"Yeah, well, I mean, dude obviously made some real questionable choices here.",negative,0.8481
+But he also made a bee pun to save his best friend's game...,neutral,0.6786
+"so what can I say, kid, life's complicated.",negative,0.6424
+You ready to pied the piper?,neutral,0.8486
+Yoo-hoo!,positive,0.8853
+Up here!,positive,0.5834
+"It's me, your bestest friend in the whole wide world...",positive,0.9196
+who you can't live without!,neutral,0.473
+Friend!,positive,0.5438
+"Wow, from up here I can see how I do come across as...",neutral,0.5557
+"needy, and clingy, and self-destructive like KnowsMore said.",negative,0.9012
+"Listen, kid...",neutral,0.7087
+I don't blame you for not wanting to be my friend anymore.,negative,0.6548
+I never said I didn't want to be your friend.,neutral,0.6358
+I said you were acting like a bad friend.,negative,0.7533
+Which you were.,neutral,0.7128
+"I know I was, but I...",neutral,0.6484
+"Hey, my babies!",positive,0.9364
+That's the anti-virus district straight ahead.,neutral,0.7234
+"All right, to be continued, okay?",neutral,0.5807
+We're gonna make it!,positive,0.9286
+You guys okay?,neutral,0.7287
+I'm fine!,positive,0.9076
+"Yeah, all good.",positive,0.8632
+"Look, we can still do this.",positive,0.7057
+"Come on, big man.",neutral,0.6232
+Help me turn this thing over.,neutral,0.7016
+"Uh, guys?",neutral,0.7833
+Friend?,neutral,0.7922
+That is unsettling.,negative,0.8447
+Friend.,neutral,0.6934
+Get Vanellope out of here now.,negative,0.5246
+"What about you, Ralph?",neutral,0.8581
+Just go.,neutral,0.621
+I got a date with the man in the mirror.,neutral,0.8635
+"Hey, you!",positive,0.5209
+You keep away from her!,neutral,0.6656
+I'm gonna wreck it!,negative,0.4427
+She's not your friend!,negative,0.7648
+She's my friend!,positive,0.9047
+"Here it is, this way.",neutral,0.7203
+"Come on, kid.",neutral,0.6217
+We gotta move.,neutral,0.7009
+Eeeee-oh-boy!,neutral,0.5293
+No!,neutral,0.4416
+Vanellope!,neutral,0.5688
+Hey!,neutral,0.5279
+Let go of me!,neutral,0.5729
+Kid!,neutral,0.4803
+Ralph!,neutral,0.5827
+Hey!,neutral,0.5279
+"Hey, get back here!",neutral,0.6345
+You put her down!,negative,0.713
+Vanellope!,neutral,0.5688
+"You know, you're acting like a real bad guy here!",negative,0.6886
+"Well, you are!",positive,0.7021
+And I will never be your friend!,negative,0.7687
+"Hey, doofus!",negative,0.8176
+Ralph!,neutral,0.5827
+"Catch me if you can, you big dummy!",negative,0.7612
+"I got you, little sister.",neutral,0.5556
+Now go!,positive,0.5638
+Get out of here!,negative,0.7254
+Ralph!,neutral,0.5827
+Go!,positive,0.6266
+No!,neutral,0.4416
+Don't hurt him!,neutral,0.4762
+"Please, no!",negative,0.6301
+Stop it!,negative,0.5914
+You're squishing him!,neutral,0.4982
+You're gonna kill my best friend!,negative,0.8792
+Fine!,positive,0.7965
+You win!,positive,0.8882
+"You win, okay?",positive,0.5235
+Just please put him down.,negative,0.873
+"I'll be your only friend, okay?",positive,0.6911
+Just let him go.,neutral,0.6087
+No!,neutral,0.4416
+"No, kid.",negative,0.5422
+That's it.,neutral,0.5321
+That's it.,neutral,0.5321
+Yeah.,neutral,0.5491
+Put him down and I'll go with you...,neutral,0.7214
+and we'll be best friends forever.,positive,0.9024
+Just me and you.,neutral,0.7672
+"That's what you want, right?",neutral,0.7249
+"Well, that's not what I want!",negative,0.873
+It's not right to hold a friend back from her dreams!,negative,0.7506
+You don't own her!,negative,0.7034
+That's not how friendship works!,negative,0.786
+You need to let her go!,negative,0.5848
+Hey.,neutral,0.5456
+You need to let her go.,neutral,0.5217
+I know.,neutral,0.5132
+It's gonna hurt a little bit when you do.,negative,0.7863
+Who am I kidding?,neutral,0.5751
+It's gonna hurt a lot.,negative,0.8974
+But you're gonna be okay.,positive,0.7228
+And we're gonna be okay.,positive,0.8137
+"Right, kid?",neutral,0.7453
+Of course we are.,positive,0.5235
+Always.,neutral,0.4727
+See?,neutral,0.6904
+No matter where she goes...,neutral,0.7797
+or where she lives...,neutral,0.8177
+she's always gonna be our friend.,positive,0.8716
+And we just gotta trust her.,neutral,0.5082
+Because that's what best friends do.,positive,0.8396
+Right?,neutral,0.736
+"Thanks, buddy.",positive,0.7664
+Wow!,positive,0.8599
+I feel good about this.,positive,0.9667
+"Ralph, look!",neutral,0.5179
+I think you fixed your insecurity!,positive,0.5657
+You're right.,positive,0.4782
+"Ralph, no!",neutral,0.508
+"Park it right here, Ralph!",neutral,0.6412
+Your ol' pal JP Spamley's gotcha!,neutral,0.7831
+"Wow, that didn't work.",negative,0.9356
+Look up there!,positive,0.5235
+It's a big strong man in need of rescuing.,neutral,0.5743
+"Thanks, Frogger.",positive,0.5673
+Wait a minute.,neutral,0.5549
+Who are all of you?,neutral,0.7433
+We're friends of Vanellope's.,neutral,0.5037
+"Yeah, and any friend of Vanellope's is a friend of ours.",neutral,0.6234
+You're welcome.,positive,0.9099
+Ralph!,neutral,0.5827
+"Looking good, big fella!",positive,0.9779
+Heyo!,neutral,0.5207
+This dress is not made for a big boy.,negative,0.8653
+It's going right up the back alley there.,neutral,0.7943
+Let me just make a little adjustment.,neutral,0.8063
+There we go.,neutral,0.5761
+Internet users are breathing a collective sigh of relief tonight.,positive,0.9197
+"Just as mysteriously as it appeared, the Wreck-It Ralph virus has vanished.",neutral,0.5074
+You know what I just realized?,neutral,0.7221
+The sun never rises or sets here...,neutral,0.5136
+because everything's always on.,neutral,0.6382
+"Well, now, isn't that an astute observation?",neutral,0.7299
+"I know, right?",neutral,0.6045
+"You know, other than KnowsMore, I'm probably the smartest guy on the Internet.",positive,0.8965
+Yeah.,neutral,0.5491
+Yeah.,neutral,0.5491
+"Yo, V.",neutral,0.6501
+We're about to come back online.,neutral,0.6834
+You ready?,neutral,0.6895
+Be right there!,positive,0.6368
+"Hey, Ralph, don't be a stranger!",neutral,0.5971
+"Well, I can't be much stranger than you, Shank.",neutral,0.4869
+That's a good dad joke.,positive,0.8551
+"Hey, don't forget.",neutral,0.6961
+"You know Shank added my code and everything, so I'll be able to regenerate.",neutral,0.5621
+I'm gonna be totally safe.,positive,0.8511
+"No, I know.",negative,0.494
+It's gonna be great.,positive,0.9715
+You found your dream game.,positive,0.7205
+"Yeah, I did.",neutral,0.5377
+I did.,neutral,0.5961
+So...,neutral,0.7269
+"I guess I should probably head in there now, you know?",neutral,0.8359
+"Before you go, I wanted to give you this.",neutral,0.7161
+"I'm so sorry I broke it, Ralph.",negative,0.8263
+"No, no.",negative,0.5318
+It's okay.,positive,0.7313
+Now we can both have a half.,neutral,0.74
+See?,neutral,0.6904
+Yeah!,positive,0.7406
+I love you so much.,positive,0.9826
+I'm really gonna miss you.,negative,0.3964
+"I'm gonna miss you too, kid.",neutral,0.5015
+I really am.,neutral,0.4689
+All right.,neutral,0.4897
+"Okay, getting a little clingy on me, here.",negative,0.6878
+Go on.,neutral,0.6503
+Get out of here.,negative,0.7729
+"The world's waiting for you, kid.",positive,0.7528
+"I'll be honest, it still feels kind of weird around here.",negative,0.7528
+"I mean, a lot has changed.",neutral,0.7385
+Even though we got that steering wheel and saved Sugar Rush...,neutral,0.6294
+it's never really gonna be the same.,negative,0.8586
+"For one thing, the racers aren't even that obnoxious anymore.",neutral,0.4396
+"Oh, golly.",neutral,0.4667
+"I'm sorry you didn't win, Taffyta.",negative,0.6697
+"Our friendship is much more important to me than winning, Rancis.",positive,0.8152
+Losing builds character!,neutral,0.5236
+"Everyone's a winner, Taffyta.",positive,0.8547
+"Felix and Calhoun, as goofy as they are, they turned out to be pretty great parents.",positive,0.9461
+"I gotta hand it to you two, how on earth did you tame those things?",negative,0.821
+"It's simple, Surge.",positive,0.4891
+The key to parenting is...,neutral,0.7823
+And then what you do is...,neutral,0.7392
+And that is the secret to raising perfect children.,positive,0.7207
+"Wow, I wish every parent could hear that.",positive,0.7668
+"I'm keeping busy, too.",neutral,0.7106
+I finally joined Zangief's book club.,neutral,0.5811
+"Good point, Bison.",positive,0.7238
+"And how about you, Ralph?",neutral,0.8292
+Do you feel Dostoyevsky intended to make narrator unreliable?,neutral,0.6321
+I do and I don't.,neutral,0.6239
+"You do, and you don't.",neutral,0.6589
+Duality.,neutral,0.659
+"That's really deep, Ralph.",neutral,0.496
+"Thanks, Sonic.",positive,0.7278
+I don't know what I'm talking about.,negative,0.7373
+And we got this new thing we do every Friday night...,neutral,0.7967
+where we all go and hang out in a different game.,neutral,0.8377
+I actually hosted this week.,neutral,0.688
+Heyo!,neutral,0.5207
+Hope you're all hungry.,positive,0.4972
+I made burnt pie.,neutral,0.7688
+"What's burnt pie, Wreck-It?",neutral,0.6474
+It's just a pie that you burn.,negative,0.7414
+You can use any pie.,neutral,0.7431
+You just leave it in the oven too long.,negative,0.6957
+"Yeah, we really do have a lot of fun.",positive,0.9678
+I guess that's pretty much all the news I got for you.,neutral,0.6994
+"Oh, man, your stories never disappoint, Ralph.",positive,0.8806
+I just wish we could hang out sooner.,positive,0.52
+Yeah.,neutral,0.5491
+"Me, too.",neutral,0.7147
+When did you say you were getting those days off?,neutral,0.8448
+"Our upgrade starts on January 25th, so, like, two months from now.",neutral,0.704
+That'll go by in a flash.,neutral,0.6464
+Speaking of which...,neutral,0.7793
+you want me to bring you anything from home when I come visit?,neutral,0.9143
+You know what I cannot find anywhere on the Internet?,negative,0.7541
+A halfway decent BurgerTime burger.,positive,0.6012
+I've been talking them up to Shank and the crew.,neutral,0.8636
+"And honestly, I think they're starting to think I'm making it up.",negative,0.5425
+"All right, consider it done.",positive,0.5183
+I'll bring you guys a truckload.,neutral,0.7445
+"Well, sun's coming up already.",positive,0.7738
+Guess I better get to it.,neutral,0.7652
+"Yeah, me too.",neutral,0.6296
+Talk next week?,neutral,0.8678
+"I shall await your call, madam.",positive,0.5477
+"Then, adieu, adieu, farting is such sweet sorrow.",negative,0.5263
+"So long, stinkbrain.",negative,0.8078
+"Bye, kid.",neutral,0.5398
+Hey.,neutral,0.5456
+"You doing okay there, Ralph?",neutral,0.6571
+"Yeah, I am, actually.",neutral,0.594
+I'm doing great.,positive,0.9535
+"Come on, Felix.",neutral,0.6699
+"Let's get to work, buddy.",neutral,0.6373
+"Hey, Mo, did you like the movie, sweetie?",neutral,0.6865
+"Well, there was a scene in the trailer...",neutral,0.8462
+that wasn't in the movie...,neutral,0.6109
+and that makes me sad.,negative,0.9537
+"Aw, that's too bad.",negative,0.9354
+Maybe playing your game will cheer you up.,positive,0.7471
+Okay.,neutral,0.5844
+Pancake.,neutral,0.6906
+Milkshake.,neutral,0.7993
+Pancake.,neutral,0.6906
+Pancake.,neutral,0.6906
+Milkshake.,neutral,0.7993
+"I wanna try, I wanna try!",positive,0.877
+"My turn, my turn!",positive,0.6223
+Pancake.,neutral,0.6906
+Milkshake.,neutral,0.7993
+Milkshake.,neutral,0.7993
+Milkshake.,neutral,0.7993
+Pancake.,neutral,0.6906
+Pancake.,neutral,0.6906
+Milkshake.,neutral,0.7993
+Milkshake.,neutral,0.7993
+I'm starting to understand why people like this game.,neutral,0.5357
+Very zen.,neutral,0.6669
+"Hey, everybody, look what I found!",positive,0.8683
+More pancakes!,positive,0.6568
+Sweet!,positive,0.9025
+Let's speed it up.,neutral,0.5862
+"Pancake, pancake, pancake.",neutral,0.7401
+"Pancake, pancake, pancake.",neutral,0.7401
+"Pancake, pancake, pancake.",neutral,0.7401
+"Pancake, pancake, pancake.",neutral,0.7401
+"Eat, little bunny.",negative,0.5942
+"Eat, eat, eat!",positive,0.5535
+"Ralph, you might wanna try feeding the kitty for a little while.",neutral,0.8222
+"No, the kitty gets the milkshake.",neutral,0.741
+The bunny gets the pancake.,neutral,0.8023
+"And now, an exclusive sneak peek of Frozen 2.",neutral,0.7883
+Click here.,neutral,0.6859
+Why would I?,neutral,0.6057
+I like you.,positive,0.8797
+You guys still sticking around?,neutral,0.8481
+All right.,neutral,0.4897
+"Well, you're welcome to stay.",positive,0.8422
+"There's not really any more surprises, but, you know...",neutral,0.6387
+Good luck getting that song out of your head.,neutral,0.5302
+It's a real earwig.,neutral,0.7414
+"Anyway, what else?",neutral,0.7953

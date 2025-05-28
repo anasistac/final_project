@@ -1,0 +1,705 @@
+text,sentiment,score
+"MY NEIGHBOR TOTORO Dad, do you want some candy?",neutral,0.8989
+Thanks.,positive,0.6284
+Aren't you tired?,neutral,0.6964
+No.,neutral,0.4936
+We're almost there.,positive,0.7542
+"Mei, hide!",neutral,0.6257
+It wasn't a policeman.,neutral,0.6147
+Hello!,positive,0.5738
+Hello.,neutral,0.5209
+Are your parents around?,neutral,0.8241
+Thanks.,positive,0.6284
+I'm Kusakabe!,neutral,0.5533
+We've just arrived!,positive,0.5647
+A pleasure to meet you!,positive,0.9858
+Welcome!,positive,0.8957
+Thank you.,positive,0.853
+Here we are!,positive,0.5028
+Wait!,neutral,0.6225
+"Mei, there's a bridge!",neutral,0.5205
+A bridge?,neutral,0.775
+See that flash?,neutral,0.7531
+Fish too!,neutral,0.6924
+"So, you like it here?",neutral,0.8209
+"Dad, it's terrific!",positive,0.9749
+"Look, a tunnel of trees!",neutral,0.577
+Is that our house?,neutral,0.8784
+Come on!,positive,0.6006
+It's a wreck!,negative,0.6679
+Wreck!,negative,0.7584
+Looks like a haunted house!,neutral,0.491
+Haunted?,neutral,0.7436
+And it's all rotten!,negative,0.8944
+It's gonna fall down!,neutral,0.4827
+Fall down!,neutral,0.5148
+"Look, Mei!",neutral,0.4982
+See?,neutral,0.6904
+It's huge.,positive,0.698
+"Dad, there's a huge tree!",positive,0.7519
+It's a camphor tree.,neutral,0.7955
+Camphor tree!,neutral,0.6129
+Camphor tree!,neutral,0.6129
+Oops!,negative,0.5402
+An acorn!,neutral,0.5324
+Show me.,neutral,0.6833
+Another one!,positive,0.6084
+It's mine.,neutral,0.5461
+Out of the way.,neutral,0.6493
+I can't open the screens.,negative,0.8312
+Acorns!,neutral,0.5951
+There are acorns in the house.,negative,0.6004
+They fell from up there!,neutral,0.6212
+Maybe there are squirrels in here.,neutral,0.758
+"Squirrels, really?",neutral,0.5906
+Or rats; they like acorns too.,neutral,0.6619
+I'd rather have squirrels!,neutral,0.5444
+Where shall I put this?,neutral,0.8982
+"Here, I'll get the door for you.",neutral,0.8024
+"Satsuki, open up the kitchen.",neutral,0.8168
+Okay.,neutral,0.5844
+It's just round the back.,neutral,0.7383
+"Mei, come on!",neutral,0.6392
+Wait for me!,neutral,0.5696
+Hurry!,neutral,0.5702
+Ready?,neutral,0.6724
+Bathtubs.,neutral,0.7252
+There's nothing here.,neutral,0.5562
+That's the bathroom.,neutral,0.6319
+"Dad, there's something in here.",neutral,0.8246
+A squirrel?,neutral,0.7987
+Dunno.,neutral,0.6447
+"A bunch of black things, but not roaches or mice.",negative,0.5444
+Really?,neutral,0.6008
+Can you see them?,neutral,0.8396
+I think they were dust bunnies.,neutral,0.7886
+Dust bunnies?,neutral,0.8337
+Like in my picture book?,neutral,0.8446
+That's right.,neutral,0.569
+Ghosts don't come out on days like this.,negative,0.6078
+"When you walk into a dark room from outside, your eyes dim and the dust bunnies come out.",negative,0.5128
+"Oh, I see.",neutral,0.609
+"Come here, dust bunnies.",neutral,0.7054
+"Come out, come out, wherever you are!",positive,0.5409
+Let's get to work!,positive,0.6219
+See if you can find how to get upstairs.,neutral,0.8505
+Get up there and open all the windows.,neutral,0.7169
+Sure!,positive,0.7762
+"I'm coming, too!",positive,0.6506
+Toilet!,neutral,0.5379
+Not here!,negative,0.6516
+Not here!,negative,0.6516
+Not here!,negative,0.6516
+Not here!,negative,0.6516
+Not here!,negative,0.6516
+Not here!,negative,0.6516
+Nothing here!,neutral,0.5842
+Nothing!,neutral,0.4964
+"Mei, it's here!",positive,0.7067
+It's pitch black!,neutral,0.6025
+Dust bunnies...,neutral,0.7702
+Another acorn.,neutral,0.761
+"Come out, dust bunnies!",neutral,0.5679
+"Are you there, Mr.",neutral,0.8402
+Dust Bunny?,neutral,0.8655
+"One, two...",neutral,0.8069
+"One, two...",neutral,0.8069
+"Dad, there's definitely something here!",positive,0.7077
+That's exciting!,positive,0.9881
+I've always wanted to live in a haunted house.,neutral,0.5589
+"Oh, no!",negative,0.6841
+I'm coming!,positive,0.6213
+I got it.,positive,0.4689
+Satsuki!,neutral,0.6295
+Mei.,neutral,0.5996
+You're full of energy!,positive,0.9446
+This is Nanny.,neutral,0.5739
+She has come to look after the house.,neutral,0.84
+"I'm Satsuki and this is my sister, Mei.",neutral,0.8973
+Nice to meet you both.,positive,0.9718
+I'd have cleaned up if I'd known you'd be this quick.,neutral,0.5569
+"No, you've done plenty.",neutral,0.6329
+"I've been so busy in the rice paddies, I only did a bit of dusting...",neutral,0.5434
+What have you done to your hands?,neutral,0.7862
+The dust bunny got away.,neutral,0.7566
+"Your feet, too!",neutral,0.6997
+"Mine are black, too!",neutral,0.7123
+"Well, well, well.",neutral,0.6646
+That must be the soot spreaders.,negative,0.745
+"Those little, black, fuzzy things that fly?",neutral,0.8175
+That's right.,neutral,0.569
+"They breed in empty old houses, and cover them with soot and dust.",negative,0.8404
+I could see them when I was little.,neutral,0.6229
+"Now you can too, huh?",neutral,0.6848
+Are they like goblins?,neutral,0.7204
+"No, nothing so scary.",neutral,0.5352
+"If you keep smiling, they'll soon leave the house.",positive,0.4912
+"They're probably deciding where to go next, right now.",neutral,0.8232
+"Mei, they're going away.",neutral,0.6341
+That's no fun.,negative,0.9531
+"What happens if a huge one comes out, like this?",neutral,0.766
+I wouldn't be scared.,neutral,0.7252
+"Okay then, I won't walk you to the bathroom at night.",neutral,0.5663
+"Okay, cleaning time.",neutral,0.6538
+Could you get some water from the stream?,neutral,0.9161
+From the stream?,neutral,0.8666
+"I'm coming, too!",positive,0.6506
+"Mei, wait there.",neutral,0.7114
+Did you get a fish?,neutral,0.863
+"Nanny, it's coming out!",neutral,0.6419
+"Good, keep pumping 'til the water gets cold.",neutral,0.6259
+Okay!,positive,0.6122
+May I help you?,neutral,0.8346
+Huh...,neutral,0.668
+my mom...,neutral,0.6932
+for Granny.,neutral,0.785
+Yes?,neutral,0.7116
+"Wait, what is it?",neutral,0.7519
+"Is that you, Kanta?",neutral,0.8698
+You live in a haunted house!,neutral,0.5384
+"Kanta, stop it!",negative,0.5589
+I did the same kind of thing when I was his age.,neutral,0.8137
+I hate boys.,negative,0.9689
+But I really love Nanny's rice cakes!,positive,0.984
+Eat as much as you want.,neutral,0.7197
+Thank you!,positive,0.9538
+Thank you so much for your help.,positive,0.9878
+Goodbye!,neutral,0.5805
+"Dad, the house is going to fall down.",negative,0.7918
+I hope not; we've only just moved in.,neutral,0.6028
+"Come on, let's laugh to keep the bogeymen away!",neutral,0.4827
+I'm not scared.,neutral,0.526
+I mean it.,neutral,0.6624
+I'm not scared!,positive,0.649
+"One, two...",neutral,0.8069
+"Come on, keep up the good work.",positive,0.9354
+Okay!,positive,0.6122
+"Washing, finished!",neutral,0.5172
+Here we go!,positive,0.6007
+Nanny!,neutral,0.6692
+Hello!,positive,0.5738
+Hard at work?,neutral,0.6597
+Where are you all heading?,neutral,0.8688
+To visit Mommy in the hospital!,neutral,0.7135
+That's nice.,positive,0.9712
+Give her my regards!,positive,0.6531
+Okay!,positive,0.6122
+This way.,neutral,0.6722
+Hello.,neutral,0.5209
+Hello there.,neutral,0.5325
+Mommy!,neutral,0.5862
+"So glad you came, my dear.",positive,0.9843
+Daddy took the wrong road.,negative,0.8399
+Really?,neutral,0.6008
+"Hello, Satsuki.",neutral,0.6912
+"It's a school holiday, today.",neutral,0.7448
+How nice.,positive,0.957
+Daddy is talking to the doctor.,neutral,0.7357
+It's so good to see you all.,positive,0.9913
+Have you settled into the new house?,neutral,0.8665
+A haunted house?,neutral,0.7759
+"Mom, do you like ghosts?",neutral,0.8777
+Of course I do!,positive,0.8223
+I can't wait to see them.,positive,0.9847
+"See, I told you, Mei.",neutral,0.7254
+Mei was worried that you wouldn't like ghosts.,neutral,0.5259
+What about you two?,neutral,0.8591
+I love them!,positive,0.987
+I'm not scared of them!,neutral,0.497
+"Are you fixing Mei's hair, Satsuki?",neutral,0.8864
+It's really good.,positive,0.9817
+"Lucky girl, Mei.",positive,0.9012
+But she always gets mad at me.,negative,0.8398
+'Cause you won't stay still.,neutral,0.5914
+"Come here, Satsuki.",neutral,0.8279
+Isn't yours too short?,neutral,0.7612
+"No, I like it like this.",positive,0.505
+"Do mine, Mommy.",neutral,0.7445
+"Mine, too.",neutral,0.7885
+Wait your turn!,neutral,0.6628
+"Wavy hair, just like mine when I was your age.",neutral,0.7649
+Will it be like yours when I grow up?,neutral,0.8091
+Probably.,neutral,0.5871
+You take after your mom.,neutral,0.7049
+Mom looked really well.,positive,0.9471
+You're right.,positive,0.4782
+The doctor says she'll be home soon.,neutral,0.543
+Soon?,neutral,0.8159
+Like tomorrow?,neutral,0.8528
+You always say that.,neutral,0.5765
+Tomorrow is a little too soon.,negative,0.8293
+Mom said she'll sleep with me in my bed.,neutral,0.7858
+Weren't you saying you're big enough to sleep alone?,neutral,0.6964
+Mom is special!,positive,0.9591
+"Dad, time to get up!",neutral,0.5848
+Wake up!,positive,0.4975
+"Sorry, I overslept again.",negative,0.8791
+I've got to bring a box lunch today.,neutral,0.7701
+I totally forgot about it.,neutral,0.5123
+It's all right.,positive,0.5812
+I've made something for all of us.,positive,0.8015
+It's burning.,neutral,0.4613
+Let me do it.,neutral,0.5223
+"Here, this is yours, Mei.",neutral,0.7685
+It's for me!,positive,0.8256
+"Mei, sit down and eat!",neutral,0.7602
+Okay.,neutral,0.5844
+"Here, wrap yours.",neutral,0.7711
+Satsuki!,neutral,0.6295
+Uh-oh.,negative,0.5243
+I'm coming!,positive,0.6213
+You made a friend already?,neutral,0.7119
+She's calling you!,neutral,0.7331
+"Yeah, that's Michiko.",neutral,0.7909
+Gotta go!,positive,0.6441
+See you!,positive,0.7265
+Have a good day!,positive,0.9828
+Morning!,positive,0.7043
+"Hi, let's go.",positive,0.5131
+Hi!,positive,0.4741
+Good morning!,positive,0.8619
+Daddy!,neutral,0.4827
+Do I look all grown up?,neutral,0.6933
+"Yes, dear.",positive,0.6363
+Where are you going?,neutral,0.83
+I'm just going out.,neutral,0.7635
+"Daddy, is it lunch yet?",neutral,0.8739
+Already?,neutral,0.6751
+"You be the flower shop, Daddy.",neutral,0.7639
+Pole-tads!,neutral,0.7124
+Got no bottom.,neutral,0.5456
+Gotcha!,positive,0.744
+Who are you?,neutral,0.7975
+A big dust bunny?,neutral,0.8081
+To-to-ro?,neutral,0.7947
+You're Totoro!,positive,0.5175
+I bet you're Totoro.,neutral,0.7676
+Totoro.,neutral,0.6448
+See you!,positive,0.7265
+"Okay, catch you later!",positive,0.5487
+I'm home!,positive,0.8585
+Hey there.,neutral,0.5917
+Is it that late already?,neutral,0.6981
+Where's Mei?,neutral,0.7677
+I'm off to Michiko's.,neutral,0.8172
+We haven't eaten yet.,negative,0.504
+Is Mei in the garden?,neutral,0.9094
+Mei!,neutral,0.5235
+Mei!,neutral,0.5235
+Mei!,neutral,0.5235
+Mei!,neutral,0.5235
+"Dad, I found her hat!",positive,0.6884
+Mei?,neutral,0.7036
+"Wake up, Mei!",neutral,0.5696
+You shouldn't sleep here!,negative,0.6157
+Where's Totoro?,neutral,0.7991
+Totoro?,neutral,0.6932
+Where?,neutral,0.7096
+Were you dreaming?,neutral,0.8164
+Totoro was here.,neutral,0.7714
+You mean that troll in your picture book?,negative,0.5128
+Yeah.,neutral,0.5491
+He was all hairy with a big mouth like this.,negative,0.7119
+There's a tiny one and a little one and a huge one like this.,neutral,0.7557
+There you are.,neutral,0.6276
+What a great hiding place.,neutral,0.4464
+"Dad, Mei said she saw a Totoro here.",neutral,0.8978
+A Totoro?,neutral,0.77
+It's this way.,neutral,0.7216
+"Hey, wait for me!",neutral,0.5602
+It's here.,neutral,0.6465
+Is it?,neutral,0.7186
+No.,neutral,0.4936
+It went to a big tree.,neutral,0.6926
+But there wasn't any other path.,neutral,0.6926
+"Come back, Mei!",positive,0.5822
+Mei!,neutral,0.5235
+Come back!,positive,0.7141
+But it's true!,positive,0.6138
+Totoro was here.,neutral,0.7714
+I'm not lying.,neutral,0.697
+"I know, Mei.",neutral,0.6882
+I didn't lie.,neutral,0.6903
+Neither of us think you're lying.,neutral,0.5007
+You probably met the king of this forest.,neutral,0.7273
+You were very lucky.,positive,0.9237
+He doesn't come out very often.,neutral,0.6872
+We should go to the shrine to pay our respects.,neutral,0.6968
+Pay our respects?,neutral,0.795
+To this forest.,neutral,0.7485
+"Mei, you're getting heavy.",neutral,0.6799
+"Dad, look!",neutral,0.4987
+The camphor tree!,neutral,0.6422
+What a big tree.,positive,0.5553
+It's here!,positive,0.7366
+Is that the tree?,neutral,0.8417
+"Dad, hurry up.",neutral,0.6344
+The hole has gone.,neutral,0.5453
+Are you sure it was here?,neutral,0.8752
+The hole disappeared.,neutral,0.6735
+I told you that he doesn't come to see us often.,neutral,0.6632
+But will he come again?,neutral,0.8607
+"I want to meet him, too.",positive,0.8316
+"If you're lucky, sure.",positive,0.6677
+What a beautiful tree.,positive,0.9695
+This tree must have stood here for years and years.,neutral,0.8231
+Trees and people used to be good friends.,neutral,0.5198
+I saw that tree and decided to buy the house.,neutral,0.773
+I hope Mom likes it too.,positive,0.9042
+"Okay, let's pay our respects, then get home for lunch.",neutral,0.7811
+"Oh yeah, I promised to go see Michiko!",positive,0.8741
+"I want to go, too!",positive,0.9323
+Attention!,neutral,0.5184
+Thank you for looking after Mei.,positive,0.9179
+Thank you very much!,positive,0.9793
+Last one home's a rotten egg!,negative,0.6462
+That's not fair!,negative,0.939
+Dad!,positive,0.4869
+Wait!,neutral,0.6225
+Hurry up!,positive,0.5325
+Wait for me!,neutral,0.5696
+"Dear Mother, something amazing happened today.",positive,0.9811
+Mei met a giant Totoro.,neutral,0.6645
+"And I'm hoping to see him myself soon, too.",positive,0.8657
+"Kanta, hurry up!",neutral,0.5843
+You'll be late!,negative,0.4678
+Coming...,neutral,0.7845
+"WAIT, RIVER, PINE TREE Well, well!",positive,0.5334
+Mei?,neutral,0.7036
+Excuse me!,negative,0.4855
+"Yes, Satsuki?",neutral,0.8845
+It's my sister...,neutral,0.8189
+Sister?,neutral,0.7692
+Where?,neutral,0.7096
+"What happened, Nanny?",neutral,0.7395
+I'm sorry.,negative,0.6455
+She insisted that she be with you.,neutral,0.831
+It's Dad's day at the university.,neutral,0.705
+You promised to be a good girl at Nanny's.,neutral,0.5606
+I still have two more classes and Nanny's too busy for this.,negative,0.6069
+"She was good up 'til now, weren't you?",positive,0.537
+I'll go talk to my teacher.,neutral,0.8595
+"Since Satsuki's mother is in the hospital, I want you all to be nice to her.",positive,0.6034
+"Yes, Miss!",positive,0.5666
+What's that?,neutral,0.7331
+It's Totoro.,neutral,0.749
+"Mei, you should keep quiet.",neutral,0.7377
+Okay.,neutral,0.5844
+See you!,positive,0.7265
+"Bye-bye, Mei!",neutral,0.5978
+I can't stay after class today.,negative,0.8654
+We'll let teacher know.,neutral,0.7139
+See you!,positive,0.7265
+"Hurry up, it's going to rain!",neutral,0.544
+Okay.,neutral,0.5844
+Here it comes!,positive,0.6018
+Here.,neutral,0.5711
+I won't cry.,neutral,0.487
+Aren't I good?,positive,0.5273
+It's getting worse.,negative,0.9382
+"Dear Guardian Spirit, let us stay until the rain stops.",neutral,0.6353
+But...,neutral,0.7123
+That was lucky.,positive,0.9229
+It's got holes in it.,negative,0.5437
+Daddy forgot his umbrella.,negative,0.5471
+"I'm going, too.",neutral,0.7083
+I said I forgot it!,neutral,0.5602
+What idiot forgets his umbrella on a rainy day?,negative,0.914
+Ouch!,negative,0.6507
+"You broke it playing, I bet.",negative,0.5446
+I did not!,neutral,0.4997
+Excuse me.,neutral,0.4804
+"Hello, Satsuki.",neutral,0.6912
+"Hi, Mei.",neutral,0.6581
+Grandma!,neutral,0.6128
+I'm sorry about Mei today.,negative,0.7434
+Not at all.,negative,0.5896
+Sorry we couldn't do more.,negative,0.5718
+Kanta lent us this umbrella.,neutral,0.8347
+He did?,neutral,0.8004
+A broken old thing like that!,negative,0.5737
+"Mei was with me, so I was glad.",positive,0.9444
+But I'm so sorry that Kanta got wet.,negative,0.87
+Not at all.,negative,0.5896
+It probably cleaned him up a little.,positive,0.5501
+Are you off to meet your father?,neutral,0.8871
+Yes.,positive,0.461
+What good girls you are.,positive,0.9581
+"Bye-bye, Mei.",neutral,0.6454
+Bye-bye.,neutral,0.5542
+Who was that?,neutral,0.7997
+I don't know.,neutral,0.5667
+Just in time!,positive,0.656
+"DESTINATION MAEZAWA, INARIMAE STATION TOKYO ELECTRIC RAILWAY BUS Getting on?",neutral,0.9328
+"All right, drive on.",neutral,0.6831
+TOKYO BUS COMPANY Daddy wasn't on it.,neutral,0.5248
+He'll be on the next one.,neutral,0.82
+Why don't you wait at Nanny's?,neutral,0.7297
+Are you okay?,neutral,0.7918
+Are you sleepy?,neutral,0.8137
+I told you.,neutral,0.5209
+Wanna go to Nanny's?,neutral,0.8624
+Not much longer.,neutral,0.5763
+Hang on.,neutral,0.7189
+It's late...,negative,0.5145
+Come on.,neutral,0.5758
+Are you Totoro?,neutral,0.8469
+Wait a minute.,neutral,0.5549
+You can use this.,neutral,0.5324
+"Take it, Mei's slipping off.",neutral,0.669
+Hold it like this.,neutral,0.7411
+Here's the bus!,neutral,0.6125
+TSUKAMORI INARIMAE He took Daddy's umbrella.,neutral,0.8601
+I'm sorry.,negative,0.6455
+Drive on.,neutral,0.7012
+The train was late and I missed the bus.,negative,0.8856
+Were you worried?,neutral,0.7797
+"We met him, Dad!",neutral,0.5138
+He was here!,positive,0.5751
+And the cat bus!,neutral,0.6111
+What?,neutral,0.5653
+It was huge!,positive,0.9468
+With big eyes like this!,positive,0.7434
+We met him!,positive,0.5375
+We met Totoro!,positive,0.565
+How wonderful!,positive,0.9738
+"Come on, Daddy.",neutral,0.6311
+"Dear Mother, I can't tell you how excited I was today.",positive,0.9872
+"It was the scariest, funniest day I've ever had.",positive,0.8925
+Totoro gave us a lovely present wrapped in bamboo leaves and tied with dragon whiskers.,positive,0.9777
+"When we opened it, it was full of magic nuts and seeds!",positive,0.5012
+"""We decided to plant them in the garden to make a lovely forest."" But they haven't sprouted yet.",neutral,0.5968
+"Mei sits there all day, waiting for them.",neutral,0.7679
+She looks like a little crab.,negative,0.7744
+CRAB MEI It's nearly summer vacation.,neutral,0.6542
+"Dearest, dear Mom, get well soon.",positive,0.8049
+"Love, Satsuki.",positive,0.8516
+Come on.,neutral,0.5758
+Bed time.,neutral,0.6198
+Lights off!,positive,0.7161
+"Wait, Dad.",neutral,0.743
+"Daddy, do you think they will come out tomorrow?",neutral,0.9251
+"Well, I'm sure Totoro would know.",neutral,0.7994
+Night night.,neutral,0.5621
+"Wake up, Mei!",neutral,0.5696
+That's where we planted the seeds.,neutral,0.7413
+"Wow, we did it!",positive,0.9693
+We're the wind!,neutral,0.5272
+There are no trees!,neutral,0.5632
+Yes!,positive,0.8097
+It was a dream.,neutral,0.6811
+But it wasn't a dream.,neutral,0.6642
+We did it!,positive,0.8999
+Mr.,neutral,0.5849
+Kusakabe!,neutral,0.6923
+Telegram!,neutral,0.5958
+Mr.,neutral,0.5849
+Kusakabe!,neutral,0.6923
+Anyone home?,neutral,0.7341
+Nanny?,neutral,0.7006
+I'm here.,neutral,0.4972
+This one is ripe.,neutral,0.5502
+What about this one?,neutral,0.8466
+"That's good, too.",positive,0.9702
+Your garden is a treasure trove.,positive,0.6665
+Let's take a little break.,neutral,0.7546
+These should be cold now.,neutral,0.6791
+Looks delicious.,positive,0.9633
+So good.,positive,0.9741
+"The sun blessed these, so they're really good for you.",positive,0.9838
+Would they help my mom?,neutral,0.8703
+Of course.,neutral,0.5552
+"If she eats my vegetables, she'll get better right away.",positive,0.7606
+She's supposed to be back next Saturday.,neutral,0.8923
+She'll sleep in my bed!,positive,0.6413
+At last.,positive,0.506
+That's wonderful.,positive,0.9782
+But it's only for a couple of days.,neutral,0.7346
+To get used to the new house.,neutral,0.7969
+I see.,neutral,0.5826
+"We'll feed her lots of vegetables, then.",positive,0.602
+I'll give her this corn I picked.,neutral,0.828
+I'm sure she'll be very pleased.,positive,0.9175
+I know.,neutral,0.5132
+There was a telegram for you.,neutral,0.7991
+For us?,neutral,0.8078
+"Dad won't be back till late, what shall I do?",neutral,0.519
+"Open it, it might be important.",neutral,0.5207
+"Please contact, hospital...",neutral,0.7914
+It's from Mom's hospital!,neutral,0.7207
+Something's happened to her!,neutral,0.6131
+Nanny!,neutral,0.6692
+What shall I do?,neutral,0.8493
+Calm down.,neutral,0.6975
+Do you know where your dad is?,neutral,0.8031
+"I know his office number, but we don't have a telephone.",neutral,0.5592
+"Kanta, take her to use the phone in the main house!",neutral,0.8263
+"Mei, stay here with me!",neutral,0.5973
+"Stay with Nanny, Mei!",neutral,0.738
+"Hello, I'd like to make a long-distance call.",neutral,0.718
+It's Tokyo 31 1382.,neutral,0.8925
+"A cute girl, Kanta.",positive,0.9351
+Hello?,neutral,0.643
+Yes?,neutral,0.7116
+"Hello, may I speak to Dad...",neutral,0.9105
+Mr.,neutral,0.5849
+Kusakabe?,neutral,0.7491
+"It's his daughter, Satsuki.",neutral,0.8974
+Daddy?,neutral,0.734
+"It's me, Satsuki!",positive,0.5399
+"Hello, what's wrong?",negative,0.7504
+From the hospital?,neutral,0.7277
+"Okay, I'll call them right away.",neutral,0.8088
+Is there anything wrong with Mom?,negative,0.5385
+Don't worry.,positive,0.5337
+I'll check up and call you right back.,neutral,0.766
+"I'll hang up now, stay there.",neutral,0.4938
+May I stay here until he calls back?,neutral,0.9192
+Stay as long as you like.,neutral,0.6854
+Satsuki!,neutral,0.6295
+"No, this corn is for my mommy!",neutral,0.5753
+"No, it's my mom's!",neutral,0.5859
+"Listen, Mei.",neutral,0.7996
+"Mom's not well, so she's not coming home this time.",negative,0.9143
+No!,neutral,0.4416
+There's nothing we can do.,neutral,0.5021
+"You don't want her to get worse, do you?",negative,0.6527
+No!,neutral,0.4416
+It's just for a few more days.,neutral,0.603
+No!,neutral,0.4416
+So you don't care if she dies?,negative,0.6296
+No!,neutral,0.4416
+Stop being silly!,negative,0.7178
+I'm going.,neutral,0.5581
+"Let's go, Mei.",positive,0.5328
+"I hate you, Satsuki!",negative,0.9729
+We should bring the washing in.,neutral,0.7862
+"Don't worry too much, Satsuki.",neutral,0.6637
+"Nanny's here to help, so cheer up.",positive,0.8735
+Your dad said he'll stop by the hospital to check on her.,neutral,0.8794
+"Besides, it's just a cold; she'll be back next week.",neutral,0.5889
+They said it was just a cold when she went into hospital.,neutral,0.6723
+But what if she dies!,negative,0.6676
+"Don't be silly, Satsuki.",neutral,0.6552
+Maybe Mom will...,neutral,0.7989
+Stop it.,negative,0.6723
+Nobody would leave two pretty little girls like you.,neutral,0.5054
+"There, there.",neutral,0.6401
+Don't cry.,neutral,0.6662
+"I'll be here until Daddy comes back, okay?",neutral,0.6087
+Mei!,neutral,0.5235
+Mei!,neutral,0.5235
+Mei!,neutral,0.5235
+Did she come back?,neutral,0.8806
+Wasn't she at the bus stop?,neutral,0.838
+That's strange.,negative,0.4968
+Where has she gone?,neutral,0.7109
+"I was nasty to her, 'cause she was being silly...",negative,0.7967
+Maybe she's heading for the hospital!,neutral,0.6438
+The hospital?,neutral,0.7078
+It would take a grown-up three hours!,neutral,0.5252
+I'll go look!,positive,0.6292
+"Kanta, hurry!",neutral,0.6858
+Tell your dad that Mei is missing!,neutral,0.6368
+Stupid Mei.,negative,0.9463
+Always getting lost.,negative,0.7097
+Mei!,neutral,0.5235
+Excuse me.,neutral,0.4804
+Have you seen a little girl pass by?,neutral,0.8423
+She's my sister.,neutral,0.6573
+"No, I don't think so.",neutral,0.6272
+I'm sure I would've noticed.,neutral,0.7319
+Maybe she wasn't here.,neutral,0.639
+Are you sure she came this way?,neutral,0.825
+I don't know.,neutral,0.5667
+Mei!,neutral,0.5235
+"Please, stop!",negative,0.7157
+Idiot!,negative,0.9241
+What are you doing?,neutral,0.8242
+I'm looking for my sister.,neutral,0.7951
+Have you seen a little girl?,neutral,0.8354
+Your little sister?,neutral,0.8141
+She's four.,neutral,0.812
+I think she's heading to the hospital.,neutral,0.6377
+Did you see anyone?,neutral,0.8359
+No.,neutral,0.4936
+"We just came from there, but we didn't see anyone.",neutral,0.7199
+Thanks anyway.,positive,0.6965
+Where have you come from?,neutral,0.7738
+From Matsugo.,neutral,0.7665
+Matsugo?,neutral,0.7308
+Really?,neutral,0.6008
+Good luck.,positive,0.9243
+Satsuki!,neutral,0.6295
+Kanta!,neutral,0.5871
+Find her?,neutral,0.8122
+No.,neutral,0.4936
+And you?,neutral,0.7106
+Dad and the others are looking for her.,neutral,0.8501
+"I'll go to the hospital, you go back home.",neutral,0.685
+I guess she got lost on the way to the hospital.,negative,0.6921
+They found a sandal by the pond.,neutral,0.7787
+We're not sure if it's hers or not!,neutral,0.6744
+Did you find her?,neutral,0.8299
+"Dear Lord, please protect her and...",neutral,0.6312
+"It's too deep here, better search further away!",negative,0.4799
+"Hey, are there any poles left?",neutral,0.8915
+"Grandma, Satsuki's here!",neutral,0.6069
+Nanny!,neutral,0.6692
+"Look, is it hers?",neutral,0.846
+"No, it isn't.",neutral,0.5702
+"Thank heavens, I was sure it was hers.",positive,0.564
+Nanny was jumping to conclusions.,negative,0.623
+It's not hers!,neutral,0.5028
+Where did she go then?,neutral,0.8451
+Let's start from scratch.,neutral,0.714
+"Hurry, before it gets dark.",neutral,0.7467
+"I really appreciate your help, everyone.",positive,0.9732
+It could've been any of us.,neutral,0.7808
+Someone should contact the police.,negative,0.5312
+"Please, help me, Totoro!",positive,0.509
+Mei is lost.,negative,0.6721
+It'll be dark soon.,neutral,0.5954
+I'm sure she's scared somewhere.,negative,0.5779
+Totoro!,neutral,0.5617
+Mei is lost and we can't find her!,negative,0.7838
+"She must be scared, please help me find her.",neutral,0.4819
+I don't know what to do.,negative,0.8313
+They can't see the bus.,neutral,0.5049
+FOREST SWAMP CEMETERY SHRINE SANCTUARY LAKE MEI Mei!,neutral,0.7954
+The trees are moving out of the way!,neutral,0.6612
+MEI Mei!,neutral,0.6459
+Satsuki!,neutral,0.6295
+Satsuki!,neutral,0.6295
+Mei!,neutral,0.5235
+Mei!,neutral,0.5235
+Satsuki!,neutral,0.6295
+You silly girl.,negative,0.8138
+I'm sorry.,negative,0.6455
+You wanted to take the corn to Mom?,neutral,0.8295
+SHICHIKOKUYAMA HOSPITAL Will you take us there?,neutral,0.9266
+Thank you so much.,positive,0.9793
+I'm sorry.,negative,0.6455
+They didn't need to send a telegram just for a cold.,neutral,0.5263
+The girls must be worried.,negative,0.619
+I'm sorry to upset them.,negative,0.6237
+They'll be fine.,positive,0.5768
+As long as you're okay.,positive,0.6307
+We've all learned to cope.,neutral,0.7114
+This will just postpone the enjoyment.,negative,0.7444
+They've put up with it so well.,positive,0.6351
+"I'm especially sorry for Satsuki, she's so sensitive.",negative,0.8809
+You're right.,positive,0.4782
+I'm going to spoil them for a while when I come home.,neutral,0.5012
+"Oh, no!",negative,0.6841
+She's laughing!,positive,0.8073
+Looks like she's fine.,positive,0.8594
+I can't wait to get back on my feet.,positive,0.953
+Me too!,positive,0.5757
+Look.,neutral,0.6185
+Where did that come from?,neutral,0.7771
+What?,neutral,0.5653
+I could swear I just saw Satsuki and Mei laughing up in that tree.,positive,0.4902
+Maybe they were.,neutral,0.7629
+Look.,neutral,0.6185
+TO MOM THE END,neutral,0.7145

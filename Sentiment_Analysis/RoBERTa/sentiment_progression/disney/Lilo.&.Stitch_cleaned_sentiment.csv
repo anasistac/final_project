@@ -1,0 +1,1105 @@
+text,sentiment,score
+Read the charges.,neutral,0.6722
+Dr.,neutral,0.6263
+"Jumba Jookiba, lead scientist of Galaxy Defense Industries, you stand before this council accused of illegal genetic experimentation.",negative,0.6868
+How do you plead?,neutral,0.7402
+Not guilty!,neutral,0.5062
+"My experiments are only theoretical, completely within legal boundaries.",neutral,0.7591
+We believe you actually created something.,positive,0.4903
+Created something?,neutral,0.7826
+But that would be irresponsible and unethical.,negative,0.8895
+"I would never, ever, make more than one.",negative,0.7434
+What is that monstrosity?,negative,0.9165
+Monstrosity?,negative,0.6591
+What you see before you is the first of a new species.,neutral,0.8389
+I call it Experiment 626.,neutral,0.8873
+"He is bulletproof, fireproof and can think faster than supercomputer.",positive,0.7609
+"He can see in the dark and move objects 3,000 times his size.",neutral,0.5907
+"His only instinct, to destroy everything he touches!",negative,0.7997
+So it is a monster.,negative,0.7795
+"Hey, just a little one.",neutral,0.7361
+It is an affront to nature.,negative,0.9163
+It must be destroyed!,negative,0.8789
+"Calm yourself, Captain Gantu.",neutral,0.8158
+Perhaps it can be reasoned with.,neutral,0.8339
+"Experiment 626, give us some sign you understand any of this.",neutral,0.8738
+Show us that there is something inside you that is good.,positive,0.9019
+So naughty!,negative,0.7247
+I didn't teach it that.,negative,0.5501
+Place that idiot scientist under arrest!,negative,0.9486
+"I prefer to be called ""evil genius""!",negative,0.513
+"And as for that abomination, it is the flawed product of a deranged mind.",negative,0.9657
+It has no place among us.,negative,0.8519
+"Captain Gantu, take him away.",negative,0.6609
+With pleasure.,positive,0.8856
+Uncomfortable?,negative,0.5935
+Good!,positive,0.9175
+The council has banished you to exile on a desert asteroid.,negative,0.6526
+"So relax, enjoy the trip, and don't get any ideas.",positive,0.777
+These guns are locked onto your genetic signature.,negative,0.6224
+They won't shoot anyone but you.,neutral,0.4916
+"Why, you...",neutral,0.6577
+May I remind the Captain that he is on duty?,neutral,0.8938
+Secure the cell!,neutral,0.6531
+"Aye, Captain.",neutral,0.6926
+Captain on deck.,neutral,0.7795
+All ahead full.,positive,0.7361
+Does this look infected to you?,neutral,0.5164
+"Quiet, you.",neutral,0.596
+Gunfire in the cell bay!,neutral,0.5693
+Open a channel.,neutral,0.6516
+He's loose on Deck C!,neutral,0.6411
+Red alert.,neutral,0.5317
+Seal off the deck!,neutral,0.7569
+"Security, converge on Door 7!",neutral,0.7916
+Deadly force authorized.,negative,0.5794
+Fire on sight!,neutral,0.5829
+Fire on sight!,neutral,0.5829
+There he is!,positive,0.6753
+Security to Bridge.,neutral,0.7771
+It's in the ventilation system.,neutral,0.7128
+He's headed for the power grid.,neutral,0.8732
+What was that?,neutral,0.7857
+I don't think he's on the ship anymore.,negative,0.55
+Confirmed.,neutral,0.5882
+He's taken a police cruiser.,neutral,0.7285
+"Yeah, he took the red one.",neutral,0.7945
+That's it!,positive,0.5892
+We've got it.,positive,0.6075
+We've got it!,positive,0.8844
+Hyperdrive activated.,neutral,0.7981
+System charging.,neutral,0.8041
+He's engaged his H-drive!,neutral,0.7378
+"Warning, guidance is not functional.",negative,0.8443
+"Pursuit Commander, that crazy trog is about to make a jump!",neutral,0.5027
+Break formation!,neutral,0.636
+Get clear of that ship!,negative,0.5532
+Navigation failure.,negative,0.7183
+Do not engage...,negative,0.7364
+Get me Galactic Control.,neutral,0.7721
+Where is he?,neutral,0.7725
+He's still in hyperspace.,neutral,0.8271
+Where will he exit?,neutral,0.8465
+Calculating now.,neutral,0.6851
+"Quadrant 17, section 005, area 51.",neutral,0.8782
+A planet called Ee-arth.,neutral,0.8428
+I want an expert on this planet in here now!,neutral,0.5599
+What is that?,neutral,0.7507
+Water.,neutral,0.6427
+Most of the planet is covered in it.,neutral,0.5423
+He won't survive in water.,negative,0.7224
+His molecular density is too great.,positive,0.8594
+No.,neutral,0.4936
+Of course.,neutral,0.5552
+How much time do we have?,neutral,0.852
+"We have projected his landing at three hours, 42 minutes.",neutral,0.9231
+We have to gas the planet.,neutral,0.5121
+Hold it!,neutral,0.6082
+Hold everything!,neutral,0.7006
+Earth is a protected wildlife reserve.,neutral,0.6011
+Yeah.,neutral,0.5491
+"We've been using it to rebuild the mosquito population, which, need I remind you, is an endangered species!",neutral,0.5746
+Am I to assume you are the expert?,neutral,0.6772
+"I don't know about ""expert."" Agent Pleakley at your service.",neutral,0.5549
+Can we not simply destroy the island?,negative,0.8119
+No!,neutral,0.4416
+Crazy head!,negative,0.6432
+"The mosquito's food of choice, primitive humanoid life forms, have colonies all over that planet.",negative,0.4908
+Are they intelligent?,neutral,0.6611
+"No, but they're very delicate.",neutral,0.6799
+"In fact, every time an asteroid strikes their planet, they have to begin life all over.",neutral,0.7165
+"It's fascinating, isn't it?",positive,0.9018
+"With this, I've been able to study...",positive,0.6354
+What if our military forces just landed there?,neutral,0.7385
+"Well, that'd be a bad idea!",negative,0.7945
+"These are extremely simple creatures, miss.",negative,0.457
+Landing there would create mass mayhem and planet-wide panic!,negative,0.8426
+A quiet capture would require an understanding of 626 that we do not possess.,neutral,0.6231
+"Who, then, Mr.",neutral,0.8131
+"Pleakley, would you send for his extraction?",neutral,0.8743
+Does he have a brother?,neutral,0.8667
+"Close grandmother, perhaps?",neutral,0.8986
+Friendly cousin?,neutral,0.8582
+Neighbor with a beard?,neutral,0.7537
+He got away?,neutral,0.7647
+I'm sure this comes as no surprise to you.,neutral,0.6663
+I designed this creature for to be unstoppable.,neutral,0.5746
+Which is precisely why you must now bring him back.,neutral,0.7668
+"What, me?",neutral,0.6757
+"And to reward you, we are willing to trade your freedom for his capture.",neutral,0.5425
+626 will not come easily.,neutral,0.5757
+Maybe direct hit from plasma cannon might stun him long enough to...,neutral,0.8928
+Plasma cannon granted.,neutral,0.831
+"Do we have a bargain, Dr.",neutral,0.869
+Jumba?,neutral,0.8337
+But it's a delicate planet!,neutral,0.4967
+Who's going to control him?,neutral,0.7235
+You will.,neutral,0.6063
+"Very good, Your Highness.",positive,0.9551
+I didn't quite...,neutral,0.5568
+You're not joking!,negative,0.4926
+"So, tell me, my little one-eyed one, on what poor, pitiful, defenseless planet has my monstrosity been unleashed?",negative,0.9692
+Stop.,negative,0.5321
+Stop.,negative,0.5321
+"Lilo, why are you all wet?",neutral,0.5655
+It's sandwich day.,neutral,0.6744
+"Every Thursday, I take Pudge the fish a peanut-butter sandwich.",neutral,0.8311
+Pudge is a fish?,neutral,0.7846
+And today we were out of peanut butter.,negative,0.6045
+"So I asked my sister what to give him, and she said a tuna sandwich.",neutral,0.8676
+I can't give Pudge tuna!,negative,0.6265
+Do you know what tuna is?,neutral,0.8424
+Fish?,neutral,0.7697
+It's fish!,neutral,0.6042
+"If I gave Pudge tuna, I'd be an abomination!",negative,0.8887
+"I'm late because I had to go to the store and get peanut butter, 'cause all we have is stinking tuna!",negative,0.8738
+"Lilo, Lilo, why is this so important?",neutral,0.5603
+Pudge controls the weather.,neutral,0.6923
+You're crazy.,negative,0.854
+Please!,neutral,0.5394
+Please!,neutral,0.5394
+Everybody calm down!,neutral,0.477
+Girls.,neutral,0.6437
+Lilo...,neutral,0.6433
+I'm sorry!,negative,0.6708
+I'm sorry!,negative,0.6708
+I won't do it again!,negative,0.6964
+Maybe we should call your sister.,neutral,0.8487
+No!,neutral,0.4416
+I'll be good!,positive,0.9337
+I want to dance.,positive,0.761
+I practiced.,neutral,0.8064
+I just want to dance.,positive,0.6595
+I practiced.,neutral,0.8064
+She bit me.,negative,0.8163
+I called your sister.,neutral,0.7363
+She said to wait for her here on the porch.,neutral,0.8641
+We'll try again on Sunday.,neutral,0.7379
+Does this look infected to you?,neutral,0.5164
+Yeah.,neutral,0.5491
+You better not have rabies.,negative,0.7509
+"If you have rabies, the dogcatcher is going to have to cut...",negative,0.7884
+Are you going to play dolls?,neutral,0.897
+You don't have a doll.,neutral,0.5225
+This is Scrump.,negative,0.8007
+"I made her, but her head is too big.",negative,0.6075
+"So I pretend a bug laid eggs in her ears, and she's upset, because she only has a few more days to...",negative,0.5163
+Lilo!,neutral,0.5192
+Lilo?,neutral,0.6675
+Lilo?,neutral,0.6675
+"Oh, no.",negative,0.6307
+You better be home.,neutral,0.7118
+Hey!,neutral,0.5279
+Watch where you're going!,neutral,0.7657
+Stupid head!,negative,0.937
+Lilo!,neutral,0.5192
+Lilo!,neutral,0.5192
+"Open the door, Lilo!",neutral,0.625
+Go away.,negative,0.7155
+Lilo?,neutral,0.6675
+We don't have time for this.,negative,0.8646
+Leave me alone to die.,negative,0.8538
+"Come on, Lilo, that social worker's going to be here any minute!",neutral,0.6948
+You are so finished when I get in there!,negative,0.8218
+"I'm going to stuff you in the blender, push ""purée,"" then bake you into a pie and feed it to the social worker!",neutral,0.6971
+"And when he says, ""This is great.",positive,0.9519
+"What's your secret?"" I'm going to say, ""Love and nurturing."" Hi.",neutral,0.577
+You must be the...,neutral,0.8277
+The stupid head.,negative,0.9427
+"You know, I'm really sorry about that, and if I'd known who you were, of course I never would've...",negative,0.5935
+I can pay for that.,neutral,0.5563
+It's a rental.,neutral,0.4857
+Are you the guardian in question?,neutral,0.8795
+Yes.,positive,0.461
+I'm Nani.,neutral,0.7787
+"Nice to meet you, Mister...",positive,0.9022
+Bubbles.,neutral,0.6694
+Mr.,neutral,0.5849
+Bubbles.,neutral,0.6694
+That's a strange...,neutral,0.5856
+"Yes, I know.",neutral,0.5208
+"Are you going to invite me in, Nani?",neutral,0.9263
+I thought we could sit out here and talk.,neutral,0.794
+I don't think so.,neutral,0.5158
+Right.,neutral,0.5665
+This way.,neutral,0.6722
+Wait here.,neutral,0.6363
+Hey!,neutral,0.5279
+"So, lemonade?",neutral,0.8209
+Do you often leave your sister home alone?,neutral,0.8869
+No.,neutral,0.4936
+Never.,neutral,0.4316
+"Well, except for just now.",neutral,0.7447
+I had to run to the store to get some...,neutral,0.7293
+You left the stove on while you were out?,neutral,0.7753
+Low heat!,neutral,0.4922
+Just a simmer.,neutral,0.6994
+It's coming along great.,positive,0.9642
+I found that this morning.,neutral,0.8162
+Lilo!,neutral,0.5192
+There you are.,neutral,0.6276
+"Honey face, this is Mr.",neutral,0.6977
+Bubbles.,neutral,0.6694
+Nice to meet you.,positive,0.9246
+"Your knuckles say ""Cobra."" Cobra Bubbles.",neutral,0.7743
+You don't look like a social worker.,negative,0.8747
+I'm a special classification.,neutral,0.7406
+Did you ever kill anyone?,negative,0.5246
+We're getting off the subject.,neutral,0.6775
+Let's talk about you.,neutral,0.8525
+Are you happy?,neutral,0.6393
+I'm adjusted.,positive,0.499
+I eat four food groups and look both ways before crossing the street and take long naps and get disciplined.,neutral,0.809
+Disciplined?,neutral,0.7736
+Yeah.,neutral,0.5491
+She disciplines me real good.,positive,0.6939
+Sometimes five times a day.,neutral,0.7588
+No.,neutral,0.4936
+With bricks.,neutral,0.721
+Bricks?,neutral,0.7759
+In a pillowcase.,neutral,0.6595
+Okay!,positive,0.6122
+That's enough sugar for you.,neutral,0.723
+"Why don't you run along, you little cutie?",neutral,0.4874
+The other social workers just thought she was a scream.,neutral,0.4933
+Thirsty?,neutral,0.6606
+Let me illuminate to you the precarious situation in which you have found yourself.,neutral,0.7721
+"I am the one they call when things go wrong, and things have indeed gone wrong.",negative,0.8582
+My friends need to be punished.,negative,0.9408
+Call me next time you're left here alone.,neutral,0.7026
+Yep.,neutral,0.5607
+"In case you're wondering, this did not go well.",negative,0.9316
+You have three days to change my mind.,neutral,0.703
+Lilo!,neutral,0.5192
+Why didn't you wait at the school?,neutral,0.6637
+You were supposed to wait there!,neutral,0.6116
+Lilo!,neutral,0.5192
+Do you not understand?,negative,0.6939
+Do you want to be taken away?,neutral,0.5
+Answer me!,neutral,0.6363
+No!,neutral,0.4416
+"No, you don't understand?",negative,0.6395
+No!,neutral,0.4416
+"No, what?",neutral,0.5284
+No!,neutral,0.4416
+You're such a pain!,negative,0.9701
+So why don't you sell me and buy a rabbit instead?,neutral,0.5694
+At least a rabbit would behave better than you!,neutral,0.471
+Go ahead!,positive,0.6867
+"Then you'll be happy, because it'll be smarter than me, too!",positive,0.8992
+And quieter!,neutral,0.561
+"You'll like it, 'cause it's stinky, like you!",neutral,0.4093
+Go to your room!,neutral,0.6642
+I'm already in my room!,positive,0.5799
+Hey.,neutral,0.5456
+"I brought you some pizza, in case you were hungry.",neutral,0.5606
+"We're a broken family, aren't we?",negative,0.8871
+No.,neutral,0.4936
+Maybe a little.,neutral,0.7246
+Maybe a lot.,neutral,0.7483
+I shouldn't have yelled at you.,negative,0.7836
+We're sisters.,neutral,0.733
+It's our job.,neutral,0.6955
+"Yeah, well, from now on...",neutral,0.8098
+I like you better as a sister than a mom.,positive,0.6338
+Yeah?,neutral,0.7381
+"And you like me better as a sister than a rabbit, right?",neutral,0.6819
+Yes.,positive,0.461
+"Yes, I do.",positive,0.5486
+I hit Mertle Edmonds today.,neutral,0.9097
+You hit her?,neutral,0.6733
+Before I bit her.,negative,0.5418
+You bit her.,negative,0.8263
+"Lilo, you shouldn't...",negative,0.5246
+People treat me different.,negative,0.9022
+They just don't know what to say.,negative,0.752
+I'll tell you what.,neutral,0.6
+"If you promise not to fight anymore, I promise not to yell at you, except on special occasions.",neutral,0.6448
+Tuesdays and bank holidays would be good.,positive,0.938
+Yeah?,neutral,0.7381
+Would that be good?,positive,0.6461
+My camera's full again.,positive,0.4808
+Aren't they beautiful?,positive,0.9428
+A falling star!,neutral,0.6746
+I call it!,neutral,0.5244
+Get out!,neutral,0.5983
+Get out!,neutral,0.5983
+I have to make a wish!,positive,0.5203
+Can't you go any faster?,neutral,0.4888
+"Oh, no!",negative,0.6841
+Gravity is increasing on me.,negative,0.5704
+"No, it's not!",neutral,0.4914
+"It is, too, Lilo.",neutral,0.7984
+The same thing happened yesterday.,neutral,0.7442
+You rotten sister!,negative,0.9024
+Your butt is crushing me!,negative,0.892
+Why do you act so weird?,negative,0.9502
+It's me again.,neutral,0.6764
+"I need someone to be my friend, someone who won't run away.",neutral,0.6037
+"Maybe send me an angel, the nicest angel you have.",positive,0.8859
+What we when hit?,neutral,0.7687
+There it is.,neutral,0.5908
+It stayed jammed under the fender.,neutral,0.7109
+We better call somebody.,neutral,0.6767
+"We're looking for something that can defend itself, something that won't die, something sturdy, you know?",neutral,0.6325
+Like a lobster.,neutral,0.4826
+"Lilo, you                 lolo.",neutral,0.6695
+Do we have a lobster door?,neutral,0.8863
+No.,neutral,0.4936
+We have a dog door.,neutral,0.7553
+We are getting a dog.,neutral,0.6182
+So nice to see your pretty face again!,positive,0.9913
+Jumba?,neutral,0.8337
+We need your name and address at the bottom of the form...,neutral,0.7872
+The kennel's back this way.,neutral,0.8397
+Go.,neutral,0.5352
+Pick someone out.,neutral,0.5752
+Hello?,neutral,0.643
+Hello?,neutral,0.643
+"Are there any ""aminals"" in here?",neutral,0.8695
+Hello!,positive,0.5738
+Hi.,neutral,0.5326
+Hi.,neutral,0.5326
+Wow!,positive,0.8599
+Yes.,positive,0.461
+All of our dogs are adoptable.,positive,0.9374
+Except that one!,neutral,0.5478
+What is that thing?,neutral,0.7328
+"A dog, I think, but it was dead this morning.",negative,0.6014
+It was dead this morning?,neutral,0.5629
+"Well, we thought it was dead.",negative,0.4979
+It was hit by a truck.,negative,0.5176
+I like him!,positive,0.9694
+"Come here, boy.",neutral,0.7403
+Wouldn't you like a different dog?,neutral,0.8575
+"We have better dogs, dear.",positive,0.488
+Not better than him.,negative,0.6602
+He can talk!,positive,0.5842
+Say hello.,neutral,0.5829
+"Dogs can't talk, dear.",negative,0.7053
+He did.,neutral,0.6745
+Does it have to be this dog?,neutral,0.6047
+"Yes, he's good.",positive,0.9514
+I can tell.,neutral,0.6111
+You'll have to think of a name for him.,neutral,0.8139
+His name is Stitch.,neutral,0.7802
+"Now, that's not a real name in Iceland, but here it's a good name.",positive,0.7179
+Stitch it is.,neutral,0.568
+And there's a $2 license fee.,neutral,0.5886
+I want to buy him!,positive,0.931
+Can I borrow $2?,neutral,0.9098
+He's all yours.,neutral,0.4917
+You're all mine.,positive,0.6212
+"Well, what's he doing?",neutral,0.8037
+Keep quiet.,neutral,0.7487
+He's listening for us.,neutral,0.5842
+How good is his hearing?,neutral,0.5813
+"I mean, can he...",neutral,0.7583
+Why don't you run?,neutral,0.7046
+Coming!,positive,0.5762
+I'm coming!,positive,0.6213
+Stop!,negative,0.5341
+I have just determined this situation to be far too hazardous!,negative,0.8803
+"Don't worry, I won't hit her.",neutral,0.7061
+No!,neutral,0.4416
+That girl is a part of the mosquito food chain.,negative,0.865
+Here!,positive,0.5584
+Educate yourself.,neutral,0.729
+Using a little girl for a shield.,neutral,0.7844
+This is low even for you!,negative,0.8975
+Tear him apart with all both my bare hands!,negative,0.5655
+Have you lost your mind?,negative,0.7183
+"What is it, Stitch?",neutral,0.8128
+We cannot be seen!,negative,0.6102
+"Bad dog, barking at nothing!",negative,0.8745
+"You can't shoot, and you can't be seen.",negative,0.5998
+Look at you!,positive,0.7949
+You look like a monster.,negative,0.9684
+We have to blend in.,neutral,0.7063
+"Okay, I got to get to work.",neutral,0.6746
+"Stick around town and stay out of the roads, okay?",neutral,0.8155
+I'll meet you at 1:00.,neutral,0.819
+"Okay, I guess we should be going.",neutral,0.7692
+What about Stitch?,neutral,0.8536
+My friends!,positive,0.7635
+What do you want?,neutral,0.7644
+I'm sorry I bit you and pulled your hair and punched you in the face.,negative,0.9036
+Apology not accepted.,negative,0.7086
+Now get out of my way before I run you over.,negative,0.5648
+I got a new dog.,positive,0.7374
+His name is Stitch.,neutral,0.7802
+That is the ugliest thing I have ever saw.,negative,0.9772
+Yeah.,neutral,0.5491
+Yeah.,neutral,0.5491
+Get it away from me!,negative,0.6746
+I'm gonna get a disease!,negative,0.8972
+Somebody do something!,neutral,0.5109
+"Oh, great!",positive,0.9324
+He's loose.,negative,0.5594
+His destructive programming is taking effect.,negative,0.9282
+"He will be irresistibly drawn to large cities where he will back up sewers, reverse street signs and steal everyone's left shoe.",negative,0.5066
+It's nice to live on an island with no large cities.,positive,0.9237
+Are you okay?,neutral,0.7918
+"Hey, over here, little buddy.",neutral,0.7361
+"When you're ready to give up, just let us know.",neutral,0.7739
+Yeah!,positive,0.7406
+This is you.,neutral,0.7318
+This is your badness level.,negative,0.9426
+It's unusually high for someone your size.,neutral,0.586
+We have to fix that.,neutral,0.4968
+Lilo!,neutral,0.5192
+Your dog cannot sit at the table.,negative,0.7889
+Stitch is troubled.,negative,0.5152
+He needs desserts.,neutral,0.6927
+You didn't even eat your sweet potato.,negative,0.8666
+I thought you liked them.,neutral,0.645
+Desserts!,neutral,0.5287
+David!,positive,0.503
+I got a new dog.,positive,0.7374
+You sure it's a dog?,neutral,0.8004
+He used to be a collie before he got ran over.,neutral,0.5996
+Hey.,neutral,0.5456
+"How's it, Nani?",neutral,0.8069
+Did you catch fire again?,neutral,0.6778
+"Nah, just the stage.",neutral,0.7084
+"Listen, I was wondering if you're not doing anything this...",neutral,0.7123
+"David, I told you, I can't.",negative,0.5979
+I...,neutral,0.7305
+I got a lot to deal with right now.,negative,0.6796
+I know.,neutral,0.5132
+I just figured you might need some time...,neutral,0.7733
+You smell like a lawn mower.,negative,0.7933
+"Look, I got to go.",neutral,0.6891
+The kid at Table 3's throwing                 poi                 again.,neutral,0.6392
+"Maybe some other time, okay?",neutral,0.7434
+Don't worry.,positive,0.5337
+She likes your butt and fancy hair.,neutral,0.5009
+I know.,neutral,0.5132
+I read her diary.,neutral,0.7821
+She thinks it's fancy?,neutral,0.6937
+Look what I find!,positive,0.6422
+Get restraints!,neutral,0.5294
+Right.,neutral,0.5665
+Take that!,neutral,0.5343
+Hurry!,neutral,0.5702
+Hold still just a...,neutral,0.7965
+"Hey, Nani!",neutral,0.6353
+Is that your dog?,neutral,0.847
+All is well.,positive,0.6328
+"Please, go about your business.",neutral,0.5515
+I'm okay.,positive,0.8271
+Your head looks swollen.,negative,0.7264
+"Actually, she's just ugly.",negative,0.9668
+Darling.,neutral,0.6254
+He's joking.,neutral,0.6079
+"Ugly, look at me.",negative,0.9421
+This is not working out.,negative,0.9513
+But...,neutral,0.7123
+Yeah?,neutral,0.7381
+"Well, who wants to work at this stupid fakey                 luau                 anyway?",negative,0.9497
+"Come on, Lilo.",neutral,0.6963
+Did you lose your job because of Stitch and me?,negative,0.5598
+Nah.,neutral,0.5064
+"The manager's a vampire, and he wanted me to join his legion of the undead.",negative,0.4907
+I knew it.,neutral,0.5054
+This is a great home.,positive,0.9733
+You'll like it a lot.,positive,0.8934
+See?,neutral,0.6904
+Lilo...,neutral,0.6433
+Comfy.,positive,0.5969
+Hey!,neutral,0.5279
+Hey!,neutral,0.5279
+What is the matter with you?,negative,0.5288
+Be careful of the little angel!,neutral,0.6365
+"It's not an angel, Lilo.",neutral,0.5813
+I don't even think it's a dog.,negative,0.6324
+We just have to take him back.,neutral,0.7612
+He's just cranky because it's his bedtime.,negative,0.6285
+"He's creepy, Lilo.",negative,0.888
+I won't sleep knowing he's loose in the house.,negative,0.8403
+"You're loose in the house all the time, and I sleep just fine!",positive,0.6946
+"Hey, what are you doing?",neutral,0.832
+"Stop that, Stitch!",negative,0.6408
+Hey!,neutral,0.5279
+"Look at him, Lilo.",neutral,0.6936
+He's obviously mutated from something else.,negative,0.8236
+We have to take him back.,neutral,0.7227
+"He was an orphan, and we adopted him!",positive,0.7536
+What about                 'ohana?,neutral,0.8587
+He hasn't been here that long.,neutral,0.6989
+Neither have I.,neutral,0.5427
+"Dad said                 'ohana                 means ""family."" 'Ohana                 means ""family."" ""Family"" means...",neutral,0.7636
+Nobody gets left behind.,neutral,0.5303
+Or?,neutral,0.6697
+Or forgotten.,neutral,0.5331
+I know.,neutral,0.5132
+I know.,neutral,0.5132
+I hate it when you use                 'ohana                 against me.,negative,0.9739
+"Don't worry, you can sleep right next to me.",positive,0.7172
+Look how curious the puppy is.,positive,0.8781
+"This is my room, and this is your bed.",neutral,0.7447
+This is your dolly and bottle.,neutral,0.8012
+See?,neutral,0.6904
+Doesn't spill.,neutral,0.7217
+I filled it with coffee.,neutral,0.7023
+Good puppy.,positive,0.9368
+Now get into bed.,neutral,0.7386
+Hey!,neutral,0.5279
+That's mine!,positive,0.8108
+Down!,neutral,0.4644
+Be careful of that!,neutral,0.6101
+You don't touch this!,negative,0.5779
+Don't ever touch it!,negative,0.4885
+No!,neutral,0.4416
+Don't pull on her head!,neutral,0.5541
+She's recovering from surgery.,neutral,0.8121
+No!,neutral,0.4416
+That's from my blue period.,neutral,0.8628
+There.,neutral,0.551
+"You know, you wreck everything you touch.",negative,0.9035
+Why not try and make something for a change?,neutral,0.7925
+Wow.,positive,0.7094
+San Francisco.,neutral,0.792
+Save me!,neutral,0.515
+No more caffeine for you.,neutral,0.5953
+This little girl is wasting her time.,negative,0.9775
+626 cannot be taught to ignore its destructive programming.,negative,0.9231
+Push that over.,neutral,0.5935
+What are you doing?,neutral,0.8242
+Nothing!,neutral,0.4964
+"Say, I want to try it on.",positive,0.5439
+No!,neutral,0.4416
+Share!,positive,0.5102
+Hey!,neutral,0.5279
+You're just jealous 'cause I'm pretty!,neutral,0.4132
+Don't move.,neutral,0.6584
+A mosquito has chosen me as her perch.,neutral,0.5901
+She's so beautiful.,positive,0.9814
+"Look, another one.",neutral,0.6663
+And another one!,positive,0.5605
+"Why, it's a whole flock.",neutral,0.6877
+And they like me!,positive,0.7956
+They're nuzzling my flesh with their noses.,neutral,0.5456
+"Now, they're, they're...",neutral,0.7276
+"I think it might be a koala, an evil koala.",negative,0.6332
+I can't even pet it.,negative,0.7722
+"It keeps staring at me, like it's going to eat me.",negative,0.7714
+Hello?,neutral,0.643
+Nani?,neutral,0.7069
+Hello?,neutral,0.643
+Are you there?,neutral,0.8169
+"Now, this is interesting.",positive,0.8914
+What?,neutral,0.5653
+"626 was designed to be a monster, but now he has nothing to destroy.",negative,0.7343
+"You see, I never gave him a greater purpose.",neutral,0.4891
+"What must it be like to have nothing, not even memories to visit in the middle of the night?",negative,0.8145
+Nah!,neutral,0.535
+That's the Ugly Duckling.,negative,0.7682
+See?,neutral,0.6904
+He's sad because he's all alone and nobody wants him.,negative,0.9211
+"But on this page, his family hears him crying and they find him.",negative,0.4899
+"Then the Ugly Duckling is happy, because he knows where he belongs.",positive,0.7374
+Want to listen to the King?,neutral,0.8533
+You look like an Elvis fan.,neutral,0.599
+Nani.,neutral,0.6631
+Nani!,neutral,0.6356
+Yeah?,neutral,0.7381
+Look.,neutral,0.6185
+Heard you lost your job.,negative,0.7713
+"Well, actually, I just quit that job, because, you know, the hours are just not conducive to the challenges of raising a child...",negative,0.927
+Hey!,neutral,0.5279
+I am so sorry about that.,negative,0.833
+What is that thing?,neutral,0.7328
+That's my puppy.,positive,0.7544
+Really?,neutral,0.6008
+"Thus far, you have been adrift in the sheltered harbor of my patience, but I cannot ignore you being jobless.",neutral,0.4932
+Do I make myself clear?,neutral,0.7515
+Perfectly.,positive,0.6844
+"And next time I see this dog, I expect it to be a model citizen,                 capisce?",neutral,0.559
+Yes?,neutral,0.7116
+New job.,neutral,0.6227
+Model citizen.,neutral,0.7408
+Good day.,positive,0.9385
+Mrs.,neutral,0.6144
+Hasagawa?,neutral,0.7584
+I'm here to answer your newspaper ad.,neutral,0.7972
+Elvis Presley was a model citizen.,neutral,0.6589
+I've compiled a list of his traits for you to practice.,neutral,0.8833
+Number one is dancing.,neutral,0.7083
+"I can't talk now, dear.",negative,0.8033
+I'm waiting for someone to answer my ad.,neutral,0.742
+That's why I'm here.,neutral,0.6557
+Hands on your hips.,neutral,0.8497
+Now follow my lead.,neutral,0.7014
+That's my want ad.,positive,0.6614
+I know!,neutral,0.4773
+Why is everything so dark?,negative,0.8732
+I am all about coffee.,positive,0.6458
+Let's move on to step two.,neutral,0.6943
+Elvis played guitar.,neutral,0.8659
+Here.,neutral,0.5711
+"Hold it like this, and put your fingers here.",neutral,0.839
+See?,neutral,0.6904
+Now you try.,neutral,0.7202
+And I make great cappuccinos and lattes with...,positive,0.9554
+"I wish I could, Nani, but I just hired Teddy, and with tourist season ending...",neutral,0.6543
+Concierge-er-ing is my life.,neutral,0.5463
+I just love to answer phones...,positive,0.8722
+This is the face of romance.,neutral,0.5289
+She looks like she could use some loving.,neutral,0.4955
+We might have something.,neutral,0.6272
+Good.,positive,0.7732
+Now kiss her.,neutral,0.525
+"I'm sure Elvis had his bad days, too.",neutral,0.4836
+I'm all about saving people.,positive,0.7466
+"Actually, I do think we have an opening.",positive,0.5258
+Really?,neutral,0.6008
+"Okay, this is it.",neutral,0.613
+Time to bring it all together.,neutral,0.5687
+That'd be so great!,positive,0.9844
+You have no idea how badly I need this job.,negative,0.5846
+It's all you!,positive,0.6011
+Knock them dead!,negative,0.7113
+Don't crowd him!,neutral,0.5668
+"Hey, knock it off!",neutral,0.4965
+"Hey, Lilo!",neutral,0.562
+"How's it, Nani?",neutral,0.8069
+We've been having a bad day.,negative,0.9488
+"Hey, I might not be a doctor, but I know that there's no better cure for a sour face than a couple of boards and some choice waves.",neutral,0.4579
+What you think?,neutral,0.767
+I think that's a great idea.,positive,0.9696
+Yeah!,positive,0.7406
+"Can't complain, Mom.",positive,0.4848
+"I'm camping out with a convicted criminal, and I had my head chewed on by a monster!",negative,0.9369
+"Wait, something is not right.",negative,0.9082
+626 is returning willingly to water.,neutral,0.6035
+"Hold on, Mom, another call.",neutral,0.7861
+Mr.,neutral,0.5849
+"Pleakley, you are overdue.",neutral,0.699
+I want a status report.,neutral,0.7383
+Things are going well.,positive,0.9074
+He cannot swim!,negative,0.6982
+Things are going well.,positive,0.9074
+"Jumba, aren't they going well?",neutral,0.636
+Why will he risk drowning?,negative,0.5652
+Jumba?,neutral,0.8337
+"Jumba, help me out here.",neutral,0.7634
+I would have expected you back by now with 626 in hand.,neutral,0.7993
+"Just a few things left to pack, and we'll be...",neutral,0.6117
+Hang up.,neutral,0.6663
+We are going swimming.,neutral,0.5327
+Yeah!,positive,0.7406
+Lilo!,neutral,0.5192
+What happened?,neutral,0.6705
+Some                 lolo                 must have stuffed us in the barrel.,negative,0.7911
+Where's Stitch?,neutral,0.763
+Get off of her!,negative,0.7153
+What happened?,neutral,0.6705
+Stitch dragged her down.,negative,0.8088
+We lost Stitch!,negative,0.7407
+Lilo?,neutral,0.6675
+"Lilo, look at me.",neutral,0.7146
+"Look at me, baby.",positive,0.5309
+Are you hurt?,neutral,0.5389
+No.,neutral,0.4936
+"He's unconscious, but I think he's alive.",neutral,0.7174
+"David, take Lilo.",neutral,0.8027
+This isn't what it looks like.,negative,0.7588
+We were...,neutral,0.8139
+It's just that...,neutral,0.6674
+"I know you're trying, Nani, but you need to think about what's best for Lilo, even if it removes you from the picture.",neutral,0.7596
+I'll be back tomorrow morning for Lilo.,neutral,0.7047
+I'm sorry.,negative,0.6455
+Nani?,neutral,0.7069
+Is there something I can do?,neutral,0.8525
+"No, David.",neutral,0.5888
+I need to take Lilo home now.,neutral,0.7871
+"We have a lot to talk about, you know.",neutral,0.7903
+Thanks.,positive,0.6284
+"You know, I really believed they had a chance.",neutral,0.5346
+Then you came along.,neutral,0.753
+"Lilo, honey, we have to...",neutral,0.8096
+Don't worry.,positive,0.5337
+"You're nice, and someone will give you a job.",positive,0.7803
+I would.,positive,0.4913
+Come here.,neutral,0.6825
+One fond embrace Until we meet again That's us before.,positive,0.7414
+"It was rainy, and they went for a drive.",neutral,0.7947
+What happened to yours?,neutral,0.7828
+I hear you cry at night.,negative,0.5005
+Do you dream about them?,neutral,0.8963
+I know that's why you wreck things and push me.,negative,0.822
+"Our family's little now, and we don't have many toys, but if you want, you could be a part of it.",positive,0.5838
+"You could be our baby, and we'd raise you to be good.",positive,0.8723
+"'Ohana                 means ""family."" ""Family"" means nobody gets left behind, but if you want to leave, you can.",neutral,0.5589
+"I'll remember you, though.",neutral,0.6216
+I remember everyone that leaves.,neutral,0.788
+I...,neutral,0.7305
+Lost.,negative,0.6132
+I'm lost.,negative,0.7576
+Help!,neutral,0.6156
+I don't like the ocean!,negative,0.9721
+"Look, a friendly little dolphin.",positive,0.8238
+They helped sailors in the war...,neutral,0.7448
+It's a shark!,neutral,0.6521
+"It's a shark, and it ain't friendly!",negative,0.7243
+It looks like a dolphin.,neutral,0.6554
+Tricky fish!,negative,0.6839
+Tricky fish!,negative,0.6839
+"Octopus, come and help me?",neutral,0.8378
+The octopus is worse than the shark!,negative,0.9663
+I hate this planet!,negative,0.9799
+Little monster!,negative,0.7187
+Agent Pleakley here.,neutral,0.8211
+I have lost patience with you both.,negative,0.9774
+Have you captured 626 or not?,neutral,0.8708
+Consider yourselves fired and prison-bound.,negative,0.5852
+Your incompetence is nothing short of unspeakable!,negative,0.9653
+But...,neutral,0.7123
+We're fired!,neutral,0.471
+Now we do it my way!,neutral,0.4995
+Your way?,neutral,0.7631
+Wait!,neutral,0.6225
+It seems I have overestimated Jumber and Blinkley.,negative,0.7355
+Jumba and Pleakley.,neutral,0.7762
+Whatever.,neutral,0.5607
+The mission is in jeopardy.,negative,0.8166
+"This could be your chance to redeem yourself, Captain Gantu.",positive,0.5228
+How soon will you be prepared to leave?,neutral,0.8894
+Immediately.,neutral,0.614
+Don't run.,neutral,0.6778
+Don't make me shoot you.,negative,0.6291
+You were expensive.,negative,0.7448
+Yes.,positive,0.461
+"Yes, that's it.",neutral,0.4849
+Come quietly.,neutral,0.7386
+Waiting.,neutral,0.6949
+For what?,neutral,0.6192
+Family.,neutral,0.5821
+You don't have one.,neutral,0.4863
+I made you.,neutral,0.5681
+Maybe I could.,neutral,0.5436
+You're built to destroy.,negative,0.8746
+You can never belong.,negative,0.8477
+"Now come quietly, and we will take you apart.",negative,0.5296
+"No, no, no, no, don't, don't run!",negative,0.5546
+Don't run!,neutral,0.6278
+Lilo.,neutral,0.579
+I didn't hear you get up.,neutral,0.6327
+"Baby, what's wrong?",negative,0.7471
+Stitch left.,neutral,0.6457
+Really?,neutral,0.6008
+It's good he's gone.,positive,0.5732
+"He didn't want to be here, anyway.",negative,0.5645
+We don't need him.,negative,0.7089
+"Lilo, sometimes you try your hardest, but things don't work out the way you want them to.",negative,0.679
+"Sometimes things have to change, and maybe sometimes they're for the better, even if...",positive,0.736
+Nani!,neutral,0.6356
+David!,positive,0.503
+I think I found you a job.,positive,0.5755
+You what?,neutral,0.6452
+"Old man Kuakini's store, but we got to hurry.",neutral,0.7131
+Okay.,neutral,0.5844
+Lilo?,neutral,0.6675
+"Baby, this is really important.",positive,0.9154
+I need you to stay here for a few minutes.,neutral,0.8662
+I'm going to be right back.,positive,0.57
+"Lock the door and don't answer it for anyone, okay?",neutral,0.6049
+Things are finally turning around.,positive,0.8085
+"David, I owe you one.",neutral,0.5872
+That's okay.,positive,0.7336
+"You can just date me, and we'll call it even.",neutral,0.6981
+"Come back here, you little...",neutral,0.6931
+Stitch?,neutral,0.6878
+What is it?,neutral,0.75
+Hiding behind your little friend won't work anymore.,negative,0.8302
+Didn't I tell you?,neutral,0.6578
+We got fired this morning.,negative,0.624
+New rules.,neutral,0.6465
+What are we going to do?,neutral,0.8556
+I love this song!,positive,0.9913
+Pliers.,neutral,0.6264
+Screwdriver.,neutral,0.6094
+Check.,neutral,0.6054
+"Come out, my friend, from whomever you're hiding behind.",neutral,0.7099
+What the...,neutral,0.5052
+Come on!,positive,0.6006
+What's the big deal?,neutral,0.7005
+I'll put you back together again.,neutral,0.5086
+I'll make you taller and not so fluffy!,positive,0.5246
+I like fluffy!,positive,0.965
+No.,neutral,0.4936
+No.,neutral,0.4936
+No!,neutral,0.4416
+Leave my mother out of this!,negative,0.8771
+You could do with a makeover.,neutral,0.7265
+"I tried to give you my good looks, but let's face it, something went wrong.",negative,0.7801
+No!,neutral,0.4416
+Quick!,neutral,0.5481
+Follow me!,neutral,0.5002
+If we make it to...,neutral,0.8009
+You're alive!,positive,0.9083
+They're all over the place!,neutral,0.5349
+Running away?,neutral,0.7822
+"Here, let me stop you.",neutral,0.7154
+You always get in the way!,negative,0.7619
+Where's the girl?,neutral,0.745
+What have you done to the girl?,neutral,0.7827
+Hello?,neutral,0.643
+Cobra Bubbles?,neutral,0.8804
+Aliens are attacking my house.,negative,0.9461
+"No, no, no!",negative,0.7057
+No aliens!,neutral,0.603
+Blue punch buggy!,neutral,0.6956
+No punch back.,neutral,0.6773
+They want my dog!,neutral,0.5441
+There's no need to alert the authorities.,neutral,0.6675
+Everything's under control.,positive,0.5868
+"Lilo, who was that?",neutral,0.8157
+"Good, my dog found the chainsaw.",positive,0.8215
+Lilo!,neutral,0.5192
+Don't hang...,neutral,0.7158
+You shouldn't play with guns.,negative,0.7956
+Okay.,neutral,0.5844
+Thank you.,positive,0.853
+I just remembered.,neutral,0.7205
+It's your birthday!,positive,0.8818
+Happy birthday!,positive,0.9839
+Merry Christmas!,positive,0.959
+It's not Christmas.,negative,0.4759
+Happy Hanukkah!,positive,0.9747
+We're leaving Stitch?,neutral,0.883
+Trust me.,positive,0.511
+This is not going to end well.,negative,0.952
+One potato.,neutral,0.7058
+Two potato.,neutral,0.7006
+Three potato.,neutral,0.7094
+Four.,neutral,0.569
+Five potato.,neutral,0.6262
+Six potato.,neutral,0.6564
+"Seven potato, more.",neutral,0.7285
+My...,neutral,0.6502
+Mother...,neutral,0.6758
+Told...,neutral,0.7602
+Me...,neutral,0.7375
+You...,neutral,0.6931
+Are...,neutral,0.7232
+It.,neutral,0.5429
+I win!,positive,0.8731
+Thanks.,positive,0.6284
+Mahalo                 plenty.,neutral,0.6708
+You won't be disappointed.,positive,0.4584
+I'll show up early to help with the morning...,positive,0.6755
+Don't turn left.,neutral,0.7142
+No.,neutral,0.4936
+One of them had a giant eye in the middle of his face.,neutral,0.7492
+Lilo!,neutral,0.5192
+Please don't do this.,negative,0.879
+You know I have no choice.,neutral,0.5906
+No!,neutral,0.4416
+You're not taking her!,negative,0.6455
+I'm the only one who understands her!,positive,0.7552
+"You take that away, she won't stand a chance!",negative,0.6664
+You're making this harder than it needs to be.,negative,0.9143
+But you don't know what you're doing!,negative,0.6172
+She needs me!,neutral,0.5622
+Is this what she needs?,neutral,0.7249
+It seems clear to me that you need her a lot more than she needs you.,neutral,0.5516
+Lilo!,neutral,0.5192
+Lilo!,neutral,0.5192
+Lilo!,neutral,0.5192
+Lilo!,neutral,0.5192
+Lilo!,neutral,0.5192
+Lilo!,neutral,0.5192
+Lilo!,neutral,0.5192
+You ruined everything.,negative,0.9467
+You're one of them?,neutral,0.6587
+"Get out of here, Stitch.",negative,0.7174
+Surprise!,positive,0.9558
+And here I thought you'd be difficult to catch.,negative,0.5125
+Silly me.,negative,0.6111
+Lilo?,neutral,0.6675
+Lilo!,neutral,0.5192
+"There you go, all buckled up for the trip.",neutral,0.6706
+"And, look, I even caught you a little snack.",neutral,0.505
+No!,neutral,0.4416
+Stop!,negative,0.5341
+Lilo.,neutral,0.579
+"Okay, talk.",neutral,0.7452
+I know you had something to do with this.,neutral,0.794
+Now where is Lilo?,neutral,0.7119
+Talk!,neutral,0.5618
+I know you can.,positive,0.6522
+"Okay, okay.",neutral,0.4838
+Where's Lilo?,neutral,0.778
+Lilo...,neutral,0.6433
+Now all your washing is up!,neutral,0.6206
+You're under arrest!,negative,0.802
+Read him his rights.,neutral,0.6501
+Listen carefully.,neutral,0.7948
+Hello?,neutral,0.643
+Galactic Command?,neutral,0.845
+Experiment 626 is in custody.,neutral,0.8666
+We'll wait right here.,neutral,0.6094
+Don't interact with her.,negative,0.817
+Where's Lilo?,neutral,0.778
+Who?,neutral,0.6756
+What?,neutral,0.5653
+"Lilo, my sister.",neutral,0.7924
+"Sorry, we do not know anyone by this...",negative,0.6748
+Lilo!,neutral,0.5192
+"She's a little girl, this big!",positive,0.5673
+"She has black hair and brown eyes, and she hangs around with that thing!",neutral,0.6887
+We know her.,neutral,0.6876
+Bring her back.,neutral,0.7435
+We can't do that.,negative,0.8247
+That would be a misuse of Galactic resources.,negative,0.8185
+"See, problem is we're just here for him.",neutral,0.4834
+So she's gone?,neutral,0.6395
+Look at the bright side.,positive,0.8422
+You won't have to yell at anyone anymore.,negative,0.4879
+Come.,neutral,0.5622
+'Ohana.,neutral,0.7114
+Hey!,neutral,0.5279
+Get away from her.,negative,0.662
+No!,neutral,0.4416
+What did you say?,neutral,0.7699
+"'Ohana                 means "" family."" ""Family"" means nobody...",neutral,0.4813
+Nobody gets left behind.,neutral,0.5303
+Or forgotten.,neutral,0.5331
+Yeah.,neutral,0.5491
+Hey.,neutral,0.5456
+What?,neutral,0.5653
+"After all you put me through, you expect me to help you just like that?",negative,0.8218
+Just like that?,neutral,0.6668
+Fine.,neutral,0.5034
+Fine?,neutral,0.7716
+You're doing what he says?,neutral,0.788
+He's very persuasive.,positive,0.7593
+Persuasive?,neutral,0.7498
+What exactly are we doing?,neutral,0.838
+Rescue.,neutral,0.7189
+We're going to get Lilo?,neutral,0.8886
+Good!,positive,0.9175
+"I was hoping to add theft, endangerment and insanity to my list of things I did today.",negative,0.8956
+"You, too?",neutral,0.7936
+"Yeah, yeah, yeah!",positive,0.8116
+What?,neutral,0.5653
+Did you think we walked here?,neutral,0.8123
+"This is Gantu, requesting hyperspace clearance.",neutral,0.9155
+Stand by for clearance.,neutral,0.8144
+Clearance is granted on vector C-12.,positive,0.5158
+Connect me to the Grand Councilwoman.,neutral,0.9067
+"Gantu, what's going on?",neutral,0.7764
+I thought you'd like to know that the little abomination is...,neutral,0.4919
+"Yes, Captain?",neutral,0.8345
+I'll call you back.,neutral,0.6929
+How did you get out of there?,neutral,0.8047
+So what exactly are we doing?,neutral,0.8395
+"Don't worry, is all part of plan.",neutral,0.5013
+We are professionals.,neutral,0.6856
+Hey!,neutral,0.5279
+Get that out of your mouth!,negative,0.6741
+Hold on!,neutral,0.6471
+"Okay, is show time!",neutral,0.5145
+This is it!,positive,0.7213
+Go!,positive,0.6266
+Go!,positive,0.6266
+Go!,positive,0.6266
+Little savage!,negative,0.5072
+Get off my ship!,negative,0.8128
+Stitch!,neutral,0.5268
+"Computer, locate Experiment 626.",neutral,0.8537
+626 located.,neutral,0.6825
+We finish this now.,neutral,0.7464
+Stitch is unconscious.,negative,0.5504
+What do we do now?,neutral,0.7794
+We stay close.,neutral,0.5609
+Hope for a miracle.,positive,0.6789
+That's all we can do.,positive,0.6857
+No!,neutral,0.4416
+"Don't leave me, okay?",neutral,0.6663
+Okay.,neutral,0.5844
+Okay.,neutral,0.5844
+Okay.,neutral,0.5844
+Target 626 is in motion.,neutral,0.8854
+Speed is 84.,neutral,0.7873
+Impossible!,neutral,0.3873
+Stitch!,neutral,0.5268
+Abomination.,negative,0.8713
+Stupid head.,negative,0.9274
+You're vile!,negative,0.9653
+You're foul!,negative,0.935
+You're flawed!,negative,0.9435
+Also cute and fluffy!,positive,0.9678
+You came back.,neutral,0.5969
+Nobody gets left behind.,neutral,0.5303
+Lilo!,neutral,0.5192
+Good dog.,positive,0.9089
+David!,positive,0.503
+"Hey, Lilo.",neutral,0.7202
+Can you give us a ride to shore?,neutral,0.8689
+"Sure, but I have to make two trips.",neutral,0.7794
+So you're from outer space?,neutral,0.8518
+I heard the surfing's choice.,neutral,0.7672
+We have 626.,neutral,0.7886
+Take him to my ship.,neutral,0.8293
+Leave him alone.,negative,0.5137
+Hold on.,neutral,0.6407
+"Grand Councilwoman, let me explain.",neutral,0.8086
+Silence!,neutral,0.6404
+"I am retiring you, Captain Gantu.",neutral,0.6045
+"Actually, credit for the capture goes to...",neutral,0.8326
+Goes to me.,neutral,0.7096
+You'll be lucky if you end up on a Fluff Trog farm after we sort this thing out.,neutral,0.6159
+I think I should...,neutral,0.725
+You!,positive,0.4782
+You're the cause of all this!,negative,0.7633
+"If it wasn't for your Experiment 626, none of this...",neutral,0.5862
+Stitch.,negative,0.4476
+What?,neutral,0.5653
+My name Stitch.,neutral,0.7793
+"Stitch, then.",neutral,0.6433
+If it wasn't for Stitch...,neutral,0.6592
+Does Stitch have to go in the ship?,neutral,0.8657
+Yes.,positive,0.461
+Can Stitch say goodbye?,neutral,0.7612
+Yes.,positive,0.461
+Thank you.,positive,0.853
+Who are you?,neutral,0.7975
+This is my family.,positive,0.499
+I found it all on my own.,neutral,0.5191
+"It's little and broken, but still good.",positive,0.6479
+Yeah.,neutral,0.5491
+Still good.,positive,0.9009
+Does he really have to go?,neutral,0.7327
+You know as well as I that our laws are absolute.,neutral,0.7092
+I cannot change what the council has decided.,neutral,0.5959
+"Lilo, didn't you buy that thing at the shelter?",neutral,0.7398
+Hey!,neutral,0.5279
+"Three days ago, I bought Stitch at the shelter.",neutral,0.9049
+I paid $2 for him.,neutral,0.7056
+See this stamp?,neutral,0.862
+I own him.,neutral,0.6477
+"If you take him, you're stealing.",negative,0.6827
+Aliens are all about rules.,neutral,0.5164
+You look familiar.,neutral,0.5984
+CIA.,neutral,0.5302
+Roswell.,neutral,0.6798
+1973.,neutral,0.5151
+Yes.,positive,0.461
+You had hair then.,neutral,0.7977
+Take note of this.,neutral,0.8382
+"This creature has been sentenced to life in exile, a sentence that shall be henceforth served out here on Earth.",negative,0.931
+"And as caretaker of the alien life form, Stitch, this family is now under the official protection of the United Galactic Federation.",neutral,0.8767
+We'll be checking in now and then.,neutral,0.7716
+I was afraid you were going to say that.,negative,0.5001
+This won't be easy to explain back at headquarters.,negative,0.7568
+I know what you mean.,neutral,0.6049
+Don't let those two get on my ship.,negative,0.7429
+CIA?,neutral,0.6248
+Former.,neutral,0.6103
+Saved the planet once.,positive,0.576
+Convinced an alien race that mosquitoes were an endangered species.,negative,0.6256
+"Now, about your house...",neutral,0.8362
+Wait.,neutral,0.5851

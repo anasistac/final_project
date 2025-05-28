@@ -1,0 +1,1400 @@
+text,sentiment,score
+"Now, where to begin?",neutral,0.7253
+"How 'bout, ""Once upon a time“?",neutral,0.8521
+How many times have you heard that to begin a story?,neutral,0.8012
+Let's do somethin' else.,neutral,0.6567
+"I got it, I got it, here we go.",neutral,0.4932
+Here's how to open a movie!,neutral,0.5505
+"No, I don't think so.",neutral,0.6272
+It sounds familiar.,neutral,0.605
+"Doesn't it, to you?",neutral,0.7675
+"Oh, no, no, not the book.",negative,0.6949
+"How many have seen ""opening the book"" before?",neutral,0.8123
+Close the book.,neutral,0.5815
+We 're not doing that.,negative,0.5197
+Here's what we're gonna do.,neutral,0.6362
+Why don't I just go back to the day things took a turn for the worse?,negative,0.939
+Run for your lives!,neutral,0.5137
+Everyone run for cover!,neutral,0.6013
+SOS!,negative,0.5636
+Mayday!,positive,0.6534
+Mayday!,positive,0.6534
+Code red!,positive,0.488
+Duck and cover!,neutral,0.7081
+You're all in danger!,negative,0.8662
+Ah!,positive,0.4984
+Run for cover!,neutral,0.6239
+Run for your lives!,neutral,0.5137
+Emergency!,neutral,0.5502
+Emergency!,neutral,0.5502
+Whoa!,neutral,0.4812
+Whoa!,neutral,0.4812
+Aaah!,neutral,0.4789
+Look out!,neutral,0.6437
+Take cover!,neutral,0.6776
+Run for cover!,neutral,0.6239
+Chicken Little!,neutral,0.6205
+What is it?,neutral,0.75
+What's going on?,neutral,0.7289
+The sky is falling!,neutral,0.5519
+The sky is falling!,neutral,0.5519
+The sky is falling?,neutral,0.6085
+Are you crazy?,negative,0.6039
+"No, no, no!",negative,0.7057
+It's true!,positive,0.7468
+Come with me!,positive,0.7315
+No.,neutral,0.4936
+Son?,neutral,0.6909
+What?,neutral,0.5653
+It happened under the old oak tree!,neutral,0.7023
+I'm not making this up.,negative,0.5552
+It's here.,neutral,0.6465
+There's a piece of the sky somewhere...,neutral,0.8437
+...somewhere on the ground.,neutral,0.8127
+It was shaped like that!,neutral,0.7108
+It looks like a stop sign?,neutral,0.7526
+Yes!,positive,0.8097
+"Only it doesn't say ""stop"" and it's blue and it has a cloud on it.",neutral,0.4931
+And it hit me on the head!,neutral,0.5046
+It looked like a stop sign.,neutral,0.632
+Wait!,neutral,0.6225
+What's that?,neutral,0.7331
+"Son, is this what hit you?",neutral,0.6117
+What?,neutral,0.5653
+"Oh, no, Dad.",negative,0.5726
+It was definitely a piece of the sky!,positive,0.7732
+Piece of the sky.,neutral,0.7312
+"It's OK, everyone!",positive,0.8842
+"Dad, no.",neutral,0.6207
+"There's been, like, a little mistake.",negative,0.6621
+It was just an acorn that-that hit my son.,neutral,0.7942
+A little acorn.,neutral,0.7234
+No!,neutral,0.4416
+"Dad, no.",neutral,0.6207
+"Quiet, son.",neutral,0.6797
+This is embarrassing enough already.,negative,0.9714
+Chicken Little!,neutral,0.6205
+What were you thinkin'?,neutral,0.8517
+Why put your town's safety in jeopardy?,negative,0.91
+How could you mistake a stop sign for an acorn?,negative,0.5699
+But it...,neutral,0.6679
+a big acorn level fluh.,neutral,0.6191
+What did he say?,neutral,0.7761
+A big acorn level fluh...,neutral,0.7268
+It was a big acorn?,neutral,0.8548
+An ape throwing coleslaw?,neutral,0.7949
+A big acorn level fluh...,neutral,0.7268
+Gesundheit!,neutral,0.5961
+"Ladies and gentlemen, it's just gibberish, gibberish of an insane person.",negative,0.974
+"Come on, Buck!",neutral,0.5987
+Your kid went and scared us all half to death!,negative,0.9185
+"Well, what can I tell you, folks, my son, you know...",neutral,0.8299
+Kids do crazy stuff.,negative,0.5088
+You have kids.,neutral,0.5768
+It's...,neutral,0.7347
+"No, Dad.",neutral,0.5472
+It wasn't an acorn.,neutral,0.7926
+It was...,neutral,0.799
+it was a piece of the sky.,neutral,0.7843
+"Really, it was.",neutral,0.6436
+You gotta believe me.,neutral,0.6364
+A movie.,neutral,0.6836
+A movie.,neutral,0.6836
+They're makin' a movie.,neutral,0.6655
+When?,neutral,0.7904
+When will everybody forget your big mistake?,negative,0.6205
+"First it was all over the papers, then they wrote a book about it, then the book on tape, then the board game, the spoons with your face on it...",neutral,0.7089
+"...and the Web site, the commemorative plates.",neutral,0.843
+"You saw them, right?",neutral,0.7726
+Yeah.,neutral,0.5491
+I saw them.,neutral,0.7247
+Can't eat off 'em.,negative,0.6109
+They're not microwave-safe.,negative,0.8439
+You saw the billboards?,neutral,0.8014
+I saw them.,neutral,0.7247
+Ha!,neutral,0.5186
+There's a bumper sticker.,neutral,0.7843
+I knew it was only a matter of time.,neutral,0.5277
+Billboards I could live with.,positive,0.4915
+Posters I could even live with.,positive,0.634
+But a bumper sticker.,neutral,0.6728
+It's...,neutral,0.7347
+it's like glued on forever.,neutral,0.5261
+It doesn't matter.,neutral,0.6715
+You know why?,neutral,0.6823
+Because I've got a plan.,neutral,0.6218
+"Yeah, about that.",neutral,0.6509
+"Well, remember how I told you it would be better for you to lay low, don't call attention to yourself?",neutral,0.559
+"Yes, but I...",neutral,0.8094
+"See, it's like a game.",neutral,0.54
+"Yeah, a game of hide-and-seek, except the goal is never to be found, ever!",negative,0.4447
+Great!,positive,0.9232
+"Now, we've got a plan, right?",neutral,0.7442
+I'll see ya later!,positive,0.6292
+"Remember, lay low.",neutral,0.759
+Yeah.,neutral,0.5491
+OK.,neutral,0.5176
+Bye.,neutral,0.5137
+"Look, Mama!",neutral,0.641
+There's the crazy chicken!,neutral,0.5799
+"Yes, it is!",positive,0.8232
+Crazy chicken.,negative,0.6208
+You're so smart.,positive,0.9348
+We don't make eye contact.,negative,0.6097
+Bye!,neutral,0.6142
+That's it.,neutral,0.5321
+Today is a new day.,positive,0.9268
+"It was a recipe for disaster A four-course meal of ""No sirree"" It seemed that happily ever after I Was happy everyone was after me It was a cup of good intentions A tablespoon of one big mess A dash of overreaction And I assume you know the rest One little slip One little slip It was a fusion of confusion With a few confounding things I guess I probably took the wrong direction Well I admit I might've missed a sign or two I took a right turn at confusion A left when I should've gone straight on through I ran ahead with my assumptions And we all know what that can do One little slip One little slip It was a fusion of confusion And a few confounding things I get the feeling in this town I'll never live 'til I live down The one mistake that seems to follow me around But they'll forget about the sky When they all realize This guy's about to try to learn to fly Or hit the ground How's it going?",neutral,0.4799
+It was a cup of good intentions A tablespoon of one big mess A dash of overreaction And I assume you know the rest One little slip One little slip It was a humble little stumble With a big ungraceful One little slip One little slip It was a fusion of confusion with a few confounding things A“ Ahem.,negative,0.4943
+Very well.,positive,0.6945
+Foxy Loxy.,neutral,0.7845
+"Present, pretty, punctual.",positive,0.7402
+Goosey Loosey.,neutral,0.7123
+Master Runt of the Litter.,neutral,0.7273
+"Present and accounted for, Mr.",neutral,0.7041
+Woolensworth.,neutral,0.6424
+Oop!,neutral,0.448
+Dropped my pencil!,negative,0.7467
+Whoa!,neutral,0.4812
+Ahh!,neutral,0.4871
+Loser!,negative,0.8974
+Henny Penny.,neutral,0.8007
+Here.,neutral,0.5711
+Ducky Lucky.,positive,0.5905
+Here.,neutral,0.5711
+Fuzzy Wuzzy.,neutral,0.6739
+Here.,neutral,0.5711
+Morkubine Porcupine.,neutral,0.7558
+Yo.,neutral,0.5623
+Fish Out of Water.,neutral,0.6597
+Quite.,neutral,0.6963
+Abby Mallard.,neutral,0.7934
+Ugly duckling.,negative,0.9337
+Class!,positive,0.5851
+I will not tolerate rude behavior at the expense of a fellow...,negative,0.9519
+"No worries, Mr.",positive,0.496
+Woolensworth.,neutral,0.6424
+Yah!,neutral,0.47
+"You mustn't sneak up on me, Ugly...",negative,0.6552
+"uh, Abby.",neutral,0.7168
+Where was I?,neutral,0.6802
+Ugly duckling.,negative,0.9337
+"Oh, yes.",positive,0.6818
+Chicken Little.,neutral,0.683
+Hmm.,neutral,0.6435
+Tardy again.,negative,0.7161
+Tardy again.,negative,0.7161
+Hmm.,neutral,0.6435
+"Class, turn to page 62 and translate each word in Mutton.",neutral,0.8674
+He.,neutral,0.6124
+Baa.,neutral,0.6172
+She.,neutral,0.6298
+Baa.,neutral,0.6172
+They.,neutral,0.6137
+Baa.,neutral,0.6172
+We.,neutral,0.5914
+Baa.,neutral,0.6172
+"OK, everyone.",neutral,0.6315
+Listen up!,neutral,0.5893
+"I don't wanna hear any quacks, tweets, oinks, whinnies or cocklee-doodle-doos when I say...",negative,0.8195
+dodgeball.,neutral,0.6403
+"Oh, man.",neutral,0.4897
+Pump it up!,positive,0.6056
+"Pump it, pump it, pump it!",positive,0.497
+Split into two teams.,neutral,0.7267
+Popular versus unpopular.,neutral,0.71
+Coach?,neutral,0.6933
+"Yeah, unpopular?",neutral,0.533
+Shouldn't we review safety guidelines?,neutral,0.7239
+Sure!,positive,0.7762
+"Hit the pig, kids!",negative,0.5912
+Aaah!,neutral,0.4789
+Look out!,neutral,0.6437
+"Calm down, Runt.",neutral,0.6386
+Just...,neutral,0.6455
+Just do what Fish is doing.,neutral,0.7873
+Everybody dance now 5' Whew!,positive,0.5872
+Tough morning?,neutral,0.5685
+A run-in with my old nemesis.,neutral,0.7234
+Gum in the crosswalk?,neutral,0.7469
+He won this round.,positive,0.6046
+Your old foe!,neutral,0.5887
+Mm-hmm.,neutral,0.7172
+Incoming on your right.,neutral,0.8498
+Thank you!,positive,0.9538
+Aah!,neutral,0.5209
+"Yeah, I heard about the movie.",neutral,0.7567
+Tough break.,neutral,0.6007
+Yeah.,neutral,0.5491
+Maybe it'll just go straight to video.,neutral,0.8388
+That's the least of my problems.,neutral,0.4728
+This morning...,neutral,0.8361
+this morning my dad told me I should basically disappear.,negative,0.6126
+But that's not gonna get me down.,neutral,0.522
+I've got a plan.,neutral,0.6009
+You want to hear about it?,neutral,0.8116
+Uh-oh.,negative,0.5243
+"No, no, no!",negative,0.7057
+This one's good.,positive,0.9561
+"Look, one moment destroyed my life, right?",negative,0.9375
+One moment.,neutral,0.6759
+Warthog at 3:00!,neutral,0.7589
+I see him!,positive,0.6156
+Yes!,positive,0.8097
+So I figure all I need is a chance...,neutral,0.6345
+"All I need is a chance to do something great to make everyone forget the ""sky falling"" thing once and for all.",positive,0.857
+And then my dad'll finally have a reason to be proud of me.,positive,0.9263
+Time out!,neutral,0.5687
+Nurse!,neutral,0.4904
+"Hi, Tiffany!",positive,0.5126
+"Hey, man, what's goin' on?",neutral,0.8006
+"So, what do you think?",neutral,0.8165
+"OK, listen.",neutral,0.7147
+You said the sky was falling.,neutral,0.7201
+Your dad didn't support you.,negative,0.783
+I...,neutral,0.7305
+"And you have been hurting inside ever since, right?",negative,0.8207
+It's hurt.,negative,0.695
+It stung.,negative,0.8209
+OK?,neutral,0.6564
+"It's hurt, but...",negative,0.5446
+Yes.,positive,0.461
+That's the nutshell.,neutral,0.5848
+OK.,neutral,0.5176
+"Yes, but...",neutral,0.7712
+No.,neutral,0.4936
+Buh-buh...,neutral,0.5671
+"But, it's...",neutral,0.7028
+What's got to happen now is the nut needs to be cracked open.,neutral,0.5631
+"And not one little chip at a time, but...",neutral,0.769
+bam!,neutral,0.5329
+Smash!,positive,0.6315
+Bits of emotion flying everywhere!,neutral,0.5631
+Anger!,negative,0.7622
+Frustration!,negative,0.7648
+Denial!,negative,0.5645
+Fear!,negative,0.5362
+"Deep depression, in fact!",negative,0.5158
+You see what I'm saying?,neutral,0.718
+Uh...,neutral,0.6651
+"All right, forget the nut part.",neutral,0.6287
+Here's the main thing.,neutral,0.7229
+"You have got to stop messing around, and deal with the problem.",negative,0.6242
+"OK, yes, but...",neutral,0.7681
+Here's the real solution.,neutral,0.7076
+You and your dad talk-talk-talking...,neutral,0.7196
+closure!,neutral,0.4658
+Closure?,neutral,0.6023
+"Closure, talking about something until it's resolved.",neutral,0.7651
+Wait!,neutral,0.6225
+Hold on!,neutral,0.6471
+See?,neutral,0.6904
+Look.,neutral,0.6185
+There's a whole section about it in this month's Modern Mallard.,neutral,0.8173
+Incredibly appropriate!,positive,0.9136
+"I told you, I have a plan.",neutral,0.7643
+"Yeah, but according to Cosmo Duck, you should ""stop the squawk and try the talk."" Beautiful Duckling says, ""Avoiding closure with your parents can cause early molting."" See?",neutral,0.4937
+Closure.,neutral,0.4972
+Repeat after me.,neutral,0.6608
+"You, your dad, talk-talk...",neutral,0.7586
+"Abby, listen!",neutral,0.7371
+Talking's a waste of time.,negative,0.9117
+I got to do something great so my dad doesn't think I'm such a loser.,positive,0.491
+Come on.,neutral,0.5758
+You are not a loser.,negative,0.5617
+You're inventive and resourceful and funny and cute and...,positive,0.9569
+What?,neutral,0.5653
+Yeah...,neutral,0.6611
+"uh, Runt!",negative,0.5543
+Should Chicken Little have a good talk with his dad and clear the air or keep searching for Band-Aid solutions and never deal with the problem?,neutral,0.6031
+Band-Aid solutions!,neutral,0.538
+Runt!,neutral,0.511
+"Well, I'm sorry!",negative,0.7497
+I'm very bad at reading facial cues.,negative,0.9403
+"Fish, help me out here.",neutral,0.7392
+Men.,neutral,0.5361
+'Twas beauty that killed the beast.,neutral,0.6719
+I guess only girls are good at honest communication and sensitivity.,neutral,0.6276
+That does it!,positive,0.6243
+"We were in a time-out, Foxy!",neutral,0.6856
+Prepare to hurt.,negative,0.5475
+"And I don't mean emotionally, like I do.",neutral,0.5172
+Ow ow ow ow ow ow ow!,negative,0.8074
+Whoa!,neutral,0.4812
+We will save you!,positive,0.7375
+Fall back!,neutral,0.5028
+Mad goose!,positive,0.4918
+Chicken Little!,neutral,0.6205
+"Not showing up for class, inappropriate school attire, picking fights in gym class and the fire alarm?",negative,0.9224
+"Ever since that ""sky falling"" incident, he's been nothing but trouble!",negative,0.9132
+"Now look, Buck.",neutral,0.5023
+You know I have the utmost respect for you.,positive,0.8763
+"I mean, you were Buck ""Ace"" Cluck, our school baseball star.",neutral,0.821
+But let's face the facts.,neutral,0.7357
+"Your kid, he's nothing like you at all.",negative,0.7974
+OK.,neutral,0.5176
+Thank you for talking to me.,positive,0.9736
+I'll take care of my son.,neutral,0.7127
+I...,neutral,0.7305
+"Dad, it wasn't my fault.",neutral,0.5769
+It was Foxy.,neutral,0.7965
+She's always...,neutral,0.7127
+All right.,neutral,0.4897
+It's fine.,positive,0.5682
+You don't have to explain anything.,neutral,0.6393
+Uh...,neutral,0.6651
+Uh...,neutral,0.6651
+"Hey, Dad?",neutral,0.8083
+I was thinkin'.,neutral,0.8235
+"Yeah, what if I...?",neutral,0.7884
+What if...?,neutral,0.8724
+What if I joined the baseball team?,neutral,0.918
+"Hey, why don't you watch where you're going?!",neutral,0.6334
+"Sorry, there, buddy!",negative,0.4906
+"Sorry, sorry.",negative,0.7384
+Baseball?,neutral,0.8542
+"Son, we talked about this.",neutral,0.8233
+"Yeah, right.",neutral,0.5468
+"But, you know, that was when I was small.",neutral,0.6925
+I put on five ounces this year.,neutral,0.8743
+I've really bulked up.,positive,0.7892
+"Really, son?",neutral,0.5871
+Baseball.,neutral,0.8153
+Are you sure?,neutral,0.8481
+"Oh, yeah, yeah.",neutral,0.5273
+"I mean, you know, hey, why not, right?",neutral,0.7094
+"Yeah, why not, but why?",neutral,0.5338
+"Well, Dad, you were such a big baseball star in high school.",positive,0.9372
+You could give me some pointers.,neutral,0.7676
+"But, son, you know, I'm just wondering...",neutral,0.8019
+"Maybe baseball isn't exactly your thing, you know?",neutral,0.5641
+Have you considered the chess team or the glee club?,neutral,0.9169
+"And some teenagers, you know, they get quite a rush from stamp collecting.",neutral,0.6765
+No.,neutral,0.4936
+Wanna stop?,neutral,0.7426
+We'll get some stamps.,neutral,0.7781
+I don't like stamps.,negative,0.9537
+"Colors, colorful things...",positive,0.8117
+"No, I was thinkin' baseball!",neutral,0.6489
+I can't wait to see the look on your face when I smack that ball in for a touchdown!,positive,0.9498
+Dad...,neutral,0.7341
+"Um, I'm kidding.",neutral,0.732
+That was a...,neutral,0.7705
+that was a joke.,neutral,0.6434
+"Just do me one favor, son.",neutral,0.6113
+"Why, sure, Dad.",neutral,0.5619
+Anything.,neutral,0.6404
+Just please try not to get your hopes too high.,neutral,0.64
+"Yeah, but Dad, I mean, I...",neutral,0.7561
+"I mean, I think I can...",positive,0.556
+I...,neutral,0.7305
+"OK, Dad.",neutral,0.735
+"I bruise you You bruise me We both bruise so Easily Too easily To let it show I love you And that's all I know Oh, Chloe.",neutral,0.5056
+If only you were here.,neutral,0.6438
+You'd know what to do.,neutral,0.7195
+"And all my plans Keep fallin' through All my plans, they Depend on you Depend on you To help them grow I love you That's my boy!",positive,0.9182
+"Gee, thanks, Dad!",positive,0.9039
+"And that's all It's really a"" I know It's all I know Come on.",neutral,0.7076
+All I need is a chance.,neutral,0.5794
+"It's a"" I know A“ Yeah Ohh I can't sit here while I go nowhere Chase my dreams through the polluted air I'm walking on a wire Running out of time There's no room in this ol' heart of mine Hungry minds just stare you in the eyes Spread it thick and lay the biggest lies Words jump off the pages Passion hits the street Anger's cooking in the city heat World's too crazy I can't take no more I won't stay here locked behind the door Got to stir it up I got to break it up now When I think about tomorrow Ooh, I can't wait to Stir it up Got to shake it up now I If I have to beg or borrow I'm not gonna take it anymore Oh-oh oh-ohh-oh oh-ohh-oh Come on So much pressure to keep holding on Whoa Pack my clothes up baby I'll be gone Stir it up Got to break it up now When I think about tomorrow I can't wait to Stir it up I got to shake it up now I If I have to beg or borrow I'm not gonna take it no more 5' Lean to the left Lean to the right C'mon Acorns Fight, fight, fight!",negative,0.4558
+"Go, Acorns!",positive,0.7655
+"There's excitement in the air, ladies and gentlemen.",positive,0.9715
+It's been two decades since Oakey Oaks has beaten rivals the Spud Valley Taters.,neutral,0.6544
+"Down by only a single run, and with a player in scoring position, we finally have a chance again.",positive,0.6914
+"This excitement isn't about the fun of baseball, it's not about the prize.",neutral,0.4179
+"It's about gloating and rubbing their noses in it, the ""Nah-nah-na-na-na!",neutral,0.5323
+"We beat you!"" taunting, if you will, that comes with the winning.",neutral,0.6107
+Yeah!,positive,0.7406
+That's right.,neutral,0.569
+Oakey Oaks and the Honorable Mayor Turkey Lurkey will finally have bragging rights again for one full year!,positive,0.9156
+But this battle has taken a heavy toll on our hometown heroes.,negative,0.7452
+"After nine grueling innings and several players out with injuries, the Acorns are scraping the bottom of the roster.",negative,0.748
+"Hopefully, there's just enough muscle on the bench to pull out a win.",positive,0.7978
+Up next...,neutral,0.839
+Chicken Little.,neutral,0.683
+"Clearly a long shot, folks.",neutral,0.6169
+Little hasn't been up to bat once since joining the team.,neutral,0.6389
+He's gonna lose the game for us!,negative,0.8445
+Wait!,neutral,0.6225
+"If he can get a walk and advance to first, that powerhouse Foxy Loxy can step up and save us all.",positive,0.7224
+She's had a terrific game so far.,positive,0.9641
+A shoo-in for the MVP trophy.,neutral,0.7516
+"OK, kid, listen up.",neutral,0.6173
+"You have an itty-bitty, teeny-tiny strike zone.",neutral,0.7402
+There's no way he can throw you out!,negative,0.4805
+Take the walk.,neutral,0.818
+Don't swing.,neutral,0.598
+I have a good feeling...,positive,0.9478
+Look at me.,neutral,0.7056
+Don't swing.,neutral,0.598
+Take the walk.,neutral,0.818
+You hear me?,neutral,0.7474
+Just take the walk!,neutral,0.5818
+"But, coach, wait!",neutral,0.6274
+Don't swing!,neutral,0.5713
+"Nervous, gangly, barely able to hold the pine, Little advances to the box.",negative,0.585
+He's going to bat from the right.,neutral,0.9123
+Make it the left.,neutral,0.6936
+"No, the right.",neutral,0.6266
+The right.,neutral,0.6476
+Easy out!,positive,0.6555
+"Left field's found something better to do, center field's got a hunger pang in his second stomach and right field's digging for grubs.",neutral,0.4745
+Play ball!,neutral,0.5651
+Why him?,neutral,0.5704
+Why now?,neutral,0.6856
+"I won't embarrass you, Dad.",neutral,0.6395
+Not this time.,negative,0.6929
+"Here's the wind-up, the pitch!",neutral,0.7073
+It's a high cutter.,neutral,0.6615
+Ball!,neutral,0.5804
+Uh...,neutral,0.6651
+Strike one!,neutral,0.6281
+I'm not going to sugarcoat it.,neutral,0.7367
+I've seen roadkill with faster reflexes.,neutral,0.6356
+The catcher lays down the signals.,neutral,0.7956
+Here's the pitch.,neutral,0.7412
+"Curve ball low and outside, he swings!",neutral,0.7633
+Stee-rike two!,neutral,0.7073
+Ohh!,neutral,0.5576
+"I said, don't swing!",neutral,0.57
+Don't swing!,neutral,0.5713
+No!,neutral,0.4416
+Batter up!,neutral,0.4775
+That's two in the hole!,negative,0.4672
+"One more strike, it's a punch out, folks, and we're all going home.",neutral,0.7298
+Today is a new day.,positive,0.9268
+Don't swing!,neutral,0.5713
+"Well, take away my squeaky toy!",negative,0.5712
+It's a hit!,positive,0.5962
+A hit?,neutral,0.7658
+A hit?,neutral,0.7658
+A hit?,neutral,0.7658
+The batter is unbelievably at home plate.,neutral,0.5608
+He's standing in a daze.,neutral,0.6659
+"Run, kid, run!",neutral,0.5074
+"Go, son!",positive,0.7307
+Run!,neutral,0.5537
+Run!,neutral,0.5537
+Run!,neutral,0.5537
+"There he goes, the wrong way.",negative,0.9207
+"Wait, wait, wait!",neutral,0.5197
+"No, no!",negative,0.6435
+Not that way!,negative,0.5469
+Run the other way!,neutral,0.6363
+Turn around!,neutral,0.5617
+He's turned!,neutral,0.5565
+"I've never said these words before, but he's actually rounding home plate!",positive,0.6727
+Goosey steps on home...,neutral,0.8738
+A new day!,positive,0.9266
+A tie game!,neutral,0.5557
+They're scrambling in the alley.,neutral,0.6743
+Looks like Rodriguez has it.,neutral,0.6569
+"Nope, it's the center fielder!",neutral,0.5937
+"Mayhem in the outfield, as Rodriguez is fired to second.",neutral,0.9314
+"Catch is complete, but where's the ball?",neutral,0.8343
+Little touches the bag and keeps going.,neutral,0.8036
+A hunt for the rock.,neutral,0.7752
+The fielders are having trouble.,negative,0.8021
+Commotion out there!,positive,0.5417
+It's stuck!,negative,0.5249
+It's stuck!,negative,0.5249
+Tip the cow!,negative,0.5552
+It's the old tip-the-cow play.,neutral,0.7772
+"He heads for the hot corner, a stand-up triple!",neutral,0.7383
+Yes!,positive,0.8097
+Hold up!,neutral,0.5592
+No!,neutral,0.4416
+He's going for the whole enchilada!,neutral,0.5245
+"The ball of wax, kit and caboodle!",neutral,0.6194
+Go back!,positive,0.5108
+You're never gonna make it!,negative,0.8172
+Tries to lighten his load!,neutral,0.7232
+"The outfield behind, Little's on all cylinders!",neutral,0.5173
+He slides for the dish!,neutral,0.7886
+It's going to be a photo finish at home!,positive,0.7609
+You're out!,neutral,0.456
+"Oh, folks.",neutral,0.6454
+"Folks, what a heartbreaker.",negative,0.931
+Wait!,neutral,0.6225
+Wait!,neutral,0.6225
+Wait a cotton-picking second.,neutral,0.6712
+"Hold your horses, here, and horses hold your breath.",neutral,0.8024
+This might not be over.,negative,0.7422
+He...,neutral,0.7817
+He's...,neutral,0.7711
+Safe!,positive,0.73
+The runner is safe!,positive,0.7853
+"It's all over, folks!",neutral,0.4666
+The Acorns have done the impossible!,positive,0.6195
+"For the first time in 20 years, we won the pennant!",positive,0.9539
+"Mothers, kiss your babies!",positive,0.4689
+You've witnessed a miracle!,positive,0.8838
+Remember where you were at this moment.,neutral,0.8381
+The smells!,neutral,0.5135
+The sounds!,neutral,0.5155
+There's a new winner in town and his name is Chicken Little!,positive,0.9399
+That was just a lucky hit!,positive,0.6919
+"Yes, Chicken Little, it's all yours!",positive,0.8187
+"The victory, the triumph, the glory!",positive,0.9344
+And getting doused with a sticky drink that soaks into your undies and chafes for hours!,negative,0.6083
+This is one memory you'll savor forever!,positive,0.96
+Yeah!,positive,0.7406
+Yeah!,positive,0.7406
+Yeah!,positive,0.7406
+"Yes, yes, yes!",positive,0.9422
+We won!,positive,0.9367
+We won!,positive,0.9367
+That's my boy out there!,positive,0.9129
+That's my boy!,positive,0.9487
+I am the champion My friend And I'll keep on fightin' till the end I am the champion I am the champion But gone is the loser 'Cause I am the champion Of the world A“ Yow!,positive,0.7967
+Here's the wind-up and the pitch!,neutral,0.802
+A knuckleball!,neutral,0.5737
+He swings!,neutral,0.6273
+Crack!,neutral,0.5221
+It's going.,neutral,0.6359
+"He rounds first, to second!",neutral,0.7026
+Hits high off the wall!,neutral,0.6043
+He flies past third and heads for the plate!,neutral,0.5808
+It's a scramble for the ball!,neutral,0.6791
+It's gonna be close!,positive,0.6784
+He is safe!,positive,0.8587
+The mighty Acorns win!,positive,0.9298
+Yes!,positive,0.8097
+Acorns win!,positive,0.8719
+The mighty Acorns win!,positive,0.9298
+Yeah!,positive,0.7406
+"Jeez, you know, I guess that puts the whole ""sky is falling"" incident behind us once and for all.",neutral,0.5067
+"Hey, kiddo?",neutral,0.8031
+"You bet, Dad.",neutral,0.7506
+I...,neutral,0.7305
+Unless you think we need...,neutral,0.7705
+closure?,neutral,0.6638
+Closure?,neutral,0.6023
+What's to close here?,neutral,0.8296
+Unless you think we need to close...,neutral,0.721
+Not me.,negative,0.5925
+It's closed!,neutral,0.6345
+I agree.,positive,0.6409
+Vacuum sealed.,neutral,0.6513
+Shut tight!,negative,0.5228
+"OK, great, Dad.",positive,0.8828
+You...,neutral,0.6931
+"Closure, I dunno.",neutral,0.6232
+All right.,neutral,0.4897
+Enough fun.,positive,0.7912
+Good talk.,positive,0.8794
+"Good talk, son.",positive,0.8249
+"Here, I'll give you a push.",neutral,0.7336
+Rock me a little.,neutral,0.7041
+Help me.,neutral,0.7071
+OK.,neutral,0.5176
+"OK, I'm up.",neutral,0.499
+Hey.,neutral,0.5456
+"Good night, Ace.",positive,0.7302
+Here's the wind-up...,neutral,0.866
+and the pitch!,neutral,0.6291
+Whoo-hoo!,positive,0.8728
+Thanks.,positive,0.6284
+Thanks for the chance.,positive,0.9737
+Oh...,neutral,0.6291
+No!,neutral,0.4416
+A piece of the sky?!,neutral,0.8499
+Shaped like a stop sign?!,neutral,0.6743
+Not again!,negative,0.7916
+Hey!,neutral,0.5279
+Son!,neutral,0.5594
+You all right?,neutral,0.7759
+I'm coming!,positive,0.6213
+I'm coming!,positive,0.6213
+I'm comin' upstairs!,neutral,0.6669
+What's wrong?,negative,0.7724
+Nothing.,neutral,0.5182
+You sure?,neutral,0.8183
+I thought I heard you yell.,neutral,0.5472
+No.,neutral,0.4936
+"Uh, I, uh...",neutral,0.7145
+I fell out of bed.,negative,0.526
+Huh?,neutral,0.6584
+How'd you get over there?,neutral,0.7786
+Over where?,neutral,0.7834
+There.,neutral,0.551
+There!,positive,0.5739
+Where?,neutral,0.7096
+How'd you get over there?,neutral,0.7786
+Who're we talking about?,neutral,0.855
+Never mind.,neutral,0.6333
+What's the difference?,neutral,0.7864
+"Look, the past is behind us, right?",neutral,0.6451
+Mmm.,neutral,0.595
+Tomorrow's gonna be a new day.,positive,0.9303
+"Please be gone, please be gone, please be gone...",negative,0.5898
+Good.,positive,0.7732
+Ah!,positive,0.4984
+No.,neutral,0.4936
+No.,neutral,0.4936
+I gotta call Abby!,neutral,0.7382
+Uh-huh.,neutral,0.5418
+Uh-huh.,neutral,0.5418
+"Yo, I'll tell you what I want What I really really want Tell me what you want What you really really want I'll tell you what I want What I really really want So tell me what you want What you really really want I wanna, I wanna I wanna, I wanna Really really really wanna zigazig ah If you wanna be my lover You gotta get with my friends - A“ Gotta get with my friends 3' Make it last forever Friendship never ends If you wanna be my lover I You have got to give 4“ Taking is too easy But that's the way it is Hello!",neutral,0.5066
+Mallard residence.,neutral,0.7742
+Tell you what I want Runt!,neutral,0.6499
+Quiet!,neutral,0.7241
+I'm on the phone!,neutral,0.5183
+"I wanna, I wanna I wanna, I wanna - A"" I wanna really...",neutral,0.6095
+4“ Runt'.!,neutral,0.5612
+Oh...,neutral,0.6291
+Hey!,neutral,0.5279
+Where are you?,neutral,0.7606
+We already started.,neutral,0.7294
+We were...,neutral,0.8139
+It opened up!,positive,0.8388
+What?!,negative,0.4855
+"All right, guys.",neutral,0.531
+Watch this.,neutral,0.7605
+Bizarre.,negative,0.4718
+OK.,neutral,0.5176
+Lemme guess.,neutral,0.757
+You haven't told your dad yet.,neutral,0.6774
+Well...,neutral,0.7051
+I knew it!,positive,0.5172
+Why haven't you told him?,neutral,0.6183
+"There hasn't been ""you, your dad, talk-talk-talking."" There was talking.",neutral,0.6477
+There was definitely talking.,neutral,0.7573
+Really?,neutral,0.6008
+What did he say?,neutral,0.7761
+Uh...,neutral,0.6651
+What?,neutral,0.5653
+"All right, that's it.",neutral,0.5959
+We are doing an intervention!,neutral,0.6106
+You have got to stop messing around and deal with the problem!,negative,0.6551
+She's right!,positive,0.7568
+"Abby, please.",neutral,0.7515
+This is exactly what fell on me the first time.,neutral,0.6292
+There's no way I'm bringing this up again.,negative,0.8087
+"No, he's not.",neutral,0.6151
+Runt!,neutral,0.511
+Sorry!,negative,0.4827
+I'm a gutless flip-flapper.,negative,0.8712
+OK.,neutral,0.5176
+"I'm sure there's a simple, logical explanation.",neutral,0.5984
+"I mean, it could be a piece of weather balloon, or maybe it's part of some experimental communications satellite.",neutral,0.8682
+I don't care.,neutral,0.5509
+"I want it out of my life, gone for good.",neutral,0.5494
+Everything back to normal.,positive,0.4996
+"Hey, remember when that icy blue stuff fell from the sky?",neutral,0.7326
+Everybody thought it was from space and stuff?,neutral,0.707
+And it just turned out to be frozen pee from a jet airplane.,negative,0.7615
+"Yeah, that's right.",neutral,0.5581
+It's frozen pee.,negative,0.5912
+Yeah.,neutral,0.5491
+It's frozen pee.,negative,0.5912
+"Pee, pee, pee, pee pee.",negative,0.4923
+Could you stop saying that?,negative,0.5415
+What?,neutral,0.5653
+Pee?,neutral,0.6913
+Pee.,neutral,0.6173
+Tinkle?,neutral,0.7243
+Piddle?,neutral,0.7282
+Wee-wee?,neutral,0.798
+Whiz?,neutral,0.6985
+"OK, subject change.",neutral,0.7593
+Make pishee?,neutral,0.8227
+I don't care what it is!,positive,0.4629
+Are you gonna help me get rid of it or not?,neutral,0.7279
+Flying Fish!,neutral,0.5567
+Take cover!,neutral,0.6776
+Fish!,neutral,0.651
+No!,neutral,0.4416
+Fish!,neutral,0.651
+Aaah!,neutral,0.4789
+"Come on, come on, come on!",positive,0.5603
+"Wait, wait, whoa, son!",neutral,0.6076
+Where's the fire here?,neutral,0.7172
+Chicken Little has something to tell you!,neutral,0.7674
+Tell him.,neutral,0.5668
+He can handle it.,neutral,0.4893
+Who're we talkin' about?,neutral,0.8766
+Uh...,neutral,0.6651
+"Gotta go, Dad!",positive,0.4889
+Bye!,neutral,0.6142
+Ha!,neutral,0.5186
+"You got to be ready to listen to your children, even if they have nothing to say.",neutral,0.7713
+"Sit tight, Fish!",neutral,0.6878
+Fish!,neutral,0.651
+We will try to save you!,positive,0.7036
+Yeah!,positive,0.7406
+I'm sorry!,negative,0.6708
+Wait!,neutral,0.6225
+Sorry!,negative,0.4827
+Curb!,neutral,0.6411
+Ay!,positive,0.5493
+Fish!,neutral,0.651
+Abby!,neutral,0.5637
+Abby!,neutral,0.5637
+Wake up!,positive,0.4975
+Come on!,positive,0.6006
+Let's get outta here!,negative,0.4643
+"Oh, poor Fish!",negative,0.8495
+He's probably stuffed and mounted like an intergalactic trophy or...,neutral,0.6385
+...maybe he's a half-living host implanted with their face-hugging embryo babies.,neutral,0.659
+"One thing's for sure, man.",neutral,0.7445
+He's gone!,negative,0.483
+"Gone, man!",neutral,0.5873
+Not yet!,neutral,0.6551
+"Oh, snap.",neutral,0.533
+Fish.,neutral,0.6473
+Hey!,neutral,0.5279
+What are you doing?,neutral,0.8242
+Come on!,positive,0.6006
+Fish.,neutral,0.6473
+Fish.,neutral,0.6473
+Fish.,neutral,0.6473
+Fish.,neutral,0.6473
+"Where are you, Fish?!",neutral,0.7742
+Shh!,negative,0.4821
+I can't handle the pressure!,negative,0.9199
+Go on without me!,neutral,0.4939
+Runt.,neutral,0.4937
+You're just fine.,positive,0.7481
+I'll jeopardize the mission!,negative,0.7455
+Endanger us all!,negative,0.8071
+Throw me overboard while you still have a chance!,neutral,0.4808
+"Just leave me some ammo, little water, some chips if you have 'em.",neutral,0.8165
+Calm.,neutral,0.6604
+"OK, all right.",neutral,0.5276
+Listen.,neutral,0.6733
+Where's your bag?,neutral,0.7
+Everything's OK.,positive,0.8094
+Now breathe.,neutral,0.6745
+Breathe.,neutral,0.7379
+"No, slowly.",neutral,0.6983
+Slowly.,neutral,0.7031
+Slowly.,neutral,0.7031
+OK.,neutral,0.5176
+"Now, just do the thing you do to relax.",neutral,0.6675
+"5' Well, you can tell by the way I use my walk I'm a woman's man No time to talk Huh huh huh huh Sta yin' alive Sta yin' alive 4“ Aaah!",neutral,0.6264
+Fish!,neutral,0.651
+Fish!,neutral,0.651
+Are you OK?,neutral,0.7914
+Did they hurt you?,negative,0.5405
+Say something!,neutral,0.6656
+Don't tap the glass.,neutral,0.6264
+They hate it when you do that.,negative,0.9011
+"All right, let's get out of here.",neutral,0.7509
+Where's Runt?,neutral,0.7718
+We're next.,neutral,0.7217
+Run!,neutral,0.5537
+OK!,positive,0.5227
+That's it!,positive,0.5892
+We're running back to your house.,neutral,0.7919
+Tell your dad!,neutral,0.7206
+OK!,positive,0.5227
+"You're right, you're right!",positive,0.862
+"Sta yin' alive Sta yin' alive Sta yin' alive 4“ Oh, Runt!",neutral,0.7291
+Push!,positive,0.6018
+Push!,positive,0.6018
+No!,neutral,0.4416
+Runt!,neutral,0.511
+No!,neutral,0.4416
+Not pull!,neutral,0.6161
+Push!,positive,0.6018
+We gotta get outta here right now!,neutral,0.458
+Come on...,neutral,0.6855
+No!,neutral,0.4416
+"Come on, you guys!",positive,0.8231
+Hu...,neutral,0.7252
+Hurry!,neutral,0.5702
+Hurry!,neutral,0.5702
+Hurry!,neutral,0.5702
+"OK, time out!",neutral,0.7254
+So...,neutral,0.7269
+have you been to the mall?,neutral,0.8584
+"Come on, buddy.",neutral,0.5913
+"Come on, buddy.",neutral,0.5913
+I'm sorry.,negative,0.6455
+Tension makes me bloat.,negative,0.9235
+"Come on, guys!",positive,0.7665
+"Hurry, hurry, hurry!",neutral,0.4772
+Look out!,neutral,0.6437
+Thanks!,positive,0.8715
+Curse these genetically tiny legs!,negative,0.9229
+Ohh!,neutral,0.5576
+Aah!,neutral,0.5209
+What's that noise?,neutral,0.6878
+Sorry.,negative,0.5092
+Nervous eater.,negative,0.6968
+Run!,neutral,0.5537
+Wait!,neutral,0.6225
+Fish!,neutral,0.651
+The school bell!,neutral,0.6968
+"We've got to ring the school he"" to warn everyone!",neutral,0.6764
+Come on!,positive,0.6006
+Hurry!,neutral,0.5702
+Hurry!,neutral,0.5702
+Go!,positive,0.6266
+Go!,positive,0.6266
+Aaah!,neutral,0.4789
+It's locked!,neutral,0.5777
+They're...,neutral,0.7163
+they're comin'.,neutral,0.7605
+I need a soda.,neutral,0.5824
+"Come on, buddy.",neutral,0.5913
+"Come on, buddy!",positive,0.4946
+The corner's wrinkled!,negative,0.565
+Why are we doing this?,negative,0.8135
+"Come on, take it, take it!",positive,0.5772
+Yes!,positive,0.8097
+Come on!,positive,0.6006
+Work!,neutral,0.5303
+Work!,neutral,0.5303
+Work!,neutral,0.5303
+You work!,positive,0.597
+What happened?,neutral,0.6705
+I blacked out there for a second.,negative,0.6528
+Ah!,positive,0.4984
+The sky is falling!,neutral,0.5519
+The sky is falling!,neutral,0.5519
+It was just an acorn.,neutral,0.8007
+A little acorn!,positive,0.5131
+"I can't tell you how embarrassed I am, folks.",negative,0.8859
+Ring the bell!,neutral,0.708
+"Come on, Chicken Little!",positive,0.6034
+Ring the bell!,neutral,0.708
+Huh?,neutral,0.6584
+What?,neutral,0.5653
+Oh!,neutral,0.5628
+Now the weather with Riz.,neutral,0.8609
+A cold front is moving in so...,neutral,0.8913
+The alarm bell has been activated!,neutral,0.6824
+Quick!,neutral,0.5481
+Get a camera crew!,neutral,0.6885
+Chicken Little!,neutral,0.6205
+You better have a good explanation for this!,neutral,0.5268
+"There's, there's...",neutral,0.8066
+It's a...,neutral,0.7909
+You have to...,neutral,0.8056
+D'oh!,neutral,0.616
+Doo wah!,neutral,0.5733
+What did he say?,neutral,0.7761
+There's...,neutral,0.7418
+It's a...,neutral,0.7909
+You have to...,neutral,0.8056
+D'oh...,neutral,0.6312
+Doo wah.,neutral,0.58
+Follow me!,neutral,0.5002
+Come on!,positive,0.6006
+Hurry!,neutral,0.5702
+Hurry!,neutral,0.5702
+Aliens here!,neutral,0.6219
+Aliens here!,neutral,0.6219
+It's...,neutral,0.7347
+it's happening again.,neutral,0.5249
+Come on!,positive,0.6006
+Hurry!,neutral,0.5702
+Hurry!,neutral,0.5702
+Come on.,neutral,0.5758
+Come on.,neutral,0.5758
+You're about to see it!,positive,0.5366
+Quick!,neutral,0.5481
+It's taking off!,positive,0.8877
+Come on!,positive,0.6006
+"If you don't hurry, you're gonna miss it!",negative,0.5982
+"Oh, look!",neutral,0.4952
+A penny!,neutral,0.6095
+Guys!,positive,0.5099
+"Oh, right.",neutral,0.5655
+Hurry!,neutral,0.5702
+Hurry!,neutral,0.5702
+Come on!,positive,0.6006
+Quick!,neutral,0.5481
+It's taking off!,positive,0.8877
+Come on!,positive,0.6006
+Hurry up!,positive,0.5325
+Please!,neutral,0.5394
+It's right in...,neutral,0.669
+What are we lookin' for?,neutral,0.8605
+I don't know.,neutral,0.5667
+"Uh, yeah.",neutral,0.6328
+OK.,neutral,0.5176
+"I know this looks bad, but there's an invisible spaceship right there with aliens who are here to invade Earth!",negative,0.8819
+Let me show you.,neutral,0.6657
+"Ooh, bad throw.",negative,0.829
+"OK, let me try again.",neutral,0.7156
+Bad throw.,negative,0.7953
+"We all know I don't have a good arm, but there's these cloaking panels on the bottom.",negative,0.6703
+They make it disappear.,neutral,0.5506
+One fell out of the sky and hit me right on the head.,negative,0.5336
+"Oh, it's the acorn thing all over again.",neutral,0.6668
+"Eh, there's no story here.",neutral,0.5484
+At least we can sell the video to Chickens Gone Wild.,neutral,0.7346
+"I'm telling ya, it was here!",neutral,0.6018
+"No, wait!",neutral,0.4915
+There were aliens!,neutral,0.528
+It's true!,positive,0.7468
+They had eyes...,neutral,0.7905
+They're glowing and then tentacles!,positive,0.8434
+And maps with planets with X's through them!,neutral,0.6151
+Aah!,neutral,0.5209
+"Runt, that's enough!",neutral,0.5981
+Don't make Mommy take away your Streisand collection!,neutral,0.5734
+Mom?,neutral,0.6889
+You leave Barbra out of this!,neutral,0.4982
+Why can't you keep that child of yours under control?,negative,0.7152
+What kind of parent are you?,negative,0.5867
+I'm telling the truth.,neutral,0.7651
+Dad!,positive,0.4869
+Dad!,positive,0.4869
+I'm not making this up!,negative,0.4352
+You gotta believe me this time.,neutral,0.5761
+"No, son.",neutral,0.4745
+I don't.,neutral,0.496
+"I can't tell you how embarrassed I am, folks.",negative,0.8859
+"I'm really sorry about this, everyone.",negative,0.7505
+"Looks like this is just a big, crazy misunderstanding.",negative,0.9163
+"Well, other than the penny, this whole evening was a wash!",negative,0.8022
+Mr.,neutral,0.5849
+"Cluck, don't take it so hard.",negative,0.5981
+No one blames you.,neutral,0.6374
+Reports of panic and mayhem are pouring in after yet another Chicken Little incident last night.,negative,0.9007
+"In one instance, a family of lemmings was sent running in fear, but unable to find a cliff, they instead began throwing themselves - From the nearest park bench.",negative,0.7876
+Hello?,neutral,0.643
+I'm sorry.,negative,0.6455
+Hello?,neutral,0.643
+I apologize.,neutral,0.5334
+Hello?,neutral,0.643
+Give me a break!,negative,0.5433
+What?,neutral,0.5653
+You were trampled?,neutral,0.5323
+That's terrible.,negative,0.9433
+I thought rabbits' feet were supposed to be lucky.,neutral,0.6229
+You have hate mail.,negative,0.9438
+Sorry.,negative,0.5092
+That wasn't very funny.,negative,0.9457
+You have more hate mail.,negative,0.9241
+- Hi.,neutral,0.6176
+"What are you saying, sir?",neutral,0.7747
+Your hate mail box is full.,negative,0.8941
+"Oh, yes.",positive,0.6818
+I do see the skywriting there.,neutral,0.7946
+Thank goodness the cloud blocked the last letter.,positive,0.574
+Hello?,neutral,0.643
+Hey!,neutral,0.5279
+Watch your mouth.,neutral,0.5593
+Yeah?,neutral,0.7381
+"Oh, yeah?",neutral,0.6854
+"Well, I'd like to see you try.",neutral,0.596
+"OK, I love you too, Mom.",positive,0.9528
+Bye.,neutral,0.5137
+Hello?,neutral,0.643
+Really.,neutral,0.6346
+Well...,neutral,0.7051
+If there was ever a time to talk to your dad...,neutral,0.7723
+...it's now.,neutral,0.7758
+It's too late for that.,negative,0.6295
+"It's too late, baby, now it's too late.",negative,0.5919
+Though they really did try to make it.,neutral,0.7233
+Runt.,neutral,0.4937
+Just think about it.,neutral,0.7852
+Something inside has died and they just can't hide and they just can't fake it.,negative,0.6964
+"Oh, no, no.",negative,0.7075
+"Runt, I really just want to be alone right now.",negative,0.7116
+Oh!,neutral,0.5628
+Abby!,neutral,0.5637
+Runt!,neutral,0.511
+Fish!,neutral,0.651
+Look!,positive,0.5707
+There!,positive,0.5739
+Look there!,neutral,0.5121
+Look there!,neutral,0.5121
+What is that thing?!,neutral,0.6024
+Look at that!,positive,0.6315
+His name is Kirby?,neutral,0.8763
+They left him behind?,neutral,0.5443
+Darth Vader is Luke's father?,neutral,0.8829
+"No, don't...",neutral,0.5363
+"Come on, come on, don't cry.",neutral,0.5803
+We're here for you.,positive,0.7948
+We're gonna do whatever it takes to get you back home.,neutral,0.6088
+"Here, blow.",neutral,0.4925
+OK.,neutral,0.5176
+"See, guys?",neutral,0.8206
+He's cool.,positive,0.9312
+He was just freaked out.,negative,0.5127
+That's all.,neutral,0.5908
+Ah-choo!,positive,0.5665
+Whoa.,neutral,0.6108
+Run!,neutral,0.5537
+Those are your parents?,neutral,0.7486
+And they brought the galactic armada?,neutral,0.8194
+Watch out for the kid!,neutral,0.6483
+Don't hit him!,negative,0.4944
+There you are.,neutral,0.6276
+Get in the car.,neutral,0.6928
+I gotta tell you something.,neutral,0.7112
+What?,neutral,0.5653
+"I know, I know!",neutral,0.4643
+You were right!,positive,0.8101
+Alien invasion.,negative,0.5969
+I see that now.,neutral,0.5675
+Look up!,positive,0.7265
+There it is!,positive,0.5116
+"Dad, you know, about that...",neutral,0.8066
+It's actually a rescue mission.,neutral,0.6338
+Rescue mission?,neutral,0.8543
+This alien kid was left and they're coming back to get him!,neutral,0.5259
+"We have to help him, 'cause if we don't, who else will?",neutral,0.6711
+What?!,negative,0.4855
+Ugh!,negative,0.8528
+Forget it.,negative,0.5068
+You wouldn't believe me anyway.,neutral,0.4962
+Son!,neutral,0.5594
+"Son, come back!",neutral,0.5402
+Son!,neutral,0.5594
+Chicken Little!,neutral,0.6205
+Mr.,neutral,0.5849
+Cluck!,negative,0.7123
+Wait!,neutral,0.6225
+He's telling the truth!,positive,0.5158
+He is!,positive,0.789
+"Given his track record, we understand why you don't believe him!",negative,0.6624
+It's The End Of The World As We Know if I It's the end of the world as we know it It's the end of the world as we know it And I feel fine It's the end of the world as we know it It's the end of the world as we know it It's the end of the world as we know it And I feel fine 3' Watch out for the kid!,positive,0.8216
+No!,neutral,0.4416
+Don't!,neutral,0.497
+Don't hit him!,negative,0.4944
+Don't hit...,neutral,0.6862
+Look out!,neutral,0.6437
+Whew!,positive,0.7488
+Chicken Little!,neutral,0.6205
+What?,neutral,0.5653
+Where's your head?,neutral,0.5221
+We gotta get outta here!,negative,0.5032
+Come on!,positive,0.6006
+Come...,neutral,0.69
+"You, with the running and the jumping!",neutral,0.6251
+Dad.,neutral,0.6523
+"No, wait.",neutral,0.5376
+What are you guys doing?,neutral,0.8482
+We gotta get outta here!,negative,0.5032
+It's like War of the Worlds out there!,neutral,0.5267
+Stop pulling!,negative,0.5468
+Just listen to me for one second!,neutral,0.5759
+It's not dangerous!,neutral,0.5039
+We are under attack!,negative,0.9288
+Will you two stop messing around and deal with the problem?,negative,0.7212
+You're never there for me!,negative,0.7109
+What?,neutral,0.5653
+"OK, that's not what I had in mind, but...",neutral,0.5846
+You're never there for me.,negative,0.6792
+"I mean, you were when I won the game, but not when I thought the sky fell.",neutral,0.6595
+And not at the ball field and not now!,neutral,0.4737
+This is good!,positive,0.9889
+Keep going.,positive,0.6949
+Keep going!,positive,0.8627
+You've been ashamed since the acorn thing.,negative,0.8059
+We have to talk because Modern Mallard says avoiding closure can lead to molting.,negative,0.5193
+I'm already small and I don't think I could handle being bald!,negative,0.9056
+I...,neutral,0.7305
+I...,neutral,0.7305
+I didn't...,neutral,0.6823
+"...realize, son.",neutral,0.731
+I-I never meant to...,negative,0.5929
+"The acorn, the sky, I mean, the whole...",neutral,0.8166
+You're right.,positive,0.4782
+You're right.,positive,0.4782
+Y...,neutral,0.6527
+"Your mom, she was...",neutral,0.8147
+"You know, she was always good with stuff like this.",positive,0.7022
+Me...,neutral,0.7375
+...I'm gonna need a lot of work.,negative,0.6162
+"But you need to know that I love you, no matter what.",positive,0.9156
+And I'm sorry I...,negative,0.6337
+And I'm sorry if I ever made you feel like that was something...,negative,0.7428
+...you had to earn.,neutral,0.6972
+Uh...,neutral,0.6651
+uh...,neutral,0.6271
+And we're good.,positive,0.8544
+Let's go.,positive,0.5876
+Let's go.,positive,0.5876
+"OK, Dad.",neutral,0.735
+All we gotta do is return helpless little Kirby.,neutral,0.7212
+Return this whatever it is?,neutral,0.8109
+This is crazy!,positive,0.4878
+Crazy!,positive,0.4347
+Crazy wonderful!,positive,0.9721
+Just tell me what you need me to do.,neutral,0.8186
+Do you really mean it?,neutral,0.7299
+You bet!,neutral,0.5087
+"Anything, son.",neutral,0.7684
+"Come on, Dad.",neutral,0.6874
+We've got a planet to save!,positive,0.723
+Crazy supportive.,positive,0.7818
+That's me!,positive,0.6108
+Ohh!,neutral,0.5576
+"This thing likes to nibble, doesn't it?",neutral,0.591
+"By the way, I'd like to say I've always found you extremely attractive!",positive,0.9843
+Now that's closure.,neutral,0.648
+Wait!,neutral,0.6225
+Wait!,neutral,0.6225
+What's goin' on?!,neutral,0.8045
+"Oh, they've given her an alien mind-wipe!",negative,0.5541
+Aaah!,neutral,0.4789
+"OK, son.",neutral,0.7311
+What do we do now?,neutral,0.7794
+"Uh, OK.",neutral,0.7284
+"This is a piece of cake, Dad.",positive,0.4944
+All we have to do is take the kid down the street to the giant metal alien.,neutral,0.7541
+We surrender!,neutral,0.5469
+Here!,positive,0.5584
+Take the key to the city!,neutral,0.6098
+Key to my car?,neutral,0.8042
+Tic Tac?,neutral,0.8502
+Forget plan A!,neutral,0.5518
+Uh-oh.,negative,0.5243
+"OK, OK, what now, son?",neutral,0.8246
+"Who, by the way, I support 100 percent.",positive,0.8328
+"Uh, plan B?",neutral,0.8169
+Ha-ha!,positive,0.664
+Of course!,positive,0.7768
+Plan B!,neutral,0.6021
+What is plan B?,neutral,0.8632
+What?,neutral,0.5653
+You have to go to the bathroom?,neutral,0.5332
+You want juice?,neutral,0.8139
+A snack?,neutral,0.8371
+Corn dog on a stick?,neutral,0.7688
+Want to play some golf?,neutral,0.8118
+What do you want?!,neutral,0.8041
+I stink at this.,negative,0.9523
+I'm a horrible father.,negative,0.9714
+"No, no, I am.",neutral,0.5643
+Poo-tee-tah.,neutral,0.5867
+Oh.,neutral,0.5443
+Is that your parents?,neutral,0.7987
+"Pooteetah, pooteetah.",neutral,0.6496
+"That's it, Dad!",neutral,0.5736
+Plan B!,neutral,0.6021
+All we have to do is weave through traffic through town square while avoiding death rays from alien robots.,neutral,0.6305
+"We get to Town Hall, climb up to the roof and give the kid back to its parents.",neutral,0.5949
+Yeah!,positive,0.7406
+Charge!,neutral,0.4898
+Wow!,positive,0.8599
+A-ha!,positive,0.5611
+Now that's what I call takin' out the trash!,neutral,0.529
+"OK, son.",neutral,0.7311
+Now what?,neutral,0.6057
+Fire truck!,neutral,0.5902
+Plan C!,neutral,0.6389
+"Runt, no!",neutral,0.4721
+Turn around!,neutral,0.5617
+Go back to Town Hall!,neutral,0.6181
+But they'll vaporize us!,negative,0.6076
+You want me to do what?,neutral,0.6672
+"Runt, just do it!",neutral,0.5392
+It'll work!,positive,0.8417
+We'll survive!,positive,0.8413
+I will survive?,neutral,0.7689
+"Brake, Abby!",neutral,0.6734
+OK.,neutral,0.5176
+Floor it!,neutral,0.6201
+Boink.,neutral,0.5816
+"Deploy ladder, Fish!",neutral,0.6725
+"I'll survive I will survive Hey, hey Plan D.",positive,0.6819
+Plan D!,neutral,0.628
+Yeah!,positive,0.7406
+Yeah!,positive,0.7406
+Thighs hurting.,negative,0.6671
+Drumsticks burning.,neutral,0.6529
+But loving you!,positive,0.9175
+Full support!,positive,0.8971
+I can't get out!,negative,0.5363
+"Come back, son!",positive,0.5886
+We can't go out this way!,negative,0.8937
+It's dangerous.,negative,0.7602
+"No, Dad, I can do this!",positive,0.779
+It's too dangerous.,negative,0.9032
+I can do this.,positive,0.829
+I can.,positive,0.6647
+You gotta believe me this time.,neutral,0.5761
+I...,neutral,0.7305
+"I do, son.",neutral,0.7438
+"OK, hang on tight.",neutral,0.6597
+Yes!,positive,0.8097
+Here's your kid!,neutral,0.4852
+Look over here!,neutral,0.5699
+Here's your kid!,neutral,0.4852
+He's OK!,positive,0.8626
+He's all right!,positive,0.8466
+Stop the invasion!,negative,0.5995
+Son!,neutral,0.5594
+Son!,neutral,0.5594
+Aaaah!,positive,0.5627
+"I'm here, son!",positive,0.6759
+Dad!,positive,0.4869
+Look out!,neutral,0.6437
+Get away from my boy!,negative,0.7419
+Get away!,neutral,0.4684
+The mighty Acorns...,neutral,0.5416
+Tic Tac?,neutral,0.8502
+Why did you take our child?,negative,0.9105
+"Hey, hey!",positive,0.6373
+Just...,neutral,0.6455
+"Just hold on there, buddy!",neutral,0.6372
+My son did not take your kid!,negative,0.8337
+You were the one that left him behind!,neutral,0.4992
+That's bad parenting!,negative,0.9538
+And I should know!,neutral,0.6185
+Silence!,neutral,0.6404
+Release the child!,negative,0.5015
+OK.,neutral,0.5176
+"OK, OK.",neutral,0.5509
+Sweetheart!,positive,0.9504
+"Oh, Kirby, I'm so happy to see you!",positive,0.9909
+My darling!,positive,0.898
+That was close.,neutral,0.6996
+At least they're back together.,positive,0.7529
+They got their kid.,neutral,0.5288
+You have violated intergalactic law 90210!,negative,0.9195
+A charge punishable by immediate particle disintegration!,negative,0.749
+"Oh, snap.",neutral,0.533
+Hmm?,neutral,0.702
+What's that?,neutral,0.7331
+Hmm.,neutral,0.6435
+I...,neutral,0.7305
+I don't quite...,neutral,0.5344
+"Melvin, honey?",neutral,0.8579
+He's saying they're telling the truth.,neutral,0.7132
+It was just a misunderstanding.,neutral,0.6665
+"Well, then.",neutral,0.6063
+This is awkward.,negative,0.8997
+"Yes, it is.",neutral,0.5538
+I suppose I should...,neutral,0.8366
+Put the big guns away?,negative,0.5848
+"Yes, yes.",positive,0.8412
+Now put them down.,negative,0.625
+Of course.,neutral,0.5552
+And turn off your big voice.,neutral,0.4811
+But I don't...,neutral,0.5778
+Turn it off.,neutral,0.5429
+But...,neutral,0.7123
+But I don't get to use the big voice very often!,negative,0.5552
+Melvin.,neutral,0.6815
+"Yes, dear.",positive,0.6363
+Hi.,neutral,0.5326
+"Uh, anyone want to try the big voice?",neutral,0.8895
+"Again, I cannot tell you how sorry we are for this whole misunderstanding.",negative,0.7414
+"Oh, dear goodness.",neutral,0.536
+We are so very sorry.,negative,0.7281
+We are.,neutral,0.5184
+"And if it hadn't been for your son there, well, we might have vaporized the whole planet.",negative,0.6084
+What?,neutral,0.5653
+Goodness!,positive,0.9063
+What a shame that would have been.,negative,0.9369
+Where else would we pick our acorns?,neutral,0.7349
+We stop on the way to the in-laws.,neutral,0.8214
+Every year.,neutral,0.6028
+Looked on all the other planets.,neutral,0.7838
+You only find them on Earth.,neutral,0.7338
+Just as it says here on your primitive graphic display.,neutral,0.7802
+That caught our eyes.,neutral,0.6489
+"OK, everything's been put back to normal, except for this one, over here.",positive,0.6732
+"Hi, y'all!",positive,0.5669
+Foxy?,neutral,0.7867
+"Lollipop, lollipop Oh, lolli lolli lolli Lollipop...",positive,0.4679
+She got her brainwaves scrambled during reconstitution.,negative,0.5448
+No worries!,positive,0.8432
+We can put her back the way she was.,neutral,0.7987
+No!,neutral,0.4416
+She's perfect.,positive,0.9386
+Lollipop!,positive,0.6593
+Lollipop!,positive,0.6593
+I' Scary.,negative,0.7778
+Whoops!,negative,0.6478
+Darling!,neutral,0.6014
+Look at the time!,neutral,0.5778
+We better get a move on.,neutral,0.7163
+"All right, then.",neutral,0.5821
+It was good meetin' ya.,positive,0.9637
+Sorry for the whole full-scale invasion thing.,negative,0.8769
+"But, hey, I'm a dad.",neutral,0.6727
+You know how it is with your kids.,neutral,0.6067
+"When they need ya, you do whatever it takes.",neutral,0.7868
+There goes that panel again.,negative,0.6156
+"Every year we come, this thing falls off.",negative,0.86
+Someday it's going to hit somebody on the head.,negative,0.613
+Nonsense!,negative,0.6337
+You can't return the panel.,neutral,0.5273
+Now that's ridiculous.,negative,0.9087
+You threw away the receipt again.,negative,0.7805
+Silence!,neutral,0.6404
+"Melvin, did you just try and use the big voice on me?",neutral,0.7091
+Um...,neutral,0.6851
+uh...,neutral,0.6271
+Who we talkin' about?,neutral,0.831
+So I'd like to see the movie they make about you now.,neutral,0.5796
+I just hope they stay true to what really happened.,neutral,0.7094
+"Oh, son, these people are from Hollywood!",negative,0.7731
+One thing they'll never do is mess with a good story.,negative,0.5647
+Red alert!,neutral,0.5249
+Man your battle stations!,neutral,0.7329
+"Status report, Mr.",neutral,0.8193
+Fish.,neutral,0.6473
+"Commander Little, the evil Foxloxian Army has broken through the planet's atmosphere.",negative,0.7046
+But that means...,neutral,0.7558
+"Yes, I know.",neutral,0.5208
+The sky...,neutral,0.7496
+is falling.,neutral,0.5248
+Commander Little!,neutral,0.6227
+No!,neutral,0.4416
+Please...,neutral,0.7261
+call me...,neutral,0.7422
+...Ace.,neutral,0.6489
+"Oh, Ace!",neutral,0.5892
+No!,neutral,0.4416
+I never intended to bring you into this...,negative,0.6637
+Abby.,neutral,0.6708
+"Runt, do you copy?",neutral,0.69
+"- Yes, commander?",neutral,0.8577
+"Runt, my friend, an alien fleet is about to invade Earth.",negative,0.6149
+"Civilization as we know it depends on me and, to a lesser extent...",neutral,0.8326
+you.,neutral,0.5506
+So I've just got one question for you: Are you ready to rock?,neutral,0.8619
+"Ain't no mountain high enough, ain't no valley low...",neutral,0.5344
+"Raise your pork shield, Runt.",neutral,0.6665
+Prepare to engage.,neutral,0.7989
+Stay on target.,neutral,0.6931
+Stay on target!,neutral,0.6141
+Give 'em a taste of the other white meat!,neutral,0.5046
+Cap 'n!,neutral,0.6038
+Look out!,neutral,0.6437
+Runt!,neutral,0.511
+"Runt, are you a"" right?",neutral,0.5075
+"No, no.",negative,0.5318
+"Ya gotta go on without me, commander.",neutral,0.6218
+"Just leave me some ammo, a little water, some chips if you have 'em.",neutral,0.8227
+This is amazingly accurate.,positive,0.9082
+He was my good friend.,positive,0.8172
+"Oh, Abby.",neutral,0.6781
+At least I still have you...,positive,0.658
+Abby.,neutral,0.6708
+- Ace!,neutral,0.6415
+Abby.,neutral,0.6708
+- Ace!,neutral,0.6415
+Abby.,neutral,0.6708
+Ace!,neutral,0.5159
+Good people of Oakey Oaks.,positive,0.8576
+"Though at times it may feel like the sky is falling around you, never give up.",neutral,0.4931
+For every day...,neutral,0.7602
+is a new day!,positive,0.9092
+A new day!,positive,0.9266
+"Ain't no mountain high enough Ain't no valley low enough Oh, Ace!",neutral,0.5475
+"To keep me from you Ain't no mountain high enough Ain't no valley low enough Ain't no river wild enough To keep me from you Ain't no mountain high enough Nothing can keep me Keep me from you Ain't no mountain high enough Nothing can keep me - Keep me from you {cheering Ain't no mountain high enough Ain't no valley low enough Ain't no river wild enough To keep me from you Nothing in this world Can keep me from you, babe Just call my name 5' Don't Go Breaking My Heart] Don't go breaking my heart I couldn't if I tried Oh, honey, if I get restless Baby, you're not that kind Oooh And nobody knows it -  When I was down I was your clown Oooh And nobody knows it Nobody knows Right from the start I gave you my heart Ahhh I gave you my heart Don't go breaking my heart I won't go breaking your heart Don't go breaking my Don't go breaking my Don't go breaking my heart Don't go breaking my Don't go breaking my I won't go breaking your heart - Don't go breaking my Baa.",neutral,0.522
+- Don't go breaking my Baa.,neutral,0.4853
+"Don't go breaking my heart Come on, Runt.",negative,0.7651
+You can do it.,positive,0.815
+"Don't go breaking my I won't go breaking your heart Don't go breaking my “naming Don't go breaking my You got to act quickly, Dad.",neutral,0.5223
+Try this.,neutral,0.755
+- Don't go breaking my There you go'.!,neutral,0.4981
+- Don't go breaking my There it is'.!,neutral,0.5629
+I won't go breaking your heart I'm having fun now!,positive,0.8052
+Don't go breaking my heart That was great!,positive,0.9132
+Let's sing it again!,positive,0.8283

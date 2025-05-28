@@ -1,0 +1,1004 @@
+text,sentiment,score
+This is the story of how I died.,negative,0.6362
+"But don't worry, this is a fun story, and the truth is, it isn't even mine.",positive,0.6109
+This is the story of a girl named Rapunzel.,neutral,0.9089
+And it starts with the sun.,neutral,0.5829
+"Once upon a time, a single drop of sunlight fell from the heavens.",neutral,0.7373
+And from this small drop of sun grew a magic golden flower.,positive,0.7562
+It had the ability to heal the sick and injured.,neutral,0.5763
+"Oh, you see that old woman over there?",neutral,0.7741
+You might want to remember her.,neutral,0.7514
+She's kind of important.,positive,0.807
+"Centuries passed and a hop, skip and a boat ride away there grew a kingdom.",neutral,0.7361
+The kingdom was ruled by a beloved king and queen.,positive,0.6566
+And the queen was about to have a baby.,neutral,0.8378
+But she got sick.,negative,0.7882
+Really sick.,negative,0.8361
+"She was running out of time, and that's when people start to look for a miracle.",neutral,0.5245
+"Or in this case, a magic golden flower.",neutral,0.6862
+Ah!,positive,0.4984
+I told you she'd be important.,neutral,0.5293
+"Instead of sharing the sun's gift, this woman, Mother Gothel, hoarded its healing power and used it to keep herself young for hundreds of years.",neutral,0.7102
+And all she had to do was sing a special song.,neutral,0.6848
+"Flower, gleam and glow Let your power shine Make the clock reverse Bring back what once was mine What once was mine You get the gist.",positive,0.6104
+"She sings to it, she turns young.",neutral,0.6221
+"Creepy, right?",negative,0.6659
+We found it!,positive,0.8702
+The magic of the golden flower healed the queen.,positive,0.548
+"A healthy baby girl, a princess was born, with beautiful golden hair.",positive,0.9611
+"I'll give you a hint, that's Rapunzel.",neutral,0.8392
+"To celebrate her birth, the king and queen launched a flying lantern into the sky.",positive,0.7827
+"And for that one moment, everything was perfect.",positive,0.9564
+And then that moment ended.,neutral,0.5676
+"Flower, gleam and glow Let your power shine Make the clock...",positive,0.7797
+"Gothel broke into the castle, stole the child, and just like that, gone!",negative,0.5628
+"The kingdom searched and searched, but they could not find the princess.",negative,0.5009
+"For deep within the forest, in a hidden tower, Gothel raised the child as her own.",neutral,0.8772
+"Save what has been lost Bring back what once was mine What once was mine Gothel had found her new magic flower, but this time, she was determined to keep it hidden.",neutral,0.6295
+Why can't I go outside?,negative,0.8058
+"The outside world is a dangerous place, filled with horrible, selfish people.",negative,0.977
+"You must stay here, where you're safe.",neutral,0.5636
+"Do you understand, flower?",neutral,0.7612
+"Yes, Mommy.",positive,0.5375
+But the walls of that tower could not hide everything.,neutral,0.6357
+"Each year, on her birthday, the king and queen released thousands of lanterns into the sky in hope that one day their lost princess would return.",positive,0.4969
+Ha!,neutral,0.5186
+Hmm.,neutral,0.6435
+"Well, I guess Pascal's not hiding out here.",neutral,0.739
+Gotcha!,positive,0.744
+That's 22 for me.,neutral,0.7391
+How about 23 out of 45?,neutral,0.8651
+Okay.,neutral,0.5844
+"Well, what do you want to do?",neutral,0.8649
+Yeah.,neutral,0.5491
+I don't think so.,neutral,0.5158
+"I like it in here, and so do you.",positive,0.9041
+"Oh, come on, Pascal.",neutral,0.5073
+It's not so bad in there.,positive,0.6696
+"Seven a.m., the usual morning lineup Start on the chores And sweep till the floor's all clean Polish and wax, do laundry and mop and shine up Sweep again and by then it's, like, 7:1 5 And so I'll read a book Or maybe two or three I'll add a few new paintings to my gallery I'll play guitar and knit and cook and basically Just wonder when will my life begin?",neutral,0.5123
+"Then after lunch it's puzzles and darts and baking Papier-mâché, a bit of ballet and chess Pottery and ventriloquy, candle-making Then I'll stretch, maybe sketch Take a climb, sew a dress And I'll reread the books If I have time to spare I'll paint the walls some more I'm sure there's room somewhere And then I'll brush and brush and brush and brush my hair Stuck in the same place I've always been And I'll keep wondering and wondering and wondering and wondering When will my life begin?",neutral,0.7281
+Tomorrow night the lights will appear Just like they do on my birthday each year What is it like out there where they glow Now that I'm older Mother might just let me go Wow!,positive,0.9505
+I could get used to a view like this.,positive,0.6001
+"Rider, come on !",neutral,0.7036
+Hold on.,neutral,0.6407
+Yep.,neutral,0.5607
+I'm used to it.,neutral,0.6267
+"Guys, I want a castle.",positive,0.7894
+"We do this job, you can buy your own castle.",neutral,0.6697
+Hay fever?,neutral,0.6826
+Yeah.,neutral,0.5491
+Huh?,neutral,0.6584
+Wait!,neutral,0.6225
+"Hey, wait!",neutral,0.6528
+Can't you picture me in a castle of my own?,neutral,0.6362
+Because I certainly can.,positive,0.7527
+"All the things we've seen, and it's only 8:00 in the morning !",neutral,0.526
+"Gentlemen, this is a very big day!",positive,0.9738
+This is it!,positive,0.7213
+"This is a very big day, Pascal.",positive,0.9386
+I'm finally going to do it.,positive,0.8134
+I'm going to ask her.,neutral,0.8122
+Rapunzel !,neutral,0.7662
+Let down your hair!,negative,0.4877
+It's time!,positive,0.654
+"I know, I know.",neutral,0.468
+Come on.,neutral,0.5758
+Don't let her see you.,neutral,0.609
+Rapunzel !,neutral,0.7662
+I'm not getting any younger down here!,negative,0.5092
+"Coming, Mother!",neutral,0.6136
+Hi.,neutral,0.5326
+"Welcome home, Mother.",positive,0.929
+"Rapunzel, how you manage to do that every single day without fail.",neutral,0.7423
+"It looks absolutely exhausting, darling.",negative,0.9349
+"Oh,  it's nothing.",neutral,0.6002
+Then I don't know why it takes so long.,negative,0.8833
+"Oh, darling, I'm just teasing.",neutral,0.6175
+All right.,neutral,0.4897
+"So, Mother, as you know tomorrow is a very big day...",positive,0.8827
+"Rapunzel, look in that mirror.",neutral,0.771
+You know what I see?,neutral,0.6745
+"I see a strong, confident, beautiful young lady.",positive,0.9702
+"Oh, look, you're here, too.",neutral,0.7017
+I'm just teasing.,neutral,0.6836
+Stop taking everything so seriously.,negative,0.8039
+Okay.,neutral,0.5844
+"So, Mother, as I was saying, tomorrow is...",neutral,0.8642
+"Rapunzel, Mother's feeling a little run-down.",neutral,0.7028
+"Would you sing for me, dear?",neutral,0.8077
+Then we'll talk.,neutral,0.7625
+Oh !,neutral,0.5498
+"Of course, Mother.",neutral,0.7204
+"Flower, gleam and glow Let your power shine Make the clock reverse Bring back what once was mine Heal what has been hurt Change the Fates' design Save what has been lost Bring back what once was mine Rapunzel !",positive,0.5214
+"So, Mother, earlier I was saying tomorrow is a big day, and you didn't respond.",neutral,0.5538
+"So, I'm just going to tell you, it's my birthday!",positive,0.863
+Ta-da!,neutral,0.5546
+"No, no, no.",negative,0.6471
+Can't be.,negative,0.6057
+I distinctly remember.,neutral,0.7124
+Your birthday was last year.,neutral,0.8367
+That's the funny thing about birthdays.,positive,0.8268
+They're kind of an annual thing.,neutral,0.8327
+"Mother, I'm turning 1 8, and I wanted to ask...",neutral,0.8581
+What I really want for this birthday...,positive,0.8841
+Actually what I wanted for quite a few birthdays now...,positive,0.7235
+"Rapunzel, please, stop with the mumbling.",negative,0.7311
+You know how I feel about the mumbling.,neutral,0.5602
+Blah-blah-blah-blah.,negative,0.5001
+It's very annoying !,negative,0.9577
+I'm just teasing.,neutral,0.6836
+You're adorable.,positive,0.9759
+"I love you so much, darling.",positive,0.9871
+I want to see the floating lights.,positive,0.7527
+What?,neutral,0.5653
+I was hoping you would take me to see the floating lights.,neutral,0.6425
+Oh !,neutral,0.5498
+You mean the stars.,neutral,0.7464
+That's the thing.,neutral,0.5897
+"I've charted stars, and they're always constant.",neutral,0.5574
+"But these, they appear every year on my birthday, Mother.",neutral,0.7342
+Only on my birthday.,neutral,0.6105
+And I can't help but feel like they're meant for me.,positive,0.6218
+"I need to see them, Mother.",neutral,0.5316
+"And not just from my window, in person.",neutral,0.7601
+I have to know what they are.,neutral,0.7364
+You want to go outside?,neutral,0.8861
+"Why, Rapunzel...",neutral,0.7735
+"Look at you, as fragile as a flower Still a little sapling, just a sprout You know why we stay up in this tower I know, but...",neutral,0.6282
+That's right.,neutral,0.569
+"To keep you safe and sound, dear Guess I always knew this day was coming Knew that soon you'd want to leave the nest Soon but not yet Shh!",neutral,0.6285
+"Trust me, pet Mother knows best Mother knows best Listen to your mother It's a scary world out there Mother knows best One way or another Something will go wrong l swear Ruffians, thugs, poison ivy, quicksand Cannibals and snakes, the plague No!",negative,0.6286
+Yes.,positive,0.461
+Also large bugs Men with pointy teeth And stop!,negative,0.7574
+"No more, you'll just upset me Mother's right here Mother will protect you Darling, here's what I suggest Skip the drama Stay with Mama Mother knows best Mother knows best Take it from your mumsy On your own, you won't survive Sloppy, underdressed Immature, clumsy Please, they'll eat you up alive Gullible, naive Positively grubby Ditsy and a bit...",negative,0.6003
+"Well, hmm, vague Plus, I believe, getting kind of chubby I'm just saying 'cause I wuv you Mother understands Mother's here to help you All I have is one request Rapunzel?",positive,0.599
+Yes?,neutral,0.7116
+Don't ever ask to leave this tower again.,negative,0.6139
+"Yes, Mother.",neutral,0.5409
+Oh.,neutral,0.5443
+"I love you very much, dear.",positive,0.9861
+I love you more.,positive,0.9635
+I love you most.,positive,0.9771
+Don't forget it You'll regret it Mother knows best Ta-ta!,neutral,0.5037
+"I'll see you in a bit, my flower!",positive,0.7645
+I'll be here.,neutral,0.5821
+"Oh, no.",negative,0.6307
+"No, no, no, no, no.",negative,0.7323
+This is bad.,negative,0.9621
+"This is very, very bad.",negative,0.9733
+This is really bad.,negative,0.9695
+They just can't get my nose right.,negative,0.928
+Who cares?,negative,0.5474
+It's easy for you to say.,neutral,0.5534
+You guys look amazing.,positive,0.9819
+All right.,neutral,0.4897
+Okay.,neutral,0.5844
+Give me a boost and I'll pull you up.,neutral,0.5616
+Give us the satchel first.,neutral,0.7147
+I just...,neutral,0.5688
+"I can't believe that after all we've been through together, you don't trust me?",negative,0.8592
+Ouch.,negative,0.6772
+"Now help us up, pretty boy!",positive,0.8257
+"Sorry, my hands are full.",negative,0.7441
+What?,neutral,0.5653
+Rider!,neutral,0.6502
+Retrieve that satchel at any cost!,neutral,0.4862
+"Yes, sir!",positive,0.7993
+"We got him now, Maximus.",neutral,0.6806
+"Come on, fleabag !",neutral,0.488
+Forward !,positive,0.5623
+No.,neutral,0.4936
+No!,neutral,0.4416
+Stop it!,negative,0.5914
+Stop it!,negative,0.5914
+Give it to me!,positive,0.6121
+Give me that!,positive,0.6774
+Ha!,neutral,0.5186
+Alone at last.,neutral,0.7021
+Huh.,neutral,0.5985
+Huh?,neutral,0.6584
+Hmm.,neutral,0.6435
+Huh?,neutral,0.6584
+"Okay, okay, okay.",positive,0.4939
+I've got a person in my closet.,neutral,0.6758
+I've got a person in my closet.,neutral,0.6758
+I've got a person in my closet!,neutral,0.6695
+"Too weak to handle myself out there, huh, Mother?",negative,0.8995
+"Well, tell that to my frying pan.",neutral,0.699
+Huh?,neutral,0.6584
+Hmm.,neutral,0.6435
+Hmm.,neutral,0.6435
+Rapunzel !,neutral,0.7662
+Oh !,neutral,0.5498
+Let down your hair!,negative,0.4877
+"One moment, Mother!",neutral,0.6312
+I have a big surprise!,positive,0.958
+Uh...,neutral,0.6651
+"I do, too!",positive,0.6429
+"Ooh, I bet my surprise is bigger!",positive,0.9444
+I seriously doubt it.,negative,0.645
+I brought back parsnips.,neutral,0.7605
+I'm going to make hazelnut soup for dinner.,neutral,0.6863
+Your favorite.,positive,0.6816
+Surprise!,positive,0.9558
+"Well, Mother, there's something I want to tell you.",neutral,0.868
+"Oh, Rapunzel, you know I hate leaving you after a fight.",negative,0.8551
+Especially when I've done absolutely nothing wrong.,neutral,0.5305
+I've been thinking a lot about what you said earlier.,neutral,0.8249
+I hope you're not still talking about the stars.,neutral,0.6065
+"""Floating lights,"" and, yes, I'm leading up to that.",neutral,0.6902
+"Because I really thought we dropped the issue, sweetheart.",neutral,0.59
+"No, Mother, I'm just saying, you think I'm not strong enough to handle myself out there.",negative,0.7021
+"Oh, I know you're not strong enough to handle yourself out there.",negative,0.7901
+But if you just...,neutral,0.8118
+We're done talking about this.,negative,0.5401
+Trust me!,positive,0.7247
+I know what I'm...,neutral,0.7435
+Rapunzel.,neutral,0.8238
+"Oh, come on !",neutral,0.5731
+Enough with the lights!,neutral,0.4749
+You are not leaving this tower!,neutral,0.574
+Ever!,positive,0.5212
+Great.,positive,0.7671
+Now I'm the bad guy.,negative,0.6838
+"All I was going to say, Mother, is that...",neutral,0.7843
+I know what I want for my birthday now.,positive,0.8349
+And what is that?,neutral,0.7241
+New paint.,neutral,0.6866
+The paint made from the white shells you once brought me.,neutral,0.8564
+"That is a very long trip, Rapunzel.",neutral,0.7126
+Almost three days' time.,neutral,0.8218
+I just thought it was a better idea than the stars.,neutral,0.4909
+You'll be all right on your own?,neutral,0.5371
+I know I'm safe as long as I'm here.,positive,0.8127
+I'll be back in three days' time.,neutral,0.673
+"I love you very much, dear.",positive,0.9861
+I love you more.,positive,0.9635
+I love you most.,positive,0.9771
+Okay.,neutral,0.5844
+Huh.,neutral,0.5985
+Huh?,neutral,0.6584
+What...,neutral,0.6315
+Is this hair?,neutral,0.8665
+Struggling...,neutral,0.4862
+Struggling is pointless.,negative,0.897
+Huh?,neutral,0.6584
+"I know why you're here, and I'm not afraid of you.",neutral,0.6047
+What?,neutral,0.5653
+Who are you?,neutral,0.7975
+And how did you find me?,neutral,0.7954
+"Who are you, and how did you find me?",neutral,0.8406
+"I know not who you are, nor how I came to find you.",negative,0.5386
+But may I just say...,neutral,0.7715
+Hi.,neutral,0.5326
+How you doing?,neutral,0.7431
+The name's Flynn Rider.,neutral,0.806
+How's your day going?,neutral,0.8182
+Huh?,neutral,0.6584
+"Who else knows my location, Flynn Rider?",neutral,0.9115
+"All right, blondie.",neutral,0.5554
+Rapunzel.,neutral,0.8238
+Gesundheit.,neutral,0.6443
+Here's the deal.,neutral,0.6501
+"I was in a situation, gallivanting through the forest.",neutral,0.7505
+I came across your tower and...,neutral,0.7668
+Oh !,neutral,0.5498
+"Oh, no.",negative,0.6307
+Where is my satchel?,neutral,0.5393
+I've hidden it.,neutral,0.7079
+Somewhere you'll never find it.,negative,0.4944
+"It's in that pot, isn't it?",neutral,0.8095
+Huh?,neutral,0.6584
+Would you stop that?,neutral,0.7972
+Now it's hidden where you'll never find it.,neutral,0.521
+"So, what do you want with my hair?",neutral,0.9012
+To cut it?,neutral,0.7342
+What?,neutral,0.5653
+Sell it?,neutral,0.7815
+No!,neutral,0.4416
+"Listen, the only thing I want to do with your hair is to get out of it, literally.",neutral,0.5958
+You...,neutral,0.6931
+Wait.,neutral,0.5851
+You don't want my hair?,negative,0.6118
+Why on earth would I want your hair?,negative,0.8502
+"Look, I was being chased, I saw a tower, I climbed it.",neutral,0.6594
+End of story.,neutral,0.6038
+You're telling the truth?,neutral,0.7447
+Yes!,positive,0.8097
+Hmm.,neutral,0.6435
+I know.,neutral,0.5132
+I need someone to take me.,neutral,0.8167
+"I think he's telling the truth, too.",neutral,0.7159
+He doesn't have fangs.,neutral,0.7351
+But what choice do I have?,neutral,0.5626
+"Okay, Flynn Rider, I'm prepared to offer you a deal.",neutral,0.751
+Deal?,neutral,0.7844
+Look this way.,neutral,0.7412
+Do you know what these are?,neutral,0.8493
+You mean the lantern thing they do for the princess?,neutral,0.7904
+Lanterns?,neutral,0.8449
+I knew they weren't stars.,neutral,0.531
+"Well, tomorrow evening, they will light the night sky with these lanterns.",neutral,0.4984
+"You will act as my guide, take me to these lanterns, and return me home safely.",positive,0.5062
+"Then, and only then, will I return your satchel to you.",neutral,0.8821
+That is my deal.,neutral,0.6912
+Yeah.,neutral,0.5491
+No can do.,neutral,0.5444
+"Unfortunately the kingdom and I aren't exactly simpatico at the moment, so I won't be taking you anywhere.",negative,0.8306
+"Something brought you here, Flynn Rider.",neutral,0.8652
+"Call it what you will, fate, destiny...",neutral,0.8479
+A horse.,neutral,0.7529
+So I have made the decision to trust you.,positive,0.6658
+"A horrible decision, really.",negative,0.9293
+But trust me when I tell you this.,neutral,0.7522
+"You can tear this tower apart brick by brick, but without my help, you will never find your precious satchel.",negative,0.7593
+Let me get this straight.,neutral,0.7086
+"I take you to see the lanterns, bring you back home, and you'll give me back my satchel?",neutral,0.8433
+I promise.,neutral,0.5038
+"And when I promise something, I never, ever break that promise.",neutral,0.5743
+Ever.,neutral,0.47
+"All right, listen.",neutral,0.7426
+"I didn't want to have to do this, but you leave me no choice.",negative,0.7164
+Here comes the smolder.,neutral,0.752
+This is kind of an off day for me.,negative,0.6981
+This doesn't normally happen.,neutral,0.5039
+Fine!,positive,0.7965
+I'll take you to see the lanterns.,neutral,0.6768
+Really?,neutral,0.6008
+Oops.,negative,0.4829
+You broke my smolder.,negative,0.8162
+"Are you coming, blondie?",neutral,0.9079
+"Look at the world so close And I'm halfway to it Look at it all so big Do I even dare Look at me, there at last I just have to do it Should l?",neutral,0.4647
+"No Here I go Just smell the grass, the dirt Just like I dreamed they'd be Just feel that summer breeze The way it's calling me For, like, the first time ever I'm completely free I could go running and racing And dancing and chasing And leaping and bounding Hair flying, heart pounding And splashing and reeling and finally feeling That's when my life begins I can't believe I did this!",positive,0.7711
+I can't believe I did this.,negative,0.8419
+I can't believe I did this!,negative,0.3657
+Mother would be so furious.,negative,0.8279
+But that's okay.,positive,0.5332
+"What she doesn't know won't kill her, right?",neutral,0.5541
+"Oh, my gosh !",neutral,0.4077
+This would kill her.,negative,0.9251
+This is so fun !,positive,0.9894
+I am a horrible daughter.,negative,0.9748
+I'm going back.,neutral,0.6189
+I am never going back!,negative,0.4329
+I am a despicable human being !,negative,0.9775
+Best day ever!,positive,0.9893
+"You know, I can't help but notice you seem a little at war with yourself here.",negative,0.6526
+What?,neutral,0.5653
+I'm only picking up bits and pieces.,neutral,0.5966
+"Overprotective mother, forbidden road trip.",negative,0.8603
+This is serious stuff.,neutral,0.4711
+But let me ease your conscience.,neutral,0.5919
+This is part of growing up.,neutral,0.7218
+"A little rebellion, a little adventure, that's good.",positive,0.9099
+"Healthy, even.",positive,0.5967
+You think?,neutral,0.7519
+I know.,neutral,0.5132
+"You're way over-thinking this, trust me.",negative,0.5454
+Does your mother deserve it?,negative,0.5007
+No.,neutral,0.4936
+Would this break her heart and crush her soul?,negative,0.9567
+Of course.,neutral,0.5552
+But you've got to do it.,neutral,0.6474
+"""Break her heart""?",negative,0.5029
+In half.,neutral,0.6036
+"""Crush her soul""?",negative,0.5052
+Like a grape.,neutral,0.616
+She would be heartbroken.,negative,0.8593
+You're right.,positive,0.4782
+"I am, aren't I?",neutral,0.7773
+"Oh, bother.",negative,0.6789
+All right.,neutral,0.4897
+"I can't believe I'm saying this, but I'm letting you out of the deal.",negative,0.4741
+What?,neutral,0.5653
+"That's right, but don't thank me.",neutral,0.5553
+Let's turn around and get you home.,neutral,0.7989
+"Here's your pan, here's your frog.",neutral,0.7598
+"I get back my satchel, you get back a mother-daughter relationship based on mutual trust, and voilà, we part ways as unlikely friends.",neutral,0.7603
+No.,neutral,0.4936
+I am seeing those lanterns.,neutral,0.7796
+"Oh, come on !",neutral,0.5731
+What is it going to take for me to get my satchel back?,neutral,0.8189
+I will use this.,positive,0.6188
+Is it ruffians?,neutral,0.7594
+Thugs?,neutral,0.5117
+Have they come for me?,neutral,0.6804
+Stay calm.,neutral,0.6001
+It can probably smell fear.,negative,0.6433
+Oh !,neutral,0.5498
+Sorry.,negative,0.5092
+Guess I'm just a little bit jumpy.,neutral,0.4837
+"Probably be best if we avoid ruffians and thugs, though.",neutral,0.5106
+"Yeah, that would probably be best.",positive,0.8186
+Are you hungry?,neutral,0.8081
+I know a great place for lunch.,positive,0.9527
+Where?,neutral,0.7096
+"Oh, don't you worry.",neutral,0.6828
+You'll know it when you smell it.,neutral,0.6013
+A palace horse.,neutral,0.7807
+Where's your rider?,neutral,0.7767
+Rapunzel.,neutral,0.8238
+Rapunzel !,neutral,0.7662
+Rapunzel !,neutral,0.7662
+Let down your hair!,negative,0.4877
+Rapunzel?,neutral,0.8634
+Rapunzel?,neutral,0.8634
+Rapunzel !,neutral,0.7662
+I know it's around here somewhere.,neutral,0.7903
+"Ah, there it is!",positive,0.6482
+The Snuggly Duckling.,neutral,0.6755
+Don't worry.,positive,0.5337
+Very quaint place.,positive,0.7891
+Perfect for you.,positive,0.8737
+"Don't want you scaring and giving up on this whole endeavor now, do we?",negative,0.694
+"Well, I do like ducklings.",positive,0.5565
+Yay!,positive,0.904
+"Garçon, your finest table, please!",positive,0.792
+You smell that?,neutral,0.6462
+Take a deep breath through the nose.,neutral,0.7357
+Really let that seep in.,neutral,0.7431
+What are you getting?,neutral,0.7929
+"To me, it's part man-smell and the other part is really bad man-smell.",negative,0.9491
+"I don't know why, but overall it smells like the color brown.",negative,0.5357
+Your thoughts?,neutral,0.7641
+That's a lot of hair.,neutral,0.6407
+She's growing it out.,neutral,0.7475
+Is that blood in your mustache?,neutral,0.5626
+"Goldie, look at all the blood in his mustache!",negative,0.7572
+"Good sir, that's a lot of blood !",negative,0.5292
+"You don't look so good, blondie.",negative,0.8842
+"Maybe we should get you home, call it a day.",neutral,0.8349
+Probably better off.,neutral,0.5508
+This is a five-star joint.,neutral,0.7672
+"If you can't handle this place, maybe you should be back in your tower.",negative,0.873
+Is this you?,neutral,0.8442
+Now they're just being mean.,negative,0.9383
+"It's him, all right.",neutral,0.6118
+"Greno, go find some guards.",neutral,0.6852
+That reward is going to buy me a new hook.,positive,0.6191
+I could use the money.,neutral,0.665
+What about me?,neutral,0.8172
+I'm broke!,negative,0.7733
+Get back!,positive,0.6513
+Mine!,positive,0.6495
+"Ruffians, stop!",negative,0.8347
+We can work this out!,positive,0.8191
+Hey!,neutral,0.5279
+Leave him alone!,negative,0.6327
+"Gentlemen, please!",neutral,0.5446
+Give me back my guide!,neutral,0.6125
+Ruffians!,negative,0.7038
+Not the nose!,neutral,0.5699
+Not the nose!,neutral,0.5699
+Put him down !,negative,0.6461
+"I don't know where I am, and I need him to take me to see the lanterns because I've been dreaming about them my entire life!",neutral,0.5798
+Find your humanity!,neutral,0.6413
+Haven't any of you ever had a dream?,neutral,0.6596
+I had a dream once.,neutral,0.8395
+"I'm malicious, mean and scary My sneer could curdle dairy And violence-wise my hands are not the cleanest But despite my evil look And my temper and my hook I've always yearned to be a concert pianist Can't you see me on the stage performing Mozart Tickling the ivories till they gleam Yep, I'd rather be called deadly For my killer show tune medley Thank you !",negative,0.6073
+"'Cause way down deep inside I've got a dream He's got a dream He's got a dream See, I ain't as cruel and vicious as I seem Though I do like breaking femurs You can count me with the dreamers Like everybody else I've got a dream I've got scars and lumps and bruises Plus something here that oozes And let's not even mention my complexion But despite my extra toes And my goiter and my nose I really want to make a love connection Can't you see me with a special little lady?",neutral,0.5552
+"Rowing in a rowboat down the stream Though I'm one disgusting blighter I'm a lover not a fighter 'Cause way down deep inside I've got a dream -I've got a dream He's got a dream -I've got a dream -He's got a dream And I know one day romance will reign supreme Though my face leaves people screaming There's a child behind it dreaming Like everybody else, I've got a dream Thor would like to quit and be a florist Gunther does interior design -Ulf is into mime -Attila's cupcakes are sublime Bruiser knits, Killer sews Fang does little puppet shows And Vladimir collects ceramic unicorns What about you?",neutral,0.5138
+"I'm sorry, me?",negative,0.681
+What's your dream?,neutral,0.8442
+"No, no, no.",negative,0.6471
+"Sorry, boys.",negative,0.5656
+I don't sing.,negative,0.4932
+"I have dreams like you No, really Just much less touchy-feely They mainly happen somewhere warm and sunny On an island that I own Tanned and rested and alone Surrounded by enormous piles of money -I've got a dream She's got a dream -I've got a dream -She's got a dream I just want to see the floating lanterns gleam And with every passing hour I'm so glad I left my tower Like all you lovely folks I've got a dream She's got a dream He's got a dream They've got a dream We've got a dream So our differences ain't really that extreme We're one big team -Call us brutal -Sick -Sadistic -And grotesquely optimistic 'Cause way down deep inside we've got a dream -I've got a dream -I've got a dream Yes, way down deep inside I've got a dream I found the guards!",positive,0.7232
+Where's Rider?,neutral,0.7413
+Where is he?,neutral,0.7725
+I know he's in here somewhere.,neutral,0.8027
+Find him.,neutral,0.6045
+Turn the place upside down if you have to!,neutral,0.5604
+Go.,neutral,0.5352
+Live your dream.,positive,0.7662
+I will.,positive,0.4827
+Your dream stinks.,negative,0.9607
+I was talking to her.,neutral,0.8438
+Thanks for everything.,positive,0.9387
+I believe this is the man you're looking for.,positive,0.6457
+You got me!,positive,0.8276
+"Sir, there's no sign of Rider.",neutral,0.5462
+Maximus!,neutral,0.703
+What's he doing?,neutral,0.8183
+A passage!,neutral,0.5879
+"Come on, men.",neutral,0.5126
+Let's go.,positive,0.5876
+Conli !,neutral,0.6284
+Make sure those boys don't get away.,neutral,0.5157
+Play it safe or go get the crown?,neutral,0.8447
+I got a dream I got some dreams Oh !,neutral,0.6744
+Somebody get me a glass!,neutral,0.6469
+Because I just found me a tall drink of water.,positive,0.5919
+"Oh, stop it, you big lug.",negative,0.8202
+Where does that tunnel let out?,neutral,0.7861
+Knife!,neutral,0.6767
+I didn't know you had that in you back there.,neutral,0.5393
+That was pretty impressive.,positive,0.9759
+I know!,neutral,0.4773
+I know.,neutral,0.5132
+So...,neutral,0.7269
+Flynn?,neutral,0.7983
+Where are you from?,neutral,0.7815
+Whoa!,neutral,0.4812
+"Sorry, blondie, I don't do back-story.",negative,0.58
+"However, I am becoming very interested in yours.",positive,0.8795
+I know I'm not supposed to mention the hair.,neutral,0.5625
+Nope.,neutral,0.4866
+Or the mother.,neutral,0.5837
+Uh-uh.,neutral,0.4945
+I'm too scared to ask about the frog.,negative,0.6822
+Chameleon.,neutral,0.7109
+Nuance.,neutral,0.5886
+"Here's my question, though, if you want to see the lanterns so badly why haven't you gone before?",neutral,0.5641
+Uh...,neutral,0.6651
+Well...,neutral,0.7051
+"Uh, Flynn?",neutral,0.7857
+Flynn?,neutral,0.7983
+Rider?,neutral,0.7655
+Run.,neutral,0.6438
+Run !,neutral,0.585
+Who's that?,neutral,0.7539
+They don't like me.,negative,0.8866
+Who's that?,neutral,0.7539
+They don't like me either.,negative,0.8741
+Who's that?,neutral,0.7539
+Let's assume that everyone in here doesn't like me.,negative,0.7343
+Here.,neutral,0.5711
+I waited a long time for this.,neutral,0.5038
+"Oh, mama!",neutral,0.6455
+I have got to get me one of these!,positive,0.8849
+Ha!,neutral,0.5186
+You should know that this is the strangest thing I've ever done!,negative,0.4734
+How about two out of three?,neutral,0.8397
+Flynn !,neutral,0.6781
+"Flynn, look out!",neutral,0.7779
+Ha!,neutral,0.5186
+"You should see your faces, because you look...",neutral,0.6055
+...ridiculous.,negative,0.9069
+"Come on, blondie!",positive,0.504
+Jump!,neutral,0.5308
+It's no use.,negative,0.4781
+I can't see anything.,negative,0.6981
+"Hey, there's no point.",negative,0.5406
+It's pitch-black down there.,neutral,0.4832
+This is all my fault.,negative,0.9196
+She was right.,positive,0.6351
+I never should have done this.,negative,0.9176
+I'm so...,neutral,0.4829
+"I'm so sorry, Flynn.",negative,0.7554
+Eugene.,neutral,0.7035
+What?,neutral,0.5653
+My real name is Eugene Fitzherbert.,neutral,0.8501
+Someone might as well know.,neutral,0.6869
+I have magic hair that glows when I sing.,positive,0.9071
+What?,neutral,0.5653
+I have magic hair that glows when I sing !,positive,0.9254
+Flower gleam and glow Let your power shine We made it.,positive,0.881
+Her hair glows.,positive,0.8659
+We're alive.,positive,0.7271
+I'm alive!,positive,0.9271
+I didn't see that coming.,negative,0.7517
+Eugene?,neutral,0.764
+The hair actually glows.,positive,0.8646
+Why does her hair glow?,neutral,0.796
+Eugene!,neutral,0.6551
+What?,neutral,0.5653
+It doesn't just glow.,neutral,0.6215
+Why is he smiling at me?,neutral,0.5796
+I'll kill him.,negative,0.863
+I'll kill that Rider!,negative,0.633
+We'll cut him off at the kingdom and get back the crown.,neutral,0.8453
+Come on !,neutral,0.4815
+Or...,neutral,0.7273
+Perhaps you want to stop acting like wild dogs chasing their tails and think for a moment.,negative,0.4899
+"Oh, please, there's no need for that.",negative,0.7425
+"Well, if that's all you desire, then be on your way.",neutral,0.6262
+"I was going to offer you something worth 1 ,000 crowns.",neutral,0.8127
+"Would have made you rich beyond belief, and that wasn't even the best part.",negative,0.4438
+"Oh, well.",neutral,0.6057
+C'est la vie.,neutral,0.6113
+Enjoy your crown !,positive,0.9283
+What's the best part?,positive,0.5876
+It comes with revenge on Flynn Rider.,neutral,0.7171
+You're being strangely cryptic as you wrap your magic hair around my injured hand.,neutral,0.6027
+Sorry.,negative,0.5092
+Just don't...,negative,0.5532
+Don't freak out.,neutral,0.6652
+"Flower, gleam and glow Let your power shine Make the clock reverse Bring back what once was mine Heal what has been hurt Change the Fates' design Save what has been lost Bring back what once was mine What once was mine Please don't freak out!",positive,0.5072
+I'm not freaking out.,neutral,0.5816
+Are you freaking out?,negative,0.5066
+I'm just interested in your hair and the magical qualities it possesses.,positive,0.9259
+How long has it been doing that exactly?,neutral,0.7908
+"Forever, I guess.",neutral,0.7898
+"Mother says when I was a baby, people tried to cut it.",negative,0.5225
+They wanted to take it for themselves.,neutral,0.6731
+"But once it's cut, it turns brown and loses its power.",negative,0.796
+"A gift like that, it has to be protected.",positive,0.6452
+That's why Mother never let me...,negative,0.7938
+That's why I never left and...,neutral,0.7439
+You never left that tower.,neutral,0.7126
+And you're still going to go back?,neutral,0.6554
+No!,neutral,0.4416
+Yes.,positive,0.461
+It's complicated.,negative,0.4892
+"So, Eugene Fitzherbert, huh?",neutral,0.8189
+"Ah, yeah.",neutral,0.5937
+Well...,neutral,0.7051
+I'll spare you the sob story of poor orphan Eugene Fitzherbert.,negative,0.5813
+It's a little bit of a downer.,negative,0.5742
+There was this book I used to read every night to all the younger kids.,neutral,0.7005
+The Tales of Flynnagan Rider.,neutral,0.835
+"Swashbuckling rogue, richest man alive, not bad with the ladies either.",positive,0.6944
+"Not that he'd ever brag about it, of course.",neutral,0.7105
+"Was he a thief, too?",neutral,0.4992
+Uh...,neutral,0.6651
+"Well, no.",neutral,0.4841
+He had enough money to do anything that he wanted to do.,positive,0.5326
+He could go anywhere that he wanted to go.,neutral,0.5406
+"And for a kid with nothing, I don't know, I...",negative,0.492
+Just seemed like the better option.,neutral,0.516
+"You can't tell anyone about this, okay?",neutral,0.6083
+It could ruin my whole reputation.,negative,0.9397
+Ah.,neutral,0.5709
+We wouldn't want that.,negative,0.7502
+A fake reputation is all a man has.,negative,0.8521
+"Well, I should...",neutral,0.6849
+I should get some more firewood.,neutral,0.7762
+Hey.,neutral,0.5456
+"For the record, I like Eugene Fitzherbert much better than Flynn Rider.",positive,0.8847
+Well.,neutral,0.6177
+Then you'd be the first.,neutral,0.7647
+But thank you.,positive,0.7553
+"Well, I thought he'd never leave.",neutral,0.5778
+Mother?,neutral,0.6897
+"Hello, dear.",neutral,0.5217
+How did you find me?,neutral,0.7967
+"Oh, it was easy, really.",positive,0.7672
+I just listened for the sound of complete and utter betrayal and followed that.,negative,0.8131
+Mother...,neutral,0.6758
+We're going home.,neutral,0.7183
+Now.,neutral,0.5224
+You don't understand.,negative,0.8318
+"I've been on this incredible journey, and I've seen and learned so much.",positive,0.9681
+I even met someone.,neutral,0.7444
+"Yes, the wanted thief.",negative,0.698
+I'm so proud.,positive,0.9863
+Come on.,neutral,0.5758
+"Mother, wait.",neutral,0.6373
+I think...,neutral,0.7471
+I think he likes me.,positive,0.8096
+Likes you?,neutral,0.7712
+"Please, Rapunzel, that's demented !",negative,0.8823
+"This is why you never should have left Dear, this whole romance that you've invented Just proves you're too naive to be here Why would he like you?",negative,0.92
+"Come on now, really Look at you!",positive,0.4961
+You think that he's impressed?,neutral,0.7691
+"Don't be a dummy, come with Mummy Mother...",neutral,0.5693
+No!,neutral,0.4416
+No?,neutral,0.6175
+"Oh, I see how it is Rapunzel knows best Rapunzel's so mature now Such a clever grown-up miss Rapunzel knows best Fine, if you're so sure now -Go ahead, then give him this!",positive,0.6345
+-How did you...,neutral,0.8235
+"This is why he's here Don't let him deceive you Give it to him, watch, you'll see I will !",neutral,0.6333
+"Trust me, my dear That's how fast he'll leave you I won't say I told you so No, Rapunzel knows best So, if he's such a dreamboat Go and put him to the test Mother, wait!",neutral,0.6041
+"If he's lying, don't come crying Mother knows best So, can I ask you something?",neutral,0.4943
+Is there any chance that I'm going to get super strength in my hand?,neutral,0.8817
+Because I'm not going to lie.,neutral,0.5312
+That would be stupendous.,negative,0.4542
+"Hey, you all right?",neutral,0.7613
+Oh !,neutral,0.5498
+"Sorry, yes.",neutral,0.5191
+"Just lost in thought, I guess.",negative,0.5277
+"Here's the thing, superhuman good looks, I've always had them.",positive,0.5781
+Born with it.,neutral,0.603
+But superhuman strength.,neutral,0.5514
+Can you imagine the possibilities of this?,neutral,0.7932
+"Patience, boys.",neutral,0.6582
+All good things to those who wait.,positive,0.8447
+Huh?,neutral,0.6584
+"Well, I hope you're here to apologize.",neutral,0.6396
+"No, put me down.",negative,0.5649
+Stop it!,negative,0.5914
+No!,neutral,0.4416
+Let me go!,positive,0.6992
+Give me him !,positive,0.48
+"Stop, stop, stop!",negative,0.6833
+"Whoa, whoa, whoa!",positive,0.5568
+"Easy, boy.",neutral,0.5504
+Easy!,positive,0.7968
+Settle down.,neutral,0.6251
+"Easy, boy.",neutral,0.5504
+Easy.,positive,0.5068
+Easy.,positive,0.5068
+That's it.,neutral,0.5321
+Now sit.,neutral,0.6144
+Sit!,neutral,0.5991
+What?,neutral,0.5653
+Now drop the boot.,neutral,0.6014
+Drop it.,neutral,0.5687
+Aw!,negative,0.5849
+You're such a good boy!,positive,0.9854
+"Yes, you are!",positive,0.8564
+You all tired from chasing this bad man all over the place?,negative,0.9111
+Excuse me?,neutral,0.5234
+"Nobody appreciates you, do they?",negative,0.8959
+Do they?,neutral,0.7517
+"Oh, come on.",neutral,0.4954
+He's a bad horse!,negative,0.872
+"Oh, he's nothing but a big sweetheart.",positive,0.9399
+Isn't that right...,neutral,0.649
+Maximus?,neutral,0.8159
+You've got to be kidding me.,negative,0.6221
+Look.,neutral,0.6185
+"Today is kind of the biggest day of my life, and the thing is, I need you not to get him arrested.",neutral,0.3874
+"Just for 24 hours, and then you can chase each other to your heart's content.",positive,0.6981
+Okay?,neutral,0.7124
+And it's also my birthday.,positive,0.5411
+Just so you know.,neutral,0.6526
+Excuse me.,neutral,0.4804
+Sorry.,negative,0.5092
+Thank you !,positive,0.9388
+It's for the lost princess.,neutral,0.7215
+To the boats!,neutral,0.6524
+"Hey, Max!",neutral,0.5164
+What?,neutral,0.5653
+I bought them.,neutral,0.6479
+Most of them.,neutral,0.6035
+Where are we going?,neutral,0.8712
+Best day of your life?,positive,0.7467
+I figured you should have a decent seat.,neutral,0.6631
+You okay?,neutral,0.7439
+I'm terrified.,negative,0.8634
+Why?,neutral,0.612
+"I've been looking out a window for 1 8 years, dreaming about what it might feel like when those lights rise in the sky.",positive,0.517
+What if it's not everything that I dreamed it would be?,neutral,0.5325
+It will be.,neutral,0.6013
+And what if it is?,neutral,0.8004
+What do I do then?,neutral,0.7633
+"That's the good part, I guess.",positive,0.9244
+You get to go find a new dream.,positive,0.5713
+"All those days watching from the windows All those years, outside looking in All that time, never even knowing Just how blind I've been Now I'm here, blinking in the starlight Now I'm here, suddenly I see Standing here, it's, oh, so clear I'm where I'm meant to be And at last I see the light And it's like the fog has lifted And at last I see the light And it's like the sky is new And it's warm and real and bright And the world has somehow shifted All at once, everything looks different Now that I see you I have something for you, too.",positive,0.4891
+"I should have given it to you before, but I was just scared.",negative,0.5531
+"And the thing is, I'm not scared anymore.",positive,0.6859
+You know what I mean?,neutral,0.6717
+I'm starting to.,neutral,0.7016
+"All those days chasing down a daydream All those years, living in a blur All that time, never truly seeing Things the way they were Now she's here, shining in the starlight Now she's here, suddenly I know If she's here, it's crystal clear I'm where I'm meant to go And at last I see the light And it's like the fog has lifted And at last I see the light And it's like the sky is new And it's warm and real and bright And the world has somehow shifted All at once, everything is different Now that I see you Now that I...",positive,0.4984
+see you Is everything okay?,positive,0.5154
+Huh?,neutral,0.6584
+"Oh, yes.",positive,0.6818
+"Yes, of course.",positive,0.4988
+I just...,neutral,0.5688
+I'm sorry.,negative,0.6455
+Everything is fine.,positive,0.7804
+There's just something I have to take care of.,neutral,0.629
+Okay.,neutral,0.5844
+I'll be right back.,neutral,0.5089
+"It's all right, Pascal.",positive,0.6533
+Ah !,neutral,0.5379
+There you are!,positive,0.6719
+I've been searching everywhere for you guys since we got separated.,neutral,0.5899
+"The sideburns are coming in nice, huh?",positive,0.847
+Got to be excited about that.,positive,0.9608
+"Anyhow, I just wanted to say I shouldn't have split.",negative,0.4892
+The crown is all yours.,neutral,0.5506
+"I'll miss you, but I think it's for the best.",positive,0.701
+"Holding out on us again, eh, Rider?",negative,0.5388
+What?,neutral,0.5653
+We heard you found something.,neutral,0.7905
+Something much more valuable than a crown.,neutral,0.4868
+We want her instead.,neutral,0.5885
+I was starting to think you ran off with the crown and left me.,neutral,0.5939
+He did.,neutral,0.6745
+What?,neutral,0.5653
+No.,neutral,0.4936
+He wouldn't.,neutral,0.611
+See for yourself.,neutral,0.7314
+Eugene?,neutral,0.764
+Eugene!,neutral,0.6551
+A fair trade.,neutral,0.7398
+A crown for the girl with the magic hair.,neutral,0.6903
+How much do you think someone would pay to stay young and healthy forever?,neutral,0.8656
+No.,neutral,0.4936
+Please.,neutral,0.6087
+No!,neutral,0.4416
+No!,neutral,0.4416
+Rapunzel !,neutral,0.7662
+Mother?,neutral,0.6897
+"Oh, my precious girl !",positive,0.9006
+Mother.,neutral,0.6247
+Are you all right?,neutral,0.8301
+Are you hurt?,neutral,0.5389
+How did you...,neutral,0.7981
+"I was so worried about you, dear.",negative,0.5885
+So I followed you.,neutral,0.5677
+And I saw them attack you and...,negative,0.7026
+"Oh, my.",neutral,0.5181
+Let's go before they come to!,neutral,0.5768
+"You were right, Mother.",positive,0.4833
+You were right about everything.,positive,0.5136
+"I know, darling.",neutral,0.5847
+I know.,neutral,0.5132
+Look!,positive,0.5707
+The crown !,neutral,0.5163
+Rapunzel.,neutral,0.8238
+Rapunzel !,neutral,0.7662
+No!,neutral,0.4416
+"Wait, guys!",neutral,0.688
+Rapunzel !,neutral,0.7662
+"Let's get this over with, Rider.",neutral,0.5279
+Where are we going?,neutral,0.8712
+Oh.,neutral,0.5443
+There.,neutral,0.551
+It never happened.,neutral,0.5283
+"Now, wash up for dinner.",neutral,0.7151
+I'm making hazelnut soup.,neutral,0.7696
+"I really did try, Rapunzel.",neutral,0.4903
+I tried to warn you what was out there.,neutral,0.6712
+The world is dark and selfish and cruel.,negative,0.9776
+"If it finds even the slightest ray of sunshine, it destroys it.",negative,0.7764
+How did you know about her?,neutral,0.8228
+"Tell me, now!",neutral,0.6769
+It wasn't us!,negative,0.4969
+It was the old lady!,neutral,0.6582
+Old lady?,neutral,0.6839
+Wait.,neutral,0.5851
+No!,neutral,0.4416
+Wait!,neutral,0.6225
+You don't understand !,negative,0.8154
+She's in trouble!,negative,0.8214
+Wait!,neutral,0.6225
+Rapunzel?,neutral,0.8634
+What's going on up there?,neutral,0.8169
+Are you all right?,neutral,0.8301
+I'm the lost princess.,neutral,0.6001
+"Please speak up, Rapunzel.",neutral,0.789
+You know how I hate the mumbling.,negative,0.9236
+I am the lost princess.,neutral,0.602
+Aren't I?,neutral,0.7625
+"Did I mumble, Mother?",neutral,0.6549
+Or should I even call you that?,neutral,0.7593
+"Oh, Rapunzel, do you even hear yourself?",neutral,0.4993
+Why would you ask such a ridiculous question?,negative,0.9193
+It was you !,neutral,0.5662
+It was all you !,neutral,0.5971
+Everything I did was to protect you.,neutral,0.6212
+Rapunzel !,neutral,0.7662
+I've spent my entire life hiding from people who would use me for my power...,negative,0.5964
+Rapunzel !,neutral,0.7662
+...when I should have been hiding from you !,neutral,0.5364
+Where will you go?,neutral,0.8491
+He won't be there for you.,neutral,0.5391
+What did you do to him?,neutral,0.7117
+That criminal is to be hanged for his crimes.,negative,0.9494
+No.,neutral,0.4936
+"Now, now, it's all right.",positive,0.7435
+Listen to me.,neutral,0.7354
+All of this is as it should be.,positive,0.6024
+No!,neutral,0.4416
+You were wrong about the world.,negative,0.7664
+And you were wrong about me!,negative,0.6929
+And I will never let you use my hair again !,negative,0.858
+You want me to be the bad guy?,neutral,0.5129
+"Fine, now I'm the bad guy.",negative,0.5087
+What's this?,neutral,0.7517
+Open up!,neutral,0.4832
+What's the password?,neutral,0.8154
+What?,neutral,0.5653
+Nope.,neutral,0.4866
+Open this door!,neutral,0.5615
+Not even close!,neutral,0.4378
+You have three seconds!,neutral,0.5073
+One...,neutral,0.7258
+Two...,neutral,0.7052
+Three.,neutral,0.568
+Huh?,neutral,0.6584
+Frying pans!,neutral,0.6779
+"Who knew, right?",neutral,0.6713
+Head down.,neutral,0.7102
+Head down.,neutral,0.7102
+Arms in.,neutral,0.7449
+Arms in.,neutral,0.7449
+Knees apart.,neutral,0.6612
+Knees apart.,neutral,0.6612
+Knees apart?,neutral,0.802
+Why do I need to keep my knees apart...,negative,0.7906
+Max!,positive,0.5213
+You brought them here?,neutral,0.726
+Thank you.,positive,0.853
+"No, really.",neutral,0.5845
+Thank you.,positive,0.853
+"I feel maybe this whole time, we've just been misunderstanding one another, and we're really just...",negative,0.8291
+"You're right, we should go.",positive,0.6247
+Max?,neutral,0.6687
+Max!,positive,0.5213
+Max!,positive,0.5213
+"Okay, Max.",neutral,0.7112
+Let's see how fast you can run.,neutral,0.7371
+Rapunzel?,neutral,0.8634
+"Rapunzel, let down your hair!",neutral,0.4862
+"Rapunzel, I thought I'd never see you again.",negative,0.7538
+Huh?,neutral,0.6584
+"Now look what you've done, Rapunzel.",neutral,0.7017
+"Oh, don't worry, dear.",neutral,0.4958
+Our secret will die with him.,negative,0.7017
+And as for us...,neutral,0.821
+We are going where no one will ever find you again.,neutral,0.5598
+"Rapunzel, really!",neutral,0.6766
+Enough already!,neutral,0.4899
+Stop fighting me!,negative,0.8076
+No!,neutral,0.4416
+I won't stop!,positive,0.7289
+"For every minute of the rest of my life, I will fight!",positive,0.6127
+I will never stop trying to get away from you !,negative,0.5484
+"But if you let me save him, I will go with you.",neutral,0.6249
+No!,neutral,0.4416
+"No, Rapunzel.",neutral,0.7267
+I'll never run.,neutral,0.655
+I'll never try to escape.,neutral,0.4954
+"Just let me heal him and you and I will be together, forever, just like you want.",positive,0.7622
+Everything will be the way it was.,neutral,0.5207
+I promise.,neutral,0.5038
+Just like you want.,neutral,0.6799
+Just let me heal him.,neutral,0.6377
+In case you get any ideas about following us.,neutral,0.8749
+Eugene!,neutral,0.6551
+I'm so sorry.,negative,0.8012
+"Everything is going to be okay, though.",positive,0.8307
+"No, Rapunzel.",neutral,0.7267
+I promise.,neutral,0.5038
+You have to trust me.,neutral,0.557
+Come on.,neutral,0.5758
+Just breathe.,neutral,0.6391
+I can't let you do this.,negative,0.9335
+And I can't let you die.,neutral,0.4798
+But if you do then you will die.,negative,0.8812
+Hey.,neutral,0.5456
+It's going to be all right.,positive,0.7504
+Rapunzel.,neutral,0.8238
+Wait.,neutral,0.5851
+Eugene...,neutral,0.7579
+No!,neutral,0.4416
+What have you done?,neutral,0.823
+What have you done?,neutral,0.823
+No!,neutral,0.4416
+No!,neutral,0.4416
+No.,neutral,0.4936
+No!,neutral,0.4416
+"No, no, no.",negative,0.6471
+Eugene.,neutral,0.7035
+No!,neutral,0.4416
+Look at me.,neutral,0.7056
+I'm right here.,neutral,0.5917
+Don't go.,negative,0.5596
+Stay with me.,neutral,0.6683
+"Flower, gleam and glow Let your power shine Make the clock reverse Bring back what once was mine Rapunzel.",positive,0.7087
+What?,neutral,0.5653
+You were my new dream.,positive,0.7313
+And you were mine.,neutral,0.6107
+Heal what has been hurt Change the Fates' design Save what has been lost Bring back what once was mine What once was mine Rapunzel?,neutral,0.7963
+Eugene?,neutral,0.764
+Did I ever tell you I've got a thing for brunettes?,neutral,0.7322
+Eugene!,neutral,0.6551
+"Well, you can imagine what happened next.",neutral,0.6531
+"The kingdom rejoiced, for their lost princess had returned.",positive,0.905
+"The party lasted an entire week, and honestly I don't remember most of it.",neutral,0.5323
+Dreams came true all over the place.,positive,0.8786
+"That guy went on to become the most famous concert pianist in the world, if you can believe it!",positive,0.9332
+And this guy?,neutral,0.6784
+He eventually found true love.,positive,0.7194
+"As for this guy, I assume he's happy.",positive,0.7508
+He's never told me otherwise.,neutral,0.673
+"Thanks to Maximus, crime in the kingdom disappeared almost overnight.",positive,0.5204
+As did most of the apples.,neutral,0.7329
+Pascal never changed.,neutral,0.7532
+At last Rapunzel was home.,neutral,0.5965
+And she finally had a real family.,positive,0.5445
+She was a princess worth waiting for.,positive,0.8591
+"Beloved by all, she led her kingdom with all the grace and wisdom that her parents did before her.",positive,0.9043
+"And, as for me, I started going by Eugene again, stopped thieving and turned it all around.",positive,0.5665
+But I know what the big question is.,neutral,0.7734
+Did Rapunzel and I ever get married?,neutral,0.9093
+I'm pleased to tell you that after years and years of asking and asking and asking...,positive,0.8983
+I finally said yes.,positive,0.8538
+Eugene.,neutral,0.7035
+"All right, I asked her.",neutral,0.794
+And we're living happily ever after.,positive,0.907
+"Yes, we are.",positive,0.6112
