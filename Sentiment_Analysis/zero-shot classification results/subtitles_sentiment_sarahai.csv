@@ -1,0 +1,1257 @@
+text,sentiment,score,length
+Pirates!,negative,0.6246,1
+We're under attack!,negative,0.7628,3
+Hold them off!,negative,0.7981,3
+Get down on the floor.,negative,0.8797,5
+Tear gas!,negative,0.7573,2
+What are you waiting for?,negative,0.848,5
+Break it down!,negative,0.7689,3
+Where'd she go?,negative,0.8173,3
+There she is!,neutral,0.6761,3
+She's getting away!,negative,0.8387,3
+"Well, get her!",negative,0.6558,3
+"Mama, don't drop me!",negative,0.7677,4
+There's the stone.,uncertain,0.5392,3
+"Quick, go next door!",negative,0.7213,4
+Get that crystal!,negative,0.6413,3
+There goes the crystal.,uncertain,0.5454,4
+"CASTLE IN THE SKY Two meatballs, please.",negative,0.6467,7
+Working late?,negative,0.8078,2
+We're finally busy again.,neutral,0.6324,4
+Still working?,negative,0.7585,2
+Yeah.,negative,0.702,1
+What's that?,negative,0.8877,2
+A person!,uncertain,0.5137,2
+Pazu!,uncertain,0.5304,1
+What are you up to?,negative,0.8363,5
+Where's my dinner?,negative,0.7588,3
+Boss!,negative,0.6147,1
+A girl fell from the sky.,negative,0.8488,6
+"Boss, she fell from the sky.",negative,0.8607,6
+Darn old clunker.,negative,0.8523,3
+Boss!,negative,0.6147,1
+A girl...,negative,0.6092,2
+Close valve number two!,negative,0.5621,4
+"Pazu, toss me a wrench.",negative,0.9015,5
+Sure.,negative,0.6637,1
+I'm busy here.,negative,0.7552,3
+You take it.,neutral,0.6339,3
+Don't make them wait.,negative,0.8438,4
+Yes!,uncertain,0.5065,1
+Keep a steady hand.,neutral,0.7026,4
+Yes!,uncertain,0.5065,1
+Brake!,negative,0.5699,1
+Any luck?,negative,0.764,2
+"No silver, no tin even.",negative,0.9175,5
+All that wasted work.,negative,0.9576,4
+Should we try the east vein?,negative,0.73,6
+That's riddled with old holes.,negative,0.922,5
+We'll have to start over.,negative,0.7983,5
+That's enough for today.,neutral,0.5963,4
+Push!,negative,0.6388,1
+Shut down the boiler.,negative,0.8862,4
+Call it a day.,negative,0.6417,4
+I'll go under at this rate.,negative,0.859,6
+"Oil the clunker, Pazu.",negative,0.5679,4
+Yes!,uncertain,0.5065,1
+"Mama, we couldn't find her.",negative,0.9097,5
+It's too dark.,negative,0.9081,3
+I hope you really looked!,neutral,0.6086,5
+All right.,negative,0.5608,2
+We'll wait for daylight.,negative,0.6564,4
+Hi.,negative,0.5865,1
+How are you feeling?,negative,0.7837,4
+"Hey, come on guys...",negative,0.6265,4
+I'm Pazu.,negative,0.654,2
+I live here by myself.,uncertain,0.5246,5
+They eat after I play.,negative,0.8088,5
+So you are human after all.,neutral,0.6002,6
+I was afraid you were an angel.,negative,0.8578,7
+Thanks for helping me.,neutral,0.6714,4
+I'm Sheeta.,negative,0.7178,2
+"Sheeta, nice name.",neutral,0.6328,3
+You fell from the sky.,negative,0.8333,5
+A bit scary.,negative,0.8969,3
+That's right.,negative,0.6727,2
+Why am I still alive?,negative,0.8648,5
+I fell from the airship...,negative,0.8497,5
+Have you forgotten?,negative,0.7955,3
+Yes.,negative,0.6164,1
+"Say, can I see that?",negative,0.7023,5
+This?,negative,0.814,1
+Yes.,negative,0.6164,1
+It's been in my family forever.,neutral,0.8541,6
+It's beautiful.,neutral,0.9452,2
+Wait...,negative,0.7713,1
+Watch this!,uncertain,0.537,2
+Pazu!,uncertain,0.5304,1
+So it wasn't the stone after all.,negative,0.8325,7
+Pazu!,uncertain,0.5304,1
+"Oh, no!",negative,0.7959,2
+Pazu!,uncertain,0.5304,1
+Are you okay?,negative,0.6862,3
+Yeah.,negative,0.702,1
+Are you?,negative,0.6908,2
+I'm fine.,negative,0.7002,2
+"Sorry, did it hurt?",negative,0.8957,4
+"No, my head's harder than my boss's fists.",negative,0.9052,8
+The pot's still boiling.,negative,0.7915,4
+Hungry?,negative,0.83,1
+Let's eat.,negative,0.6313,2
+Wash up over there.,negative,0.8028,4
+There's a towel.,negative,0.7418,3
+Thank you.,neutral,0.659,2
+Laputa...,negative,0.6193,1
+Sheeta!,uncertain,0.5414,1
+Where are you?,negative,0.7151,3
+My father took that picture.,negative,0.7922,5
+"That's Laputa, an island in the sky.",negative,0.5865,7
+An island in the sky?,negative,0.7822,5
+They say it's only a myth.,negative,0.9317,6
+But my father saw it.,negative,0.7154,5
+He took it from an airship.,negative,0.6995,6
+"There's a Laputa in Gulliver's Travels, but Swift made it up.",uncertain,0.5288,11
+Dad drew this.,negative,0.7752,3
+He said the abandoned palace was full of treasure.,negative,0.7332,9
+But nobody believed him.,negative,0.8567,4
+"Until he died, they called him a liar.",negative,0.9382,8
+But my father never lied.,negative,0.825,5
+I'm building a real plane.,negative,0.6648,5
+I'm going to find Laputa!,negative,0.5735,5
+A real automobile...,negative,0.6172,3
+They're pirates!,negative,0.8055,2
+They attacked the airship.,negative,0.769,4
+Are they after you?,negative,0.8636,4
+Yes.,negative,0.6164,1
+Quick!,neutral,0.5782,1
+Morning!,neutral,0.5836,1
+"Hey, wait!",negative,0.6889,2
+We're in a rush.,negative,0.6706,4
+Have you seen a girl?,negative,0.8149,5
+"Sure, yesterday...",negative,0.7773,2
+"The boss's kid, Madge...",negative,0.8042,4
+Off you go!,negative,0.726,3
+They're looking for you.,negative,0.7405,4
+"Louis, a girl's dress!",uncertain,0.5045,4
+What!,negative,0.8261,1
+She was disguised!,negative,0.7881,3
+Tell Mama!,uncertain,0.5018,2
+All right!,uncertain,0.5026,2
+Haven't seen her.,negative,0.9033,3
+A cute little girl.,neutral,0.5858,4
+"Brown hair, braids...",negative,0.5915,3
+Boss!,negative,0.6147,1
+Boss!,negative,0.6147,1
+About that age.,negative,0.6972,3
+Hey!,neutral,0.5528,1
+That's her!,negative,0.5674,2
+Pirates!,negative,0.6246,1
+They're chasing her.,negative,0.8623,3
+Pirates!,negative,0.6246,1
+Lemme see!,neutral,0.5903,2
+Not one step closer.,negative,0.7576,4
+Hand her over.,negative,0.7296,3
+"Pirates, eh?",negative,0.7359,2
+Dola's clan.,negative,0.7206,2
+Go home.,negative,0.6835,2
+Just poor folk here.,negative,0.9609,4
+Ma'am?,negative,0.7054,1
+Scoot out the back.,negative,0.7885,4
+I want to fight.,negative,0.7139,4
+They've got weapons!,negative,0.67,3
+But...,negative,0.7429,1
+What a pretty girl.,uncertain,0.5,4
+Better protect her.,negative,0.5556,3
+You refuse to step aside?,negative,0.9035,5
+Use your fists.,negative,0.8811,3
+Could be interesting.,neutral,0.6044,3
+"Get him, brother.",negative,0.6824,3
+Show your stuff.,negative,0.5605,3
+Wow.,neutral,0.6146,1
+Who's going to mend that shirt?,negative,0.9237,6
+You can beat him!,negative,0.7064,4
+"That's it, hit him!",negative,0.832,4
+Off you go!,negative,0.726,3
+Think you can fool me?,negative,0.93,5
+After them!,negative,0.6054,2
+Climb on!,uncertain,0.5178,2
+There you go.,neutral,0.5877,3
+Playing hooky for a date?,negative,0.8955,5
+Bad guys are after us.,negative,0.9444,5
+The Dola clan.,negative,0.7085,3
+Pirates?,negative,0.7975,1
+Take us to the next town.,negative,0.6209,6
+To the police!,negative,0.7045,3
+You're on.,uncertain,0.5323,2
+Stoke the fire.,negative,0.7154,3
+Okay.,negative,0.7025,1
+Mama!,neutral,0.5743,1
+You idiots!,negative,0.9104,2
+Hurry up and get on!,negative,0.698,5
+What?,negative,0.8066,1
+But the girl's...,negative,0.7396,3
+She slipped out the back door.,negative,0.8224,6
+Get moving!,negative,0.6485,2
+Brother!,uncertain,0.5027,1
+Wait!,negative,0.7008,1
+"They're catching up, more steam!",uncertain,0.5366,5
+Can't you go any faster?,negative,0.8035,5
+She's an old-timer.,negative,0.6763,3
+Move over!,negative,0.6211,2
+Whoa!,negative,0.6345,1
+"Mama, I can't hang on!",negative,0.8882,5
+"More steam, they're gaining on us!",negative,0.5914,6
+Here we go!,neutral,0.5932,3
+"Sheeta, over here.",negative,0.7088,3
+Stoke the fire.,negative,0.7154,3
+Okay!,uncertain,0.5118,1
+Don't give up!,negative,0.6918,3
+Push!,negative,0.6388,1
+"Push, I tell you!",negative,0.6973,4
+Not so fast!,negative,0.7451,3
+Don't let them escape!,negative,0.8222,4
+Dump this over the side!,negative,0.9184,5
+That'll teach them!,neutral,0.5703,3
+I'll do it.,uncertain,0.5017,3
+"No, let me.",negative,0.8222,3
+Up we go!,uncertain,0.5485,3
+Up we go!,uncertain,0.5485,3
+Wait!,negative,0.7008,1
+It's them.,negative,0.6753,2
+What'll we do?,negative,0.7866,3
+I refuse to give up.,negative,0.8151,5
+Move!,uncertain,0.5206,1
+This is a surprise.,neutral,0.8759,4
+If it isn't the army!,negative,0.8324,5
+These kids need help!,negative,0.7115,4
+They've got pirates after them.,negative,0.8122,5
+Sheeta?,negative,0.6811,1
+Goodbye.,negative,0.5774,1
+Wait!,negative,0.7008,1
+Sheeta!,uncertain,0.5414,1
+Halt or I'll shoot.,negative,0.897,4
+An armored train.,negative,0.7715,3
+Who cares!,negative,0.5547,2
+Ram it!,negative,0.6977,2
+"What is it, Sheeta!",negative,0.748,4
+Stay away!,negative,0.7267,2
+They're gonna fall!,negative,0.7713,3
+Quiet.,negative,0.6757,1
+Watch closely.,neutral,0.5708,2
+We're floating!,negative,0.6063,2
+Look!,negative,0.6225,1
+It's that crystal!,neutral,0.6601,3
+It was the stone after all!,uncertain,0.5215,6
+Amazing!,neutral,0.8604,1
+We'll float all the way down.,negative,0.5959,6
+Amazing!,neutral,0.8604,1
+I want it!,neutral,0.6385,3
+Fire!,uncertain,0.5203,1
+I have to get that amazing stone!,neutral,0.7525,7
+It's fading...,negative,0.8399,2
+"Hey, wait!",negative,0.6889,2
+It's just like when you landed.,negative,0.5886,6
+The opening looks so tiny.,negative,0.8059,5
+I hope the boss and the engineer aren't in any trouble.,negative,0.8736,11
+"Aw, don't worry.",negative,0.7692,3
+Miners aren't exactly wimps.,negative,0.9266,4
+"Come on, let's find the way out.",negative,0.7002,7
+These mines are ancient.,uncertain,0.5385,4
+Tunnels everywhere.,negative,0.8288,2
+There.,negative,0.5725,1
+I'm so happy.,neutral,0.8323,3
+I was starving.,negative,0.9302,3
+I've still got an apple and some candy.,uncertain,0.5024,8
+It's like you have a magical bag that holds everything.,neutral,0.7798,10
+Gondoa?,negative,0.7712,1
+That's so far north.,uncertain,0.5066,4
+Yes.,negative,0.6164,1
+"Both my parents died, but they left me the house and the fields, so I was getting by on my own.",neutral,0.5694,21
+Those guys with dark glasses kidnapped you?,negative,0.9221,7
+Yes.,negative,0.6164,1
+That guy was one of them?,negative,0.9029,6
+"Who can they be, calling in the army?",negative,0.8727,8
+"Dola and the other guys, they all want the stone.",negative,0.6672,10
+But I had no idea it had mysterious powers.,negative,0.8375,9
+It was always in our family.,neutral,0.8709,6
+Mother left it to me when she died.,negative,0.7078,8
+She warned me never to show it or give it to anyone.,negative,0.9006,12
+"We're both orphans, aren't we?",negative,0.7577,5
+I'm sorry I dragged you into all of this.,negative,0.9129,9
+When you fell from the sky my heart was racing.,uncertain,0.5134,10
+I knew something wonderful had begun.,neutral,0.8906,6
+Little demons...,negative,0.6953,2
+Little demons.,negative,0.795,2
+Uncle Pom!,negative,0.6041,2
+He's really great.,neutral,0.964,3
+Uncle Pom.,negative,0.7444,2
+We've lost our way.,negative,0.8924,4
+Now that little demon sure looks like Pazu...,negative,0.7758,8
+With a little girl demon beside him.,negative,0.7791,7
+Pirates are after us.,negative,0.8341,4
+And the army.,uncertain,0.522,3
+How very extraordinary.,neutral,0.9548,3
+Drink up.,negative,0.8738,2
+Thank you.,neutral,0.659,2
+Have you always lived underground?,negative,0.7578,5
+"Why, no, no.",negative,0.8778,3
+The rocks have been stirring...,neutral,0.6392,5
+That's when I like to be down here.,neutral,0.7361,8
+The rocks were stirring?,negative,0.8,4
+Rocks speak very softly.,neutral,0.6937,4
+Wonderful...,neutral,0.9026,1
+"Pazu, look at that!",negative,0.7242,4
+They were ordinary rocks until...,negative,0.7775,5
+How pretty...,neutral,0.7815,2
+"Here, let me show you.",neutral,0.5539,5
+It's gone.,negative,0.8287,2
+These rocks contain volucite.,negative,0.6781,4
+Volucite?,negative,0.7471,1
+"As soon as it's exposed to the air, it becomes ordinary stone.",negative,0.5587,12
+It's glowing...,neutral,0.7909,2
+"Oh, my gracious!",neutral,0.5861,3
+"That's a volucite crystal, my dear.",uncertain,0.5433,6
+I've never seen one before.,negative,0.7305,5
+That's why the rocks were stirring.,negative,0.6656,6
+This stone has mysterious powers.,neutral,0.5731,5
+I thought only Laputans knew how to make volucite crystals.,negative,0.8722,10
+Laputans?,negative,0.7442,1
+They used Volucite to send a magnificent island aloft...,neutral,0.6182,9
+"Laputa did exist, Sheeta!",negative,0.6122,4
+It really did!,neutral,0.6436,3
+Does the island still exist?,negative,0.7492,5
+Uncle Pom?,negative,0.7731,2
+"Dear, would you mind covering the stone?",negative,0.6968,7
+Its power overwhelms me.,negative,0.8653,4
+Yes.,negative,0.6164,1
+What's wrong?,negative,0.9126,2
+My grandfather told me... the rocks stir when Laputa floats overhead.,negative,0.6554,11
+"If you went up to the sky then, you'd find Laputa!",negative,0.693,11
+"Sheeta, my father was telling the truth!",negative,0.7595,7
+Young lady...,uncertain,0.5237,2
+You see...,negative,0.5802,2
+Yes?,negative,0.6236,1
+Your stone is most powerful...,neutral,0.8675,5
+I know that.,negative,0.592,3
+I've been speaking to rocks all my life.,neutral,0.5995,8
+"A stone so powerful brings happiness, but it also often brings misery.",neutral,0.8413,12
+I see.,negative,0.5567,2
+"What's more, your stone is the work of men.",neutral,0.8809,9
+How on earth did you...,uncertain,0.5218,5
+The stone's not dangerous!,negative,0.8348,4
+It already saved Sheeta twice!,negative,0.5984,5
+Amazing!,neutral,0.8604,1
+Laputa really does exist!,uncertain,0.5429,4
+It's gone.,negative,0.8287,2
+Let's go back to the ship.,negative,0.7437,6
+"When it's this quiet, it's best to stay put.",uncertain,0.5453,9
+I'm hungry...,negative,0.844,2
+It's all clear.,neutral,0.6853,3
+Let's go.,negative,0.713,2
+"Thank you, Uncle.",neutral,0.7233,3
+Look after yourselves.,negative,0.5693,3
+Look at those clouds!,negative,0.6269,4
+Beyond those clouds is an island we've only dreamed of.,neutral,0.7349,10
+Here I come!,neutral,0.6546,3
+I know I'm going to find Laputa!,negative,0.6047,7
+Pazu...,negative,0.6085,1
+I haven't told you everything.,negative,0.8951,5
+"My family had a mysterious, ancient name... that came with this stone.",negative,0.5682,12
+"My name is Lucita, Lucita Toelle Ur....",uncertain,0.5302,7
+Laputa.,negative,0.609,1
+Laputa?,negative,0.6582,1
+So you mean...,negative,0.749,3
+It's the army!,uncertain,0.5153,3
+Run!,negative,0.5986,1
+Underground!,uncertain,0.5309,1
+Don't move!,negative,0.8354,2
+How dare you!,negative,0.9002,3
+Pazu!,uncertain,0.5304,1
+Let me go!,negative,0.6835,3
+Pazu!,uncertain,0.5304,1
+Pazu!,uncertain,0.5304,1
+We've apprehended them.,negative,0.8239,3
+Good work.,neutral,0.897,2
+"Open up, open up!",uncertain,0.5293,4
+Sheeta...,negative,0.6601,1
+"Company, march!",neutral,0.5629,2
+Use force!,negative,0.763,2
+"Squeeze the brat, she'll talk.",negative,0.6994,5
+Spoken like a man in uniform.,negative,0.7055,6
+"In your haste, you risk everything.",negative,0.8536,6
+"If we'd mobilized sooner, we'd have bagged Dola too.",negative,0.8456,9
+She managed to decipher your third-rate code.,negative,0.7706,7
+What!,negative,0.8261,1
+My organization will handle this.,negative,0.5536,5
+Concentrate on mobilizing the troops when the time is ripe.,uncertain,0.5281,10
+Muska!,uncertain,0.5003,1
+"Remember, I command the search for Laputa!",neutral,0.651,7
+Of course.,negative,0.6398,2
+But I have my orders from the government.,negative,0.718,8
+That pencil-pushing upstart!,negative,0.9401,3
+Have a nice rest?,negative,0.6155,4
+Where's Pazu?,negative,0.7158,2
+Let me see him!,uncertain,0.5397,4
+No interest in pretty clothes?,negative,0.9262,5
+Don't fret about Pazu.,negative,0.8517,4
+His stubborn head is harder than mine.,negative,0.8176,7
+"Come, I have something to show you.",neutral,0.7123,7
+Enter.,negative,0.6269,1
+What is it?,negative,0.8066,3
+A mechanical soldier with vast destructive power.,negative,0.6575,7
+"Until he fell from the sky, no one believed Laputa was real.",negative,0.8093,12
+He's not of this earth.,negative,0.9122,5
+Our science can't even identify... what material he's made of.,negative,0.9664,10
+Look...,negative,0.7052,1
+Don't be afraid.,negative,0.6787,3
+He's long dead.,negative,0.7917,3
+Look at that.,negative,0.6409,3
+This insignia was carved on your fireplace.,uncertain,0.5416,7
+"It's on this stone, too.",negative,0.5671,5
+The stone works only in your hands.,negative,0.7935,7
+It protects its owner and will guide her back to Laputa.,neutral,0.7562,11
+I know nothing of this!,negative,0.9363,5
+Take it if you like.,uncertain,0.5258,5
+Just leave us alone...,negative,0.8552,4
+Perhaps you imagine that Laputa is some kind of treasure island.,negative,0.5781,11
+Fearsome scientific power thrust Laputa into orbit.,negative,0.9491,7
+Their dreaded empire once ruled the earth!,negative,0.7953,7
+"Even you can appreciate that when such an entity roams the skies, it threatens peace.",neutral,0.7617,15
+I need your cooperation.,neutral,0.7578,4
+You must know how to make the stone guide us to Laputa.,neutral,0.6901,12
+I really don't know!,negative,0.8513,4
+Please let me see Pazu!,uncertain,0.5341,5
+"I intend no harm, but his fate rests with you.",negative,0.597,10
+What?,negative,0.8066,1
+"The boy goes free if you assist us, Lucita...",neutral,0.6208,9
+Toelle Ur Laputa.,negative,0.6283,3
+But how...,negative,0.7181,2
+Ur means ruler.,uncertain,0.545,3
+Toelle means True.,uncertain,0.5005,3
+"You are Princess Lucita, rightful heir to the Laputan throne.",neutral,0.8508,10
+Out!,negative,0.6192,1
+Sheeta!,uncertain,0.5414,1
+"Pazu, are you hurt?",negative,0.8034,4
+I'm fine.,negative,0.7002,2
+You?,negative,0.673,1
+Did they do anything horrible?,negative,0.9498,5
+"My dear Pazu, we misjudged you.",negative,0.9436,6
+Accept our apologies.,uncertain,0.5137,3
+We didn't know how gallantly... you protected her from the pirates.,negative,0.9134,11
+"Sheeta, what did you...",negative,0.7982,4
+"Pazu, I beg you, forget about Laputa.",negative,0.7128,7
+What!,negative,0.8261,1
+Sheeta will aid us in our search for Laputa.,neutral,0.8083,9
+"I understand how you feel, but forget about her.",negative,0.7891,9
+"Is this true, Sheeta?",negative,0.6728,4
+But we...,negative,0.7043,2
+Thank you for everything.,neutral,0.8083,4
+"I'll never forget you, Pazu.",uncertain,0.5124,5
+I don't believe it...,negative,0.9001,4
+"Sheeta, we promised!",uncertain,0.5236,3
+Farewell!,neutral,0.6736,1
+Sheeta!,uncertain,0.5414,1
+"Wait, Sheeta!",negative,0.7137,2
+Be reasonable.,negative,0.7375,2
+Act like a man.,negative,0.8684,4
+Sheeta!,uncertain,0.5414,1
+Here's a token of our gratitude.,neutral,0.8023,6
+It's yours.,neutral,0.7888,2
+Only you can recall the words that will waken this stone.,uncertain,0.5235,11
+"If you keep your promise, you too shall be free.",neutral,0.6232,10
+Pazu...,negative,0.6085,1
+"Mama, it's Pazu!",neutral,0.6472,3
+He's back!,negative,0.6094,2
+Pazu.,negative,0.5868,1
+We were so worried.,negative,0.7836,4
+You just disappeared.,negative,0.8797,3
+And the girl?,negative,0.757,3
+Forget it.,negative,0.8961,2
+Pazu!,uncertain,0.5304,1
+Let me go!,negative,0.6835,3
+What are you doing?,negative,0.8963,4
+Put a lid on it!,negative,0.7498,5
+"Nice place you got, kid.",neutral,0.6938,5
+Get out!,negative,0.7354,2
+This is my house!,neutral,0.5547,4
+"Oh, come off it.",negative,0.7585,4
+Can't even protect a little girl...,negative,0.9519,6
+What do you say?,negative,0.8383,4
+He's got gold!,neutral,0.8324,3
+"Sold her for money, huh?",negative,0.8886,5
+No!,negative,0.7277,1
+I wouldn't do that!,negative,0.9075,4
+You let them pay you off?,negative,0.9277,6
+Sheeta told me to do it.,negative,0.7064,6
+So...,negative,0.6176,1
+So you gave in and crawled home.,negative,0.8772,7
+You call yourself a man?,negative,0.8699,5
+"You talk big, but you're after Sheeta too.",negative,0.5846,8
+"But of course, we're pirates.",negative,0.8834,5
+Pirates hunt for treasure.,negative,0.8128,4
+Those guys are strange ones.,negative,0.9331,5
+What's the girl to them?,negative,0.8588,5
+You think she'll get out alive?,negative,0.8672,6
+"So, Sheeta told you to leave?",negative,0.7939,6
+"They threatened her, so she tried to save you.",negative,0.9071,9
+"How do you know, Mama?",negative,0.7351,5
+I've been a woman for 50 years.,neutral,0.7985,7
+She steels her heart to save her man.,neutral,0.8994,8
+How touching.,neutral,0.8113,2
+Reminds me of my youth.,neutral,0.8968,5
+"If you boys want to get married, look for one like her.",negative,0.7749,12
+So that girl will grow up...,neutral,0.6179,6
+To be like Mama?,negative,0.8018,4
+What a waste.,negative,0.9671,3
+I've got all your codes.,uncertain,0.5171,5
+Calling the battle cruiser?,negative,0.8389,4
+They'll pack her up and take off?,negative,0.8652,7
+We better hurry!,negative,0.6321,3
+Dinner's over.,negative,0.6554,2
+Move out.,negative,0.7724,2
+"Yes, Mama.",uncertain,0.5062,2
+Going after Sheeta?,negative,0.8215,3
+"We want the crystal, not the girl.",negative,0.7687,7
+The stone's no good without her.,negative,0.938,6
+Can't I go with you?,negative,0.7327,5
+I have to help Sheeta!,negative,0.6526,5
+"Do it on your own, like a man.",negative,0.5842,8
+"You're right, if I was clever and strong, I could've defended her.",negative,0.5881,12
+"Please, I don't care about treasure.",negative,0.9367,6
+Listen to him...,negative,0.6546,3
+Shut up!,negative,0.7985,2
+Yes!,uncertain,0.5065,1
+He could probably help us with her...,negative,0.6052,7
+You'll be an outcast forever.,negative,0.9449,5
+I know.,negative,0.6685,2
+You sure?,negative,0.6562,2
+Yup!,uncertain,0.5234,1
+Be ready in 40 seconds.,uncertain,0.5153,5
+"Take care, you guys.",neutral,0.5507,4
+Tie this to your belt.,negative,0.7243,5
+You boys wait on the ship.,negative,0.8451,6
+A magnificent vessel.,neutral,0.9526,3
+Has the girl talked?,negative,0.7941,4
+I need a little more time.,negative,0.6069,6
+Forget it!,negative,0.818,2
+We'll squeeze it out of her up there.,negative,0.745,8
+"We depart at dawn, with the girl.",neutral,0.6205,7
+"Step on it, it's almost dawn!",neutral,0.5607,6
+Sheeta!,uncertain,0.5414,1
+Whatever shall we do?,negative,0.7234,4
+"Sheeta, listen, I'm going to teach you... a magic spell for trouble.",negative,0.7698,12
+A magic spell?,negative,0.8241,3
+Yes.,negative,0.6164,1
+"These are old, old, old secret words.",negative,0.7824,7
+"They mean ""help me rekindle the light."" Perfect.",uncertain,0.5369,8
+Just as the ancient books described.,uncertain,0.5003,6
+This is the sacred light.,neutral,0.8907,5
+Sacred light?,negative,0.6114,2
+What are the magic words?,negative,0.7811,5
+Tell me.,negative,0.6936,2
+Let's go.,negative,0.713,2
+Yeah.,negative,0.702,1
+It's moving!,neutral,0.6192,2
+"The robot, it's alive!",neutral,0.5951,4
+Hello!,neutral,0.5532,1
+Help!,negative,0.58,1
+It's alive!,neutral,0.7151,2
+It's the robot!,uncertain,0.5213,3
+The robot?,negative,0.7938,2
+It's coming this way.,neutral,0.5919,4
+Run!,negative,0.5986,1
+Retreat!,negative,0.5832,1
+Retreat!,negative,0.5832,1
+Incredible!,neutral,0.864,1
+I see!,neutral,0.6314,2
+It's the light!,neutral,0.6821,3
+The sacred light broke his seal!,neutral,0.6191,6
+The way to Laputa is open!,neutral,0.7023,6
+Come!,neutral,0.6247,1
+No!,negative,0.7277,1
+It can fly!,neutral,0.688,3
+It's pointing to the sky...,negative,0.6223,5
+It's showing the way to Laputa.,neutral,0.6454,6
+Hurry!,negative,0.5759,1
+Explosives?,negative,0.8006,1
+Idiot!,negative,0.8628,1
+You'll blow up the fortress!,negative,0.8725,5
+"Hello, hello!",uncertain,0.5022,2
+What is this!,negative,0.8338,3
+Good.,uncertain,0.5131,1
+We're connected.,neutral,0.6253,2
+This is Colonel Muska.,uncertain,0.5206,4
+The robot cut communication with the ship.,negative,0.8639,7
+I've assumed emergency command.,negative,0.7009,4
+It's after the girl on the tower.,negative,0.7282,7
+Take it down on sight.,negative,0.6896,5
+Prepare to fire.,negative,0.6368,3
+Hurry!,negative,0.5759,1
+Hurry up!,negative,0.6452,2
+Fire!,uncertain,0.5203,1
+Hurry!,negative,0.5759,1
+We did it.,uncertain,0.5218,3
+Amazing!,neutral,0.8604,1
+Get the girl.,negative,0.728,3
+Is she dead?,negative,0.8013,3
+Get up!,negative,0.6909,2
+She just fainted.,negative,0.7882,3
+Stand!,negative,0.5842,1
+It moved...,negative,0.6481,2
+What's that?,negative,0.8877,2
+Looks like a war.,negative,0.8986,4
+"Let's go, Dola!",negative,0.6818,3
+"That's Captain, to you!",neutral,0.619,4
+"Lower, Charles.",negative,0.574,2
+Stop!,negative,0.7598,1
+Stop it!,negative,0.8166,2
+Please!,negative,0.5959,1
+"Mama, Goliath's pushing off!",negative,0.8669,4
+We're going directly into the crossfire.,negative,0.8277,6
+Regroup!,uncertain,0.5247,1
+"Look, there's Sheeta!",negative,0.6349,3
+Where?,negative,0.6907,1
+Where?,negative,0.6907,1
+Straight ahead.,uncertain,0.5193,2
+She's on top of that tower!,negative,0.5945,6
+This is a job for a woman!,neutral,0.8328,7
+Cover me.,negative,0.7659,2
+Sheeta!,uncertain,0.5414,1
+"I'm coming, Sheeta!",neutral,0.5522,3
+Pazu!,uncertain,0.5304,1
+Fly closer!,uncertain,0.5444,2
+Pazu!,uncertain,0.5304,1
+Let me go!,negative,0.6835,3
+Sheeta!,uncertain,0.5414,1
+Dola!,uncertain,0.5012,1
+Pazu!,uncertain,0.5304,1
+Pazu!,uncertain,0.5304,1
+Pull up!,negative,0.6548,2
+Last chance!,negative,0.6112,2
+Grab her on the fly!,negative,0.626,5
+Pazu!,uncertain,0.5304,1
+Here goes!,neutral,0.6117,2
+All right!,uncertain,0.5026,2
+Move aside!,negative,0.7135,2
+Damn!,negative,0.817,1
+Sheeta!,uncertain,0.5414,1
+What's Goliath doing?,negative,0.8605,3
+A smoke screen?,negative,0.8665,3
+Where's the robot?,negative,0.796,3
+Destroyed.,negative,0.9055,1
+The girl went that way.,negative,0.6133,5
+What!,negative,0.8261,1
+Put out the fire!,negative,0.7138,4
+Organize a search party!,negative,0.554,4
+We haven't lost the sacred stone.,negative,0.6159,6
+Its light points to Laputa...,neutral,0.6074,5
+"Inform the general, we'll depart for Laputa as planned.",uncertain,0.5416,9
+Lucky guy...,negative,0.6837,2
+I can't believe she'll grow up to be just like Mama...,negative,0.8053,11
+There's your valley...,neutral,0.6136,3
+Right back where we started.,negative,0.62,5
+"Dola, please take us aboard.",uncertain,0.512,5
+Call me Captain!,uncertain,0.5162,3
+What use are you without the crystal?,negative,0.8495,7
+We'll work.,neutral,0.6327,2
+I want to see Laputa for myself.,uncertain,0.5331,7
+Don't want any treasure?,negative,0.8976,4
+You just want to see Laputa?,negative,0.8192,6
+Suspect motives for boarding a pirate ship.,negative,0.9489,7
+"Are they coming with us, Mama?",negative,0.7334,6
+One false move and you're shark bait!,negative,0.953,7
+Excellent!,neutral,0.7035,1
+No more laundry or cleaning duty!,negative,0.9109,6
+Or dish washing!,negative,0.7941,3
+Or potato peeling!,negative,0.8487,3
+Can you make pudding?,negative,0.6179,4
+Yes...,negative,0.6582,1
+I like mincemeat pie.,negative,0.5736,4
+"I eat, uhm... anything!",negative,0.7691,4
+Enough out of you!,negative,0.769,4
+When will those boys ever grow up?,negative,0.7821,7
+Get off!,negative,0.7722,2
+Canvas.,negative,0.5536,1
+It's made of cloth.,negative,0.6639,4
+And don't tear it.,negative,0.6196,4
+"Hurry up, it's crowded in here!",negative,0.7437,6
+"Hurry, this way!",negative,0.6705,3
+I hate dawdlers.,negative,0.9523,3
+You're with me!,neutral,0.5938,3
+Pazu!,uncertain,0.5304,1
+I don't bite.,negative,0.8107,3
+Come.,neutral,0.5536,1
+You're not here for fun.,negative,0.9493,5
+What an engine.,negative,0.6298,3
+Now where'd he go?,negative,0.7918,4
+Pops!,uncertain,0.5246,1
+Pops!,uncertain,0.5246,1
+"Look, we got you an assistant.",uncertain,0.5496,6
+Don't holler.,negative,0.8517,2
+I hear you.,neutral,0.6242,3
+He's tougher than Mama.,uncertain,0.5118,4
+Be careful.,negative,0.628,2
+My hand doesn't fit.,negative,0.915,4
+This gasket?,negative,0.8656,2
+Name?,negative,0.702,1
+Pazu.,negative,0.5868,1
+The crystal pointed nearly due east...,uncertain,0.5108,6
+You sure about that?,negative,0.7701,4
+I could see the sunrise from the tower.,negative,0.552,8
+It's the harvest season now... so the sun rises just south of due east.,neutral,0.705,14
+The light pointed to the left of where the sun rose.,uncertain,0.5199,11
+Good answer.,neutral,0.5603,2
+Any luck?,negative,0.764,2
+Not a peep.,negative,0.8484,3
+"They're maintaining radio silence, aren't they?",negative,0.9091,6
+"Mama, Goliath's faster.",negative,0.5596,3
+What do we do?,negative,0.8612,4
+We're upwind of them.,negative,0.9118,4
+If we get a lift on the trade winds...,uncertain,0.5079,9
+My abacus from the Far East.,negative,0.8334,6
+Windspeed is 10... and...,negative,0.5558,4
+I think we can catch up.,negative,0.5667,6
+"Okay, listen up!",negative,0.6836,3
+Goliath's on its way to Laputa.,negative,0.5751,6
+We're on their tail.,negative,0.7634,4
+"With these winds, I expect contact tomorrow.",uncertain,0.5358,7
+Ten gold pieces to whoever spots her first!,uncertain,0.5075,8
+Ten!,uncertain,0.5264,1
+"Whatever we find, I'm sure Laputa has riches enough for any pirate gang!",negative,0.5565,13
+"Earn your keep, boys!",neutral,0.6574,4
+Now!,uncertain,0.5049,1
+"Course 98, speed 40.",negative,0.6722,4
+That getup of yours won't work.,negative,0.9363,6
+Wear these.,negative,0.6458,2
+Your station.,negative,0.603,2
+Beautiful...,neutral,0.812,1
+You serve five meals a day.,uncertain,0.5326,6
+Go easy on the water.,uncertain,0.5412,5
+"Get to work, you idiots!",negative,0.9486,5
+Yes?,negative,0.6236,1
+"I'm sorry, dinner isn't ready yet.",negative,0.8145,6
+I've never cooked on an airship...,negative,0.8209,6
+Do you need something?,negative,0.7479,4
+Beautiful...,neutral,0.812,1
+What?,negative,0.8066,1
+I thought I'd give you a hand in my spare time.,negative,0.6518,11
+Why thank you.,negative,0.5643,3
+Can you put those dishes away?,negative,0.7777,6
+Happy to obli...,neutral,0.7083,3
+You said your stomach hurt...,negative,0.9229,5
+I've got some free time.,neutral,0.6306,5
+Can I...,negative,0.6471,2
+You're in the way.,neutral,0.5573,4
+"Some stomachache, jerk!",negative,0.9402,3
+"Hey, can I help...",negative,0.5605,4
+"You've changed, chasing the likes of Goliath...",neutral,0.8058,7
+But it's pointless.,negative,0.9243,3
+It's Laputan treasure I'm after.,uncertain,0.5463,5
+They're certainly nice kids...,neutral,0.921,4
+"Get to the point, you old goat.",negative,0.8192,7
+They're too upright and honest to ever respect you.,neutral,0.5955,9
+What's that!,negative,0.8696,2
+"No, I mean...",negative,0.8147,3
+Check...,negative,0.7128,1
+Excellent... delicious...,neutral,0.8149,2
+Seconds anyone?,negative,0.7041,2
+Okay.,negative,0.7025,1
+More!,neutral,0.5612,1
+More!,neutral,0.5612,1
+More!,neutral,0.5612,1
+"Hey, shake a leg.",negative,0.7334,4
+It's your watch.,negative,0.5967,3
+"Take it, it's cold.",negative,0.8427,4
+Watch?,negative,0.6938,1
+Yeah.,negative,0.702,1
+Darn cold!,negative,0.8044,2
+Go on up.,negative,0.613,3
+My turn.,negative,0.6849,2
+Great.,neutral,0.7973,1
+Sheeta!,uncertain,0.5414,1
+That was scary!,negative,0.8463,3
+The sky is beautiful.,neutral,0.9448,4
+Sheeta.,negative,0.636,1
+Get in.,negative,0.7362,2
+Can't you sleep?,negative,0.7915,3
+Nice and warm...,neutral,0.7691,3
+Look aft.,negative,0.6399,2
+Pazu?,negative,0.6471,1
+What?,negative,0.8066,1
+I'm really scared.,negative,0.911,3
+I really don't want to go to Laputa.,negative,0.921,8
+"I hope we never find Goliath. - You mean-- - No, the light pointed the right way.",negative,0.8094,17
+But...,negative,0.7429,1
+You mean the robot?,negative,0.8562,4
+Poor thing.,negative,0.9438,2
+I never dreamed that little spell would work.,negative,0.8328,8
+I learned lots of other spells.,uncertain,0.5054,6
+"To help find things, cure the sick.",neutral,0.6296,7
+"And one I must never, ever use.",negative,0.7716,7
+"Never, ever use?",negative,0.8926,3
+A spell of destruction.,negative,0.8192,4
+I had to learn bad ones so the good spells had power.,negative,0.7357,12
+"I was so scared, I couldn't sleep.",negative,0.9337,7
+That stone should be locked away.,negative,0.8508,6
+They hid it in the fireplace.,negative,0.7905,6
+It was only worn for weddings.,negative,0.7062,6
+My mother's and grandmother's and great-grandmother's.,negative,0.5621,6
+I should have thrown it away.,negative,0.8765,6
+You're wrong.,negative,0.9486,2
+We met thanks to the stone.,neutral,0.8732,6
+Throwing it away won't make Laputa disappear.,negative,0.8299,7
+Airships are improving.,neutral,0.7983,3
+Someone will find it.,negative,0.6773,4
+"I don't know what to do, but if Laputa is so dangerous... it's not for the likes of Muska.",negative,0.954,19
+Besides...,negative,0.6993,1
+"If we run now, they'll hunt us forever.",negative,0.8241,8
+But don't become a pirate for me.,negative,0.8466,7
+I won't become a pirate.,negative,0.7997,5
+Dola understands.,uncertain,0.5267,2
+She's nicer than she looks.,neutral,0.8317,5
+"Once things are settled, I'll take you to Gondoa.",uncertain,0.5287,9
+"I want to see where you were born, the valley, the yaks...",neutral,0.7916,12
+Pazu...,negative,0.6085,1
+What's that!,negative,0.8696,2
+"Below us, look!",negative,0.6734,3
+"Goliath, right below us!",negative,0.579,4
+Come about!,uncertain,0.5063,2
+Full rudder!,neutral,0.5912,2
+We should go after them.,negative,0.6751,5
+They'll be trouble if we don't!,negative,0.8829,6
+We can't catch them in these clouds.,negative,0.9281,7
+We'll get them.,uncertain,0.5337,3
+They won't go far.,negative,0.8142,4
+Steady as she goes.,neutral,0.7206,4
+We're farther north than I thought.,negative,0.6829,6
+"Pazu, listen up!",negative,0.6877,3
+Time's running out.,negative,0.8597,3
+"If we lose Goliath, it's all over.",negative,0.8951,7
+Your eyes are sharp.,neutral,0.7244,4
+Track them from the crow's nest.,negative,0.7677,6
+What do I do?,negative,0.8892,4
+That lookout post is a glider.,negative,0.5912,6
+See the crank?,negative,0.7816,3
+Yeah. - Turn it clockwise.,negative,0.7253,5
+"Once it's locked, the upper lever unfolds the wings.",uncertain,0.5141,9
+Use the wire to stabilize them.,negative,0.7394,6
+Figure out how to steer as you go!,uncertain,0.502,8
+"Sheeta, you there?",uncertain,0.5466,3
+Yes.,negative,0.6164,1
+Get back down here. - Why?,negative,0.8702,6
+Because you're a girl!,negative,0.6782,4
+But so are you!,uncertain,0.5076,4
+"Besides, I'm a mountain girl with sharp eyes.",negative,0.5713,8
+Sheeta!,uncertain,0.5414,1
+Please.,negative,0.6617,1
+Pazu agrees.,uncertain,0.5297,2
+"Once you're aloft, the voice tube won't work.",negative,0.911,8
+See the head set?,negative,0.7665,4
+"You mean this, right?",negative,0.826,4
+Wow...,neutral,0.5736,1
+Okay.,negative,0.7025,1
+I'll give it a try.,negative,0.5641,5
+Release us.,negative,0.5566,2
+Here goes.,negative,0.5636,2
+They're gone.,negative,0.8312,2
+Slipped into the clouds.,negative,0.8434,4
+Look sharp!,negative,0.7139,2
+They could be anywhere.,negative,0.7011,4
+Aye!,neutral,0.581,1
+Hold on tight.,negative,0.6808,3
+What's wrong!,negative,0.9109,2
+We're fine.,uncertain,0.519,2
+Just ran into a gust of wind.,negative,0.8537,7
+We're keeping watch.,negative,0.635,3
+Scared?,negative,0.8602,1
+No.,negative,0.718,1
+I'm getting the hang of it.,negative,0.8311,6
+Rough skies ahead.,negative,0.7381,3
+"Sheeta, get the rope from my bag.",negative,0.7741,7
+Okay.,negative,0.7025,1
+Tie yourself to me.,negative,0.7642,4
+Okay.,negative,0.7025,1
+"The mercury's dropping, Mama...",negative,0.7119,4
+Lousy luck.,negative,0.9346,2
+Storm coming up...,negative,0.7054,3
+How long 'til dawn?,negative,0.6817,4
+One more hour.,negative,0.5602,3
+It's dawn.,uncertain,0.505,2
+Strange that the sun's rising on that side...,negative,0.7873,8
+I know!,uncertain,0.5241,2
+We're supposed to be heading east.,negative,0.7324,6
+Bridge!,uncertain,0.5018,1
+What!,negative,0.8261,1
+We're heading north?,negative,0.7634,3
+The compass is pointing east.,uncertain,0.5074,5
+The shifting winds must have put us off course. - Look!,negative,0.8236,11
+What is it?,negative,0.8066,3
+Goliath?,negative,0.6851,1
+It's a cloud.,negative,0.8276,3
+A huge one...,neutral,0.6013,3
+A cloud?,negative,0.7998,2
+It's headed for us!,uncertain,0.5118,4
+A castle in the sky...,uncertain,0.5025,5
+We're headed into a low pressure system.,negative,0.8259,7
+"Turn her away, full speed!",negative,0.6106,5
+It's sucking us in.,negative,0.8677,4
+"Hold tight, we can't help!",negative,0.9025,5
+The helm won't move!,negative,0.8059,4
+Where's your brute strength?,negative,0.8106,4
+Engine's burning up!,negative,0.8674,3
+Stop whining and figure something out!,negative,0.9268,6
+We're clearing the clouds!,negative,0.595,4
+"Sheeta, the ocean!",neutral,0.6206,3
+The Dragon's Lair!,negative,0.5887,3
+So this is the Dragon's Lair...,uncertain,0.506,6
+Just as Dad said.,negative,0.6656,4
+The wind's blowing the other way.,negative,0.8652,6
+"Look out, a wall of wind!",negative,0.7054,6
+Mama!,neutral,0.5743,1
+It's sucking us in!,negative,0.804,4
+Don't give up!,negative,0.6918,3
+Be a man!,neutral,0.6351,3
+Bridge!,uncertain,0.5018,1
+It's Laputa!,uncertain,0.5098,2
+What was that?,negative,0.8586,3
+Dad saw Laputa inside the Dragon's Lair.,negative,0.726,7
+Don't be ridiculous!,negative,0.8748,3
+It'll tear you to pieces!,negative,0.8218,5
+Pazu!,uncertain,0.5304,1
+Look.,negative,0.704,1
+Just what we need.,neutral,0.6653,4
+Let's go for it!,negative,0.6035,4
+Dad did it.,negative,0.7704,3
+He made it back.,uncertain,0.5038,4
+"All right, into the Dragon's Lair!",uncertain,0.5222,6
+Got 'em!,uncertain,0.5318,2
+Our ship's in danger.,negative,0.9024,4
+We must withdraw.,negative,0.7628,3
+Stay on course.,negative,0.5582,3
+What?,negative,0.8066,1
+The light's pointing right into the cloud.,negative,0.8017,7
+Laputa's in there.,negative,0.7212,3
+Stay on course.,negative,0.5582,3
+We'll find a way in.,negative,0.5839,5
+"Here we go, Sheeta!",neutral,0.5994,4
+Okay.,negative,0.7025,1
+"Sheeta, Sheeta!",uncertain,0.5051,2
+Are you all right?,negative,0.6722,4
+Look...,negative,0.7052,1
+Laputa...,negative,0.6193,1
+I'm sorry.,negative,0.8732,2
+Wait...,negative,0.7713,1
+I tied it really tight.,negative,0.6188,5
+My hands are shaking...,negative,0.8687,4
+We did it!,neutral,0.5634,3
+Birds...,uncertain,0.5312,1
+Where is everyone?,negative,0.7652,3
+Coming to greet you?,negative,0.7328,4
+But I don't have the stone.,negative,0.8498,6
+I'll cut the rope.,negative,0.7809,4
+What are you doing!,negative,0.8857,4
+Wait.,negative,0.7747,1
+Please don't break that.,negative,0.8373,4
+We need it to get home.,negative,0.6143,6
+A flycatcher's nest!,negative,0.6833,3
+That's why he's here?,negative,0.8435,4
+See?,negative,0.6497,1
+All your eggs are fine.,neutral,0.7051,5
+The birds aren't afraid.,negative,0.7521,4
+It says to follow.,uncertain,0.5304,4
+You understand it?,negative,0.6996,3
+Just intuition.,negative,0.5727,2
+It's a city...,neutral,0.7378,3
+What an amazing place...,neutral,0.9473,4
+You can see the sky!,neutral,0.7403,5
+"If their science was so advanced, what happened?",negative,0.9371,8
+It's a grave.,negative,0.7244,3
+I wish I could read the writing.,uncertain,0.5041,7
+Someone left flowers.,negative,0.9101,3
+Do you leave the flowers?,negative,0.7617,5
+Pazu!,uncertain,0.5304,1
+It's a different robot!,neutral,0.564,4
+It must've broken down long ago...,negative,0.7656,6
+Probably a gardener robot.,negative,0.8619,4
+It protected this place even after the people went away.,neutral,0.7382,10
+You picked flowers for the grave.,neutral,0.5728,6
+Thank you.,neutral,0.659,2
+Are you all alone?,negative,0.828,4
+Are there any other robots here?,negative,0.8553,6
+He doesn't seem to be lonely.,negative,0.6815,6
+He's got friends and birds' nests to look after...,neutral,0.8866,9
+This way!,negative,0.5562,2
+This section's been destroyed.,negative,0.9024,4
+They got the Tiger Moth.,negative,0.6526,5
+I hope the pirates are okay.,uncertain,0.5213,6
+"Sheeta, look there!",negative,0.6452,3
+They're prisoners!,negative,0.8385,2
+They hang pirates.,negative,0.9389,3
+We must help them.,neutral,0.637,4
+Let's go!,negative,0.6422,2
+We found a way in.,negative,0.6467,5
+"Look at this, mountains of treasure.",neutral,0.7437,6
+W...,negative,0.6598,1
+What?,negative,0.8066,1
+Wow...,neutral,0.5736,1
+Want some?,negative,0.6758,2
+I'll give you plenty of rope.,neutral,0.5578,6
+Have you reported that we found Laputa?,negative,0.7188,7
+Just about to.,negative,0.8037,3
+Make the code good and complicated.,neutral,0.6077,6
+Hey!,neutral,0.5528,1
+No looting!,negative,0.7197,2
+The perfect distraction for those idiots.,neutral,0.6219,6
+What amazing roots.,neutral,0.9608,3
+"You can climb trees, can't you?",negative,0.6857,6
+I see a way.,uncertain,0.5252,4
+No better than thieves.,negative,0.9427,4
+If they reach the garden...!,negative,0.7055,5
+"Sheeta, let's find the stone!",uncertain,0.5454,5
+It's the only way to stop them.,negative,0.857,7
+I was wondering why the clouds parted.,negative,0.7781,7
+It was so they could land.,negative,0.5744,6
+Was it my spell?,negative,0.8577,4
+Muska was right.,negative,0.6462,3
+The seal's broken.,negative,0.8787,3
+The kingdom's waking up.,negative,0.6113,4
+It's welcomed the visitor with the stone.,neutral,0.8688,7
+But Muska will become king.,uncertain,0.5284,5
+He's got much worse in mind.,negative,0.9025,6
+But what do I do when I get the stone back...,negative,0.8122,11
+"Wait, that spell!",negative,0.7726,3
+You mean... the destruction spell?,negative,0.8753,5
+Down and around.,negative,0.7299,3
+I'll go first.,negative,0.6437,3
+Okay.,negative,0.7025,1
+It's here somewhere.,negative,0.6814,3
+"Please, God...",negative,0.6436,2
+This is it!,uncertain,0.5371,3
+It's that kid.,negative,0.5606,3
+No!,negative,0.7277,1
+Don't shoot!,negative,0.8251,2
+Capture her.,negative,0.718,2
+"Well, if it isn't the little princess.",negative,0.7686,7
+Sheeta!,uncertain,0.5414,1
+Damn!,negative,0.817,1
+"What is it, Colonel?",negative,0.8429,4
+The last of the pirates.,negative,0.8012,5
+There's one right under you.,negative,0.6307,5
+Yes sir!,uncertain,0.5405,2
+"Sheeta, wait for me!",negative,0.7346,4
+Pazu!,uncertain,0.5304,1
+Grenades!,negative,0.6671,1
+Is that Pazu?,negative,0.7376,3
+What was that?,negative,0.8586,3
+"No, it wasn't.",negative,0.8702,3
+What's wrong?,negative,0.9126,2
+Over here!,negative,0.5685,2
+The general is over there.,negative,0.5679,5
+"Militia, fall in on the double.",negative,0.698,6
+Dola!,uncertain,0.5012,1
+They've got Sheeta.,negative,0.6372,3
+I'm going after her.,negative,0.8041,4
+I'll cut your ropes.,negative,0.8464,4
+Get out of here.,negative,0.8471,4
+"Hey, wait!",negative,0.6889,2
+Take this.,negative,0.684,2
+Thanks.,neutral,0.5809,1
+The boy has become a man.,neutral,0.8094,6
+What!,negative,0.8261,1
+Muska destroyed all the radio equipment?,negative,0.9315,6
+"Yes, while the ship was lightly guarded.",negative,0.759,7
+Several guards are badly wounded.,negative,0.7837,5
+The colonel entered the inner palace with the girl.,negative,0.5652,9
+The soldiers saw him.,negative,0.6912,4
+That upstart's finally showing his colors.,neutral,0.6445,6
+Hunt him down and arrest him!,negative,0.84,6
+All units!,uncertain,0.5373,2
+Hey!,neutral,0.5528,1
+Hurry!,negative,0.5759,1
+Shoot if he resists!,negative,0.8499,4
+Find the entrance.,negative,0.6434,3
+"Where are we, Colonel?",negative,0.7442,4
+Laputa's core.,uncertain,0.5132,2
+The castle above is just a trifle.,negative,0.6996,7
+All of Laputa's knowledge is crystallized here.,neutral,0.8035,7
+You two wait here.,negative,0.7499,4
+Colonel!,uncertain,0.5337,1
+Only royalty may enter the sacred area.,negative,0.6262,7
+What is this!,negative,0.8338,3
+The roots have invaded...,negative,0.8082,4
+"Eventually, we'll burn them all.",negative,0.8623,5
+"Come, this way.",uncertain,0.5479,3
+Darn it...,negative,0.7094,2
+Yes...,negative,0.6582,1
+This is it!,uncertain,0.5371,3
+"Here, too!",uncertain,0.5494,2
+Screw it...,negative,0.9126,2
+Found it!,neutral,0.5748,2
+Behold the giant crystal!,neutral,0.7509,4
+Source of Laputa's power.,negative,0.5733,4
+Fantastic.,neutral,0.8511,1
+It has awaited the king's return for 700 years. 700 years?,neutral,0.7542,11
+Your family forgot even that?,negative,0.9281,5
+The black rock!,negative,0.5978,3
+As the epics described!,neutral,0.7773,4
+I can read it.,neutral,0.6133,4
+I know what it says!,negative,0.583,5
+Just who are you?,negative,0.846,4
+"I too have an ancient, secret name, Lucita.",uncertain,0.5471,8
+My name is Romuska Palo Ur Laputa.,uncertain,0.5208,7
+We are descended from the same royal family.,neutral,0.7436,8
+Later it split into two branches.,negative,0.6097,6
+Not even a crack.,negative,0.8304,4
+It's indestructible.,negative,0.9578,2
+Deploy all our explosives.,negative,0.6473,4
+"Force won't be necessary, Your Excellency.",negative,0.703,6
+"Muska, where are you!",negative,0.688,4
+"What are you waiting for, General?",negative,0.8409,6
+"All right, after me!",negative,0.5769,4
+Forward!,neutral,0.5761,1
+What is this!,negative,0.8338,3
+"Muska, where are you?",negative,0.7684,4
+Silence!,negative,0.6223,1
+What on earth!,negative,0.7778,3
+Watch your tongue.,uncertain,0.5455,3
+You're in the presence of Laputa's king.,neutral,0.7457,7
+Are you insane?,negative,0.913,3
+Let's celebrate Laputa's return with a demonstration of its power.,neutral,0.7992,10
+Sheeta!,uncertain,0.5414,1
+Behold Laputa's thunder!,neutral,0.742,3
+Sheeta.,negative,0.636,1
+It's the heavenly fire that destroyed Sodom and Gomorrah.,neutral,0.6593,9
+It's the Ramayana's Arrow of Indra.,neutral,0.7534,6
+The world shall bow down before Laputa once more!,neutral,0.7253,9
+"Wonderful, Muska.",neutral,0.9411,2
+You're a hero.,neutral,0.9433,3
+A monumental achievement.,neutral,0.954,3
+What?,negative,0.8066,1
+I grow tired of your stupid face.,negative,0.9652,7
+"Run, everyone!",negative,0.7066,2
+Die!,negative,0.7746,1
+It's those monsters!,negative,0.7787,3
+Look at them...,negative,0.6683,3
+Run!,negative,0.5986,1
+Are the Flaptors okay?,negative,0.7179,4
+Ready to fly!,neutral,0.7217,3
+Let's hurry!,negative,0.6818,2
+Quiet.,negative,0.6757,1
+Keep your voice down.,negative,0.5565,4
+What are those two doing?,negative,0.8928,5
+I'll have to leave them behind.,negative,0.8503,6
+I advise you not to anger me.,negative,0.7895,7
+We'll be alone here for a long time.,uncertain,0.5143,8
+They should've escaped.,negative,0.8321,3
+You think you can fight me?,negative,0.8268,6
+Robots!,negative,0.5878,1
+Sheeta!,uncertain,0.5414,1
+Fantastic!,neutral,0.7456,1
+"A marvelous display, no?",neutral,0.7663,4
+"Die, you insects!",negative,0.8829,3
+How dare you!,negative,0.9002,3
+Damn.,negative,0.8183,1
+"Be a good girl, give it back.",neutral,0.6932,7
+"Please, open!",negative,0.5519,2
+Just where will you go?,negative,0.7727,5
+Open!,neutral,0.5774,1
+Sheeta!,uncertain,0.5414,1
+Sheeta!,uncertain,0.5414,1
+Pazu!,uncertain,0.5304,1
+Sheeta!,uncertain,0.5414,1
+Pazu!,uncertain,0.5304,1
+Sheeta!,uncertain,0.5414,1
+Sheeta!,uncertain,0.5414,1
+Pazu!,uncertain,0.5304,1
+Sheeta!,uncertain,0.5414,1
+I'm coming.,uncertain,0.5423,2
+Damn.,negative,0.8183,1
+Get back!,negative,0.6538,2
+"Take this, hurry!",negative,0.7194,3
+"Muska's coming, quick!",uncertain,0.5062,3
+Throw it into the sea.,negative,0.8889,5
+Sheeta!,uncertain,0.5414,1
+Hold onto that stone.,negative,0.5954,4
+I'll trade her life for it.,negative,0.5801,6
+Get up!,negative,0.6909,2
+No more hide and seek.,negative,0.8527,5
+How delightful that it should end in the throne room.,neutral,0.8965,10
+Come here!,uncertain,0.5496,2
+The throne room?,negative,0.7477,3
+This will be our grave.,neutral,0.7045,5
+What is a king when his country lies ruined?,negative,0.8656,9
+I won't give you the stone.,negative,0.8581,6
+"You'll die, trapped here with me.",negative,0.8944,6
+There's no escape.,negative,0.8953,3
+This is why Laputa died out.,negative,0.7395,6
+There's a song in my valley...,neutral,0.6923,6
+Put down your roots in the soil Live together with the wind Pass the winter with the seeds Sing in the spring with the birds Your weapons may be powerful.,neutral,0.884,30
+Your pitiful robots may be numerous.,negative,0.961,6
+But you can't survive away from the earth.,negative,0.8939,8
+Laputa will not die.,negative,0.6358,4
+It will rise again.,neutral,0.6908,4
+Its power is the stuff of humanity's dreams.,neutral,0.9256,8
+"Next, I shoot off your ears!",negative,0.8995,6
+Beg for your life.,negative,0.7373,4
+Make the kid hand over the stone.,negative,0.7806,7
+Wait!,negative,0.7008,1
+The stone's hidden.,negative,0.8368,3
+"You can shoot, but you won't get it.",negative,0.9143,8
+"Stay away, Pazu.",negative,0.7564,3
+He'll kill us both.,negative,0.8372,4
+I'll spare her life if you tell me where the stone is.,negative,0.8449,12
+Or do you intend to conquer me with that cannon of yours?,negative,0.8744,12
+Let me talk to Sheeta alone.,negative,0.7362,6
+Run away.,negative,0.8755,2
+Take the stone and run!,negative,0.6875,5
+Three minutes.,negative,0.6777,2
+Pazu.,negative,0.5868,1
+"Sheeta, calm down and listen.",negative,0.5877,5
+Teach me that spell.,uncertain,0.5449,4
+I'll say it with you.,uncertain,0.5386,5
+Put your hand in mine.,neutral,0.562,5
+I cut the pirates' ropes.,negative,0.8178,5
+Time's up.,negative,0.648,2
+What do you say?,negative,0.8383,4
+My eyes!,negative,0.6022,2
+My eyes!,negative,0.6022,2
+I can't see...,negative,0.8404,3
+"Mama, it's collapsing!",negative,0.8489,3
+"All right, let's go.",negative,0.6916,4
+Hurry!,negative,0.5759,1
+Hurry!,negative,0.5759,1
+"Look, the bottom's falling out!",negative,0.9014,5
+Sheeta was such a nice girl...,neutral,0.8786,6
+They used the spell of destruction.,negative,0.6941,6
+Those kids saved Laputa from those idiots.,negative,0.8717,7
+It's stopping!,negative,0.7193,2
+A crystal!,uncertain,0.5389,2
+A humongous one!,negative,0.7775,3
+It's rising.,uncertain,0.5045,2
+The tree... it's carrying it away.,negative,0.8782,6
+Chase it!,negative,0.6287,2
+"You're heavy, get off.",negative,0.92,4
+I can't!,negative,0.8504,2
+Sheeta!,uncertain,0.5414,1
+Pazu...,negative,0.6085,1
+The roots protected us.,neutral,0.7622,4
+We can still use this.,negative,0.5917,5
+Here goes.,negative,0.5636,2
+"What are you doing, we're not moving.",negative,0.9495,7
+"Of course not, we're overloaded.",negative,0.9283,5
+It's Sheeta!,uncertain,0.5436,2
+She's alive!,neutral,0.6243,2
+It's the kid!,neutral,0.5771,3
+Dola!,uncertain,0.5012,1
+Thank God you're alive!,neutral,0.733,4
+You guys okay?,negative,0.6034,3
+"Oh, no!",negative,0.7959,2
+My galleon's wrecked...,negative,0.7963,3
+"Oh, stop blubbering.",negative,0.8863,3
+We'll build a better ship!,neutral,0.7294,5
+"You poor child, the worst is having your hair hacked off...",negative,0.966,11
+I can't breathe!,negative,0.8462,3
+Sorry.,negative,0.8957,1
+Pathetic.,negative,0.9496,1
+"All that work, and only this to show.",negative,0.6674,8
+We ran out of time!,negative,0.9041,5
