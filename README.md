@@ -47,4 +47,5 @@ This notebook explores two sentiment analysis approaches. It starts by importing
 
 - **Final_Report.pdf**: comprehensive project report detailing methodology, results, and discussion.
 
+
 *Navigate the repository, run the notebooks in order, and explore the contrasts between Disney and Studio Ghibli!*
