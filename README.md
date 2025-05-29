@@ -21,6 +21,8 @@ In the **data/** folder we can find the following subsections:
 
 ### Notebooks
 
+This repository offers three core notebooks that drive the analysis pipeline from raw subtitles to final insights.
+
 1. **Data_Preprocessing.ipynb**
 
 This notebook serves as your one-stop guide to transforming raw subtitle files into formats ready for analysis. You begin by cleaning each *.srt* file, stripping out HTML tags, timestamps, and speaker labels. Once the text is clean, the notebook demonstrates how to split everything into individual sentences for sentiment analysis and, in parallel, tokenize the full documents for topic modeling. Each intermediate output is automatically saved into its respective *data/* subfolder, so you can inspect or reuse any stage of the pipeline.
