@@ -33,7 +33,7 @@ Here you’ll work through topic modeling for both Disney and Studio Ghibli dial
 
 This notebook explores two sentiment analysis approaches. It starts by importing sentence-level data from *data_in_sentences/*, then applies a transformer-based RoBERTa model to infer sentiment scores and visualize comparative trajectories. Next, it runs a zero-shot thematic classifier to label both emotion and overarching themes in the dialogue. Various configurations and thresholding strategies are demonstrated, with resulting CSV outputs and plots organized under *Sentiment_Analysis/RoBERTa/* and *Sentiment_Analysis/zero-shot classification results/*.
 
-### Results and Presentation
+### Results
 
 - **Sentiment_Analysis/RoBERTa/**: CSV files of RoBERTa-based sentiment scores, sentiment comparison plot and progression plots by film.
 
@@ -41,5 +41,10 @@ This notebook explores two sentiment analysis approaches. It starts by importing
 
 - **Presentation_Ghibli_vs_Disney.pdf**: Slides summarizing methods, findings, and visualizations.
 
+### Presentation and Report
+
+- **Presentation_Ghibli_vs_Disney.pdf**: Slides summarizing methods, findings, and visualizations.
+
+- **Final_Report.pdf**: comprehensive project report detailing methodology, results, and discussion.
 
 *Navigate the repository, run the notebooks in order, and explore the contrasts between Disney and Studio Ghibli!*
