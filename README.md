@@ -1,42 +1,45 @@
-## From Totoro to Tangled: analyzing lexical and thematic patterns in Studio Ghibli vs Disney"
+# From Totoro to Tangled: analyzing lexical and thematic patterns in Studio Ghibli vs Disney"
 
 ## Abstract
-This project explores how the language and themes used in Studio Ghibli films compare to those in Disney animated movies. Specifically, we aim to understand differences in language complexity and recurring themes through script and subtitle analysis. We will collect text data from a selection of Ghibli and Disney films and analyze it using techniques such as lexical richness metrics, sentiment analysis, and topic modeling. By the end, we hope to understand the differences in how these two studios speak to their audiences and tell their stories.
 
-## Research questions
-- How complicated or simple is the language in Ghibli movies compared to Disney?
+This study leverages computational text analysis to explore linguistic and emotional distinctions in the dialogue of 21 Disney films and 17 Studio Ghibli classics. By applying Latent Dirichlet Allocation (LDA) for topic modeling, transformer-based sentiment analysis, and zero-shot thematic classification to subtitle data, we identify recurring themes, emotional trajectories, and gendered language patterns. Our results show that Studio Ghibli’s narratives foreground themes of grief and friendship alongside more balanced gender representation, whereas Disney’s films tend to emphasize loneliness and identity through male-coded language and conflict-driven topics. These findings uncover measurable storytelling differences between the two studios and illustrate the power of NLP methods to reveal subtle but meaningful patterns in cinematic dialogue.  
 
-- What kinds of emotions are most common in the dialogue of each studio?
+### Data
 
-- What topics show up the most in their films, and how do they reflect different storytelling styles?
+In the **data/** folder we can find the following subsections:
 
-## Dataset
-We chose five popular movies from each studio that really show their unique style and themes. From Studio Ghibli, we picked Spirited Away, My Neighbor Totoro, Princess Mononoke, Howl’s Moving Castle, and Kiki’s Delivery Service. These films include a mix of magical, emotional, and serious stories, and they show what Ghibli is known for nature, growing up, and fantasy. From Disney, we chose The Lion King, Frozen, Beauty and the Beast, Moana, and Aladdin. These movies are great examples of Disney’s stories about heroes, love, finding yourself, and adventure. We also made sure that the scripts or subtitles for these movies are easy to find online. Each movie will be labeled with its title, year, and which studio made it so we can compare them properly in our project.
+- **initial_dataset/**: Contains raw subtitle files for 38 films (21 Disney, 17 Ghibli).
 
-## A tentative list of milestones for the project
-Week 1:
-- Create GitHub repository and fill in the README with project description and plan (All)
-- Start collecting scripts and subtitles for selected movies: Francesca begins collecting and cleaning movie scripts and subtitles and files will be labeled with studio, title, and year
+- **data_cleaned/**: Outputs from cleaning, where HTML tags, timestamps, and speaker labels have been removed (run via Data_Preprocessing.ipynb).
 
-Week 2
-- Francesca completes cleaning and formatting all text files 
-- Violeta begins coding for lexical analysis and sentiment analysis
-- Ana starts preparing topic modeling setup (tokenization, preprocessing)
+- **data_preprocessed/**: Word tokens formatted for LDA.
 
-Week 3
-- Violeta completes lexical and sentiment analysis, creates graphs and summary stats
-- Ana runs topic modeling, extracts key themes, and creates visualizations
-- Francesca helps both by reviewing code and testing output with cleaned data
+- **data_in_sentences/**: One sentence per line for sentiment models.
 
-Week 4
-- Compare results across Ghibli and Disney:
-- Discuss differences in language richness, emotional tone, and themes
-- Prepare visual summaries to highlight findings
+- **data_split/**: Partitioned data for LDA use.
 
-Week 5
-- Write final project report: Francesca: intro + dataset section, Violeta: methods + results for lexical/sentiment analysis, Ana: topic modeling + discussion.
-- Build presentation together
-- Practice presentation and prepare for questions
 
-## Documentation
-All of our work will be saved in this shared GitHub repository, which will include everything we use and create for the project like our code, cleaned data, final report, and presentation slides. The repository will have Jupyter notebooks for each part of the analysis: one for cleaning the data, one for the lexical and sentiment analysis, and one for topic modeling and theme exploration. It will also include the cleaned data files for all ten movies, with clear labels. This README file explaining the project will of course be in our repository too. In addition, we will include a short report that covers our research questions, dataset, methods, results, and what we learned from the project. We will also add a presentation that summarizes our findings in a very visual and simple way. Everything in the repository will be clearly organized and documented so that others can easily follow our work from beginning to end.
+### Notebooks
+
+1. **Data_Preprocessing.ipynb**
+
+This notebook serves as your one-stop guide to transforming raw subtitle files into formats ready for analysis. You begin by cleaning each *.srt* file, stripping out HTML tags, timestamps, and speaker labels. Once the text is clean, the notebook demonstrates how to split everything into individual sentences for sentiment analysis and, in parallel, tokenize the full documents for topic modeling. Each intermediate output is automatically saved into its respective *data/* subfolder, so you can inspect or reuse any stage of the pipeline.
+
+2. **LDA_Topic_Modelling.ipynb**
+
+Here you’ll work through topic modeling for both Disney and Studio Ghibli dialogues in parallel. The notebook begins by loading the tokenized corpora and building document-term matrices, then applies LDA separately to the Disney and Ghibli datasets. For each studio, you will see preprocessing of tokens, model fitting, examination of topic-term distributions, and visualizations of top topics. A concluding section compares coherence scores and thematic clusters across the two studios, helping to surface narrative distinctions between Disney and Ghibli.
+
+3. **Sentiment_Analysis.ipynb** 
+
+This notebook explores two sentiment analysis approaches. It starts by importing sentence-level data from *data_in_sentences/*, then applies a transformer-based RoBERTa model to infer sentiment scores and visualize comparative trajectories. Next, it runs a zero-shot thematic classifier to label both emotion and overarching themes in the dialogue. Various configurations and thresholding strategies are demonstrated, with resulting CSV outputs and plots organized under *Sentiment_Analysis/RoBERTa/* and *Sentiment_Analysis/zero-shot classification results/*.
+
+### Results and Presentation
+
+- **Sentiment_Analysis/RoBERTa/**: CSV files of RoBERTa-based sentiment scores, sentiment comparison plot and progression plots by film.
+
+- **Sentiment_Analysis/zero-shot classification results/**: Theme and sentiment label outputs for individual films.
+
+- **Presentation_Ghibli_vs_Disney.pdf**: Slides summarizing methods, findings, and visualizations.
+
+
+*Navigate the repository, run the notebooks in order, and explore the contrasts between Disney and Studio Ghibli!*
